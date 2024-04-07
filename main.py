@@ -32,8 +32,9 @@ def gemini_response(llm, general_prompt, regenerate_count, start_time, end_time,
             prompt = general_prompt + "\n" + news
 
         for i in range(regenerate_count):
-            result = llm.invoke(prompt)
+
             try:
+                result = llm.invoke(prompt)
                 scores.append(int(result.content))
             except:
                 pass
@@ -47,7 +48,7 @@ def gemini_response(llm, general_prompt, regenerate_count, start_time, end_time,
     return signal
 
 
-def calculate_irr(signal):
+def calculate_irr(signal, threshold):
     # [日期, 評分, 價格]
     hold = 0  # 持有的股數
     balance_in = []  # 每月投入的資金
@@ -57,7 +58,7 @@ def calculate_irr(signal):
     for item in signal:
         score = float(item[1])
         price = float(item[2])
-        if score > 0:
+        if score > threshold:
             balance_total += score * 1000  # 買入分數*1000等值的股票
             hold = hold + ((score * 1000) / price)  # 計算持有的股票數
 
@@ -77,7 +78,10 @@ def calculate_irr(signal):
     balance_in.append(hold * last_price)
     # print(balance_in)
     irr = npf.irr(balance_in)
-    bnh = hold * last_price / balance_total
+    if balance_total > 0:
+        bnh = last_price / float(signal[0][2])
+    else:
+        bnh = 0
 
     return round(irr, 5), round(bnh, 5)
 
@@ -91,11 +95,14 @@ def mutate_prompt(llm, p_mutate):
 if "GOOGLE_API_KEY" not in os.environ:
     os.environ["GOOGLE_API_KEY"] = secret.GEMINI_API_KEY
 
-regenerate_count = 1
+regenerate_count = 5
 prompt_mutate_count = 10
 
 start_time = datetime(2022, 1, 1)
-end_time = datetime(2022, 2, 28)
+end_time = datetime(2023, 12, 31)
+
+stock_ids = ["1101", "2211", "2385", "2542", "2880", "2912", "3023", "3264", "5269", "8027"]
+# stock_ids = ["1101"]
 
 llm = ChatGoogleGenerativeAI(
     model="gemini-pro",
@@ -105,16 +112,19 @@ llm = ChatGoogleGenerativeAI(
     })
 
 p_mutate = '媒體廣泛讚譽其的創新和光明前景，預示著股價將持續上漲。'
+irr_ = -1
 
-stock_ids = ["1101", "2211", "2385", "2542", "2880", "2912", "3023", "3264", "5269", "8027"]
+
 
 for i in range(prompt_mutate_count):
-    p_mutate = mutate_prompt(llm, p_mutate)
-    general_prompt = '請依據' + p_mutate + '給這篇文章打一個分數，分數介於-100～100之間，-100是負向，100是最好，0則是無法判斷'
+    # 變異
+    p_mutate_2 = mutate_prompt(llm, p_mutate)
+    general_prompt = '請依據' + p_mutate_2 + '給這篇文章打一個分數，分數介於-100～100之間，-100是負向，100是最好，0則是無法判斷'
 
     irrs = []
     bnhs = []
     for stock_id in stock_ids:
+        print(f'變異{i+1}次\t執行{stock_id}')
         folder_path = "stock_news/" + stock_id + "/" + stock_id + "_news/"
         files = os.listdir(folder_path)
         sorted_files = sorted(files)
@@ -136,7 +146,7 @@ for i in range(prompt_mutate_count):
 
         signal_2_np = np.array(signal_2)
         # 回傳 IRR 以及總額投入
-        irr, bnh = calculate_irr(signal_2_np)
+        irr, bnh = calculate_irr(signal_2_np, 0)
         irrs.append(irr)
         bnhs.append(bnh)
         # print("每月內部報酬率", irr)
@@ -151,13 +161,22 @@ for i in range(prompt_mutate_count):
             continue
         else:
             with open(write_folder + str(count), "a", encoding="UTF-8") as f:
-                content = (f'提示：{p_mutate} \n, '
-                           f'開始日期{start_time.strftime("%Y%m%d")},'
-                           f'結束日期{end_time.strftime("%Y%m%d")}\n')
+                content = (f'提示：{p_mutate_2} mutate from {p_mutate}\n'
+                           f'開始日期 {start_time.strftime("%Y%m%d")},'
+                           f'結束日期 {end_time.strftime("%Y%m%d")}\n')
                 for i in range(len(stock_ids)):
                     content += (f'股票代號：{stock_ids[i]}\t'
                                 f'每月內部報酬率:{irrs[i]}\t'
                                 f'總額投入報酬率:{bnhs[i]}\n')
+                content += f'變異{i+1}次，平均內部報酬率:{sum(irrs) / len(irrs)}，平均總額投入報酬率:{sum(bnhs) / len(bnhs)})'
                 f.write(content)
             print("寫入" + write_folder + str(count))
             break
+
+    # 判斷是否更改變異
+    if sum(irrs) / len(irrs) > irr_:
+        print("更改變異提示為:", p_mutate_2)
+        p_mutate = p_mutate_2
+        irr_ = sum(irrs) / len(irrs)
+
+# todo testing
