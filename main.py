@@ -12,40 +12,23 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 import secret
 
 
-def gemini_response(llm, general_prompt, regenerate_count, start_time, end_time, folder_path, sorted_files):
-    signal = []
-    for index, file_name in enumerate(sorted_files):
-        scores = []
+def gemini_response(model, instruction, count):
+    scores = []
 
-        # 檢查日期是否在參考日期之後
+    for i in range(count):
+
         try:
-            date_obj = datetime.strptime(file_name, '%Y%m%d')
+            result = model.invoke(instruction)
+            scores.append(int(result.content))
         except:
-            continue
-        if date_obj < start_time:
-            continue
-        elif date_obj > end_time:
-            continue
+            pass
 
-        with open(folder_path + file_name) as f:
-            news = f.read()
-            prompt = general_prompt + "\n" + news
+    if len(scores) == 0:
+        score = 0
+    else:
+        score = sum(scores) / len(scores)
 
-        for i in range(regenerate_count):
-
-            try:
-                result = llm.invoke(prompt)
-                scores.append(int(result.content))
-            except:
-                pass
-
-        if len(scores) == 0:
-            score = 0
-        else:
-            score = sum(scores) / len(scores)
-
-        signal.append([date_obj.strftime('%Y%m%d'), score])
-    return signal
+    return [date_obj.strftime('%Y%m%d'), score]  # [時間, 分數]
 
 
 def calculate_irr(signal, threshold):
@@ -95,14 +78,14 @@ def mutate_prompt(llm, p_mutate):
 if "GOOGLE_API_KEY" not in os.environ:
     os.environ["GOOGLE_API_KEY"] = secret.GEMINI_API_KEY
 
-regenerate_count = 5
+regenerate_count = 3
 prompt_mutate_count = 10
 
-start_time = datetime(2022, 1, 1)
+start_time = datetime(2023, 10, 1)
 end_time = datetime(2023, 12, 31)
 
-stock_ids = ["1101", "2211", "2385", "2542", "2880", "2912", "3023", "3264", "5269", "8027"]
-# stock_ids = ["1101"]
+# stock_ids = ["1101", "2211", "2385", "2542", "2880", "2912", "3023", "3264", "5269", "8027"]
+stock_ids = ["1101", "2211", "2385", "2542", "2880"]
 
 llm = ChatGoogleGenerativeAI(
     model="gemini-pro",
@@ -111,10 +94,8 @@ llm = ChatGoogleGenerativeAI(
         HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
     })
 
-p_mutate = '媒體廣泛讚譽其的創新和光明前景，預示著股價將持續上漲。'
-irr_ = -1
-
-
+p_mutate = '媒強勁的媒體熱議凸顯了該公司的先進技術和顯著的市場優勢，暗示著股票價值持續攀升的巨大潛力。'
+irr_ = 0.034676
 
 for i in range(prompt_mutate_count):
     # 變異
@@ -123,32 +104,47 @@ for i in range(prompt_mutate_count):
 
     irrs = []
     bnhs = []
+    raw_data = []
     for stock_id in stock_ids:
-        print(f'變異{i+1}次\t執行{stock_id}')
+        print(f'變異{i + 1}次\t執行{stock_id}')
         folder_path = "stock_news/" + stock_id + "/" + stock_id + "_news/"
         files = os.listdir(folder_path)
         sorted_files = sorted(files)
 
-        # gemini的回應，回傳帶有買入訊號的list
-        signal = gemini_response(llm, general_prompt, regenerate_count, start_time, end_time, folder_path, sorted_files)
-
-        # 加入買入價格
+        # 載入買進價格
         df = pd.read_csv("price_history/" + stock_id + ".csv", dtype=str)
         price_np = df.to_numpy()
-        prices = price_np.tolist()
+        prices = price_np.tolist()  # [時間,價格]
 
         signal_2 = []
-        for item in signal:
-            for price in prices:
-                # print(item[0], price[0])
-                if item[0] == price[0]:
-                    signal_2.append([item[0], item[1], price[1]])
+
+        for price in prices:
+            # 檢查日期是否在參考日期之後
+            try:
+                date_obj = datetime.strptime(price[0], '%Y%m%d')
+            except:
+                continue
+
+            if not (start_time <= date_obj <= end_time):
+                continue
+
+            for index, file_name in enumerate(sorted_files):
+                if file_name == price[0]:
+                    with open(folder_path + file_name) as f:
+                        news = f.read()
+                        prompt = general_prompt + "\n" + news
+                        # gemini的回應，回傳帶有買入訊號的list
+                        signal = gemini_response(llm, prompt, regenerate_count)
+                        # print(price)
+                        # print(signal)
+                        signal_2.append([price[0], signal[1], price[1]])
 
         signal_2_np = np.array(signal_2)
         # 回傳 IRR 以及總額投入
         irr, bnh = calculate_irr(signal_2_np, 0)
         irrs.append(irr)
         bnhs.append(bnh)
+        raw_data.append(signal_2_np.tolist())
         # print("每月內部報酬率", irr)
         # print("總額投入報酬率", bnh)
 
@@ -164,11 +160,12 @@ for i in range(prompt_mutate_count):
                 content = (f'提示：{p_mutate_2} mutate from {p_mutate}\n'
                            f'開始日期 {start_time.strftime("%Y%m%d")},'
                            f'結束日期 {end_time.strftime("%Y%m%d")}\n')
-                for i in range(len(stock_ids)):
-                    content += (f'股票代號：{stock_ids[i]}\t'
-                                f'每月內部報酬率:{irrs[i]}\t'
-                                f'總額投入報酬率:{bnhs[i]}\n')
-                content += f'變異{i+1}次，平均內部報酬率:{sum(irrs) / len(irrs)}，平均總額投入報酬率:{sum(bnhs) / len(bnhs)})'
+                for j in range(len(stock_ids)):
+                    content += (f'股票代號：{stock_ids[j]}\t'
+                                f'每月內部報酬率:{irrs[j]}\t'
+                                f'總額投入報酬率:{bnhs[j]}\n')
+                content += f'變異{i + 1}次，平均內部報酬率:{sum(irrs) / len(irrs)}，平均總額投入報酬率:{sum(bnhs) / len(bnhs)}\n)'
+                content += f'原始數據{raw_data}'
                 f.write(content)
             print("寫入" + write_folder + str(count))
             break
