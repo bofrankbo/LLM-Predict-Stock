@@ -79,9 +79,9 @@ if "GOOGLE_API_KEY" not in os.environ:
     os.environ["GOOGLE_API_KEY"] = secret.GEMINI_API_KEY
 
 regenerate_count = 3
-prompt_mutate_count = 10
+prompt_mutate_count = 100
 
-start_time = datetime(2023, 10, 1)
+start_time = datetime(2023, 1, 1)
 end_time = datetime(2023, 12, 31)
 
 # stock_ids = ["1101", "2211", "2385", "2542", "2880", "2912", "3023", "3264", "5269", "8027"]
@@ -94,7 +94,7 @@ llm = ChatGoogleGenerativeAI(
         HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
     })
 
-p_mutate = '媒強勁的媒體熱議凸顯了該公司的先進技術和顯著的市場優勢，暗示著股票價值持續攀升的巨大潛力。'
+p_mutate = '深入的媒體報導突出了公司的創新突破和行業領先地位，預測其股票價值將繼續穩步攀升，這表明對其未來表現持樂觀態度'
 irr_ = 0.034676
 
 for i in range(prompt_mutate_count):
@@ -130,8 +130,9 @@ for i in range(prompt_mutate_count):
 
             for index, file_name in enumerate(sorted_files):
                 if file_name == price[0]:
-                    with open(folder_path + file_name) as f:
+                    with open(folder_path + file_name, encoding='utf-8') as f:
                         news = f.read()
+                        # print(news)
                         prompt = general_prompt + "\n" + news
                         # gemini的回應，回傳帶有買入訊號的list
                         signal = gemini_response(llm, prompt, regenerate_count)
@@ -157,7 +158,7 @@ for i in range(prompt_mutate_count):
             continue
         else:
             with open(write_folder + str(count), "a", encoding="UTF-8") as f:
-                content = (f'提示：{p_mutate_2} mutate from {p_mutate}\n'
+                content = (f'提示：{p_mutate_2}\n mutate from {p_mutate}\n'
                            f'開始日期 {start_time.strftime("%Y%m%d")},'
                            f'結束日期 {end_time.strftime("%Y%m%d")}\n')
                 for j in range(len(stock_ids)):
