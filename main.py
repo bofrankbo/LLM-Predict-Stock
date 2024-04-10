@@ -85,7 +85,7 @@ start_time = datetime(2023, 1, 1)
 end_time = datetime(2023, 12, 31)
 
 # stock_ids = ["1101", "2211", "2385", "2542", "2880", "2912", "3023", "3264", "5269", "8027"]
-stock_ids = ["1101", "2211", "2385", "2542", "2880"]
+stock_ids = ["2912", "3023", "3264", "5269", "8027"]
 
 llm = ChatGoogleGenerativeAI(
     model="gemini-pro",
