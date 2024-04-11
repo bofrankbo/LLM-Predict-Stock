@@ -84,8 +84,8 @@ prompt_mutate_count = 100
 start_time = datetime(2023, 1, 1)
 end_time = datetime(2023, 12, 31)
 
-# stock_ids = ["1101", "2211", "2385", "2542", "2880", "2912", "3023", "3264", "5269", "8027"]
-stock_ids = ["2912", "3023", "3264", "5269", "8027"]
+stock_ids = ["1101", "2211", "2385", "2542", "2880", "2912", "3023", "3264", "5269", "8027"]
+# stock_ids = ["2912", "3023", "3264", "5269", "8027"]
 
 llm = ChatGoogleGenerativeAI(
     model="gemini-pro",
@@ -94,8 +94,8 @@ llm = ChatGoogleGenerativeAI(
         HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
     })
 
-p_mutate = '深入的媒體報導突出了公司的創新突破和行業領先地位，預測其股票價值將繼續穩步攀升，這表明對其未來表現持樂觀態度'
-irr_ = 0.034676
+p_mutate = '對公司創新舉措和業界主導地位的細緻分析預測其股價持續上漲，突顯投資者對未來增長潛力的信心'
+irr_ = 0
 
 for i in range(prompt_mutate_count):
     # 變異
@@ -127,7 +127,8 @@ for i in range(prompt_mutate_count):
 
             if not (start_time <= date_obj <= end_time):
                 continue
-
+            
+            sig = 0
             for index, file_name in enumerate(sorted_files):
                 if file_name == price[0]:
                     with open(folder_path + file_name, encoding='utf-8') as f:
@@ -138,7 +139,10 @@ for i in range(prompt_mutate_count):
                         signal = gemini_response(llm, prompt, regenerate_count)
                         # print(price)
                         # print(signal)
-                        signal_2.append([price[0], signal[1], price[1]])
+                        sig = signal[1]
+                    break
+
+            signal_2.append([price[0], sig, price[1]])
 
         signal_2_np = np.array(signal_2)
         # 回傳 IRR 以及總額投入
