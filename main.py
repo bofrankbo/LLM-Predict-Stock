@@ -1,12 +1,12 @@
 import os
-
 import numpy as np
 import numpy_financial as npf
 import pandas as pd
-from google.generativeai.types import HarmBlockThreshold
-from google.ai.generativelanguage_v1 import HarmCategory
+import math
 from datetime import datetime
 
+from google.generativeai.types import HarmBlockThreshold
+from google.ai.generativelanguage_v1 import HarmCategory
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 import secret
@@ -58,9 +58,14 @@ def calculate_irr(signal, threshold):
     balance_in.append(-this_month_in)
     last_price = float(signal[len(signal) - 1][2])
 
+    
     balance_in.append(hold * last_price)
     # print(balance_in)
     irr = npf.irr(balance_in)
+
+    if math.isnan(irr):
+        irr = 0
+
     if balance_total > 0:
         bnh = last_price / float(signal[0][2])
     else:
@@ -94,8 +99,8 @@ llm = ChatGoogleGenerativeAI(
         HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
     })
 
-p_mutate = '對公司創新舉措和業界主導地位的細緻分析預測其股價持續上漲，突顯投資者對未來增長潛力的信心'
-irr_ = 0
+p_mutate = '深入的公司創新分析及其對預期市場影響的評估，表明股價持續上漲，反映了投資者對公司令人振奮的長期增長前景的樂觀情緒。'
+irr_ = 0.56
 
 for i in range(prompt_mutate_count):
     # 變異
