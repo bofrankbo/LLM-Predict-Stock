@@ -84,23 +84,29 @@ if "GOOGLE_API_KEY" not in os.environ:
     os.environ["GOOGLE_API_KEY"] = secret.GEMINI_API_KEY
 
 regenerate_count = 3
-prompt_mutate_count = 100
+prompt_mutate_count = 50
 
 start_time = datetime(2023, 1, 1)
 end_time = datetime(2023, 12, 31)
 
-stock_ids = ["1101", "2211", "2385", "2542", "2880", "2912", "3023", "3264", "5269", "8027"]
-# stock_ids = ["2912", "3023", "3264", "5269", "8027"]
+# stock_ids = ["1101", "2211", "2385", "2542", "2880", "2912", "3023", "3264", "5269", "8027"]
+stock_ids = ["2912", "3023", "3264", "5269", "8027"]
 
 llm = ChatGoogleGenerativeAI(
     model="gemini-pro",
     temperature=1,
+    # top_k=1,
+    # top_p=0.5,
+    # max_output_tokens=20,
     safety_settings={
         HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE
     })
 
 p_mutate = '深入的公司創新分析及其對預期市場影響的評估，表明股價持續上漲，反映了投資者對公司令人振奮的長期增長前景的樂觀情緒。'
-irr_ = 0.56
+irr_ = 0
 
 for i in range(prompt_mutate_count):
     # 變異
