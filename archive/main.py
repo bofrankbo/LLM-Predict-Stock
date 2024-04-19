@@ -9,8 +9,6 @@ from google.generativeai.types import HarmBlockThreshold
 from google.ai.generativelanguage_v1 import HarmCategory
 from langchain_google_genai import ChatGoogleGenerativeAI
 
-import secret
-
 
 def gemini_response(model, instruction, count):
     scores = []
