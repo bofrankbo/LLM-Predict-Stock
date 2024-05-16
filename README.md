@@ -5,7 +5,9 @@ Crawler 是爬蟲程式 分成4個報紙
 資料會存在 stock_news 中
 
  
-# 作法
+# gemini 作法
+資料夾在 run_gemini
+
 依照評分買入股票
 
 最後計算IRR
@@ -17,8 +19,7 @@ Crawler 是爬蟲程式 分成4個報紙
 ![image](https://github.com/Atomuze/LLM-Predict-Stock/assets/46251744/470109c7-3961-4fa2-9288-82d535db331e)
 
 
-
-# gemini api 模型參數
+## gemini api 模型參數
 
 models/gemini-1.0-pro
 
@@ -27,3 +28,6 @@ temperature 1
 topK 1.0
 
 topP 1.0
+
+# RAG 作法
+資料夾在 run_rag

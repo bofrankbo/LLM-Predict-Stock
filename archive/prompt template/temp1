@@ -1,7 +1,0 @@
-以json格式回答以positive代表正向機率，negtive代表負向機率，若答案是中性則x,y以0.5回答
-
-"predict" :  
-{
- "positive" : x,
- "negtive" : y,
-}
