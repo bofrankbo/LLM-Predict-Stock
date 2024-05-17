@@ -4,6 +4,7 @@ Crawler 是爬蟲程式 分成4個報紙
 
 資料會存在 stock_news 中
 
+price_history: 各個股票的股價 [日期,開盤,收盤]
  
 # gemini 作法
 資料夾在 run_gemini
