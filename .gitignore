@@ -3,3 +3,4 @@
 secret.py
 .env
 /mistral-stockLM-finetune
+.DS_Store
