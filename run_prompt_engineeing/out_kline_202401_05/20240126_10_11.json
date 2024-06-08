@@ -1,0 +1,12 @@
+{
+    "date": "20240126",
+    "start_time": "10",
+    "end_time": "11",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.0013898154325105,
+    "sig_str": "#unknown \n\n雖然圖表顯示多方力量在10:40出現突破，但多方力量有所減弱，需要觀察後續走勢才能判斷接下來一小時的趨勢。 \n\n作為一個負責任的 AI，我無法提供投資建議。 \n"
+}

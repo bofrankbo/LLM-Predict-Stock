@@ -1,0 +1,12 @@
+{
+    "date": "20240429",
+    "start_time": "11",
+    "end_time": "12",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 0.998101173377477,
+    "sig_str": "#unknown \n\n雖然圖表顯示了多方力量可能正在回升，但僅憑 5 分鐘 K 線圖無法準確預測接下來一小時的走勢。市場瞬息萬變，需要更多數據和分析才能做出明智的決策。\n"
+}

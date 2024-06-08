@@ -1,0 +1,12 @@
+{
+    "date": "20240326",
+    "start_time": "11",
+    "end_time": "12",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 0.9955438926573253,
+    "sig_str": "#unknown \n\n雖然圖表顯示可能出現反彈，但僅憑5分鐘K線圖，無法確定接下來一小時的趨勢。需要觀察更多因素，例如其他時間框架的走勢、市場消息面等。 \n"
+}

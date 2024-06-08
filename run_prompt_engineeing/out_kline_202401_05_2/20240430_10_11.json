@@ -1,0 +1,12 @@
+{
+    "date": "20240430",
+    "start_time": "10",
+    "end_time": "11",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 1,
+    "change": 1.0006821947178637,
+    "sig_str": "請提供5分鐘K線圖的圖片或描述，例如：\n\n* **價格走勢：** 上漲、下跌、震盪\n* **成交量：** 放大、縮小、維持\n* **技術指標：** 例如MACD、RSI的讀數\n\n我會根據您的資訊，结合文章中的分析，判斷接下來一小時的市場情緒，並回答 #long、#short 或 #unknown。\n"
+}

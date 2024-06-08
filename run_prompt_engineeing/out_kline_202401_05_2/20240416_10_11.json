@@ -1,0 +1,12 @@
+{
+    "date": "20240416",
+    "start_time": "10",
+    "end_time": "11",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 0.9959566714920381,
+    "sig_str": "#unknown \n\n根據你的分析，你無法確定接下來一小時的市場情緒。 你的分析指出，市場情緒可能受到多種因素影響，而且 5 分鐘 K 線圖無法提供足夠的信息來做出預測。 \n"
+}
