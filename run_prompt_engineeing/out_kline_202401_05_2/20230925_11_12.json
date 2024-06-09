@@ -1,0 +1,12 @@
+{
+    "date": "20230925",
+    "start_time": "11",
+    "end_time": "12",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.0010328695546509,
+    "sig_str": "#unknown \n\n這張圖顯示市場處於震盪狀態，短線操作風險較高，需要謹慎操作。 需要觀察成交量的變化，尋找突破點，並結合其他技術指標，才能更好地判斷市場情緒。 \n"
+}

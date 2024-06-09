@@ -1,0 +1,12 @@
+{
+    "date": "20231208",
+    "start_time": "10",
+    "end_time": "11",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.0006323656223053,
+    "sig_str": "#unknown \n\n文章中提到，市場情緒略微偏向看漲，但突破17430點阻力位的可能性仍然未知。 \n\n需要觀察成交量變化，以及價格是否跌破17400點支撐位，才能判斷市場情緒的變化趨勢。 \n"
+}

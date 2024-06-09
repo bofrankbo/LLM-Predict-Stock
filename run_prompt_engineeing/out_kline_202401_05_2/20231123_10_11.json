@@ -1,0 +1,12 @@
+{
+    "date": "20231123",
+    "start_time": "10",
+    "end_time": "11",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 0.9978016892282772,
+    "sig_str": "#unknown \n\n根據你的分析，市場情緒處於不穩定狀態，多空力量對峙，目前沒有明確的趨勢方向。因此，無法確定接下來一小時的市場情緒是好還是不好。 \n"
+}

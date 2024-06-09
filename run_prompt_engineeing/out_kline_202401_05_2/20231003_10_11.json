@@ -1,0 +1,12 @@
+{
+    "date": "20231003",
+    "start_time": "10",
+    "end_time": "11",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 1,
+    "change": 0.9984272925235906,
+    "sig_str": "#unknown \n\n你的分析很詳細，但缺少了重要的資訊：**K線圖**。 \n\n我需要看到實際的K線圖才能判斷市場情緒，並提供更準確的 #long、#short 或 #unknown 的答案。 \n\n請提供K線圖，我會盡力分析並提供更具體的建議。 \n"
+}
