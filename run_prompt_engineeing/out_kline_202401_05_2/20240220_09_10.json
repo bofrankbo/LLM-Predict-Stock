@@ -1,0 +1,12 @@
+{
+    "date": "20240220",
+    "start_time": "09",
+    "end_time": "10",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.004566700693064,
+    "sig_str": "#unknown \n\n根據你的分析，市場情緒呈現先看跌，然後轉為看漲，最後又回落到看跌。這說明市場情緒不穩定，無法判斷接下來一小時市場會走漲還是走跌。 \n\n請謹記，我是一個 AI 模型，無法提供投資建議。\n"
+}

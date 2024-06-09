@@ -1,0 +1,12 @@
+{
+    "date": "20240104",
+    "start_time": "10",
+    "end_time": "11",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 1,
+    "change": 0.9996582365003418,
+    "sig_str": "請提供您要分析的圖表，以便我可以依據它分析市場情緒並回答 #long、#short 或 #unknown。 \n\n請注意，我是一個 AI 聊天機器人，無法提供任何投資建議。 \n"
+}
