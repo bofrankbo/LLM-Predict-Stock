@@ -1,0 +1,12 @@
+{
+    "date": "20240524",
+    "start_time": "11",
+    "end_time": "12",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.001763422896654,
+    "sig_str": "#unknown \n\n這張圖呈現了市場的震荡调整阶段，无法判断接下来一小时的走势。你需要更多的信息，例如更详细的分析，更长的历史数据，以及对当前市场环境和新闻事件的了解。 \n"
+}
