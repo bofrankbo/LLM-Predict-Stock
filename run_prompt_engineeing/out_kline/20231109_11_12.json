@@ -1,0 +1,12 @@
+{
+    "date": "20231109",
+    "start_time": "11",
+    "end_time": "12",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.0022142429682825,
+    "sig_str": "#unknown \n\n雖然圖表顯示了小台指的上升趨勢，但買盤力量減弱，市場可能出現短期調整。這是一個複雜的市場情況，需要更多的數據和分析才能判斷接下來一小時應該作多或是作空。\n"
+}

@@ -1,0 +1,12 @@
+{
+    "date": "20231204",
+    "start_time": "10",
+    "end_time": "11",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 0.9993114133241522,
+    "sig_str": "#unknown \n\n虽然图表显示了看涨迹象，但价格回落，成交量也下降，这表明买盘力量正在减弱。 突破阻力位 17410 点或跌破支撑位 17380 点，才能确定接下来的趋势。 \n"
+}
