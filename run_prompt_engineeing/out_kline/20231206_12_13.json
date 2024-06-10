@@ -1,0 +1,12 @@
+{
+    "date": "20231206",
+    "start_time": "12",
+    "end_time": "13",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": -1,
+    "change": 0.9985638786764706,
+    "sig_str": "#short \n\n儘管圖表顯示底部可能形成，但看跌吞沒形態和下跌趨勢表明價格短期內可能繼續下跌。需要更多信息才能确定价格的未来走势。\n"
+}
