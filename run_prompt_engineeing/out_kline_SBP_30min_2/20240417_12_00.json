@@ -1,0 +1,11 @@
+{
+    "date": "20240417",
+    "start_time": "12_00",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "change": 1.0012906428394142,
+    "response_sig": 0,
+    "sig_str": "請提供圖表資訊，以便我進行分析和做出判斷。 \n"
+}

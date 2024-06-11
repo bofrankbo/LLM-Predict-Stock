@@ -1,0 +1,11 @@
+{
+    "date": "20240318",
+    "start_time": "11_00",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "change": 1.00080783600929,
+    "response_sig": 0,
+    "sig_str": "請提供圖片，讓我根據圖像進行分析。 \n\n我會根據你提供的圖片，分析價格行為、成交量、關鍵價格和市場情緒，並根據我的分析結果回答 #long、#short 或 #unknown。 \n"
+}

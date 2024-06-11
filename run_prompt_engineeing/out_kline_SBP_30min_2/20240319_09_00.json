@@ -1,0 +1,11 @@
+{
+    "date": "20240319",
+    "start_time": "09_00",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "change": 0.9990898058252428,
+    "response_sig": 0,
+    "sig_str": "請提供圖表資訊，例如：\n* 圖表類型（K線圖、柱狀圖等）\n* 時間週期（日線、小時線等）\n* 指標（MACD、RSI 等）\n* 價格數據\n* 成交量數據\n\n我需要這些資訊才能分析市場情緒並做出 #long、#short 或 #unknown 的判斷。 \n"
+}

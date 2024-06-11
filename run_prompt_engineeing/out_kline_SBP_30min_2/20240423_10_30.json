@@ -1,0 +1,11 @@
+{
+    "date": "20240423",
+    "start_time": "10_30",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "change": 1.0001019160211986,
+    "response_sig": 0,
+    "sig_str": "請提供小台指 5 分 K 線圖。 我需要看到圖表才能分析並推測接下來半小時的市場情緒狀態。 \n"
+}
