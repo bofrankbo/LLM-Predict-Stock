@@ -1,0 +1,12 @@
+{
+    "date": "10",
+    "start_time": "10",
+    "end_time": "10",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.0011080332409972,
+    "sig_str": "#unknown \n\n根據文章分析，市場情緒目前處於觀望狀態，短期內價格波動可能減小，但整體趨勢仍然不明確。因此無法明確判斷接下來一小時的市場情緒是好還是不好。 \n"
+}

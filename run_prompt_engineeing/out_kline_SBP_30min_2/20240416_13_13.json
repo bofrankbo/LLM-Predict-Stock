@@ -1,0 +1,12 @@
+{
+    "date": "13",
+    "start_time": "13",
+    "end_time": "13",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.0037266455154354,
+    "sig_str": "#unknown \n\n文章中提到市場情緒在1小時內經歷了從極度悲觀到樂觀，再到觀望，最後回到保守的過程。這代表市場情緒在短時間內波動不定，沒有明確的趨勢，因此無法判斷是否為#long或#short。 \n"
+}

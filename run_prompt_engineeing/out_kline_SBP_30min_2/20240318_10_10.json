@@ -1,0 +1,12 @@
+{
+    "date": "10",
+    "start_time": "10",
+    "end_time": "10",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.0008084891359272,
+    "sig_str": "#unknown \n\n雖然文章分析了市場情緒的短期波動，但僅憑一張 5 分鐘 K 線圖無法確定接下來一小時的市場情緒走向。需要更多資訊，例如新聞事件、經濟數據等，才能做出更準確的判斷。 \n"
+}
