@@ -1,0 +1,11 @@
+{
+    "date": "20240301",
+    "start_time": "11_00",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "change": 0.9982629750500053,
+    "response_sig": 0,
+    "sig_str": "#unknown \n\n你提供的分析非常詳細，但缺乏關鍵信息：圖表！ \n\n請提供圖表以便我根據你的分析進行判斷，並回答 #long、#short 或 #unknown。 \n"
+}

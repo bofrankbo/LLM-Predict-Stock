@@ -1,0 +1,11 @@
+{
+    "date": "20240409",
+    "start_time": "11_30",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "change": 1.0009139888397152,
+    "response_sig": 0,
+    "sig_str": "#unknown \n\nAlthough the price rebounded quickly, the volume decreased in the last 10 minutes, indicating that the market is still in a state of uncertainty. It's too early to determine whether the rebound is sustainable or a temporary surge. \n"
+}
