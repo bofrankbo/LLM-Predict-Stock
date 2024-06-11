@@ -1,0 +1,12 @@
+{
+    "date": "10",
+    "start_time": "10",
+    "end_time": "10",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.001006518404908,
+    "sig_str": "#unknown \n\n根據您的分析，小台指目前處於一個相對不確定的狀態，市場情緒偏向悲觀，但跌幅可能有限。這表示市場情緒並不完全明確，因此無法斷定接下來一小時的走勢是#long還是#short。 \n"
+}

@@ -1,0 +1,12 @@
+{
+    "date": "13",
+    "start_time": "13",
+    "end_time": "13",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 0.999654781279282,
+    "sig_str": "#unknown \n\n根據你的分析，市場情緒處於震盪狀態，買賣力量交替出現，投資者觀望情緒濃厚。 價格可能在 20265 點 - 20286 點之間震盪。 \n\n由於市場情緒不確定，無法明確判斷未來走勢是向上還是向下。 因此，我無法提供 #long 或者 #short 的建議。 \n"
+}

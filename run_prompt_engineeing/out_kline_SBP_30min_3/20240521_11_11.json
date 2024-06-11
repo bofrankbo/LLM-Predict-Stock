@@ -1,0 +1,12 @@
+{
+    "date": "11",
+    "start_time": "11",
+    "end_time": "11",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 1,
+    "change": 0.9999060503570086,
+    "sig_str": "#long \n"
+}
