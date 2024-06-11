@@ -1,0 +1,12 @@
+{
+    "date": "09",
+    "start_time": "09",
+    "end_time": "09",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.0006516944054542,
+    "sig_str": "#unknown \n\n雖然分析顯示市場情緒呈現多空力量均衡，但未來一小時的走勢仍無法確定。突破 19980 點或 19960 點將是判斷市場情緒的關鍵，但目前尚無足夠的資訊可以預測哪一方將佔上風。 \n"
+}

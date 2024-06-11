@@ -1,0 +1,12 @@
+{
+    "date": "10",
+    "start_time": "10",
+    "end_time": "10",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.0016400559548502,
+    "sig_str": "#unknown \n\n根據文章的分析，市場情緒目前處於觀望狀態，多空力量勢均力敵。接下來一小時的市場走勢需要密切關注，及時調整交易策略。無法單純地判斷市場情緒是好還是不好。\n"
+}
