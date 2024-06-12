@@ -1,0 +1,11 @@
+{
+    "date": "20240104",
+    "start_time": "12_30",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "change": 1.0,
+    "response_sig": 0,
+    "sig_str": "請提供圖表，我才能進行分析！  😊 \n\n你提供圖表之後，我會依據圖表上的資訊，盡力分析市場情緒、關鍵價格、成交量變化趨勢，以及接下來半小時的市場情緒狀態猜測，並給出 #long、#short 或是 #unknown 的判斷。\n"
+}

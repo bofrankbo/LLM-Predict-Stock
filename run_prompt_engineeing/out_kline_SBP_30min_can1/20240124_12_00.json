@@ -1,0 +1,11 @@
+{
+    "date": "20240124",
+    "start_time": "12_00",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "change": 0.999888417763892,
+    "response_sig": 0,
+    "sig_str": "#unknown \n\n你的分析很好，但是僅根據圖表無法確定接下來半小時的市場情緒。市場情緒會受到很多因素影響，例如新聞事件、經濟數據等。 \n"
+}

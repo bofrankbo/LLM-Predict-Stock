@@ -1,0 +1,11 @@
+{
+    "date": "20240201",
+    "start_time": "12_00",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "change": 1.0003345787096414,
+    "response_sig": 0,
+    "sig_str": "#unknown \n\n您的分析非常詳細，但是僅憑圖表資訊，無法完全確定市場情緒是否已經穩定。需要更多資訊和更長時間的觀察才能做出準確的判斷。 \n"
+}

@@ -1,0 +1,11 @@
+{
+    "date": "20240223",
+    "start_time": "13_00",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "change": 0.998785318193821,
+    "response_sig": 0,
+    "sig_str": "請提供圖表。我需要看到圖表才能分析市場情緒並做出 #long、#short 或 #unknown 的判斷。 \n"
+}

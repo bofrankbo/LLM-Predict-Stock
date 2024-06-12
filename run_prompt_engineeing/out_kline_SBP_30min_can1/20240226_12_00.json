@@ -1,0 +1,11 @@
+{
+    "date": "20240226",
+    "start_time": "12_00",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "change": 0.9999471710074489,
+    "response_sig": 0,
+    "sig_str": "#unknown \n\n雖然分析指出市場情緒可能從悲觀轉向觀望，但整體趨勢仍不明朗。 交易者需要謹慎觀察市場變化，避免過早判斷市場方向。 \n"
+}
