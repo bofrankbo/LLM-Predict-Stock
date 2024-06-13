@@ -1,0 +1,12 @@
+{
+    "date": "20231121",
+    "start_time": "11",
+    "end_time": "12",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.0000574151690877,
+    "sig_str": "#unknown \n\n根據你的分析，市場情緒波動較大，多空力量在不斷拉鋸，市場處於震盪整理狀態。無法單純地判斷市場情緒是好還是不好，需要更多的資訊才能做出更精準的判斷。 \n"
+}

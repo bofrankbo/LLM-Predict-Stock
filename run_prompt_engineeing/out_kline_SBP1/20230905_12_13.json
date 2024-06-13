@@ -1,0 +1,12 @@
+{
+    "date": "20230905",
+    "start_time": "12",
+    "end_time": "13",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.0014345487148835,
+    "sig_str": "#unknown \n\n雖然分析指出 12:30 的長紅 K 線可能代表買方力量出現，但它是否能夠成功扭轉頹勢，仍需觀察後續走勢。市場情緒目前仍然不確定，需要更多的觀察才能判斷後續走勢。\n"
+}
