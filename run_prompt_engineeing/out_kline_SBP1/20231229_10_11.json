@@ -1,0 +1,12 @@
+{
+    "date": "20231229",
+    "start_time": "10",
+    "end_time": "11",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": -1,
+    "change": 0.9982104909965328,
+    "sig_str": "#short \n\n根據你的分析，小台指的 5 分 K 線圖顯示市場情緒轉向看跌，價格出現回落，成交量也放大。建議謹慎操作，不要追跌。 \n"
+}
