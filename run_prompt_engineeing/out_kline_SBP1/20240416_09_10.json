@@ -1,0 +1,12 @@
+{
+    "date": "20240416",
+    "start_time": "09",
+    "end_time": "10",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 0.989039202132912,
+    "sig_str": "#unknown \n\n根據您的分析，市場情緒目前處於猶豫不決的狀態。雖然出現了反彈跡象，但成交量萎縮，且價格仍在支撐位附近徘徊，因此無法明確判斷接下來一小時的市場情緒走向。 \n"
+}

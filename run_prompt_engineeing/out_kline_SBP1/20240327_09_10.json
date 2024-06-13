@@ -1,0 +1,12 @@
+{
+    "date": "20240327",
+    "start_time": "09",
+    "end_time": "10",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.000148456057007,
+    "sig_str": "#unknown \n\n雖然文章提到小台指目前處於看漲狀態，但力量較弱，成交量下降，市場情緒偏向觀望。  接下來一小時需要關注突破方向才能確定市場情緒。 \n\n這表明市場趨勢不明朗，無法單純判斷為看漲或看跌，因此無法確定是#long 還是 #short。 \n"
+}

@@ -1,0 +1,12 @@
+{
+    "date": "20240130",
+    "start_time": "11",
+    "end_time": "12",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.0002211533145353,
+    "sig_str": "#unknown \n\n你提供的文章中沒有圖表，所以我無法分析市場情緒。 \n\n請提供圖表以便我分析。 \n"
+}

@@ -1,0 +1,12 @@
+{
+    "date": "20240329",
+    "start_time": "09",
+    "end_time": "10",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 1.0013337943980636,
+    "sig_str": "#unknown \n\n文章中提到市場情緒狀態可能處於震盪偏弱的狀態，並沒有明確說明是好或不好，因此無法判斷是#long 還是 #short。 \n"
+}

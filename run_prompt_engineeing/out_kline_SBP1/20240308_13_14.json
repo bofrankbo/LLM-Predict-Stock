@@ -1,0 +1,12 @@
+{
+    "date": "20240308",
+    "start_time": "13",
+    "end_time": "14",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 0.9999494821924728,
+    "sig_str": "#unknown \n\n雖然小台指在過去一小時內呈現波動的狀態，但買賣雙方力量仍在較量，市場情緒尚未形成一致的看法，因此無法明確判斷後市方向。\n"
+}
