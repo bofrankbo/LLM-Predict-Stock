@@ -1,0 +1,12 @@
+{
+    "date": "20231117",
+    "start_time": "13",
+    "end_time": "14",
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "response_sig": 0,
+    "change": 0.9991876523151909,
+    "sig_str": "根據你的分析，小台指目前呈現下降趨勢，但買盤力量出現，市場情緒可能正在轉變。\n\n**#unknown** \n\n目前市場情緒存在分歧，難以明確判斷後續走勢，建議謹慎操作。 \n"
+}
