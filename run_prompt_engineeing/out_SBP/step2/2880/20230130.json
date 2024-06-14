@@ -1,9 +1,0 @@
-{
-    "date_start": "20230101",
-    "date_end": "20231231",
-    "model": "gemini-1.5-flash",
-    "temperature": 1,
-    "top_p": 0.9,
-    "seed": 0,
-    "raw_data": "#yes \n"
-}
