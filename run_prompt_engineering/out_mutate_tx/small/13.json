@@ -1,0 +1,330 @@
+{
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "init_prompt": "深入分析商業創新計劃，評估其對目標受眾的潛在影響，並預測投資者對未來增長的期望。探討這些期望如何成為股價持續增長的驅動力，並找出支撐投資者樂觀預期的關鍵因素。 \n",
+    "mutate_prompt": "深入分析商業創新計劃，評估其對目標受眾的潛在影響，並預測投資者對未來增長的期望。探討這些期望如何成為股價持續增長的驅動力，並找出支撐投資者樂觀預期的關鍵因素。 \n",
+    "output_data": {
+        "20240402": {
+            "token": {
+                "input_tokens": 2595,
+                "output_tokens": 2,
+                "total_tokens": 2597
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240403": {
+            "token": {
+                "input_tokens": 2555,
+                "output_tokens": 2,
+                "total_tokens": 2557
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240408": {
+            "token": {
+                "input_tokens": 2335,
+                "output_tokens": 2,
+                "total_tokens": 2337
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240409": {
+            "token": {
+                "input_tokens": 2992,
+                "output_tokens": 2,
+                "total_tokens": 2994
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240410": {
+            "token": {
+                "input_tokens": 2760,
+                "output_tokens": 2,
+                "total_tokens": 2762
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240411": {
+            "token": {
+                "input_tokens": 3057,
+                "output_tokens": 2,
+                "total_tokens": 3059
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240412": {
+            "token": {
+                "input_tokens": 3171,
+                "output_tokens": 2,
+                "total_tokens": 3173
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240415": {
+            "token": {
+                "input_tokens": 2734,
+                "output_tokens": 2,
+                "total_tokens": 2736
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240416": {
+            "token": {
+                "input_tokens": 3126,
+                "output_tokens": 2,
+                "total_tokens": 3128
+            },
+            "raw_data": "#no \n"
+        },
+        "20240417": {
+            "token": {
+                "input_tokens": 2854,
+                "output_tokens": 2,
+                "total_tokens": 2856
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240418": {
+            "token": {
+                "input_tokens": 2842,
+                "output_tokens": 2,
+                "total_tokens": 2844
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240419": {
+            "token": {
+                "input_tokens": 2804,
+                "output_tokens": 2,
+                "total_tokens": 2806
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240422": {
+            "token": {
+                "input_tokens": 2623,
+                "output_tokens": 2,
+                "total_tokens": 2625
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240423": {
+            "token": {
+                "input_tokens": 2947,
+                "output_tokens": 664,
+                "total_tokens": 3611
+            },
+            "raw_data": "根據你提供的新聞標題，我無法提供確切的買賣建議。因為我需要更多資訊才能做出判斷，例如：\n\n* **具體的財務數據：** 這些股票的財務表現如何？盈利能力、營收成長、現金流等指標如何？\n* **市場狀況：** 目前的市場趨勢如何？利率、通膨、經濟狀況等因素如何影響股市？\n* **技術分析：** 這些股票的技術指標如何？例如移動平均線、RSI、MACD等。\n\n**然而，我可以分析新聞標題的資訊，幫助你判斷:**\n\n* **股票1 (台達電)：** 新聞大多圍繞著台達電在電源領域的創新，以及與輝達的合作關係。這些因素可能有利於股價。\n* **股票2 (鴻海)：**  新聞多集中在鴻海的綠色能源策略和與輝達的合作，這些都可能暗示著公司的未來發展方向。\n* **股票3 (台積電)：**  新聞主要圍繞著台積電的營運狀況，包括法說會、薪資調漲、與韓廠的合作等。這些資訊可能帶來波動，但難以明確預測漲跌。\n* **股票4 (緯創)：**  新聞主要圍繞著 AI 伺服器市場的發展，以及輝達的影響。這些因素可能對股價帶來影響，但難以預測漲跌。\n* **股票5 (中華電信)：** 新聞主要圍繞著中華電信的永續發展策略和科技應用。這些因素可能帶來一些利好，但難以預測漲跌。\n* **股票6 (聯發科)：**  新聞主要圍繞著聯發科的綠色能源策略和新產品發布。這些因素可能帶來一些利好，但難以預測漲跌。\n* **股票7 (富邦金)：**  新聞主要圍繞著富邦金的業務發展和金融市場的狀況。這些因素可能帶來一些利好，但難以預測漲跌。\n* **股票8 (國泰金)：** 新聞主要圍繞著國泰金的經濟信心調查和房地產市場的狀況。這些因素可能帶來一些利好，但難以預測漲跌。\n* **股票9 (中信金)：** 新聞主要圍繞著中信金的股東會紀念品和金融市場的狀況。這些因素可能帶來一些利好，但難以預測漲跌。\n* **股票10 (中石化)：**  新聞主要圍繞著中石化的營運狀況和能源市場的狀況。這些因素可能帶來一些利好，但難以預測漲跌。\n\n**總結：** 根據以上分析，我無法提供確切的買賣建議。你需要進行更深入的研究，並結合其他因素，才能做出明智的決策。\n\n**請注意，我無法提供任何財務建議。任何投資決策都應建立在你的自身研究和風險承受能力之上。**\n"
+        },
+        "20240424": {
+            "token": {
+                "input_tokens": 2862,
+                "output_tokens": 2,
+                "total_tokens": 2864
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240425": {
+            "token": {
+                "input_tokens": 2891,
+                "output_tokens": 2,
+                "total_tokens": 2893
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240426": {
+            "token": {
+                "input_tokens": 2967,
+                "output_tokens": 2,
+                "total_tokens": 2969
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240429": {
+            "token": {
+                "input_tokens": 2832,
+                "output_tokens": 2,
+                "total_tokens": 2834
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240430": {
+            "token": {
+                "input_tokens": 2934,
+                "output_tokens": 2,
+                "total_tokens": 2936
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240502": {
+            "token": {
+                "input_tokens": 2438,
+                "output_tokens": 2,
+                "total_tokens": 2440
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240503": {
+            "token": {
+                "input_tokens": 3027,
+                "output_tokens": 2,
+                "total_tokens": 3029
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240506": {
+            "token": {
+                "input_tokens": 2827,
+                "output_tokens": 2,
+                "total_tokens": 2829
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240507": {
+            "token": {
+                "input_tokens": 3001,
+                "output_tokens": 2,
+                "total_tokens": 3003
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240508": {
+            "token": {
+                "input_tokens": 3012,
+                "output_tokens": 2,
+                "total_tokens": 3014
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240509": {
+            "token": {
+                "input_tokens": 2960,
+                "output_tokens": 2,
+                "total_tokens": 2962
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240510": {
+            "token": {
+                "input_tokens": 3024,
+                "output_tokens": 2,
+                "total_tokens": 3026
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240513": {
+            "token": {
+                "input_tokens": 2691,
+                "output_tokens": 2,
+                "total_tokens": 2693
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240514": {
+            "token": {
+                "input_tokens": 3045,
+                "output_tokens": 2,
+                "total_tokens": 3047
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240515": {
+            "token": {
+                "input_tokens": 3136,
+                "output_tokens": 2,
+                "total_tokens": 3138
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240516": {
+            "token": {
+                "input_tokens": 3021,
+                "output_tokens": 2,
+                "total_tokens": 3023
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240517": {
+            "token": {
+                "input_tokens": 2818,
+                "output_tokens": 2,
+                "total_tokens": 2820
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240520": {
+            "token": {
+                "input_tokens": 2895,
+                "output_tokens": 2,
+                "total_tokens": 2897
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240521": {
+            "token": {
+                "input_tokens": 2972,
+                "output_tokens": 2,
+                "total_tokens": 2974
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240522": {
+            "token": {
+                "input_tokens": 3099,
+                "output_tokens": 2,
+                "total_tokens": 3101
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240523": {
+            "token": {
+                "input_tokens": 3255,
+                "output_tokens": 2,
+                "total_tokens": 3257
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240524": {
+            "token": {
+                "input_tokens": 3042,
+                "output_tokens": 1447,
+                "total_tokens": 4489
+            },
+            "raw_data": "以下針對各個股票進行分析，並依據判斷依據給出答案：\n\n**股票1：台達電**\n\n* **商業創新計劃：** 切入半導體領域，並持續發展綠色能源和永續發展項目。\n* **目標受眾：** 半導體產業客戶、重視永續發展的投資者。\n* **投資者期望：** 期待台達電在半導體和綠色能源領域取得成功，帶動公司營收和獲利增長。\n* **關鍵因素：**  台達電能否成功爭取到更多半導體客戶，以及其綠色能源項目是否能順利推展，將會是關鍵因素。\n\n**答案：#yes**\n\n**股票2：鴻海**\n\n* **商業創新計劃：** 與Google合作在印度生產Pixel智慧手機，擴大AI伺服器業務。\n* **目標受眾：** 智慧手機使用者、AI伺服器客戶。\n* **投資者期望：** 期待鴻海在印度市場取得成功，並在AI伺服器領域保持領先地位，進而提升公司營收和獲利。\n* **關鍵因素：**  Google與鴻海的合作是否順利，以及AI伺服器市場需求是否持續增長，將會是關鍵因素。\n\n**答案：#yes**\n\n**股票3：台積電**\n\n* **商業創新計劃：**  持續擴張3奈米產能，並獲得美國豁免許可，確保南京廠的運營。\n* **目標受眾：**  半導體產業客戶、重視技術領先的投資者。\n* **投資者期望：**  期待台積電在3奈米技術領域保持領先地位，並確保其在中國市場的運營穩定，進而提升公司營收和獲利。\n* **關鍵因素：**  3奈米產能擴張是否能順利進行，以及美國政府對台積電的政策是否穩定，將會是關鍵因素。\n\n**答案：#yes**\n\n**股票4：廣達**\n\n* **商業創新計劃：**  積極發展AI伺服器業務，並獲得輝達的訂單支持。\n* **目標受眾：**  AI伺服器客戶、重視技術創新的投資者。\n* **投資者期望：**  期待廣達在AI伺服器市場取得成功，並獲得更多輝達的訂單，進而提升公司營收和獲利。\n* **關鍵因素：**  廣達能否順利獲得輝達的訂單，以及AI伺服器市場需求是否持續增長，將會是關鍵因素。\n\n**答案：#yes**\n\n**股票5：中華電信**\n\n* **商業創新計劃：**  積極發展智慧樂齡服務，並加入00878成分股，提升防禦性。\n* **目標受眾：**  老年人、追求穩定投資的投資者。\n* **投資者期望：**  期待中華電信在智慧樂齡服務取得成功，並維持穩定的獲利表現，提供投資者穩定的收益。\n* **關鍵因素：**  智慧樂齡服務市場規模和競爭情況，以及公司整體營運狀況，將會是關鍵因素。\n\n**答案：#unknown**\n\n**股票6：聯發科**\n\n* **商業創新計劃：**  發展5G綠色通訊技術，並推出旗艦手機晶片。\n* **目標受眾：**  手機製造商、重視節能環保的投資者。\n* **投資者期望：**  期待聯發科在5G技術領域取得領先地位，並提升手機晶片市場佔有率，進而提升公司營收和獲利。\n* **關鍵因素：**  5G市場發展和競爭情況，以及手機晶片市場需求，將會是關鍵因素。\n\n**答案：#yes**\n\n**股票7：富邦金**\n\n* **商業創新計劃：**  持續優化投資策略，並看好AI相關產業。\n* **目標受眾：**  追求穩定投資的投資者、重視AI產業發展的投資者。\n* **投資者期望：**  期待富邦金投資策略取得成功，並在AI產業投資上獲得良好收益，進而提升公司獲利。\n* **關鍵因素：**  富邦金的投資策略是否能有效執行，以及AI產業發展前景，將會是關鍵因素。\n\n**答案：#yes**\n\n**股票8：國泰金**\n\n* **商業創新計劃：**  積極發展亞洲區域銀行業務，並維持穩定的獲利表現。\n* **目標受眾：**  追求穩定投資的投資者、重視區域銀行發展的投資者。\n* **投資者期望：**  期待國泰金在亞洲區域銀行業務取得成功，並維持穩定的獲利表現，提供投資者穩定的收益。\n* **關鍵因素：**  亞洲區域銀行市場競爭情況，以及公司整體營運狀況，將會是關鍵因素。\n\n**答案：#unknown**\n\n**股票9：中信金**\n\n* **商業創新計劃：**  積極發展銀行業務，並潛在投資台北大巨蛋。\n* **目標受眾：**  追求穩定投資的投資者、重視台北大巨蛋發展的投資者。\n* **投資者期望：**  期待中信金在銀行業務取得成功，並在台北大巨蛋投資上獲得良好收益，進而提升公司獲利。\n* **關鍵因素：**  中信金的銀行業務發展情況，以及台北大巨蛋的投資效益，將會是關鍵因素。\n\n**答案：#unknown**\n\n**股票10：台塑化**\n\n* **商業創新計劃：**  轉型發展綠色工廠、綠色能源和綠色創新。\n* **目標受眾：**  重視永續發展的投資者。\n* **投資者期望：**  期待台塑化在綠色轉型上取得成功，並提升公司營收和獲利，同時降低環境影響。\n* **關鍵因素：**  台塑化轉型計劃的執行效率，以及綠色能源市場發展前景，將會是關鍵因素。\n\n**答案：#yes**\n\n**總體而言，上述股票都具備一定的潛在獲利可能性，特別是那些積極發展創新技術和業務的股票，例如台達電、鴻海、台積電、廣達、聯發科和富邦金。**\n"
+        },
+        "20240527": {
+            "token": {
+                "input_tokens": 2795,
+                "output_tokens": 2,
+                "total_tokens": 2797
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240528": {
+            "token": {
+                "input_tokens": 3142,
+                "output_tokens": 2,
+                "total_tokens": 3144
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240529": {
+            "token": {
+                "input_tokens": 2964,
+                "output_tokens": 2,
+                "total_tokens": 2966
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240530": {
+            "token": {
+                "input_tokens": 2765,
+                "output_tokens": 2,
+                "total_tokens": 2767
+            },
+            "raw_data": "#unknown \n"
+        }
+    }
+}
