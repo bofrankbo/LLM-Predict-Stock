@@ -1,0 +1,330 @@
+{
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "init_prompt": "深入探討商業創新計畫，評估其對目標客戶群體的潛在影響，並分析投資者對未來增長的預期。這些預期如何影響股價的持續上漲？此外，探討支撐這些樂觀預期的關鍵因素。 \n",
+    "mutate_prompt": "## 商業創新計畫的深入探討：影響、投資者預期和股價\n\n本報告旨在深入探討一個商業創新計畫，評估其對目標客戶群體的潛在影響，並分析投資者對未來增長的預期。報告將探討這些預期如何影響股價的持續上漲，以及支撐這些樂觀預期的關鍵因素。 \n",
+    "output_data": {
+        "20240402": {
+            "token": {
+                "input_tokens": 2622,
+                "output_tokens": 2,
+                "total_tokens": 2624
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240403": {
+            "token": {
+                "input_tokens": 2582,
+                "output_tokens": 2,
+                "total_tokens": 2584
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240408": {
+            "token": {
+                "input_tokens": 2362,
+                "output_tokens": 2,
+                "total_tokens": 2364
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240409": {
+            "token": {
+                "input_tokens": 3019,
+                "output_tokens": 2,
+                "total_tokens": 3021
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240410": {
+            "token": {
+                "input_tokens": 2787,
+                "output_tokens": 2,
+                "total_tokens": 2789
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240411": {
+            "token": {
+                "input_tokens": 3084,
+                "output_tokens": 2,
+                "total_tokens": 3086
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240412": {
+            "token": {
+                "input_tokens": 3198,
+                "output_tokens": 2,
+                "total_tokens": 3200
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240415": {
+            "token": {
+                "input_tokens": 2761,
+                "output_tokens": 2,
+                "total_tokens": 2763
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240416": {
+            "token": {
+                "input_tokens": 3153,
+                "output_tokens": 2,
+                "total_tokens": 3155
+            },
+            "raw_data": "#no \n"
+        },
+        "20240417": {
+            "token": {
+                "input_tokens": 2881,
+                "output_tokens": 2,
+                "total_tokens": 2883
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240418": {
+            "token": {
+                "input_tokens": 2869,
+                "output_tokens": 2,
+                "total_tokens": 2871
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240419": {
+            "token": {
+                "input_tokens": 2831,
+                "output_tokens": 2,
+                "total_tokens": 2833
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240422": {
+            "token": {
+                "input_tokens": 2650,
+                "output_tokens": 2,
+                "total_tokens": 2652
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240423": {
+            "token": {
+                "input_tokens": 2974,
+                "output_tokens": 2,
+                "total_tokens": 2976
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240424": {
+            "token": {
+                "input_tokens": 2889,
+                "output_tokens": 828,
+                "total_tokens": 3717
+            },
+            "raw_data": "## 股票分析\n\n以下是對各股票的分析：\n\n**股票1 (台積電):** #yes\n* 台積電在 AI 領域的領導地位，以及全球半導體產業的需求持續增長，預計將推動台積電的股價上漲。\n* 新聞標題顯示出台積電的正面消息，如回購股票，以及 ADR 的反彈，都預示著台積電的強勁表現。\n\n**股票2 (鴻海):** #yes\n* 鴻海在綠色能源和 AI 領域的積極投資，以及其在電動車和伺服器市場的擴張，預計將為公司帶來可觀的收益。\n* 鴻海積極推動 RE100 倡議，以及與其他大廠的合作，都是利好消息，預計將提振股價。\n\n**股票3 (聯發科):** #yes\n* 聯發科在 5G 和 AI 領域的競爭優勢，以及其強勁的財務狀況，預計將推動其股價的持續上漲。\n* 新聞標題顯示出聯發科在 5G 和 AI 領域的積極發展，以及其在綠色能源方面的投資，都預示著聯發科的強勁表現。\n\n**股票4 (廣達):** #yes\n* 廣達在 AI 伺服器市場的領導地位，以及其在全球市場的擴張，預計將為公司帶來可觀的收益。\n* 廣達在 AI 伺服器市場的強勁需求，以及其在全球市場的擴張，都預示著廣達的強勁表現。\n\n**股票5 (中華電信):** #unknown\n* 中華電信在 5G 和雲端服務的投資，以及其在綠色能源方面的努力，預計將帶來長期的收益。\n* 然而，電信產業的競爭激烈，以及 5G 發展的初期階段，都可能影響其短期表現。\n\n**股票6 (聯發科):** #yes\n* 聯發科在 5G 和 AI 領域的競爭優勢，以及其強勁的財務狀況，預計將推動其股價的持續上漲。\n* 新聞標題顯示出聯發科在 5G 和 AI 領域的積極發展，以及其在綠色能源方面的投資，都預示著聯發科的強勁表現。\n\n**股票7 (富邦金):** #unknown\n* 富邦金在金融市場的影響力，以及其多元化的業務，預計將帶來穩定的收益。\n* 然而，金融市場的波動性，以及利率變動，都可能影響其短期表現。\n\n**股票8 (國泰金):** #unknown\n* 國泰金在金融市場的影響力，以及其多元化的業務，預計將帶來穩定的收益。\n* 然而，金融市場的波動性，以及利率變動，都可能影響其短期表現。\n\n**股票9 (中信金):** #unknown\n* 中信金在金融市場的影響力，以及其多元化的業務，預計將帶來穩定的收益。\n* 然而，金融市場的波動性，以及利率變動，都可能影響其短期表現。\n\n**股票10 (台塑):** #unknown\n* 台塑在石化產業的領導地位，以及其在能源領域的擴張，預計將帶來長期的收益。\n* 然而，油價波動，以及全球經濟的不確定性，都可能影響其短期表現。\n\n\n**請注意:** 以上分析僅供參考，並不構成投資建議。投資人應謹慎評估自身風險承受度，並進行獨立的投資決策。\n"
+        },
+        "20240425": {
+            "token": {
+                "input_tokens": 2918,
+                "output_tokens": 2,
+                "total_tokens": 2920
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240426": {
+            "token": {
+                "input_tokens": 2994,
+                "output_tokens": 2,
+                "total_tokens": 2996
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240429": {
+            "token": {
+                "input_tokens": 2859,
+                "output_tokens": 2,
+                "total_tokens": 2861
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240430": {
+            "token": {
+                "input_tokens": 2961,
+                "output_tokens": 2,
+                "total_tokens": 2963
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240502": {
+            "token": {
+                "input_tokens": 2465,
+                "output_tokens": 2,
+                "total_tokens": 2467
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240503": {
+            "token": {
+                "input_tokens": 3054,
+                "output_tokens": 2,
+                "total_tokens": 3056
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240506": {
+            "token": {
+                "input_tokens": 2854,
+                "output_tokens": 539,
+                "total_tokens": 3393
+            },
+            "raw_data": "## 股票分析：\n\n**股票1（台達電）：** #yes \n* 法人升目標價、外資看好成長動能、AI 需求帶動，預期隔日開盤強勢。\n* 新聞標題充滿正面訊息，預期隔日股價會有良好表現。\n\n**股票2（鴻海）：** #yes\n* AI 產品助攻營收，創同期新高，股價創新高，被納入 00940 成分股。\n* 多個消息顯示鴻海在 AI 領域的發展勢頭強勁，預期隔日開盤會有良好表現。\n\n**股票3（台積電）：** #yes \n* 台積電持續在獲利、研發、投資方面表現亮眼，並領軍台股上漲。\n* 台積電是科技產業龍頭，其強勢表現預期會帶動大盤向上。\n\n**股票4（廣達）：** #yes\n* 廣達在 AI 領域的布局積極，股價放量衝高，被看好為 AI 贏家。\n* 廣達在 AI 領域的發展趨勢良好，預期隔日開盤會受到投資者追捧。\n\n**股票5（中華電）：** #unknown \n* 新聞標題多為營運消息，與股價漲跌關係不明顯。\n\n**股票6（聯發科）：** #unknown \n* 新聞標題多為技術與產業發展消息，與股價漲跌關係不明顯。\n\n**股票7（富邦金）：** #unknown \n* 新聞標題多為股利發放消息，與股價漲跌關係不明顯。\n\n**股票8（中信金）：** #unknown \n* 新闻标题多为股利发放消息，与股价涨跌关系不明显。\n\n**股票9（國泰金）：** #unknown \n* 新闻标题多为股利发放消息，与股价涨跌关系不明显。\n\n**股票10（台塑化）：** #unknown \n* 新闻标题多为原油价格波动消息，与股价涨跌关系不明显。 \n\n**總體判斷:** \n\n基於以上分析，台達電、鴻海、廣達和台積電等股票的新聞標題顯示強勁的成長動能，預期隔日開盤會帶動大盤向上，因此可能存在獲利機會。\n"
+        },
+        "20240507": {
+            "token": {
+                "input_tokens": 3028,
+                "output_tokens": 2,
+                "total_tokens": 3030
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240508": {
+            "token": {
+                "input_tokens": 3039,
+                "output_tokens": 2,
+                "total_tokens": 3041
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240509": {
+            "token": {
+                "input_tokens": 2987,
+                "output_tokens": 2,
+                "total_tokens": 2989
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240510": {
+            "token": {
+                "input_tokens": 3051,
+                "output_tokens": 2,
+                "total_tokens": 3053
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240513": {
+            "token": {
+                "input_tokens": 2718,
+                "output_tokens": 2,
+                "total_tokens": 2720
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240514": {
+            "token": {
+                "input_tokens": 3072,
+                "output_tokens": 2,
+                "total_tokens": 3074
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240515": {
+            "token": {
+                "input_tokens": 3163,
+                "output_tokens": 2,
+                "total_tokens": 3165
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240516": {
+            "token": {
+                "input_tokens": 3048,
+                "output_tokens": 2,
+                "total_tokens": 3050
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240517": {
+            "token": {
+                "input_tokens": 2845,
+                "output_tokens": 2,
+                "total_tokens": 2847
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240520": {
+            "token": {
+                "input_tokens": 2922,
+                "output_tokens": 2,
+                "total_tokens": 2924
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240521": {
+            "token": {
+                "input_tokens": 2999,
+                "output_tokens": 2,
+                "total_tokens": 3001
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240522": {
+            "token": {
+                "input_tokens": 3126,
+                "output_tokens": 2,
+                "total_tokens": 3128
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240523": {
+            "token": {
+                "input_tokens": 3282,
+                "output_tokens": 2,
+                "total_tokens": 3284
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240524": {
+            "token": {
+                "input_tokens": 3069,
+                "output_tokens": 2,
+                "total_tokens": 3071
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240527": {
+            "token": {
+                "input_tokens": 2822,
+                "output_tokens": 2,
+                "total_tokens": 2824
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240528": {
+            "token": {
+                "input_tokens": 3169,
+                "output_tokens": 2,
+                "total_tokens": 3171
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240529": {
+            "token": {
+                "input_tokens": 2991,
+                "output_tokens": 2,
+                "total_tokens": 2993
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240530": {
+            "token": {
+                "input_tokens": 2792,
+                "output_tokens": 2,
+                "total_tokens": 2794
+            },
+            "raw_data": "#unknown \n"
+        }
+    }
+}

@@ -1,0 +1,330 @@
+{
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "init_prompt": "深入探討商業創新計劃，評估其對目標客戶群體的潛在影響，並分析投資者對未來增長的預期。  這些預期如何影響股價的持續上漲？  揭示支撐這些樂觀預期的關鍵因素。 \n",
+    "mutate_prompt": "深入分析商業創新計劃，評估其對目標客戶群體的潛在影響，並探討投資者對未來增長的預期。 這些預期如何影響股價的持續上漲？  揭示支撐這些樂觀預期的關鍵因素。 \n",
+    "output_data": {
+        "20240402": {
+            "token": {
+                "input_tokens": 2596,
+                "output_tokens": 2,
+                "total_tokens": 2598
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240403": {
+            "token": {
+                "input_tokens": 2556,
+                "output_tokens": 274,
+                "total_tokens": 2830
+            },
+            "raw_data": "#unknown \n\n我無法根據新聞標題來預測股價走勢。 \n\n**以下是一些原因：**\n\n* **新聞標題只提供有限資訊：**新聞標題通常只呈現故事的摘要，無法完整反映公司的財務狀況、市場競爭、產業趨勢等因素。\n* **市場情緒影響：**股市受到許多因素影響，包括市場情緒、投資者信心、經濟指標等，新聞標題可能只反映其中一部分，無法完全預測市場走向。\n* **當日沖銷風險：**當日沖銷策略需要快速做出判斷，並在短時間內獲利，新聞標題可能無法提供足夠資訊來做出準確的交易決策。\n\n**建議：**\n\n* **進行更深入的研究：**閱讀公司財務報表、分析師報告、產業報告等資料，才能更全面地了解公司狀況。\n* **關注市場趨勢：**觀察市場動態、經濟指標、政策變化等，才能更準確地預測股價走勢。\n* **控制風險：**制定交易策略，設定止損點，控制投資風險，避免過度追逐短線利潤。\n\n請注意，我無法提供任何投資建議，以上資訊僅供參考。\n"
+        },
+        "20240408": {
+            "token": {
+                "input_tokens": 2336,
+                "output_tokens": 2,
+                "total_tokens": 2338
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240409": {
+            "token": {
+                "input_tokens": 2993,
+                "output_tokens": 2,
+                "total_tokens": 2995
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240410": {
+            "token": {
+                "input_tokens": 2761,
+                "output_tokens": 2,
+                "total_tokens": 2763
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240411": {
+            "token": {
+                "input_tokens": 3058,
+                "output_tokens": 2,
+                "total_tokens": 3060
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240412": {
+            "token": {
+                "input_tokens": 3172,
+                "output_tokens": 2,
+                "total_tokens": 3174
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240415": {
+            "token": {
+                "input_tokens": 2735,
+                "output_tokens": 2,
+                "total_tokens": 2737
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240416": {
+            "token": {
+                "input_tokens": 3127,
+                "output_tokens": 2,
+                "total_tokens": 3129
+            },
+            "raw_data": "#no \n"
+        },
+        "20240417": {
+            "token": {
+                "input_tokens": 2855,
+                "output_tokens": 2,
+                "total_tokens": 2857
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240418": {
+            "token": {
+                "input_tokens": 2843,
+                "output_tokens": 2,
+                "total_tokens": 2845
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240419": {
+            "token": {
+                "input_tokens": 2805,
+                "output_tokens": 2,
+                "total_tokens": 2807
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240422": {
+            "token": {
+                "input_tokens": 2624,
+                "output_tokens": 2,
+                "total_tokens": 2626
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240423": {
+            "token": {
+                "input_tokens": 2948,
+                "output_tokens": 2,
+                "total_tokens": 2950
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240424": {
+            "token": {
+                "input_tokens": 2863,
+                "output_tokens": 2,
+                "total_tokens": 2865
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240425": {
+            "token": {
+                "input_tokens": 2892,
+                "output_tokens": 2,
+                "total_tokens": 2894
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240426": {
+            "token": {
+                "input_tokens": 2968,
+                "output_tokens": 2,
+                "total_tokens": 2970
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240429": {
+            "token": {
+                "input_tokens": 2833,
+                "output_tokens": 2,
+                "total_tokens": 2835
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240430": {
+            "token": {
+                "input_tokens": 2935,
+                "output_tokens": 2,
+                "total_tokens": 2937
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240502": {
+            "token": {
+                "input_tokens": 2439,
+                "output_tokens": 2,
+                "total_tokens": 2441
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240503": {
+            "token": {
+                "input_tokens": 3028,
+                "output_tokens": 2,
+                "total_tokens": 3030
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240506": {
+            "token": {
+                "input_tokens": 2828,
+                "output_tokens": 2,
+                "total_tokens": 2830
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240507": {
+            "token": {
+                "input_tokens": 3002,
+                "output_tokens": 2,
+                "total_tokens": 3004
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240508": {
+            "token": {
+                "input_tokens": 3013,
+                "output_tokens": 2,
+                "total_tokens": 3015
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240509": {
+            "token": {
+                "input_tokens": 2961,
+                "output_tokens": 2,
+                "total_tokens": 2963
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240510": {
+            "token": {
+                "input_tokens": 3025,
+                "output_tokens": 2,
+                "total_tokens": 3027
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240513": {
+            "token": {
+                "input_tokens": 2692,
+                "output_tokens": 2,
+                "total_tokens": 2694
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240514": {
+            "token": {
+                "input_tokens": 3046,
+                "output_tokens": 2,
+                "total_tokens": 3048
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240515": {
+            "token": {
+                "input_tokens": 3137,
+                "output_tokens": 2,
+                "total_tokens": 3139
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240516": {
+            "token": {
+                "input_tokens": 3022,
+                "output_tokens": 2,
+                "total_tokens": 3024
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240517": {
+            "token": {
+                "input_tokens": 2819,
+                "output_tokens": 2,
+                "total_tokens": 2821
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240520": {
+            "token": {
+                "input_tokens": 2896,
+                "output_tokens": 2,
+                "total_tokens": 2898
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240521": {
+            "token": {
+                "input_tokens": 2973,
+                "output_tokens": 2,
+                "total_tokens": 2975
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240522": {
+            "token": {
+                "input_tokens": 3100,
+                "output_tokens": 2,
+                "total_tokens": 3102
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240523": {
+            "token": {
+                "input_tokens": 3256,
+                "output_tokens": 2,
+                "total_tokens": 3258
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240524": {
+            "token": {
+                "input_tokens": 3043,
+                "output_tokens": 2,
+                "total_tokens": 3045
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240527": {
+            "token": {
+                "input_tokens": 2796,
+                "output_tokens": 2,
+                "total_tokens": 2798
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240528": {
+            "token": {
+                "input_tokens": 3143,
+                "output_tokens": 2,
+                "total_tokens": 3145
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240529": {
+            "token": {
+                "input_tokens": 2965,
+                "output_tokens": 2,
+                "total_tokens": 2967
+            },
+            "raw_data": "#yes \n"
+        },
+        "20240530": {
+            "token": {
+                "input_tokens": 2766,
+                "output_tokens": 2,
+                "total_tokens": 2768
+            },
+            "raw_data": "#unknown \n"
+        }
+    }
+}
