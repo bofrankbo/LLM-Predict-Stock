@@ -1,0 +1,98 @@
+{
+    "model": "gemini-1.5-flash",
+    "temperature": 1,
+    "top_p": 0.9,
+    "seed": 0,
+    "init_prompt": "企業創新策略的成功，需要同時滿足客戶需求和吸引投資者關注。前者是創新的源泉，後者是創新的支撐，二者缺一不可，共同推動企業創新發展。 \n",
+    "mutate_prompt": "企業創新策略的成功，需要雙管齊下：既要滿足客戶需求，又要吸引投資者關注。客戶需求是創新的源泉，而投資者關注是創新的支撐，二者缺一不可，共同推動企業的創新發展。 \n",
+    "output_data": {
+        "20240516": {
+            "token": {
+                "input_tokens": 441,
+                "output_tokens": 2,
+                "total_tokens": 443
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240517": {
+            "token": {
+                "input_tokens": 380,
+                "output_tokens": 2,
+                "total_tokens": 382
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240520": {
+            "token": {
+                "input_tokens": 449,
+                "output_tokens": 2,
+                "total_tokens": 451
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240521": {
+            "token": {
+                "input_tokens": 491,
+                "output_tokens": 2,
+                "total_tokens": 493
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240522": {
+            "token": {
+                "input_tokens": 501,
+                "output_tokens": 2,
+                "total_tokens": 503
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240523": {
+            "token": {
+                "input_tokens": 496,
+                "output_tokens": 2,
+                "total_tokens": 498
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240524": {
+            "token": {
+                "input_tokens": 503,
+                "output_tokens": 2,
+                "total_tokens": 505
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240527": {
+            "token": {
+                "input_tokens": 353,
+                "output_tokens": 2,
+                "total_tokens": 355
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240528": {
+            "token": {
+                "input_tokens": 359,
+                "output_tokens": 2,
+                "total_tokens": 361
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240529": {
+            "token": {
+                "input_tokens": 463,
+                "output_tokens": 2,
+                "total_tokens": 465
+            },
+            "raw_data": "#unknown \n"
+        },
+        "20240530": {
+            "token": {
+                "input_tokens": 326,
+                "output_tokens": 2,
+                "total_tokens": 328
+            },
+            "raw_data": "#unknown \n"
+        }
+    }
+}
