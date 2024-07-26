@@ -1,9 +1,11 @@
 /__pycache__
-/__pycache__
-secret.py
+/venv
+/.venv
+/.vscode
 .env
 /mistral-stockLM-finetune
 .DS_Store
-/history_data
 /run_prompt_engineeing/img
 test.ipynb
+/history_data/tw/taifex
+/run_prompt_engineering/out_element/0701_0331
