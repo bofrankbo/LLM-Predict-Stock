@@ -11,7 +11,7 @@ import random
 import csv
 
 # 設定起始日期和結束日期===========================
-start_date = datetime(2024, 1, 3)
+start_date = datetime(2023, 12, 29)
 end_date = datetime(2024, 7, 23)
 # ==============================================
 
@@ -28,6 +28,7 @@ while current_date <= end_date:
     d = current_date.strftime('%Y/%m/%d')
     str_d = current_date.strftime('%Y%m%d')
     current_date += step
+    print(f"    正在處理 {d} 的資料")
 
     # search
     input_search = driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div[3]/div[2]/div[3]/div/div[3]/div/form/fieldset/ul/li[1]/div[2]/input")
@@ -43,22 +44,21 @@ while current_date <= end_date:
     df = pd.read_html(StringIO(table_html))[0]
 
     if df.isin(['查無資料']).any().any():
-        print("DataFrame 中包含 查無資料，可能是未開盤 => 跳過")
+        print("DataFrame 中包含[查無資料]，可能不是交易日 => 跳過")
         continue
 
     path = os.path.join(os.path.abspath(os.getcwd()), 'history_data','tw','fwbtin', f'fwbtin_{str_d}.csv')
     os.makedirs(os.path.dirname(path), exist_ok=True)
     df.to_csv(path, mode='w', encoding='utf-8', index=False)
-    print("成功取得資料 => 存檔", str_d)
-
-    # 取大台指期買賣超
+    print("成功取得三大法人資料 => 存檔")
+    
+    # 取大台買賣超
     path_tx = os.path.join(os.path.abspath(os.getcwd()), 'history_data','tw','fwbtin_tx', f'tx_data.csv')
     df_tx = pd.read_csv(path_tx, encoding='big5')
     df_last = df_tx.iloc[-1]
-    if df_last['日期'] == d:
-        print("已有資料 => 跳過")
+    if pd.to_datetime(d) <= pd.to_datetime(df_last['日期']):
+        print("tx_data.csv 已有資料 => 跳過")
         continue
-    
 
     df_fwbtin = df[df[('Unnamed: 1_level_0', 'Unnamed: 1_level_1', '商品 名稱')] == '臺股期貨']
 
@@ -96,6 +96,7 @@ while current_date <= end_date:
         for row in formatted_rows:
             line = ','.join(row) + '\n'
             file.write(line)
+            print("成功寫入 tx_data.csv")
 
     time.sleep(random.uniform(1, 3))
 
