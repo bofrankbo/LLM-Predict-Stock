@@ -58,7 +58,7 @@ data = [
 
 # 抓資料存到 json 檔
 start_date = datetime(2022, 8, 1)
-end_date = datetime(2024, 7, 31)
+end_date = datetime(2024, 8, 11)
 
 for idx, stock in enumerate(tqdm(data, desc="總進度")):
     stock_name = stock[1]
