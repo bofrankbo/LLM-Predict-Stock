@@ -11,8 +11,8 @@ import random
 import csv
 
 # 設定起始日期和結束日期===========================
-start_date = datetime(2023, 12, 29)
-end_date = datetime(2024, 7, 23)
+start_date = datetime(2024, 7, 23)
+end_date = datetime(2024, 8, 31)
 # ==============================================
 
 # 設定迭代的步進值，這裡設定為一天
