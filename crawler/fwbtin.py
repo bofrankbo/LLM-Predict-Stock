@@ -11,8 +11,8 @@ import random
 import csv
 
 # 設定起始日期和結束日期===========================
-start_date = datetime(2024, 7, 23)
-end_date = datetime(2024, 8, 31)
+start_date = datetime(2024, 8, 30)
+end_date = datetime(2024, 9, 2)
 # ==============================================
 
 # 設定迭代的步進值，這裡設定為一天
@@ -54,9 +54,9 @@ while current_date <= end_date:
     
     # 取大台買賣超
     path_tx = os.path.join(os.path.abspath(os.getcwd()), 'history_data','tw','fwbtin_tx', f'tx_data.csv')
-    df_tx = pd.read_csv(path_tx, encoding='big5')
+    df_tx = pd.read_csv(path_tx, encoding='utf-8')
     df_last = df_tx.iloc[-1]
-    if pd.to_datetime(d) <= pd.to_datetime(df_last['日期']):
+    if datetime.strptime(str_d, '%Y%m%d') <= datetime.strptime(str(df_last['日期']), '%Y%m%d'):
         print("tx_data.csv 已有資料 => 跳過")
         continue
 
@@ -68,7 +68,7 @@ while current_date <= end_date:
 
     # 使用 .xs 方法進行多層索引的選取
     df_last = pd.DataFrame({
-        '日期': d,
+        '日期': str_d,
         '自營商多': df_fwbtin.xs(('未平倉餘額', '多方'), level=[0, 1], axis=1).iloc[0],
         '自營商空': df_fwbtin.xs(('未平倉餘額', '空方'), level=[0, 1], axis=1).iloc[0],
         '自營商多空淨額': df_fwbtin.xs(('未平倉餘額', '多空淨額'), level=[0, 1], axis=1).iloc[0],
@@ -88,11 +88,11 @@ while current_date <= end_date:
     # 將 DataFrame 轉換為字串並格式化
     formatted_rows = []
     for index, row in row_data.iterrows():
-        formatted_row = [index] + ['"{}"'.format(x) for x in row]
+        formatted_row = [index] + ['{}'.format(x) for x in row]
         formatted_rows.append(formatted_row)
 
     # 將新資料附加到 CSV 文件後面
-    with open(path_tx, mode='a', newline='', encoding='big5') as file:
+    with open(path_tx, mode='a', newline='', encoding='utf-8') as file:
         for row in formatted_rows:
             line = ','.join(row) + '\n'
             file.write(line)
