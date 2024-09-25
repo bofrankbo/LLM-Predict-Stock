@@ -69,8 +69,13 @@ data = [
 ]
 
 # 抓資料存到 json 檔
+<<<<<<< Updated upstream
 start_date = datetime(2024, 3, 1)
 end_date = datetime(2024, 9, 18)
+=======
+start_date = datetime(2024, 1, 1)
+end_date = datetime(2024, 9, 24)
+>>>>>>> Stashed changes
 
 for idx, stock in enumerate(tqdm(data, desc="總進度")):
     stock_name = stock[1]
