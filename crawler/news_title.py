@@ -69,8 +69,8 @@ data = [
 ]
 
 # 抓資料存到 json 檔
-start_date = datetime(2023, 12, 1)
-end_date = datetime(2024, 9, 24)
+start_date = datetime(2022, 7, 1)
+end_date = datetime(2024, 9, 30)
 
 for idx, stock in enumerate(tqdm(data, desc="總進度")):
     stock_name = stock[1]
@@ -79,8 +79,11 @@ for idx, stock in enumerate(tqdm(data, desc="總進度")):
 
     # 讀取現有的 JSON 檔案
     if os.path.exists(path):
-        with open(path, "r", encoding="UTF-8") as f:
-            existing_data = json.load(f)
+        try:
+            with open(path, "r", encoding="UTF-8") as f:
+                existing_data = json.load(f)
+        except json.JSONDecodeError:
+            print(f"無法解析 {path} 的 JSON 檔案")
     else:
         existing_data = {}
 
