@@ -11,6 +11,7 @@ from tqdm import tqdm
 def fetch_news_for_date(date, stock_name):
     date_formatted = date.strftime('%m/%d/%Y').lstrip("0").replace(" 0", " ")
     url = f"https://www.google.com/search?q={stock_name}&tbs=cdr:1,cd_min:{date_formatted},cd_max:{date_formatted}&tbm=nws&start=0&gl=US&hl=en"
+    # print(url)
     headers = {
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36"
     }
@@ -20,9 +21,17 @@ def fetch_news_for_date(date, stock_name):
             response = requests.get(url, headers=headers)
             response.raise_for_status()
             soup = BeautifulSoup(response.text, "html.parser")
-            elements = soup.find_all('div', class_='n0jPhd ynAwRc MBeuO nDgy9d')
-            headlines = [element.text for element in elements]
-            return date_formatted, headlines
+            elements = soup.find_all('div', class_='SoAPf')
+            news = []
+            for element in elements:
+                headline = element.find('div', class_='n0jPhd ynAwRc MBeuO nDgy9d')
+                content = element.find('div', class_='GI74Re nDgy9d')
+                if headline and content:
+                    news.append({
+                        'headline': headline.text,
+                        'content': content.text
+                    })
+            return date_formatted, news
         except requests.RequestException as e:
             print(f"錯誤獲取新聞 {date_formatted}: {e}")
             time.sleep(random.uniform(1, 3))
@@ -43,13 +52,13 @@ def crawl_google_news_headlines(start_date, end_date, stock_name, existing_data)
     return headlines_by_date
 
 data = [
-    # ["AAPL", "apple"],
+    # ["AAPL", "Apple Inc."],
     # ["GOOGL", "google"],
     # ["MSFT", "microsoft"],
-    ["AMZN", "amazon"],
+    # ["AMZN", "amazon inc."],
     # ["TSLA", "tesla"],
-    # ["FB", "facebook"],
-    # ["BRK.B", "berkshire hathaway"],
+    # ["META", "Meta Platforms"],
+    # ["BRK", "berkshire hathaway"],
     # ["JPM", "jpmorgan chase"],
     # ["JNJ", "johnson & johnson"],
     # ["V", "visa"],
@@ -93,11 +102,11 @@ data = [
 ]
 
 # 抓資料存到 json 檔
-start_date = datetime(2023, 7, 1)
+start_date = datetime(2023, 10, 1)
 end_date = datetime(2024, 9, 30)
 
 for idx, stock in enumerate(tqdm(data, desc="總進度")):
-    stock_name = stock[1]
+    stock_name = stock[0] + " news"
     path = os.path.join("history_data", "us", "news_title", stock[0] + "news_title.json")
     os.makedirs(os.path.dirname(path), exist_ok=True)
 
