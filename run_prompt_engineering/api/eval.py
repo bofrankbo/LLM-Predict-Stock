@@ -59,9 +59,10 @@ def eval(individual, data, env):
         if pd.isna(rtn):
             rtn = 0
 
-        rtn_list.append([date_str,rtn])
+        
 
         if sig > 0:
+            rtn_list.append([date_str,rtn])
             if rtn > 0:
                 tp += 1
                 gain.append(rtn)
@@ -71,12 +72,15 @@ def eval(individual, data, env):
                 loss.append(rtn)
                 loss_precision.append(rtn)
         elif sig == -1:
+            rtn_list.append([date_str,-rtn])
             if rtn < 0:
                 tn += 1
                 gain.append(-rtn)
             else:
                 fn += 1
                 loss.append(-rtn)
+        else:
+            rtn_list.append([date_str,rtn])
 
     accuracy = 0
     precision = 0
