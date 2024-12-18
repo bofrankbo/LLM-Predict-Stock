@@ -43,7 +43,7 @@ def generate_population(size, num_elements):
 
 # 適應度函數
 def fitness(individual, env, train_datarange, mode, state_file, individual_score, current_generation):
-    result = eval(individual, env['stock_id'], train_datarange, env)
+    result = eval(individual, train_datarange, env)
     if mode == 0:
         score = result['accuracy']
     else:

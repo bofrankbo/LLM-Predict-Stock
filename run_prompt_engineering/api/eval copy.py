@@ -3,48 +3,54 @@ import json
 import os
 from collections import Counter
 
-def eval(individual, data, env):
+def eval(individual, stock_id, data, env):
     country = env['country']
-    stock_id = env['stock_id']
+    # stock_id = env['stock_id']
 
     gain = []
     loss = []
     gain_precision = []
     loss_precision = []
-    rtn_list = []
-    ttl_count = 0
+
     tp = 0
     fp = 0
     tn = 0
     fn = 0
 
+    ttl_count = 0
+
     path_price_his = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{country}/stock_price/{stock_id}.csv"
+
     df_price_his = pd.read_csv(path_price_his, encoding='utf-8')
     df_price_his['Date'] = pd.to_datetime(df_price_his['Date'], format='%Y%m%d')
-    sorted_data = dict(sorted(data.items()))
 
-    for date_str, value in sorted_data.items():
+    for date_str, value in data.items():
         ttl_count += 1
-        # print(date_str, value)
+        # print(date_str)
+        # print(value)
         
         sigs = []
         sig = 0
         for i in range(len(individual)):
 
             if individual[i] == 1:
+                # print(value['skeleton'][f'E{str(i+1)}']['sig'])
                 sigs.append(value['skeleton'][f'{str(i+1)}']['sig'])
             
-        # remove elements with sig = 0
+        # 移除 sig 為 0 的元素
         sigs = list(filter(lambda a: a != 0, sigs))
 
         if len(sigs) > 0:
             # Count the frequency of each element
-            # Get the maximum frequency
-            # If there is a tie, set sig to 0; otherwise, set it to the most frequent element
             count = Counter(sigs)
+
+            # Get the maximum frequency
             max_count = max(count.values())
+
+            # Get all elements with the maximum frequency
             most_frequent = [k for k, v in count.items() if v == max_count]
 
+            # If there is a tie, set sig to 0; otherwise, set it to the most frequent element
             if len(most_frequent) > 1:
                 sig = 0
             else:
@@ -56,10 +62,9 @@ def eval(individual, data, env):
             continue
 
         rtn = (float(df_price.iloc[0]['Close']) - float(df_price.iloc[0]['Open']))  / float(df_price.iloc[0]['Open']) 
+
         if pd.isna(rtn):
             rtn = 0
-
-        rtn_list.append([date_str,rtn])
 
         if sig > 0:
             if rtn > 0:
@@ -120,7 +125,6 @@ def eval(individual, data, env):
         'recall': recall,
         'ev': ev,
         'precision_ev' : precision_ev,
-        'rtn_list' : rtn_list
     }
 
     return result
