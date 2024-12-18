@@ -3,7 +3,8 @@ import json
 import os
 from collections import Counter
 
-def eval(individual, stock_id, data):
+def eval(individual, stock_id, data, env):
+    country = env['country']
     # print(data)
     # 計算準確率和平均報酬率
     gain = []
@@ -18,7 +19,18 @@ def eval(individual, stock_id, data):
 
     ttl_count = 0
 
-    path_price_his = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/us/stock_price/{stock_id}.csv"
+    path_price_his = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{country}/stock_price/{stock_id}.csv"
+
+    # path1 = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/tw/stock_price/{stock_id}twse.csv"
+    # path2 = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/us/stock_price/{stock_id}.csv"
+    # if os.path.exists(f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/tw/stock_price/{stock_id}twse.csv"):
+    #     path_price_his = path1
+    # elif os.path.exists(f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/us/stock_price/{stock_id}.csv"):
+    #     path_price_his = path2
+    # else:
+    #     return None
+
+    # print(path_price_his)
     df_price_his = pd.read_csv(path_price_his, encoding='utf-8')
     df_price_his['Date'] = pd.to_datetime(df_price_his['Date'], format='%Y%m%d')
 
