@@ -52,10 +52,10 @@ def crawl_google_news_headlines(start_date, end_date, stock_name, existing_data)
     return headlines_by_date
 
 data = [
-    # ["AAPL", "Apple Inc."],
-    # ["GOOGL", "google"],
-    ["MSFT", "microsoft"],
-    ["AMZN", "amazon inc."],
+    ["AAPL", "Apple Inc."],
+    ["GOOGL", "google"],
+    # ["MSFT", "microsoft"],
+    # ["AMZN", "amazon inc."],
     # ["TSLA", "tesla"],
     # ["NVDA", "nvidia"],
     # ["META", "Meta Platforms"],
@@ -102,7 +102,7 @@ data = [
 ]
 
 # 抓資料存到 json 檔
-start_date = datetime(2023, 1, 1)
+start_date = datetime(2022, 7, 1)
 end_date = datetime(2024, 9, 30)
 
 for idx, stock in enumerate(tqdm(data, desc="總進度")):
