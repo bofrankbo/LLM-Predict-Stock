@@ -20,9 +20,17 @@ def fetch_news_for_date(date, stock_name):
             response = requests.get(url, headers=headers)
             response.raise_for_status()
             soup = BeautifulSoup(response.text, "html.parser")
-            elements = soup.find_all('div', class_='n0jPhd ynAwRc MBeuO nDgy9d')
-            headlines = [element.text for element in elements]
-            return date_formatted, headlines
+            elements = soup.find_all('div', class_='SoAPf')
+            news = []
+            for element in elements:
+                headline = element.find('div', class_='n0jPhd ynAwRc MBeuO nDgy9d')
+                content = element.find('div', class_='GI74Re nDgy9d')
+                if headline and content:
+                    news.append({
+                        'headline': headline.text,
+                        'content': content.text
+                    })
+            return date_formatted, news
         except requests.RequestException as e:
             print(f"錯誤獲取新聞 {date_formatted}: {e}")
             time.sleep(random.uniform(1, 3))
@@ -66,6 +74,7 @@ data = [
     ["2892", "第一金"],
     ["2207", "和泰車"],
     ["2880", "華南金"],
+    
 ]
 
 # 抓資料存到 json 檔
