@@ -59,7 +59,7 @@ data = [
     ["TSLA", "tesla"],
     ["NVDA", "nvidia"],
     ["META", "Meta Platforms"],
-    # ["BRK", "Berkshire Hathaway"],
+    ["BRK", "Berkshire Hathaway"],
     # ["JPM", "JPMorgan Chase"],
     # ["JNJ", "Johnson & Johnson"],
     # ["V", "Visa"],
@@ -77,7 +77,7 @@ data = [
 ]
 
 # 抓資料存到 json 檔
-start_date = datetime(2023, 7, 1)
+start_date = datetime(2023, 1, 1)
 end_date = datetime(2024, 9, 30)
 
 for idx, stock in enumerate(tqdm(data, desc="總進度")):
