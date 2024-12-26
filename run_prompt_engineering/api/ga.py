@@ -101,7 +101,7 @@ def genetic_algorithm(factors, population_size=20, generations=50, state_file=''
     save_state(state_file, {'generation': start_generation, 'population': current_population, 'individual_score': individual_score}, "init")
 
     for current_generation in range(start_generation, generations):
-        print(f"Generation {current_generation+1}")
+        # print(f"Generation {current_generation+1}")
         selected = selection(current_population, env, datarange, mode, state_file, individual_score, current_generation)
         children = []
         while len(children) < population_size:
@@ -112,11 +112,11 @@ def genetic_algorithm(factors, population_size=20, generations=50, state_file=''
         current_population = children
         best_individual = max(current_population, key=lambda ind: fitness(ind, env, datarange, mode, state_file, individual_score, current_generation))
         best_fitness = fitness(best_individual, env, datarange, mode, state_file, individual_score, current_generation)
-        print(f"Best fitness = {best_fitness}")
-        print(f"Best individual: {best_individual}")
+        # print(f"Best fitness = {best_fitness}")
+        # print(f"Best individual: {best_individual}")
 
         save_state(state_file, {'generation': current_generation+1, 'population': current_population, 'individual_score': individual_score}, "every generation")
         save_generation_results(results_file, current_generation + 1, best_individual, best_fitness)
-        print()
+        # print()
 
     return best_individual

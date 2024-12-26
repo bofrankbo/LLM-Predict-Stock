@@ -8,6 +8,32 @@ import time
 import random
 from tqdm import tqdm
 
+##################################################
+# 設定爬取的日期範圍和股票清單
+
+start_date = datetime(2023, 6, 1)
+end_date = datetime(2024, 9, 30)
+
+data = [
+    ["2330", "台積電"],
+    ["2317", "鴻海"],
+    ["2454", "聯發科"],
+    ["2382", "廣達"],
+    ["3231", "緯創"],
+    ["2324","仁寶"],
+    ["4938", "和碩"],
+    ["2356","英業達"],
+    ["2881", "富邦金"],
+    ["2882", "國泰金"],
+    ["2412", "中華電"],
+    ["3045", "台灣大"],
+    ["6505", "台塑化"],
+    ["2603", "長榮"],
+]
+
+##################################################
+
+
 def fetch_news_for_date(date, stock_name):
     date_formatted = date.strftime('%m/%d/%Y').lstrip("0").replace(" 0", " ")
     url = f"https://www.google.com/search?q={stock_name}&tbs=cdr:1,cd_min:{date_formatted},cd_max:{date_formatted}&tbm=nws&start=0"
@@ -23,7 +49,8 @@ def fetch_news_for_date(date, stock_name):
             elements = soup.find_all('div', class_='SoAPf')
             news = []
             for element in elements:
-                headline = element.find('div', class_='n0jPhd ynAwRc MBeuO nDgy9d')
+                headline = element.find(
+                    'div', class_='n0jPhd ynAwRc MBeuO nDgy9d')
                 content = element.find('div', class_='GI74Re nDgy9d')
                 if headline and content:
                     news.append({
@@ -36,54 +63,30 @@ def fetch_news_for_date(date, stock_name):
             time.sleep(random.uniform(1, 3))
     return date_formatted, []
 
+
 def crawl_google_news_headlines(start_date, end_date, stock_name, existing_data):
     headlines_by_date = existing_data.copy()
-    dates = [start_date + timedelta(days=i) for i in range((end_date - start_date).days + 1)]
-    dates_to_fetch = [date for date in dates if date.strftime('%Y%m%d') not in headlines_by_date]
+    dates = [start_date + timedelta(days=i)
+             for i in range((end_date - start_date).days + 1)]
+    dates_to_fetch = [date for date in dates if date.strftime(
+        '%Y%m%d') not in headlines_by_date]
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
-        futures = {executor.submit(fetch_news_for_date, date, stock_name): date for date in dates_to_fetch}
+        futures = {executor.submit(
+            fetch_news_for_date, date, stock_name): date for date in dates_to_fetch}
         for future in tqdm(concurrent.futures.as_completed(futures), total=len(futures), desc=f"爬取 {stock_name} 的新聞"):
             date_formatted, headlines = future.result()
-            date_formatted2 = datetime.strptime(date_formatted, '%m/%d/%Y').strftime('%Y%m%d')
+            date_formatted2 = datetime.strptime(
+                date_formatted, '%m/%d/%Y').strftime('%Y%m%d')
             headlines_by_date[date_formatted2] = headlines
 
     return headlines_by_date
 
-data = [
-    ["2330", "台積電"],
-    ["2317", "鴻海"],
-    ["2454", "聯發科"],
-    ["2382", "廣達"],
-    ["2881", "富邦金"],
-    ["2308", "台達電"],
-    ["2412", "中華電"],
-    ["2882", "國泰金"],
-    ["2891", "中信金"],
-    ["3711", "日月光"],
-    ["6505", "台塑化"],
-    ["2357", "華碩"],
-    ["1216", "統一"],
-    ["3045", "台灣大"],
-    ["2603", "長榮"],
-    ["2303", "聯電"],
-    ["2886", "兆豐金"],
-    ["2884", "玉山金"],
-    ["2885", "元大金"],
-    ["5880", "合庫金"],
-    ["2892", "第一金"],
-    ["2207", "和泰車"],
-    ["2880", "華南金"],
-    
-]
-
-# 抓資料存到 json 檔
-start_date = datetime(2022, 6, 1)
-end_date = datetime(2024, 9, 30)
 
 for idx, stock in enumerate(tqdm(data, desc="總進度")):
     stock_name = stock[1]
-    path = os.path.join("history_data", "tw", "news_title", stock[0] + "news_title.json")
+    path = os.path.join("history_data", "tw", "news_title",
+                        stock[0] + "news_title.json")
     os.makedirs(os.path.dirname(path), exist_ok=True)
 
     # 讀取現有的 JSON 檔案
@@ -97,12 +100,13 @@ for idx, stock in enumerate(tqdm(data, desc="總進度")):
         existing_data = {}
 
     # 爬取缺少的資料
-    headlines = crawl_google_news_headlines(start_date, end_date, stock_name, existing_data)
+    headlines = crawl_google_news_headlines(
+        start_date, end_date, stock_name, existing_data)
 
     # 將資料按照日期排序
     sorted_headlines = dict(sorted(headlines.items()))
 
     json_content = json.dumps(sorted_headlines, ensure_ascii=False, indent=4)
 
-    with open(path , "w", encoding="UTF-8") as f:
+    with open(path, "w", encoding="UTF-8") as f:
         f.write(json_content)

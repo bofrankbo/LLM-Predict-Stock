@@ -8,6 +8,40 @@ import time
 import random
 from tqdm import tqdm
 
+##################################################
+# 設定爬取的日期範圍和股票清單
+
+start_date = datetime(2023, 6, 1)
+end_date = datetime(2024, 9, 30)
+
+
+data = [
+    ["AAPL", "Apple Inc."],
+    ["GOOGL", "google"],
+    ["MSFT", "microsoft"],
+    ["AMZN", "amazon inc."],
+    ["TSLA", "tesla"],
+    ["NVDA", "nvidia"],
+    ["META", "Meta Platforms"],
+    ["BRK", "Berkshire Hathaway"],
+    # ["JPM", "JPMorgan Chase"],
+    # ["JNJ", "Johnson & Johnson"],
+    # ["V", "Visa"],
+    # ["WMT", "Walmart"],
+    # ["PG", "Procter & Gamble"],
+    # ["MA", "Mastercard"],
+    # ["UNH", "UnitedHealth Group"],
+    # ["HD", "Home Depot"],
+    # ["DIS", "Disney"],
+    # ["BAC", "Bank of America"],
+    # ["PYPL", "PayPal"],
+    # ["ADBE", "Adobe"],
+    # ["CMCSA", "Comcast"],
+    # ["KO", "Coca-Cola"]
+]
+
+##################################################
+
 def fetch_news_for_date(date, stock_name):
     date_formatted = date.strftime('%m/%d/%Y').lstrip("0").replace(" 0", " ")
     url = f"https://www.google.com/search?q={stock_name}&tbs=cdr:1,cd_min:{date_formatted},cd_max:{date_formatted}&tbm=nws&start=0&gl=US&hl=en"
@@ -50,35 +84,6 @@ def crawl_google_news_headlines(start_date, end_date, stock_name, existing_data)
             headlines_by_date[date_formatted2] = headlines
 
     return headlines_by_date
-
-data = [
-    ["AAPL", "Apple Inc."],
-    ["GOOGL", "google"],
-    ["MSFT", "microsoft"],
-    ["AMZN", "amazon inc."],
-    ["TSLA", "tesla"],
-    ["NVDA", "nvidia"],
-    ["META", "Meta Platforms"],
-    ["BRK", "Berkshire Hathaway"],
-    # ["JPM", "JPMorgan Chase"],
-    # ["JNJ", "Johnson & Johnson"],
-    # ["V", "Visa"],
-    # ["WMT", "Walmart"],
-    # ["PG", "Procter & Gamble"],
-    # ["MA", "Mastercard"],
-    # ["UNH", "UnitedHealth Group"],
-    # ["HD", "Home Depot"],
-    # ["DIS", "Disney"],
-    # ["BAC", "Bank of America"],
-    # ["PYPL", "PayPal"],
-    # ["ADBE", "Adobe"],
-    # ["CMCSA", "Comcast"],
-    # ["KO", "Coca-Cola"]
-]
-
-# 抓資料存到 json 檔
-start_date = datetime(2023, 1, 1)
-end_date = datetime(2024, 9, 30)
 
 for idx, stock in enumerate(tqdm(data, desc="總進度")):
     stock_name = stock[0] + " news"
