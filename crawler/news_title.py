@@ -11,7 +11,7 @@ from tqdm import tqdm
 ##################################################
 # 設定爬取的日期範圍和股票清單
 
-start_date = datetime(2023, 6, 1)
+start_date = datetime(2023, 4, 1)
 end_date = datetime(2024, 9, 30)
 
 data = [
