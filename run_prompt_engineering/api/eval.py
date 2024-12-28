@@ -80,7 +80,7 @@ def eval(individual, data, env):
                 fn += 1
                 loss.append(-rtn)
         else:
-            rtn_list.append([date_str,rtn])
+            rtn_list.append([date_str,0])
 
     accuracy = 0
     precision = 0
