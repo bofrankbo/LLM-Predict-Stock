@@ -8,7 +8,6 @@ from datetime import datetime, timedelta
 # 以判斷日期為準
 
 def factor_expanding(llm, env, key_list, value_list, old_data):
-    print("running... factor_expanding")
     st = datetime.strptime(env['start_date'], '%Y%m%d')
     et = datetime.strptime(env['end_date'], '%Y%m%d')
     stock_id = env['stock_id'] # 股票代號
@@ -42,7 +41,7 @@ def factor_expanding(llm, env, key_list, value_list, old_data):
 
         # 如果已經處理過，則跳過
         if "output_data" in old_data and str_sig_date in old_data["output_data"]:
-            print(f"Already processed for date {str_sig_date}, skip this date")
+            # print(f"Already processed for date {str_sig_date}, skip this date")
             output_data[str_sig_date] = old_data["output_data"][str_sig_date]
             continue
         print(f"Processing for date {str_sig_date}")

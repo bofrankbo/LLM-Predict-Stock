@@ -1,4 +1,3 @@
-/__pycache__
 /venv
 /.venv
 /.vscode
@@ -9,5 +8,5 @@
 test.ipynb
 /history_data/tw/taifex
 /history_data/us/dataset
-/run_prompt_engineering/api/__pycache__
-/crawler/crawlapi/__pycache__
+./__pycache__
+*.pyc
