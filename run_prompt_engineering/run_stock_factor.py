@@ -1,26 +1,21 @@
 from api import eval
 from api import genetic_algorithm
-from datetime import timedelta
 from api import factor_expanding
+
 import os
-import json
-import pandas as pd
-from datetime import datetime
-from IPython.display import display
-import pandas as pd
-import json
-import os
-from datetime import datetime, timedelta
 import re
 import json
+import pandas as pd
+from datetime import datetime, timedelta
+
 
 class StockFactor:
     def __init__(self, llm, env):
         self.llm = llm
         self.env = env
-        self.path_out = "out_stock/GA_factor_" + env['start_date'] + "_" + env['end_date'] + "/"
+        self.path_out = "out_stock/GA_factor_" + \
+            env['start_date'] + "_" + env['end_date'] + "/"
 
-        
     def get_news(self):
         stock_id = self.env['stock_id']
         stock_name = self.env['stock_name']
@@ -28,21 +23,24 @@ class StockFactor:
         start_date = datetime.strptime(self.env['start_date'], '%Y%m%d')
         end_date = datetime.strptime(self.env['end_date'], '%Y%m%d')
         # st,et 在 start_date, start_date 中約 3/4 之間
-        st = start_date + timedelta(days=(end_date - start_date).days * 3 / 4 - 15)
+        st = start_date + \
+            timedelta(days=(end_date - start_date).days * 3 / 4 - 15)
         et = start_date + timedelta(days=(end_date - start_date).days * 3 / 4)
 
         path_price = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{country}/stock_price/{stock_id}.csv"
 
         df_price_his = pd.read_csv(path_price, encoding='utf-8')
-        df_price_his['Date'] = pd.to_datetime(df_price_his['Date'], format='%Y%m%d')
-        df_price_his = df_price_his[(st <= df_price_his['Date']) & (df_price_his['Date'] <= et)]
-        
+        df_price_his['Date'] = pd.to_datetime(
+            df_price_his['Date'], format='%Y%m%d')
+        df_price_his = df_price_his[(st <= df_price_his['Date']) & (
+            df_price_his['Date'] <= et)]
+
         news_rise = ''
         news_fall = ''
         for index, row in df_price_his.iterrows():
             news_daily = ""
             path_news_title = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{country}/news_title/{stock_id}news_title.json"
-            
+
             news_date = row['Date']
             last_day = row['Date'] - timedelta(days=1)
             rtn = (row['Close'] - row['Open']) / row['Open']
@@ -93,7 +91,7 @@ class StockFactor:
             請依據{stock_name}新聞比較兩者的不同
             列出10個在上漲會出現的可能原因
             再幫我列出10個下跌可能會出現的原因.""")
-            
+
             res_factors_json = self.llm.invoke(res_facotrs.content + """
             {
                 "1": "xxx：xxxxx"
@@ -104,12 +102,13 @@ class StockFactor:
                 "20":
             }
             把這些因素轉換成這樣的格式，你只需要回答我轉換後的樣子就好""")
-            
-            json_str = re.search(r'\{.*\}', res_factors_json.content, re.DOTALL).group()
+
+            json_str = re.search(
+                r'\{.*\}', res_factors_json.content, re.DOTALL).group()
             json_data = json.loads(json_str)
-            with open(f"{self.path_out}{self.env['stock_id']}/factors.json", 'w', encoding='utf-8') as f:                
+            with open(f"{self.path_out}{self.env['stock_id']}/factors.json", 'w', encoding='utf-8') as f:
                 json.dump(json_data, f, ensure_ascii=False, indent=4)
-                
+
         elif country == 'us':
             res_facotrs = self.llm(f"""
             After the following news, {stock_name}'s stock price rose the next day:
@@ -121,7 +120,7 @@ class StockFactor:
             Please compare the differences between the two sets of news for {stock_name}.
 
             List 10 possible reasons for the price increase and another 10 possible reasons for the price decrease.""")
-            
+
             res_factors_json = self.llm.invoke(res_facotrs.content + """
             {
                 "1": "xxx：xxxxx"
@@ -133,9 +132,10 @@ class StockFactor:
             }
             "Convert these factors into this format; you only need to reply with the converted version.""")
 
-            json_str = re.search(r'\{.*\}', res_factors_json.content, re.DOTALL).group()
+            json_str = re.search(
+                r'\{.*\}', res_factors_json.content, re.DOTALL).group()
             json_data = json.loads(json_str)
-            with open(f"{self.path_out}{self.env['stock_id']}/factors.json", 'w', encoding='utf-8') as f:                
+            with open(f"{self.path_out}{self.env['stock_id']}/factors.json", 'w', encoding='utf-8') as f:
                 json.dump(json_data, f, ensure_ascii=False, indent=4)
 
     def run_factors_expand(self):
@@ -149,10 +149,10 @@ class StockFactor:
             print("No factors found, process factors first")
             os.makedirs(os.path.dirname(path_factors), exist_ok=True)
             self.run_factors()
-            
+
         with open(path_factors, "r", encoding="utf-8") as f:
             factors = json.load(f)
-            
+
         # Access by index using list of keys
         key_list = list(factors.keys())
         value_list = list(factors.values())
@@ -168,13 +168,12 @@ class StockFactor:
             with open(path_expand, "r", encoding="utf-8") as f:
                 old_data = json.load(f)
 
-
-        data = factor_expanding(self.llm, self.env, key_list, value_list, old_data)
+        data = factor_expanding(
+            self.llm, self.env, key_list, value_list, old_data)
 
         # 儲存資料
         with open(path_expand, 'w', encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-
 
     def split_expand(self):
         env = self.env
@@ -206,7 +205,6 @@ class StockFactor:
 
         return train_datarange, test_datarange
 
-
     def run_taining(self, mode, train_datarange, test_datarange):
         env = self.env
         if mode == 0:
@@ -214,13 +212,13 @@ class StockFactor:
         elif mode == 1:
             out_folder = f"{self.path_out}{env['stock_id']}/ev"
         path_factors = f"{self.path_out}{env['stock_id']}/factors.json"
-        with open(path_factors, "r", encoding = "utf-8") as f:
+        with open(path_factors, "r", encoding="utf-8") as f:
             factors = json.load(f)
-            
+
         state_file = out_folder + '/state.json'
         file_gen = out_folder + '/generation_results.json'
         file_result = out_folder + '/result.json'
-        
+
         # print("Start, 第一次跑的話請確認state是空的")
         best_individual = genetic_algorithm(factors, population_size=20, generations=50, state_file=state_file,
                                             results_file=file_gen, env=env, mode=mode, datarange=train_datarange)
@@ -241,7 +239,8 @@ class StockFactor:
 
         # print(res['test'])
         df = pd.DataFrame([res['train'], res['test']], index=['train', 'test'])
-        display(df)
+
+        return df
 
 
 # %%
