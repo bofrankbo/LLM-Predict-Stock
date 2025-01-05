@@ -70,7 +70,7 @@ class StockFactor:
 
         return news_rise, news_fall
 
-    def run_factors(self, llm):
+    def get_factors(self, llm):
         stock_id = self.env['stock_id']
         stock_name = self.env['stock_name']
         country = self.env['country']
@@ -137,7 +137,7 @@ class StockFactor:
             with open(f"{self.path_out}{self.env['stock_id']}/factors.json", 'w', encoding='utf-8') as f:
                 json.dump(json_data, f, ensure_ascii=False, indent=4)
 
-    def run_factors_expand(self, llm_news, llm_factors):
+    def expand_factors(self, llm_news, llm_factors):
         factors = {}
         path_factors = f"{self.path_out}{self.env['stock_id']}/factors.json"
         
@@ -146,7 +146,7 @@ class StockFactor:
         else:
             print("No factors found, process factors first")
             os.makedirs(os.path.dirname(path_factors), exist_ok=True)
-            self.run_factors(llm_news)
+            self.get_factors(llm_news)
 
         with open(path_factors, "r", encoding="utf-8") as f:
             factors = json.load(f)
@@ -168,36 +168,6 @@ class StockFactor:
         # 儲存資料
         with open(path_expand, 'w', encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-
-    def split_expand(self):
-        env = self.env
-        path_expand = f"{self.path_out}{self.env['stock_id']}/expand.json"
-        
-        start_day = datetime.strptime(env['start_date'], '%Y%m%d')
-        end_day = datetime.strptime(env['end_date'], '%Y%m%d')
-
-        # read train data
-        with open(path_expand, 'r', encoding='utf-8') as f:
-            content = f.read().strip()
-            data_points = json.loads(content)
-
-        # split to training and testing
-        total_days = (end_day - start_day).days + 1
-        split_point = int(total_days * 3 / 4)
-        training_end_day = start_day + timedelta(days=split_point - 1)
-        testing_start_day = training_end_day + timedelta(days=1)
-        train_datarange = {}
-        for date_str, value in data_points["output_data"].items():
-            date = datetime.strptime(date_str, '%Y%m%d')
-            if start_day <= date <= training_end_day:
-                train_datarange[date_str] = value
-        test_datarange = {}
-        for date_str, value in data_points["output_data"].items():
-            date = datetime.strptime(date_str, '%Y%m%d')
-            if testing_start_day <= date <= end_day:
-                test_datarange[date_str] = value
-
-        return train_datarange, test_datarange
 
     def run_taining(self, mode, train_datarange, test_datarange):
         env = self.env
