@@ -10,8 +10,7 @@ from datetime import datetime, timedelta
 
 
 class StockFactor:
-    def __init__(self, llm, env):
-        self.llm = llm
+    def __init__(self, env):
         self.env = env
         self.path_out = "out_stock/GA_factor_" + \
             env['start_date'] + "_" + env['end_date'] + "/"
@@ -71,7 +70,7 @@ class StockFactor:
 
         return news_rise, news_fall
 
-    def run_factors(self):
+    def run_factors(self, llm):
         stock_id = self.env['stock_id']
         stock_name = self.env['stock_name']
         country = self.env['country']
@@ -81,7 +80,7 @@ class StockFactor:
         news_rise, news_fall = self.get_news()
 
         if country == 'tw':
-            res_facotrs = self.llm.invoke(f"""
+            res_facotrs = llm.invoke(f"""
             以下的新聞出現後隔日{stock_name}的股價上漲
             『{news_rise}』
 
@@ -92,7 +91,7 @@ class StockFactor:
             列出10個在上漲會出現的可能原因
             再幫我列出10個下跌可能會出現的原因.""")
 
-            res_factors_json = self.llm.invoke(res_facotrs.content + """
+            res_factors_json = llm.invoke(res_facotrs.content + """
             {
                 "1": "xxx：xxxxx"
                 "2": 
@@ -110,7 +109,7 @@ class StockFactor:
                 json.dump(json_data, f, ensure_ascii=False, indent=4)
 
         elif country == 'us':
-            res_facotrs = self.llm(f"""
+            res_facotrs = llm(f"""
             After the following news, {stock_name}'s stock price rose the next day:
             『{news_rise}』
 
@@ -121,7 +120,7 @@ class StockFactor:
 
             List 10 possible reasons for the price increase and another 10 possible reasons for the price decrease.""")
 
-            res_factors_json = self.llm.invoke(res_facotrs.content + """
+            res_factors_json = llm.invoke(res_facotrs.content + """
             {
                 "1": "xxx：xxxxx"
                 "2": 
@@ -138,17 +137,16 @@ class StockFactor:
             with open(f"{self.path_out}{self.env['stock_id']}/factors.json", 'w', encoding='utf-8') as f:
                 json.dump(json_data, f, ensure_ascii=False, indent=4)
 
-    def run_factors_expand(self):
+    def run_factors_expand(self, llm_news, llm_factors):
         factors = {}
         path_factors = f"{self.path_out}{self.env['stock_id']}/factors.json"
-        # print(path_factors)
+        
         if os.path.exists(path_factors):
-            # print("Factors found")
             pass
         else:
             print("No factors found, process factors first")
             os.makedirs(os.path.dirname(path_factors), exist_ok=True)
-            self.run_factors()
+            self.run_factors(llm_news)
 
         with open(path_factors, "r", encoding="utf-8") as f:
             factors = json.load(f)
@@ -156,11 +154,7 @@ class StockFactor:
         # Access by index using list of keys
         key_list = list(factors.keys())
         value_list = list(factors.values())
-        # print(key_list)
-        # print(len(key_list))
-        # print(len(value_list))
 
-        # 讀取舊資料
         old_data = {}
         path_expand = f"{self.path_out}{self.env['stock_id']}/expand.json"
         os.makedirs(os.path.dirname(path_expand), exist_ok=True)
@@ -169,7 +163,7 @@ class StockFactor:
                 old_data = json.load(f)
 
         data = factor_expanding(
-            self.llm, self.env, key_list, value_list, old_data)
+            llm_factors, self.env, key_list, value_list, old_data)
 
         # 儲存資料
         with open(path_expand, 'w', encoding="utf-8") as f:
@@ -178,7 +172,7 @@ class StockFactor:
     def split_expand(self):
         env = self.env
         path_expand = f"{self.path_out}{self.env['stock_id']}/expand.json"
-        # 解析日期
+        
         start_day = datetime.strptime(env['start_date'], '%Y%m%d')
         end_day = datetime.strptime(env['end_date'], '%Y%m%d')
 
@@ -241,52 +235,3 @@ class StockFactor:
         df = pd.DataFrame([res['train'], res['test']], index=['train', 'test'])
 
         return df
-
-
-# %%
-# import os
-# import json
-# import pandas as pd
-# from api import eval
-
-# folders = os.listdir(env['path_out'])
-# results = []
-# index = []
-# print(env['start_date'], env['end_date'])
-
-# for folder in folders:
-#     if folder == "factors_eng.json" or folder == "factors.json" or folder == "old_expand":
-#         continue
-#     folders_result = os.listdir(f"{env['path_out']}{folder}")
-#     print(f"{folder}:")
-#     for file in folders_result:
-#         if file == "factors.json" or file == "expand.json" or file == "expand1.json" or file == "expand2.json":
-#             continue
-#         path = f"{env['path_out']}{folder}/{file}/generation_results.json"
-#         with open(path, 'r') as f:
-#             content = f.read().strip()
-#         # print(file)
-#         best_individual = []
-#         for text in content.split('\n'):
-#             data = json.loads(text)
-#             best_individual = data['best_individual']
-
-#         try:
-#             individual = best_individual
-#             print(f"{env['path_out']}{folder}/expand.json")
-#             train_datarange, test_datarange = split_expand(env, f"{env['path_out']}{folder}/expand.json")
-#             res_train = eval(individual, train_datarange)
-#             res_test = eval(individual, test_datarange)
-#             res = {
-#                 "train": res_train,
-#                 "test": res_test,
-#                 "individual": individual,
-#             }
-
-#             file_result = f"{env['path_out']}{folder}/{file}/result.json"
-#             print(file_result)
-#             with open(file_result, 'w') as f:
-#                 json.dump(res, f, ensure_ascii=False, indent=4)
-#         except:
-#             print("\tError")
-#             pass
