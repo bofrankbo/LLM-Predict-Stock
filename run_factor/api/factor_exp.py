@@ -62,8 +62,10 @@ def factor_expanding(llm, env, key_list, value_list, old_data):
                     ("system", "You are an expert in the financial field and will answer users' questions about stock day trading."),
                     ("human",
                     f"""
-                    This is the news: {text_news}
-                    If it aligns with what {factor} represents as positive news, answer "yes." If it is negative news, answer "no." If it is indeterminate, answer "unknown."
+                    This is the stock price change factor {factor}
+                    Please consider the following news. Will stocks rise or fall because of {factor}?
+                    This is today's news: {text_news}
+                    Please answer yes if it is likely to rise, answer no if it is likely to fall, and answer unknown if it is impossible to determine or irrelevant.
 
                     Respond in the following format. You only need to give a single judgment based on all the news headlines:
                     Judgment: #yes/#no/#unknown. Try to avoid answering "unknown."
@@ -75,8 +77,10 @@ def factor_expanding(llm, env, key_list, value_list, old_data):
                     ("system", "你是一個厲害的金融領域專家"),
                     ("human",
                     f"""
-                    這是新聞標題{text_news}
-                    如果有符合{factor}所表示的利多請回答yes，如果是利空則回答no，如果無法判斷則回答unknown。
+                    這是股價變動因素{factor}
+                    請思考以下新聞，是否會因為{factor}而使股票上漲或下跌？
+                    這是今天的新聞: {text_news}
+                    如果可能上漲請回答yes，如果可能下跌則回答no，如果無法判斷或無關則回答unknown。
 
                     用以下格式回答，你只需要綜合所有的新聞給出一次的回答就好：
                     判斷結果: #yes/#no/#unknown 請盡量不要回答unknown

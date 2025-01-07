@@ -42,13 +42,14 @@ def eval(individual, data, env):
             # Get the maximum frequency
             # If there is a tie, set sig to 0; otherwise, set it to the most frequent element
             count = Counter(sigs)
-            max_count = max(count.values())
-            most_frequent = [k for k, v in count.items() if v == max_count]
-
-            if len(most_frequent) > 1:
-                sig = 0
-            else:
-                sig = most_frequent[0]
+            
+            # print(count[1], count[-1])
+            diff = 0
+            if count[1] > count[-1] + diff:
+                sig = 1
+            elif count[1] < count[-1] - diff:
+                sig = -1
+        # print(sig)
 
         df_price = df_price_his[df_price_his['Date'] == pd.to_datetime(date_str, format='%Y%m%d')]
 
@@ -58,8 +59,6 @@ def eval(individual, data, env):
         rtn = (float(df_price.iloc[0]['Close']) - float(df_price.iloc[0]['Open']))  / float(df_price.iloc[0]['Open']) 
         if pd.isna(rtn):
             rtn = 0
-
-        
 
         if sig > 0:
             rtn_list.append([date_str,rtn])

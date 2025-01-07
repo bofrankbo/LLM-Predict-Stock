@@ -7,14 +7,16 @@ import re
 import json
 import pandas as pd
 from datetime import datetime, timedelta
+import matplotlib.pyplot as plt
 
 
 class StockFactor:
     def __init__(self, env):
         self.env = env
-        self.path_out = "out_stock/GA_factor_" + \
-            env['start_date'] + "_" + env['end_date'] + "/"
-
+        self.path_out = "out_stock/GA_factor_" + env['start_date'] + "_" + env['end_date'] + "/" + env['stock_id'] + "/"
+        self.path_factors = f"{self.path_out}/factors.json"
+        self.path_expand = f"{self.path_out}/expand.json"
+        
     def get_news(self):
         stock_id = self.env['stock_id']
         stock_name = self.env['stock_name']
@@ -70,13 +72,17 @@ class StockFactor:
 
         return news_rise, news_fall
 
-    def get_factors(self, llm):
+    def generate_factors(self, llm):
         stock_id = self.env['stock_id']
         stock_name = self.env['stock_name']
         country = self.env['country']
         start_date = datetime.strptime(self.env['start_date'], '%Y%m%d')
         end_date = datetime.strptime(self.env['end_date'], '%Y%m%d')
-
+        
+        if os.path.exists(self.path_factors):
+            return
+        
+        os.makedirs(os.path.dirname(self.path_factors), exist_ok=True)
         news_rise, news_fall = self.get_news()
 
         if country == 'tw':
@@ -105,7 +111,7 @@ class StockFactor:
             json_str = re.search(
                 r'\{.*\}', res_factors_json.content, re.DOTALL).group()
             json_data = json.loads(json_str)
-            with open(f"{self.path_out}{self.env['stock_id']}/factors.json", 'w', encoding='utf-8') as f:
+            with open(self.path_factors, 'w', encoding='utf-8') as f:
                 json.dump(json_data, f, ensure_ascii=False, indent=4)
 
         elif country == 'us':
@@ -134,21 +140,24 @@ class StockFactor:
             json_str = re.search(
                 r'\{.*\}', res_factors_json.content, re.DOTALL).group()
             json_data = json.loads(json_str)
-            with open(f"{self.path_out}{self.env['stock_id']}/factors.json", 'w', encoding='utf-8') as f:
+            with open(self.path_factors, 'w', encoding='utf-8') as f:
                 json.dump(json_data, f, ensure_ascii=False, indent=4)
 
-    def expand_factors(self, llm_news, llm_factors):
+    def expand_factors(self, llm_factors):
+        '''
+            llm_factors: list of factors
+            
+            update factors.json
+            it can generate new factors while old factors are not empty
+            if old data is empty, then create a new one
+        '''
         factors = {}
-        path_factors = f"{self.path_out}{self.env['stock_id']}/factors.json"
         
-        if os.path.exists(path_factors):
-            pass
-        else:
-            print("No factors found, process factors first")
-            os.makedirs(os.path.dirname(path_factors), exist_ok=True)
-            self.get_factors(llm_news)
+        if not os.path.exists(self.path_factors):
+            print("No factors found, Please process Factors first")
+            return
 
-        with open(path_factors, "r", encoding="utf-8") as f:
+        with open(self.path_factors, "r", encoding="utf-8") as f:
             factors = json.load(f)
 
         # Access by index using list of keys
@@ -156,27 +165,28 @@ class StockFactor:
         value_list = list(factors.values())
 
         old_data = {}
-        path_expand = f"{self.path_out}{self.env['stock_id']}/expand.json"
-        os.makedirs(os.path.dirname(path_expand), exist_ok=True)
-        if os.path.exists(path_expand):
-            with open(path_expand, "r", encoding="utf-8") as f:
+        if os.path.exists(self.path_expand):
+            with open(self.path_expand, "r", encoding="utf-8") as f:
                 old_data = json.load(f)
 
-        data = factor_expanding(
-            llm_factors, self.env, key_list, value_list, old_data)
+        data = factor_expanding(llm_factors, self.env, key_list, value_list, old_data)
 
         # 儲存資料
-        with open(path_expand, 'w', encoding="utf-8") as f:
+        with open(self.path_expand, 'w', encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
 
-    def run_taining(self, mode, train_datarange, test_datarange):
+    def run_taining(self, mode, train_datarange, test_datarange, re_run=False):
         env = self.env
         if mode == 0:
-            out_folder = f"{self.path_out}{env['stock_id']}/ac"
+            out_folder = f"{self.path_out}/ac"
         elif mode == 1:
-            out_folder = f"{self.path_out}{env['stock_id']}/ev"
-        path_factors = f"{self.path_out}{env['stock_id']}/factors.json"
-        with open(path_factors, "r", encoding="utf-8") as f:
+            out_folder = f"{self.path_out}/ev"
+        
+        if re_run:
+            if os.path.exists(out_folder):
+                os.remove(out_folder)
+            
+        with open(self.path_factors, "r", encoding="utf-8") as f:
             factors = json.load(f)
 
         state_file = out_folder + '/state.json'
@@ -205,3 +215,35 @@ class StockFactor:
         df = pd.DataFrame([res['train'], res['test']], index=['train', 'test'])
 
         return df
+    
+    def plot_acumulated_return(self):
+        env = self.env
+        # 顯示回測結果
+        with open(f"{self.path_out}ev/result.json", 'r') as f:
+            res = json.load(f)
+            res_test = res['test']
+
+        path_price_his = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/stock_price/{env['stock_id']}.csv"
+        df_price_his = pd.read_csv(path_price_his, encoding='utf-8')
+        df_price_his['Date'] = pd.to_datetime(df_price_his['Date'], format='%Y%m%d')
+        list_bnh_rtn = []
+        list_factor_rtn = []
+        balance = df_price_his[df_price_his['Date'].dt.strftime(
+            '%Y%m%d') == res_test["rtn_list"][0][0]]['Open'].values[0]
+        list_date = []
+
+        for date, rtn in res_test['rtn_list']:
+            # print(rtn)
+            balance = balance * (1 + float(rtn))
+            list_date.append(date)
+            list_bnh_rtn.append(df_price_his[df_price_his['Date'].dt.strftime(
+                '%Y%m%d') == date]['Close'].values[0])
+            list_factor_rtn.append(balance)
+
+        df = pd.DataFrame(list_factor_rtn, index=list_date, columns=['balance'])
+        dplot = [datetime.strptime(d, '%Y%m%d').date() for d in list_date]
+
+        plt.title(f" {env['stock_id']} trading results")
+        plt.plot(dplot, list_bnh_rtn, label="buy and hold")  # blue
+        plt.plot(dplot, list_factor_rtn, label="factor trading")  # orange
+        plt.show()
