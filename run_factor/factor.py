@@ -1,10 +1,12 @@
 from api import eval
 from api import genetic_algorithm
 from api import factor_expanding
+from api import split_expand
 
 import os
 import re
 import json
+import shutil
 import pandas as pd
 from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
@@ -13,7 +15,8 @@ import matplotlib.pyplot as plt
 class StockFactor:
     def __init__(self, env):
         self.env = env
-        self.path_out = "out_stock/GA_factor_" + env['start_date'] + "_" + env['end_date'] + "/" + env['stock_id'] + "/"
+        self.path_folder = "out_stock/GA_factor_"
+        self.path_out = self.path_folder + env['start_date'] + "_" + env['end_date'] + "/" + env['stock_id'] + "/"
         self.path_factors = f"{self.path_out}/factors.json"
         self.path_expand = f"{self.path_out}/expand.json"
         
@@ -82,6 +85,7 @@ class StockFactor:
         if os.path.exists(self.path_factors):
             return
         
+        print(f"Generating factors for {stock_id}")
         os.makedirs(os.path.dirname(self.path_factors), exist_ok=True)
         news_rise, news_fall = self.get_news()
 
@@ -115,7 +119,7 @@ class StockFactor:
                 json.dump(json_data, f, ensure_ascii=False, indent=4)
 
         elif country == 'us':
-            res_facotrs = llm(f"""
+            res_facotrs = llm.invoke(f"""
             After the following news, {stock_name}'s stock price rose the next day:
             『{news_rise}』
 
@@ -178,12 +182,14 @@ class StockFactor:
     def run_taining(self, mode, train_datarange, test_datarange, re_run=False):
         env = self.env
         if mode == 0:
-            out_folder = f"{self.path_out}/ac"
+            out_folder = f"{self.path_out}ac"
         elif mode == 1:
-            out_folder = f"{self.path_out}/ev"
+            out_folder = f"{self.path_out}ev"
         
         if re_run:
-            if os.path.exists(out_folder):
+            if os.path.isdir(out_folder):
+                shutil.rmtree(out_folder)
+            elif os.path.isfile(out_folder):
                 os.remove(out_folder)
             
         with open(self.path_factors, "r", encoding="utf-8") as f:
@@ -216,29 +222,44 @@ class StockFactor:
 
         return df
     
-    def plot_acumulated_return(self):
+    def split_exp(self):
+        return split_expand(self.env, self.path_expand)
+        
+    
+    def plot_acumulated_return(self, date_ranges=None):
         env = self.env
-        # 顯示回測結果
-        with open(f"{self.path_out}ev/result.json", 'r') as f:
-            res = json.load(f)
-            res_test = res['test']
-
+        if date_ranges is None:
+            date_ranges = [
+                [self.env['start_date'], self.env['end_date']]
+            ]
         path_price_his = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/stock_price/{env['stock_id']}.csv"
         df_price_his = pd.read_csv(path_price_his, encoding='utf-8')
         df_price_his['Date'] = pd.to_datetime(df_price_his['Date'], format='%Y%m%d')
         list_bnh_rtn = []
         list_factor_rtn = []
-        balance = df_price_his[df_price_his['Date'].dt.strftime(
-            '%Y%m%d') == res_test["rtn_list"][0][0]]['Open'].values[0]
         list_date = []
 
-        for date, rtn in res_test['rtn_list']:
-            # print(rtn)
-            balance = balance * (1 + float(rtn))
-            list_date.append(date)
-            list_bnh_rtn.append(df_price_his[df_price_his['Date'].dt.strftime(
-                '%Y%m%d') == date]['Close'].values[0])
-            list_factor_rtn.append(balance)
+        path_out_rtn1 = self.path_folder + date_ranges[0][0] + "_" + date_ranges[0][1] + "/" + env['stock_id'] + "/"
+        with open(f"{path_out_rtn1}ev/result.json", 'r') as f:
+                res = json.load(f)
+                res_test = res['test']
+            
+        balance = df_price_his[df_price_his['Date'].dt.strftime('%Y%m%d') == res_test["rtn_list"][0][0]]['Open'].values[0]
+        
+        for date_range in date_ranges:
+            path_out_rtn = self.path_folder + date_range[0] + "_" + date_range[1] + "/" + env['stock_id'] + "/"
+            # 顯示回測結果
+            with open(f"{path_out_rtn}ev/result.json", 'r') as f:
+                res = json.load(f)
+                res_test = res['test']
+
+            for date, rtn in res_test['rtn_list']:
+                # print(rtn)
+                balance = balance * (1 + float(rtn))
+                list_date.append(date)
+                list_bnh_rtn.append(df_price_his[df_price_his['Date'].dt.strftime(
+                    '%Y%m%d') == date]['Close'].values[0])
+                list_factor_rtn.append(balance)
 
         df = pd.DataFrame(list_factor_rtn, index=list_date, columns=['balance'])
         dplot = [datetime.strptime(d, '%Y%m%d').date() for d in list_date]

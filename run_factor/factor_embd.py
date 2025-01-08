@@ -13,7 +13,8 @@ class FactorEmb(StockFactor):
         self.client = OpenAI()
         self.client.api_key = os.getenv('OPENAI_API_KEY')
         self.env = env
-        self.path_out = "out_stock/Embd_" + env['start_date'] + "_" + env['end_date'] + "/" + env['stock_id'] + "/"
+        self.path_folder = "out_stock/Embd_"
+        self.path_out = self.path_folder + env['start_date'] + "_" + env['end_date'] + "/" + env['stock_id'] + "/"
         self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"
         self.path_embeddings = self.path_out + "embeddings.json"  # 輸出 JSON 檔案
         self.path_clustered_summaries = self.path_out + "clustered_summaries.json"  # 輸出 JSON 檔案
@@ -98,6 +99,7 @@ class FactorEmb(StockFactor):
         if os.path.exists(self.path_factors):
             return
         
+        print(f"Generating factors for {stock_id}")
         if not os.path.exists(self.path_clustered_summaries):
             print("Factor Embd Generating factors...")
             # Step 1: 載入新聞標題

@@ -1,11 +1,7 @@
 from datetime import datetime, timedelta
 import json
 
-def split_expand(env):
-    path_out = "out_stock/GA_factor_" + \
-            env['start_date'] + "_" + env['end_date'] + "/"
-    path_expand = f"{path_out}{env['stock_id']}/expand.json"
-    
+def split_expand(env, path_expand): 
     start_day = datetime.strptime(env['start_date'], '%Y%m%d')
     end_day = datetime.strptime(env['end_date'], '%Y%m%d')
 
