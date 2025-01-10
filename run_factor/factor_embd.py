@@ -8,6 +8,11 @@ from datetime import datetime
 import re
 
 class FactorEmb(StockFactor):
+    '''
+        Implement from StockFactor
+        Change the factor generating function from factor
+        First embed the news title and cluster them then generate factors
+    '''
     def __init__(self, env):
         # 初始化 OpenAI API
         self.client = OpenAI()
@@ -20,6 +25,7 @@ class FactorEmb(StockFactor):
         self.path_clustered_summaries = self.path_out + "clustered_summaries.json"  # 輸出 JSON 檔案
         self.path_factors = f"{self.path_out}/factors.json"
         self.path_expand = f"{self.path_out}/expand.json"
+        self.price_his = self.get_price_his()
         
         self.similarity_threshold = 0.8  # 語意相似度閾值
         

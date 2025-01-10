@@ -17,8 +17,59 @@ class StockFactor:
         self.env = env
         self.path_folder = "out_stock/GA_factor_"
         self.path_out = self.path_folder + env['start_date'] + "_" + env['end_date'] + "/" + env['stock_id'] + "/"
-        self.path_factors = f"{self.path_out}/factors.json"
-        self.path_expand = f"{self.path_out}/expand.json"
+        self.path_factors = f"{self.path_out}factors.json"
+        self.path_expand = f"{self.path_out}expand.json"
+        self.price_his = self.get_price_his()
+        
+    def get_price_his(self):
+        country = self.env['country']
+        stock_id = self.env['stock_id']
+        path_price_his = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{country}/stock_price/{stock_id}.csv"
+        df_price_his = pd.read_csv(path_price_his, encoding="utf-8")
+        df_price_his["Date"] = pd.to_datetime(df_price_his["Date"], format="%Y%m%d")
+        return df_price_his
+    
+    def get_factors(self):
+        if os.path.exists(self.path_factors):
+            with open(self.path_factors, "r", encoding="utf-8") as f:
+                factors = json.load(f)
+            return factors
+        else:
+            print("No factors found, Please process Factors first")
+            return
+
+    def get_expand(self, show_sig=False):
+        
+        if os.path.exists(self.path_expand):
+            with open(self.path_expand, "r", encoding="utf-8") as f:
+                expand_data = json.load(f)
+        else:
+            print("No expand data found, Please process Factors first")
+            return
+        
+        if show_sig:
+            key = expand_data["output_data"].keys()
+            for k in key:
+                print(f"{k.rjust(10)} => ", end="")
+                for k2 in expand_data["output_data"][k]["skeleton"].keys():
+                    print(f"{str(expand_data['output_data'][k]['skeleton'][k2]['sig']).rjust(3)}", end=" ")
+                print()
+                
+        return expand_data
+    
+    def get_individual(self, mode):
+        env = self.env
+        if mode == 0:
+            out_folder = f"{self.path_out}ac"
+        elif mode == 1:
+            out_folder = f"{self.path_out}ev"
+        
+        with open(f"{out_folder}/result.json", "r", encoding="utf-8") as f:
+            res = json.load(f)
+            individual = res['individual']
+        
+        return individual
+
         
     def get_news(self):
         stock_id = self.env['stock_id']
@@ -26,18 +77,13 @@ class StockFactor:
         country = self.env['country']
         start_date = datetime.strptime(self.env['start_date'], '%Y%m%d')
         end_date = datetime.strptime(self.env['end_date'], '%Y%m%d')
+        
         # st,et 在 start_date, start_date 中約 3/4 之間
-        st = start_date + \
-            timedelta(days=(end_date - start_date).days * 3 / 4 - 15)
+        st = start_date + timedelta(days=(end_date - start_date).days * 3 / 4 - 15)
         et = start_date + timedelta(days=(end_date - start_date).days * 3 / 4)
 
-        path_price = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{country}/stock_price/{stock_id}.csv"
-
-        df_price_his = pd.read_csv(path_price, encoding='utf-8')
-        df_price_his['Date'] = pd.to_datetime(
-            df_price_his['Date'], format='%Y%m%d')
-        df_price_his = df_price_his[(st <= df_price_his['Date']) & (
-            df_price_his['Date'] <= et)]
+        df_price_his['Date'] = pd.to_datetime(self.price_his['Date'], format='%Y%m%d')
+        df_price_his = df_price_his[(st <= df_price_his['Date']) & (self.price_his['Date'] <= et)]
 
         news_rise = ''
         news_fall = ''
@@ -155,16 +201,8 @@ class StockFactor:
             it can generate new factors while old factors are not empty
             if old data is empty, then create a new one
         '''
-        factors = {}
         
-        if not os.path.exists(self.path_factors):
-            print("No factors found, Please process Factors first")
-            return
-
-        with open(self.path_factors, "r", encoding="utf-8") as f:
-            factors = json.load(f)
-
-        # Access by index using list of keys
+        factors = self.get_factors()
         key_list = list(factors.keys())
         value_list = list(factors.values())
 
@@ -200,13 +238,12 @@ class StockFactor:
         file_result = out_folder + '/result.json'
 
         # print("Start, 第一次跑的話請確認state是空的")
-        best_individual = genetic_algorithm(factors, population_size=20, generations=50, state_file=state_file,
-                                            results_file=file_gen, env=env, mode=mode, datarange=train_datarange)
+        best_individual = genetic_algorithm(factors, state_file, file_gen, train_datarange, self.price_his, population_size=20, generations=50, mode=mode)
         # print(f"Best individual: {best_individual}")
 
         individual = best_individual
-        res_train = eval(individual, train_datarange, env)
-        res_test = eval(individual, test_datarange, env)
+        res_train = eval(individual, train_datarange, self.price_his)
+        res_test = eval(individual, test_datarange, self.price_his)
         res = {
             "train": res_train,
             "test": res_test,
@@ -232,9 +269,7 @@ class StockFactor:
             date_ranges = [
                 [self.env['start_date'], self.env['end_date']]
             ]
-        path_price_his = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/stock_price/{env['stock_id']}.csv"
-        df_price_his = pd.read_csv(path_price_his, encoding='utf-8')
-        df_price_his['Date'] = pd.to_datetime(df_price_his['Date'], format='%Y%m%d')
+        df_price_his = self.price_his
         list_bnh_rtn = []
         list_factor_rtn = []
         list_date = []

@@ -42,8 +42,8 @@ def generate_population(size, num_elements):
     return population
 
 # 適應度函數
-def fitness(individual, env, train_datarange, mode, state_file, individual_score, current_generation):
-    result = eval(individual, train_datarange, env)
+def fitness(individual, train_datarange, mode, state_file, individual_score, current_generation, df_price_his):
+    result = eval(individual, train_datarange, df_price_his)
     if mode == 0:
         score = result['accuracy']
     else:
@@ -59,8 +59,8 @@ def fitness(individual, env, train_datarange, mode, state_file, individual_score
     return score
 
 # 選擇
-def selection(population, env, train_datarange, mode, state_file, individual_score, current_generation):
-    population.sort(key=lambda ind: fitness(ind, env, train_datarange, mode, state_file, individual_score, current_generation), reverse=True)
+def selection(population, train_datarange, mode, state_file, individual_score, current_generation, df_price_his):
+    population.sort(key=lambda ind: fitness(ind, train_datarange, mode, state_file, individual_score, current_generation, df_price_his), reverse=True)
     return population[:int(len(population)/2)]
 
 # 交叉
@@ -81,7 +81,7 @@ def mutate(individual, mutation_rate=0.005):
     return individual
 
 # 主程式-----------------------------------------
-def genetic_algorithm(factors, population_size=20, generations=50, state_file='', results_file='', env=None, mode=0, datarange=None):
+def genetic_algorithm(factors, state_file, results_file, datarange, df_price_his, population_size=20, generations=50, mode=0):
     individual_score = {}
     current_generation = 0
 
@@ -93,7 +93,7 @@ def genetic_algorithm(factors, population_size=20, generations=50, state_file=''
         if len(current_population) == 0:
             current_population = generate_population(population_size, len(factors))
         if start_generation >= generations:
-            return max(current_population, key=lambda ind: fitness(ind, env, datarange, mode, state_file, individual_score, start_generation))
+            return max(current_population, key=lambda ind: fitness(ind, datarange, mode, state_file, individual_score, start_generation, df_price_his))
     else:
         current_population = generate_population(population_size, len(factors))
         start_generation = 0
@@ -102,7 +102,7 @@ def genetic_algorithm(factors, population_size=20, generations=50, state_file=''
 
     for current_generation in range(start_generation, generations):
         # print(f"Generation {current_generation+1}")
-        selected = selection(current_population, env, datarange, mode, state_file, individual_score, current_generation)
+        selected = selection(current_population, datarange, mode, state_file, individual_score, current_generation, df_price_his)
         children = []
         while len(children) < population_size:
             parent1, parent2 = random.sample(selected, 2)
@@ -110,8 +110,8 @@ def genetic_algorithm(factors, population_size=20, generations=50, state_file=''
             children.append(mutate(child1, 0.005))
             children.append(mutate(child2, 0.005))
         current_population = children
-        best_individual = max(current_population, key=lambda ind: fitness(ind, env, datarange, mode, state_file, individual_score, current_generation))
-        best_fitness = fitness(best_individual, env, datarange, mode, state_file, individual_score, current_generation)
+        best_individual = max(current_population, key=lambda ind: fitness(ind, datarange, mode, state_file, individual_score, current_generation, df_price_his))
+        best_fitness = fitness(best_individual, datarange, mode, state_file, individual_score, current_generation, df_price_his)
         # print(f"Best fitness = {best_fitness}")
         # print(f"Best individual: {best_individual}")
 
