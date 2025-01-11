@@ -273,8 +273,6 @@ class StockFactor:
     
     def split_exp(self):
         return split_expand(self.env, self.path_expand)
-    
-    # def get_acumulated_return(self, date_ranges=None):
         
     def get_return_list(self):
         result = self.get_result(1)
@@ -283,67 +281,13 @@ class StockFactor:
         
         list_date = []
         list_bnh_rtn = []
-        list_daytrade_rtn = []
-        list_accumulated_rtn = []
-        
-        balance = df_price_his[df_price_his['Date'].dt.strftime('%Y%m%d') == res_test["rtn_list"][0][0]]['Open'].values[0]
-        accu_balance = df_price_his[df_price_his['Date'].dt.strftime('%Y%m%d') == res_test["accumulated_rtn_list"][0][0]]['Open'].values[0]
+        list_stag_rtn = []
 
         for date, rtn in res_test['rtn_list']:
             # print(rtn)
             list_date.append(date)
             list_bnh_rtn.append(df_price_his[df_price_his['Date'].dt.strftime(
                 '%Y%m%d') == date]['Close'].values[0])
-            list_daytrade_rtn.append(rtn)
-        
-        for date, rtn in res_test['accumulated_rtn_list']:
-            # print(rtn)
-            list_accumulated_rtn.append(rtn)
+            list_stag_rtn.append(rtn)
             
-        return list_date, list_bnh_rtn, list_daytrade_rtn, list_accumulated_rtn
-    
-    def plot_acumulated_return(self, date_ranges=None):
-        env = self.env
-        if date_ranges is None:
-            date_ranges = [
-                [self.env['start_date'], self.env['end_date']]
-            ]
-        df_price_his = self.price_his
-        list_bnh_rtn = []
-        list_factor_rtn = []
-        list_date = []
-
-        path_out_rtn1 = self.path_folder + date_ranges[0][0] + "_" + date_ranges[0][1] + "/" + env['stock_id'] + "/"
-        with open(f"{path_out_rtn1}ev/result.json", 'r') as f:
-            res = json.load(f)
-            res_test = res['test']
-            
-        balance = df_price_his[df_price_his['Date'].dt.strftime('%Y%m%d') == res_test["accumulated_rtn_list"][0][0]]['Open'].values[0]
-        
-        for date_range in date_ranges:
-            path_out_rtn = self.path_folder + date_range[0] + "_" + date_range[1] + "/" + env['stock_id'] + "/"
-            # 顯示回測結果
-            with open(f"{path_out_rtn}ev/result.json", 'r') as f:
-                res = json.load(f)
-                res_test = res['test']
-
-            for date, rtn in res_test['accumulated_rtn_list']:
-                # print(rtn)
-                balance = balance * (1 + float(rtn))
-                list_date.append(date)
-                list_bnh_rtn.append(df_price_his[df_price_his['Date'].dt.strftime(
-                    '%Y%m%d') == date]['Close'].values[0])
-                list_factor_rtn.append(balance)
-
-        df = pd.DataFrame(list_factor_rtn, index=list_date, columns=['balance'])
-        dplot = [datetime.strptime(d, '%Y%m%d').date() for d in list_date]
-
-        plt.title(f" {env['stock_id']} trading results")
-        plt.plot(dplot, list_bnh_rtn, label="Buy & Hold")  # blue
-        plt.plot(dplot, list_factor_rtn, label="Factor Day trade")  # orange
-        
-        
-        plt.xlabel('Date')
-        plt.ylabel('Price')
-        plt.legend()
-        plt.show()
+        return list_date, list_bnh_rtn, list_stag_rtn

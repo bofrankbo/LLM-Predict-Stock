@@ -29,102 +29,6 @@ def get_sigs(data, individual, diff=0):
 
     return sigs
 
-def acumulate_calculate(sigs, df_price_his):
-    '''
-        long-term investment evaluation
-    '''
-
-    rtn_list = [] # daily return list
-    hold = 0
-    enter_price = 0
-    
-    # print(sigs)
-    for date_str, sig in sigs:
-        # print(date_str, sig, hold)
-    
-        date = pd.to_datetime(date_str, format="%Y%m%d")
-        df_price = df_price_his[df_price_his["Date"] == date]
-        if df_price.empty:
-            continue
-        
-        # print(date_str, sig, hold)
-        # check is last day
-        if date_str == sigs[-1][0]:
-            # print("last day")
-            if hold == 1:
-                # Close
-                rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
-                rtn_list.append([date_str, rtn])
-            elif hold == -1:
-                # Close
-                rtn = (enter_price - float(df_price.iloc[0]["Open"])) / enter_price
-                rtn_list.append([date_str, rtn])
-            elif hold == 0:
-                rtn_list.append([date_str, 0])
-            # print()
-            return rtn_list
-        
-        
-        if sig == 1:
-            if hold == 0:
-                # long
-                enter_price = float(df_price.iloc[0]["Open"])
-                rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
-                enter_price = float(df_price.iloc[0]["Close"])
-                rtn_list.append([date_str, rtn])
-                hold = 1
-            elif hold == 1:
-                # hold
-                rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
-                enter_price = float(df_price.iloc[0]["Close"])
-                rtn_list.append([date_str, rtn])
-                hold = 1
-            elif hold == -1:
-                # Close 
-                rtn = (enter_price - float(df_price.iloc[0]["Open"])) / enter_price
-                enter_price = 0
-                rtn_list.append([date_str, rtn])
-                hold = 0
-                
-        elif sig == 0:
-            if hold == 0:
-                # do nothing
-                rtn_list.append([date_str, 0])
-                hold = 0
-            elif hold == 1:
-                # hold
-                rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
-                enter_price = float(df_price.iloc[0]["Close"])
-                rtn_list.append([date_str, rtn])
-                hold = 1
-            elif hold == -1:
-                # hold
-                rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
-                enter_price = float(df_price.iloc[0]["Close"])
-                rtn_list.append([date_str, rtn])
-                hold = -1
-                
-        elif sig == -1:        
-            if hold == 0:
-                # Short
-                enter_price = float(df_price.iloc[0]["Open"])
-                rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
-                enter_price = float(df_price.iloc[0]["Close"])
-                rtn_list.append([date_str, rtn])
-                hold = -1
-            elif hold == 1:
-                # Close
-                rtn = (float(df_price.iloc[0]["Open"]) - enter_price) / enter_price
-                enter_price = 0
-                rtn_list.append([date_str, rtn])
-                hold = 0
-            elif hold == -1:
-                # hold
-                rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
-                enter_price = float(df_price.iloc[0]["Close"])
-                rtn_list.append([date_str, rtn])
-                hold = -1
-
 def eval(individual, data, df_price_his):
     '''
         Day Trade Eval : Evaluate daily return based on the individual
@@ -136,29 +40,18 @@ def eval(individual, data, df_price_his):
     gain_precision = []
     loss_precision = []
     rtn_list = []
-    accumulated_rtn_list = acumulate_calculate(sigs, df_price_his)
+    # rtn_list = acumulate_calculate(sigs, df_price_his)
     ttl_count = 0
     tp = 0
     fp = 0
     tn = 0
     fn = 0
 
-    
-
-    for date_str, sig in sigs:
-        # print(date_str, sig)
-
-        date = pd.to_datetime(date_str, format="%Y%m%d")
-        df_price = df_price_his[df_price_his["Date"] == date]
-        if df_price.empty:
-            continue
-
-        close = float(df_price.iloc[0]["Close"])
-        open = float(df_price.iloc[0]["Open"])
-        rtn = (close - open) / open
-
-        if pd.isna(rtn):
-            rtn = 0
+    i = 0
+    for date_str, rtn in rtn_list:
+        sig = sigs[i]
+        i += 1
+        
         # print(rtn)
         ttl_count += 1
         if sig == 1:
@@ -221,7 +114,6 @@ def eval(individual, data, df_price_his):
         "ev": ev,
         "precision_ev": precision_ev,
         "rtn_list": rtn_list,
-        "accumulated_rtn_list": accumulated_rtn_list,
     }
     # print()
 
