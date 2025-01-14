@@ -18,19 +18,24 @@ class FactorUsableON(StockFactor):
         Change the factor generating function from factor
         First embed the news title and cluster them then generate factors
     '''
-    def __init__(self, env):
+    def __init__(self, env, count=1):
         # 初始化 OpenAI API
         self.client = OpenAI()
         self.client.api_key = os.getenv('OPENAI_API_KEY')
         self.env = env
-        self.path_folder = "out_stock/FactorUsable_"
-        self.path_out = self.path_folder + env['start_date'] + "_" + env['end_date'] + "/" + env['stock_id'] + "/"
+        
+        # 固定的資料路徑
         self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"
-        self.path_embeddings = self.path_out + "embeddings.json"  # 輸出 JSON 檔案
-        self.path_clustered_summaries = self.path_out + "clustered_summaries.json"  # 輸出 JSON 檔案
-        self.path_factors = f"{self.path_out}/factors.json"
-        self.path_expand = f"{self.path_out}/expand.json"
         self.price_his = self.get_price_his()
+        
+        # 輸出的路徑
+        self.path_folder = "FactorUsable"
+        self.path_out =  f"{self.path_folder}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
+        self.path_embeddings = f"out_stock/Embeddings/{self.path_out}/embeddings.json"    # 輸出 JSON 檔案
+        self.path_clustered_summaries = f"out_stock/Cluster_summmaries/{self.path_out}/embeddings.json"    # 輸出 JSON 檔案
+        self.path_factors = f"out_stock/Factors/{self.path_out}/factors.json"    # 輸出 JSON 檔案
+        self.path_expand = f"out_stock/Expands/{self.path_out}/expand.json"    # 輸出 JSON 檔案
+        self.training_path = f"out_stock/Training_result/{self.path_folder}/{env['start_date']}_{env['end_date']}/{str(count)}/{env['stock_id']}"
         
         self.similarity_threshold = 0.8  # 語意相似度閾值
         
@@ -45,7 +50,7 @@ class FactorUsableON(StockFactor):
         if os.path.exists(self.path_factors):
             return
         
-        os.makedirs(self.path_out, exist_ok=True)
+        os.makedirs(os.path.dirname(self.path_factors), exist_ok=True)
         print(f"Generating factors for {stock_id}")
         res_factors_json = {}
         if country == 'tw':
@@ -78,16 +83,10 @@ class FactorUsableON(StockFactor):
     def run_taining(self, mode, train_datarange, test_datarange, re_run=False):
         env = self.env
         if mode == 0:
-            out_folder = f"{self.path_out}ac"
+            out_folder = f"{self.training_path}/ac"
         elif mode == 1:
-            out_folder = f"{self.path_out}ev"
+            out_folder = f"{self.training_path}/ev"
         
-        if re_run:
-            if os.path.isdir(out_folder):
-                shutil.rmtree(out_folder)
-            elif os.path.isfile(out_folder):
-                os.remove(out_folder)
-            
         with open(self.path_factors, "r", encoding="utf-8") as f:
             factors = json.load(f)
 

@@ -13,12 +13,14 @@ import matplotlib.pyplot as plt
 
 
 class StockFactor:
-    def __init__(self, env):
+    def __init__(self, env, count=0):
         self.env = env
         self.path_folder = "out_stock/GA_factor_"
         self.path_out = self.path_folder + env['start_date'] + "_" + env['end_date'] + "/" + env['stock_id'] + "/"
         self.path_factors = f"{self.path_out}factors.json"
         self.path_expand = f"{self.path_out}expand.json"
+        self.training_path = f"out_stock/Training_result/{self.path_folder}/{env['start_date']}_{env['end_date']}/{str(count)}/{env['stock_id']}"
+
         self.price_his = self.get_price_his()
         
     def get_price_his(self):
@@ -41,9 +43,9 @@ class StockFactor:
     def get_result(self, mode):
         env = self.env
         if mode == 0:
-            out_folder = f"{self.path_out}ac"
+            out_folder = f"{self.training_path}/ac"
         elif mode == 1:
-            out_folder = f"{self.path_out}ev"
+            out_folder = f"{self.training_path}/ev"
         
         with open(f"{out_folder}/result.json", "r", encoding="utf-8") as f:
             res = json.load(f)

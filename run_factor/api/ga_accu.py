@@ -43,6 +43,12 @@ def generate_population(size, num_elements):
 
 # 適應度函數
 def fitness(individual, train_datarange, mode, state_file, individual_score, current_generation, df_price_his):
+    state = load_state(state_file)
+    if state:
+        current_pop = state['population']
+        if state['individual_score'].get(str(individual)):
+            return state['individual_score'][str(individual)]
+    
     result = eval_accu(individual, train_datarange, df_price_his)
     if mode == 0:
         score = result['accuracy']
@@ -51,9 +57,6 @@ def fitness(individual, train_datarange, mode, state_file, individual_score, cur
 
     individual_score[str(individual)] = score
 
-    state = load_state(state_file)
-    if state:
-        current_pop = state['population']
     save_state(state_file, {'generation': current_generation, 'population': current_pop, 'individual_score': individual_score}, "fitness")
 
     return score
@@ -100,6 +103,7 @@ def genetic_algorithm_accu(factors, state_file, results_file, datarange, df_pric
 
     save_state(state_file, {'generation': start_generation, 'population': current_population, 'individual_score': individual_score}, "init")
 
+    print("Start GA training")
     for current_generation in range(start_generation, generations):
         # print(f"Generation {current_generation+1}")
         selected = selection(current_population, datarange, mode, state_file, individual_score, current_generation, df_price_his)
