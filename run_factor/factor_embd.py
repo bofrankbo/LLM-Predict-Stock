@@ -3,13 +3,13 @@ from openai import OpenAI
 import numpy as np
 import os
 from sklearn.cluster import KMeans
-from factor import StockFactor
+from factor import Factor
 from datetime import datetime
 import re
 
-class FactorEmb(StockFactor):
+class FactorEmb(Factor):
     '''
-        Implement from StockFactor
+        Implement from Factor
         Change the factor generating function from factor
         First embed the news title and cluster them then generate factors
     '''

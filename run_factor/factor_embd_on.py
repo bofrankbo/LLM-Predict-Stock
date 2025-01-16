@@ -8,14 +8,14 @@ from openai import OpenAI
 from sklearn.cluster import KMeans
 from datetime import datetime
 
-from factor import StockFactor
-from api import genetic_algorithm_accu
-from api import eval_accu
+from factor import Factor
+from api import genetic_algorithm_on
+from api import eval_on
 
 
-class FactorEmbOverNight(StockFactor):
+class FactorEmbOverNight(Factor):
     '''
-        Implement from StockFactor
+        Implement from Factor
         Change the factor generating function from factor
         First embed the news title and cluster them then generate factors
     '''
@@ -205,12 +205,12 @@ class FactorEmbOverNight(StockFactor):
         file_result = out_folder + '/result.json'
 
         # print("Start, 第一次跑的話請確認state是空的")
-        best_individual = genetic_algorithm_accu(factors, state_file, file_gen, train_datarange, self.price_his, population_size=20, generations=50, mode=mode)
+        best_individual = genetic_algorithm_on(factors, state_file, file_gen, train_datarange, self.price_his, population_size=20, generations=50, mode=mode)
         # print(f"Best individual: {best_individual}")
 
         individual = best_individual
-        res_train = eval_accu(individual, train_datarange, self.price_his)
-        res_test = eval_accu(individual, test_datarange, self.price_his)
+        res_train = eval_on(individual, train_datarange, self.price_his)
+        res_test = eval_on(individual, test_datarange, self.price_his)
         res = {
             "train": res_train,
             "test": res_test,

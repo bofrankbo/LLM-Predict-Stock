@@ -1,7 +1,7 @@
 import os
 import json
 import random
-from api.eval_accu import eval_accu
+from run_factor.api.eval_on import eval_on
 
 # 儲存-----------------------------------------
 # 儲存狀態
@@ -49,7 +49,7 @@ def fitness(individual, train_datarange, mode, state_file, individual_score, cur
         if state['individual_score'].get(str(individual)):
             return state['individual_score'][str(individual)]
     
-    result = eval_accu(individual, train_datarange, df_price_his)
+    result = eval_on(individual, train_datarange, df_price_his)
     if mode == 0:
         score = result['accuracy']
     else:
@@ -84,7 +84,7 @@ def mutate(individual, mutation_rate=0.005):
     return individual
 
 # 主程式-----------------------------------------
-def genetic_algorithm_accu(factors, state_file, results_file, datarange, df_price_his, population_size=20, generations=50, mode=0):
+def genetic_algorithm_on(factors, state_file, results_file, datarange, df_price_his, population_size=20, generations=50, mode=0):
     individual_score = {}
     current_generation = 0
 

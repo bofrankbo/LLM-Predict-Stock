@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 
 
-class StockFactor:
+class Factor:
     def __init__(self, env, count=0):
         self.env = env
         self.path_folder = "out_stock/GA_factor_"

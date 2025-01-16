@@ -11,10 +11,10 @@ import pandas as pd
 from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 
-from factor import StockFactor
+from factor import Factor
 
 
-class Test1(StockFactor):
+class Test1(Factor):
     def __init__(self, env):
         self.env = env
         self.path_folder = "out_stock/GA_factor_"

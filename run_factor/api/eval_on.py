@@ -29,7 +29,7 @@ def get_sigs(data, individual, diff=0):
 
     return sigs
 
-def acumulate_calculate(sigs, df_price_his):
+def overnight_rtn_list(sigs, df_price_his):
     '''
         long-term investment evaluation
     '''
@@ -124,7 +124,7 @@ def acumulate_calculate(sigs, df_price_his):
                 
     
 
-def eval_accu(individual, data, df_price_his):
+def eval_on(individual, data, df_price_his):
     '''
         Day Trade Eval : Evaluate daily return based on the individual
     '''
@@ -134,7 +134,7 @@ def eval_accu(individual, data, df_price_his):
     loss = []
     gain_precision = []
     loss_precision = []
-    accumulated_rtn_list = acumulate_calculate(sigs, df_price_his)
+    accumulated_rtn_list = overnight_rtn_list(sigs, df_price_his)
     ttl_count = 0
     tp = 0
     fp = 0

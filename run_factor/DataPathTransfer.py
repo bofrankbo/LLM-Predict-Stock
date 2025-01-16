@@ -1,7 +1,7 @@
 import os
 import shutil
 
-class DataPath:
+class DataPathTransfer:
     def __init__(self, env):
         self.env = env
         self.old_path_folder = "out_stock/EmbdON_"
