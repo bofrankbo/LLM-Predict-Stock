@@ -47,10 +47,13 @@ def eval(individual, data, df_price_his):
     tn = 0
     fn = 0
 
-    i = 0
-    for date_str, rtn in rtn_list:
-        sig = sigs[i]
-        i += 1
+    for date_str, sig in sigs:
+        
+        open_price = df_price_his.loc[df_price_his["Date"] == date_str, "Open"].values[0]
+        close_price = df_price_his.loc[df_price_his["Date"] == date_str, "Close"].values[0]
+        
+        rtn = (close_price - open_price) / open_price
+
         
         # print(rtn)
         ttl_count += 1

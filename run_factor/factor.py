@@ -13,20 +13,32 @@ import matplotlib.pyplot as plt
 
 
 class Factor:
-    def __init__(self, env, count=0):
+    def __init__(self, env, count=1):
         self.env = env
-        self.path_folder = "out_stock/GA_factor_"
-        self.path_out = self.path_folder + env['start_date'] + "_" + env['end_date'] + "/" + env['stock_id'] + "/"
-        self.path_factors = f"{self.path_out}factors.json"
-        self.path_expand = f"{self.path_out}expand.json"
-        self.training_path = f"out_stock/Training_result/{self.path_folder}/{env['start_date']}_{env['end_date']}/{str(count)}/{env['stock_id']}"
-
+        self.run_count = count
+        self.path_folder = "Factor"
+        self.get_path()
+    
+    def get_path(self):
+        env = self.env
+        # Data path of history data
+        self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"
         self.price_his = self.get_price_his()
         
+        # output path
+        self.path_out =  f"{self.path_folder}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
+        self.path_embeddings = f"out_stock/Embeddings/{self.path_out}/embeddings.json"    # 輸出 JSON 檔案
+        self.path_clustered_summaries = f"out_stock/Cluster_summmaries/{self.path_out}/embeddings.json"    # 輸出 JSON 檔案
+        self.path_factors = f"out_stock/Factors/{self.path_out}/factors.json"    # 輸出 JSON 檔案
+        self.path_expand = f"out_stock/Expands/{self.path_out}/expand.json"    # 輸出 JSON 檔案
+        self.training_path = f"out_stock/Training_result/{self.path_folder}/{env['start_date']}_{env['end_date']}/{str(self.run_count)}/{env['stock_id']}"
+        self.similarity_threshold = 0.8
+    
     def get_price_his(self):
         country = self.env['country']
         stock_id = self.env['stock_id']
-        path_price_his = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{country}/stock_price/{stock_id}.csv"
+        path_price_his = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{country}/stock_price/{stock_id}tech.csv"
+        # print(path_price_his)
         df_price_his = pd.read_csv(path_price_his, encoding="utf-8")
         df_price_his["Date"] = pd.to_datetime(df_price_his["Date"], format="%Y%m%d")
         return df_price_his
@@ -74,9 +86,9 @@ class Factor:
     def get_individual(self, mode):
         env = self.env
         if mode == 0:
-            out_folder = f"{self.path_out}ac"
+            out_folder = f"{self.training_path}/ac"
         elif mode == 1:
-            out_folder = f"{self.path_out}ev"
+            out_folder = f"{self.training_path}/ev"
         
         with open(f"{out_folder}/result.json", "r", encoding="utf-8") as f:
             res = json.load(f)
@@ -231,18 +243,12 @@ class Factor:
         with open(self.path_expand, 'w', encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
 
-    def run_taining(self, mode, train_datarange, test_datarange, re_run=False):
+    def run_taining(self, mode, train_datarange, test_datarange):
         env = self.env
         if mode == 0:
-            out_folder = f"{self.path_out}ac"
+            out_folder = f"{self.training_path}/ac"
         elif mode == 1:
-            out_folder = f"{self.path_out}ev"
-        
-        if re_run:
-            if os.path.isdir(out_folder):
-                shutil.rmtree(out_folder)
-            elif os.path.isfile(out_folder):
-                os.remove(out_folder)
+            out_folder = f"{self.training_path}/ev"
             
         with open(self.path_factors, "r", encoding="utf-8") as f:
             factors = json.load(f)
@@ -251,7 +257,6 @@ class Factor:
         file_gen = out_folder + '/generation_results.json'
         file_result = out_folder + '/result.json'
 
-        # print("Start, 第一次跑的話請確認state是空的")
         best_individual = genetic_algorithm(factors, state_file, file_gen, train_datarange, self.price_his, population_size=20, generations=50, mode=mode)
         # print(f"Best individual: {best_individual}")
 
@@ -288,8 +293,7 @@ class Factor:
         for date, rtn in res_test['rtn_list']:
             # print(rtn)
             list_date.append(date)
-            list_bnh_rtn.append(df_price_his[df_price_his['Date'].dt.strftime(
-                '%Y%m%d') == date]['Close'].values[0])
+            list_bnh_rtn.append(df_price_his[df_price_his['Date'].dt.strftime('%Y%m%d') == date]['Close'].values[0])
             list_stag_rtn.append(rtn)
             
         return list_date, list_bnh_rtn, list_stag_rtn

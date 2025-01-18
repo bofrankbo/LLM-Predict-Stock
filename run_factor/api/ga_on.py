@@ -1,7 +1,7 @@
 import os
 import json
 import random
-from run_factor.api.eval_on import eval_on
+from api.eval_on import eval_on
 
 # 儲存-----------------------------------------
 # 儲存狀態
