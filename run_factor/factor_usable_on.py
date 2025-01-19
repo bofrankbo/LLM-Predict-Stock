@@ -9,7 +9,7 @@ from sklearn.cluster import KMeans
 from datetime import datetime
 
 from factor import Factor
-from api import genetic_algorithm_on
+from api import GeneticAlgorithm
 from api import eval_on
 
 class FactorUsableON(Factor):
@@ -19,26 +19,11 @@ class FactorUsableON(Factor):
         First embed the news title and cluster them then generate factors
     '''
     def __init__(self, env, count=1):
-        # 初始化 OpenAI API
-        self.client = OpenAI()
-        self.client.api_key = os.getenv('OPENAI_API_KEY')
+
         self.env = env
-        
-        # 固定的資料路徑
-        self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"
-        self.price_his = self.get_price_his()
-        
-        # 輸出的路徑
+        self.run_count = count
         self.path_folder = "FactorUsable"
-        self.path_out =  f"{self.path_folder}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
-        self.path_embeddings = f"out_stock/Embeddings/{self.path_out}/embeddings.json"    # 輸出 JSON 檔案
-        self.path_clustered_summaries = f"out_stock/Cluster_summmaries/{self.path_out}/embeddings.json"    # 輸出 JSON 檔案
-        self.path_factors = f"out_stock/Factors/{self.path_out}/factors.json"    # 輸出 JSON 檔案
-        self.path_expand = f"out_stock/Expands/{self.path_out}/expand.json"    # 輸出 JSON 檔案
-        self.training_path = f"out_stock/Training_result/{self.path_folder}/{env['start_date']}_{env['end_date']}/{str(count)}/{env['stock_id']}"
-        
-        self.similarity_threshold = 0.8  # 語意相似度閾值
-        
+        self.get_path()
     
     def generate_factors(self):
         stock_id = self.env['stock_id']
@@ -93,10 +78,9 @@ class FactorUsableON(Factor):
         state_file = out_folder + '/state.json'
         file_gen = out_folder + '/generation_results.json'
         file_result = out_folder + '/result.json'
-
-        # print("Start, 第一次跑的話請確認state是空的")
-        best_individual = genetic_algorithm_on(factors, state_file, file_gen, train_datarange, self.price_his, population_size=20, generations=50, mode=mode)
-        # print(f"Best individual: {best_individual}")
+        # print(file_result)
+        ga = GeneticAlgorithm(factors, state_file, file_gen, train_datarange, self.price_his, eval_on, population_size=20, generations=50, mode=mode)
+        best_individual = ga.run()
 
         individual = best_individual
         res_train = eval_on(individual, train_datarange, self.price_his)

@@ -17,13 +17,13 @@ def get_sigs(data, individual, diff=0):
             if individual[i] == 1:
                 daily_sigs.append(value["skeleton"][f"{str(i+1)}"]["sig"])
 
-            if len(daily_sigs) > 0:
-                count = Counter(daily_sigs)
-                # print(count[1], count[-1])
-                if count[1] > count[-1] + diff:
-                    sig = 1
-                elif count[1] < count[-1] - diff:
-                    sig = -1
+        if len(daily_sigs) > 0:
+            count = Counter(daily_sigs)
+            # print(count[1], count[-1])
+            if count[1] > count[-1] + diff:
+                sig = 1
+            elif count[1] < count[-1] - diff:
+                sig = -1
 
         sigs.append([date_str, sig])
 
@@ -34,14 +34,17 @@ def overnight_rtn_list(sigs, df_price_his):
         long-term investment evaluation
     '''
     rtn_list = []   # daily return list
+    in_out_list_sig = []
     position = 0
     enter_price = 0
     
     # print(sigs)
+    
     for date_str, sig in sigs:
 
         date = pd.to_datetime(date_str, format="%Y%m%d")
         df_price = df_price_his[df_price_his["Date"] == date]
+
         # print(df_price)
         if df_price.empty:
             continue
@@ -52,82 +55,75 @@ def overnight_rtn_list(sigs, df_price_his):
             # print("last day")
             if position == 1:
                 # Close
+                in_out_list_sig.append([date_str, "close", sig])
                 rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
-                rtn_list.append([date_str, rtn])
             elif position == -1:
                 # Close
+                in_out_list_sig.append([date_str, "close", sig])
                 rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
-                rtn_list.append([date_str, rtn])
             elif position == 0:
-                rtn_list.append([date_str, 0])
-            # print()
-            return rtn_list
+                rtn = 0
+            rtn_list.append([date_str, rtn])
+
+            return rtn_list, in_out_list_sig
         
         # print(sig, df_price.iloc[0]["Close"], df_price.iloc[0]["MA5"])
         if sig == 1 and df_price.iloc[0]["Close"] > df_price.iloc[0]["MA5"]:
             if position == 0:
                 # long
+                in_out_list_sig.append([date_str, "enter", sig])
                 enter_price = float(df_price.iloc[0]["Open"])
                 rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
                 enter_price = float(df_price.iloc[0]["Close"])
-                rtn_list.append([date_str, rtn])
                 position = 1
             elif position == 1:
                 # hold
                 rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
                 enter_price = float(df_price.iloc[0]["Close"])
-                rtn_list.append([date_str, rtn])
-                position = 1
             elif position == -1:
                 # Close 
+                in_out_list_sig.append([date_str, "close", sig])
                 rtn = (enter_price - float(df_price.iloc[0]["Open"])) / enter_price
                 enter_price = 0
-                rtn_list.append([date_str, rtn])
                 position = 0
                 
         elif sig == -1 and df_price.iloc[0]["Close"] < df_price.iloc[0]["MA5"]:        
             if position == 0:
                 # Short
+                in_out_list_sig.append([date_str, "enter", sig])
                 enter_price = float(df_price.iloc[0]["Open"])
                 rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
                 enter_price = float(df_price.iloc[0]["Close"])
-                rtn_list.append([date_str, rtn])
                 position = -1
             elif position == 1:
                 # Close
+                in_out_list_sig.append([date_str, "close", sig])
                 rtn = (float(df_price.iloc[0]["Open"]) - enter_price) / enter_price
                 enter_price = 0
-                rtn_list.append([date_str, rtn])
                 position = 0
             elif position == -1:
                 # hold
                 rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
                 enter_price = float(df_price.iloc[0]["Close"])
-                rtn_list.append([date_str, rtn])
-                position = -1
                 
         else:
             if position == 0:
                 # do nothing
-                rtn_list.append([date_str, 0])
-                position = 0
+                rtn = 0
             elif position == 1:
                 # hold
                 rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
                 enter_price = float(df_price.iloc[0]["Close"])
-                rtn_list.append([date_str, rtn])
-                position = 1
             elif position == -1:
                 # hold
                 rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
                 enter_price = float(df_price.iloc[0]["Close"])
-                rtn_list.append([date_str, rtn])
-                position = -1
+        rtn_list.append([date_str, rtn])
     
 
 def eval_mov(individual, data, df_price_his):
     '''
-        Day Trade Eval : Evaluate daily return based on the individual
+        Overnight Trade Eval : Evaluate Overnight return based on the individual
     '''
     # print(individual, end=" ")
     sigs = get_sigs(data, individual)
@@ -135,38 +131,44 @@ def eval_mov(individual, data, df_price_his):
     loss = []
     gain_precision = []
     loss_precision = []
-    accumulated_rtn_list = overnight_rtn_list(sigs, df_price_his)
-    ttl_count = 0
+    accumulated_rtn_list, in_out_sig_list = overnight_rtn_list(sigs, df_price_his)
     tp = 0
     fp = 0
     tn = 0
     fn = 0
+    # print(in_out_sig_list)
+    
+    longshort = 'none'
+    enter_price = 0
+    for i, (date_str, state, sig) in enumerate(in_out_sig_list):
 
-    i = 0
-    for date_str, sig in sigs:
-        rtn = accumulated_rtn_list[i][1]
-        i += 1
-        
-        # print(rtn)
-        ttl_count += 1
-        if sig == 1:
-            # print("sig > 0",rtn)
-            if rtn > 0:
-                tp += 1
-                gain.append(rtn)
-                gain_precision.append(rtn)
-            else:
-                fp += 1
-                loss.append(rtn)
-                loss_precision.append(rtn)
-        elif sig == -1:
-            # print("sig < 0",rtn)
-            if rtn > 0:
-                tn += 1
-                gain.append(rtn)
-            else:
-                fn += 1
-                loss.append(rtn)
+        if state == "enter":
+            if sig == 1:
+                longshort = 'long'
+            elif sig == -1:
+                longshort = 'short'
+            enter_price = df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Open"]
+            
+        if state == "close":
+            if longshort == 'long':
+                rtn = (df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Close"] - enter_price) / enter_price
+                if rtn > 0:
+                    tp += 1
+                    gain.append(rtn)
+                    gain_precision.append(rtn)
+                else:
+                    fp += 1
+                    loss.append(rtn)
+                    loss_precision.append(rtn)
+            elif longshort == 'short':
+                rtn = (enter_price - df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Close"]) / enter_price
+                if rtn > 0: 
+                    tn += 1
+                    gain.append(rtn)    
+                else:
+                    fn += 1
+                    loss.append(rtn)
+            # print(rtn)
 
     if tp + fp + tn + fn == 0 or tp + fp == 0 or tp + fn == 0:
         accuracy = precision = recall = ev = precision_ev = 0
@@ -193,7 +195,6 @@ def eval_mov(individual, data, df_price_his):
         "tn": tn,
         "fn": fn,
         "avail_count": tp + fp + tn + fn,
-        "ttl_count": ttl_count,
         "accuracy": accuracy,
         "precision": precision,
         "recall": recall,

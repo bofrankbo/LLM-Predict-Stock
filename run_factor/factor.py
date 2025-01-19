@@ -1,5 +1,5 @@
 from api import eval
-from api import genetic_algorithm
+from api import GeneticAlgorithm
 from api import factor_expanding
 from api import split_expand
 
@@ -31,7 +31,7 @@ class Factor:
         self.path_clustered_summaries = f"out_stock/Cluster_summmaries/{self.path_out}/embeddings.json"    # 輸出 JSON 檔案
         self.path_factors = f"out_stock/Factors/{self.path_out}/factors.json"    # 輸出 JSON 檔案
         self.path_expand = f"out_stock/Expands/{self.path_out}/expand.json"    # 輸出 JSON 檔案
-        self.training_path = f"out_stock/Training_result/{self.path_folder}/{env['start_date']}_{env['end_date']}/{str(self.run_count)}/{env['stock_id']}"
+        self.training_path = f"out_stock/Training_result/{self.path_folder}/{str(self.run_count)}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
         self.similarity_threshold = 0.8
     
     def get_price_his(self):
@@ -257,8 +257,8 @@ class Factor:
         file_gen = out_folder + '/generation_results.json'
         file_result = out_folder + '/result.json'
 
-        best_individual = genetic_algorithm(factors, state_file, file_gen, train_datarange, self.price_his, population_size=20, generations=50, mode=mode)
-        # print(f"Best individual: {best_individual}")
+        ga = GeneticAlgorithm(factors, state_file, file_gen, train_datarange, self.price_his, eval, population_size=20, generations=50, mode=mode)
+        best_individual = ga.run()
 
         individual = best_individual
         res_train = eval(individual, train_datarange, self.price_his)

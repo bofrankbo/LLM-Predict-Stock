@@ -1,126 +1,112 @@
 import os
 import json
 import random
-from api.eval import eval
 
-# 儲存-----------------------------------------
-# 儲存狀態
-def save_state(filename, state, message):
-    os.makedirs(os.path.dirname(filename), exist_ok=True)
-    with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(state, f, ensure_ascii=False, indent=4)
+class GeneticAlgorithm:
+    def __init__(self, factors, state_file, results_file, datarange, df_price_his, eval_func, population_size=20, generations=50, mode=0):
+        self.factors = factors
+        self.state_file = state_file
+        self.results_file = results_file
+        self.datarange = datarange
+        self.df_price_his = df_price_his
+        self.eval_func = eval_func
+        self.population_size = population_size
+        self.generations = generations
+        self.mode = mode
+        self.individual_score = {}
+        self.current_generation = 0
+        self.current_population = self.load_state()
 
-# 載入狀態
-def load_state(filename):
-    try:
-        with open(filename, 'r') as f:
-            content = f.read().strip()
-            if not content:
-                return None
-            return json.loads(content)
-    except FileNotFoundError:
-        return None
+    def save_state(self, state):
+        os.makedirs(os.path.dirname(self.state_file), exist_ok=True)
+        with open(self.state_file, 'w', encoding='utf-8') as f:
+            json.dump(state, f, ensure_ascii=False, indent=4)
 
-# 儲存每一代的結果
-def save_generation_results(filename, generation, best_individual, best_fitness):
-    result = {
-        "generation": generation,
-        "best_individual": best_individual,
-        "best_fitness": best_fitness
-    }
-    os.makedirs(os.path.dirname(filename), exist_ok=True)
-    with open(filename, 'a') as f:
-        f.write(json.dumps(result) + '\n')
+    def load_state(self):
+        try:
+            with open(self.state_file, 'r') as f:
+                content = f.read().strip()
+                state = json.loads(content)
+                if not state['population']:
+                    return self.generate_population()
+                
+                self.current_generation = state['generation']
+                self.individual_score = state['individual_score']
+                self.current_population = state['population']
+                return self.current_population
+        except FileNotFoundError:
+            return self.generate_population()
 
-# 遺傳演算法-----------------------------------------
-# 初始群體生成
-def generate_population(size, num_elements):
-    population = []
-    for _ in range(size):
-        individual = [random.randint(0, 1) for _ in range(num_elements)]
-        population.append(individual)
-    return population
+    def save_generation_results(self, generation, best_individual, best_fitness):
+        result = {
+            "generation": generation,
+            "best_individual": best_individual,
+            "best_fitness": best_fitness
+        }
+        os.makedirs(os.path.dirname(self.results_file), exist_ok=True)
+        with open(self.results_file, 'a') as f:
+            f.write(json.dumps(result) + '\n')
 
-# 適應度函數
-def fitness(individual, train_datarange, mode, state_file, individual_score, current_generation, df_price_his):
-    state = load_state(state_file)
-    if state:
-        current_pop = state['population']
-        if state['individual_score'].get(str(individual)):
-            return state['individual_score'][str(individual)]
-    
-    result = eval(individual, train_datarange, df_price_his)
-    if mode == 0:
-        score = result['accuracy']
-    else:
-        score = result['ev']
+    def generate_population(self):
+        population = []
+        for _ in range(self.population_size):
+            individual = [random.randint(0, 1) for _ in range(len(self.factors))]
+            population.append(individual)
+        return population
 
-    individual_score[str(individual)] = score
+    def fitness(self, individual):
+        state = self.load_state()
+        if state:
+            if self.individual_score.get(str(individual)):
+                return self.individual_score[str(individual)]
+        
+        result = self.eval_func(individual, self.datarange, self.df_price_his)
+        score = result['accuracy'] if self.mode == 0 else result['ev']
+        self.individual_score[str(individual)] = score
 
-    save_state(state_file, {'generation': current_generation, 'population': current_pop, 'individual_score': individual_score}, "fitness")
+        self.save_state({'generation': self.current_generation, 'population': self.current_population, 'individual_score': self.individual_score})
+        return score
 
-    return score
+    def selection(self, population):
+        population.sort(key=lambda ind: self.fitness(ind), reverse=True)
+        return population[:int(len(population)/2)]
 
-# 選擇
-def selection(population, train_datarange, mode, state_file, individual_score, current_generation, df_price_his):
-    population.sort(key=lambda ind: fitness(ind, train_datarange, mode, state_file, individual_score, current_generation, df_price_his), reverse=True)
-    return population[:int(len(population)/2)]
+    def crossover(self, parent1, parent2, crossover_rate=0.7):
+        if random.random() <= crossover_rate:
+            idx = random.randint(1, len(parent1) - 1)
+            child1 = parent1[:idx] + parent2[idx:]
+            child2 = parent2[:idx] + parent1[idx:]
+        else:
+            child1, child2 = parent1, parent2
+        return child1, child2
 
-# 交叉
-def crossover(parent1, parent2, crossover_rate=0.7):
-    if random.random() <= crossover_rate:
-        idx = random.randint(1, len(parent1) - 1)
-        child1 = parent1[:idx] + parent2[idx:]
-        child2 = parent2[:idx] + parent1[idx:]
-    else:
-        child1, child2 = parent1, parent2
-    return child1, child2
+    def mutate(self, individual, mutation_rate=0.005):
+        for i in range(len(individual)):
+            if random.random() < mutation_rate:
+                individual[i] = 1 if individual[i] == 0 else 0
+        return individual
 
-# 變異
-def mutate(individual, mutation_rate=0.005):
-    for i in range(len(individual)):
-        if random.random() < mutation_rate:
-            individual[i] = 1 if individual[i] == 0 else 0
-    return individual
+    def run(self):
+        if self.current_generation >= self.generations:
+            return max(self.current_population, key=lambda ind: self.fitness(ind))
 
-# 主程式-----------------------------------------
-def genetic_algorithm(factors, state_file, results_file, datarange, df_price_his, population_size=20, generations=50, mode=0):
-    individual_score = {}
-    current_generation = 0
+        self.save_state({'generation': self.current_generation, 'population': self.current_population, 'individual_score': self.individual_score})
 
-    state = load_state(state_file)
-    if state:
-        current_population = state['population']
-        start_generation = state['generation']
-        individual_score = state['individual_score']
-        if len(current_population) == 0:
-            current_population = generate_population(population_size, len(factors))
-        if start_generation >= generations:
-            return max(current_population, key=lambda ind: fitness(ind, datarange, mode, state_file, individual_score, start_generation, df_price_his))
-    else:
-        current_population = generate_population(population_size, len(factors))
-        start_generation = 0
+        print(f"Start Running Genetic Algorithm")
+        for self.current_generation in range(self.current_generation, self.generations):
+            selected = self.selection(self.current_population)
+            children = []
+            # print(selected)
+            while len(children) < self.population_size:
+                parent1, parent2 = random.sample(selected, 2)
+                child1, child2 = self.crossover(parent1, parent2)
+                children.append(self.mutate(child1))
+                children.append(self.mutate(child2))
+            self.current_population = children
+            best_individual = max(self.current_population, key=lambda ind: self.fitness(ind))
+            best_fitness = self.fitness(best_individual)
 
-    save_state(state_file, {'generation': start_generation, 'population': current_population, 'individual_score': individual_score}, "init")
+            self.save_state({'generation': self.current_generation + 1, 'population': self.current_population, 'individual_score': self.individual_score})
+            self.save_generation_results(self.current_generation + 1, best_individual, best_fitness)
 
-    print(f"Start Running Genetic Algorithm")
-    for current_generation in range(start_generation, generations):
-        # print(f"Generation {current_generation+1}")
-        selected = selection(current_population, datarange, mode, state_file, individual_score, current_generation, df_price_his)
-        children = []
-        while len(children) < population_size:
-            parent1, parent2 = random.sample(selected, 2)
-            child1, child2 = crossover(parent1, parent2)
-            children.append(mutate(child1, 0.005))
-            children.append(mutate(child2, 0.005))
-        current_population = children
-        best_individual = max(current_population, key=lambda ind: fitness(ind, datarange, mode, state_file, individual_score, current_generation, df_price_his))
-        best_fitness = fitness(best_individual, datarange, mode, state_file, individual_score, current_generation, df_price_his)
-        # print(f"Best fitness = {best_fitness}")
-        # print(f"Best individual: {best_individual}")
-
-        save_state(state_file, {'generation': current_generation+1, 'population': current_population, 'individual_score': individual_score}, "every generation")
-        save_generation_results(results_file, current_generation + 1, best_individual, best_fitness)
-        # print()
-
-    return best_individual
+        return best_individual
