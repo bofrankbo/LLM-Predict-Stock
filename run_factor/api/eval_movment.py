@@ -37,6 +37,7 @@ def overnight_rtn_list(sigs, df_price_his):
     in_out_list_sig = []
     position = 0
     enter_price = 0
+    MOV = "EMA12"
     
     # print(sigs)
     
@@ -68,7 +69,7 @@ def overnight_rtn_list(sigs, df_price_his):
             return rtn_list, in_out_list_sig
         
         # print(sig, df_price.iloc[0]["Close"], df_price.iloc[0]["MA5"])
-        if sig == 1 and df_price.iloc[0]["Close"] > df_price.iloc[0]["MA5"]:
+        if sig == 1 and df_price.iloc[0]["Close"] > df_price.iloc[0][MOV]:
             if position == 0:
                 # long
                 in_out_list_sig.append([date_str, "enter", sig])
@@ -87,7 +88,7 @@ def overnight_rtn_list(sigs, df_price_his):
                 enter_price = 0
                 position = 0
                 
-        elif sig == -1 and df_price.iloc[0]["Close"] < df_price.iloc[0]["MA5"]:        
+        elif sig == -1 and df_price.iloc[0]["Close"] < df_price.iloc[0][MOV]:        
             if position == 0:
                 # Short
                 in_out_list_sig.append([date_str, "enter", sig])

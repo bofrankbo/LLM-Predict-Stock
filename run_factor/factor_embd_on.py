@@ -24,21 +24,6 @@ class FactorEmbOverNight(Factor):
         self.run_count = count
         self.path_folder = "EmbdON"
         self.get_path()
-    
-    def get_path(self):
-        env = self.env
-        # Data path of history data
-        self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"
-        self.price_his = self.get_price_his()
-        
-        # output path
-        self.path_out =  f"{self.path_folder}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
-        self.path_embeddings = f"out_stock/Embeddings/{self.path_out}/embeddings.json"    # 輸出 JSON 檔案
-        self.path_clustered_summaries = f"out_stock/Cluster_summmaries/{self.path_out}/embeddings.json"    # 輸出 JSON 檔案
-        self.path_factors = f"out_stock/Factors/{self.path_out}/factors.json"    # 輸出 JSON 檔案
-        self.path_expand = f"out_stock/Expands/{self.path_out}/expand.json"    # 輸出 JSON 檔案
-        self.training_path = f"out_stock/Training_result/{self.path_folder}/{env['start_date']}_{env['end_date']}/{str(self.run_count)}/{env['stock_id']}"
-        self.similarity_threshold = 0.8
         
     # Step 1: 載入新聞標題 JSON
     def load_news_titles(self):
