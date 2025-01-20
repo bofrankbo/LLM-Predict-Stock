@@ -240,6 +240,7 @@ class Factor:
         data = factor_expanding(llm_factors, self.env, key_list, value_list, old_data)
 
         # 儲存資料
+        os.makedirs(os.path.dirname(self.path_expand), exist_ok=True)
         with open(self.path_expand, 'w', encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
 

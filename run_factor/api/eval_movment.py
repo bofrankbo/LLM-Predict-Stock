@@ -37,7 +37,7 @@ def overnight_rtn_list(sigs, df_price_his):
     in_out_list_sig = []
     position = 0
     enter_price = 0
-    MOV = "EMA26"
+    MOV = "MA5"
     
     # print(sigs)
     
