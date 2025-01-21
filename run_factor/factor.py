@@ -232,13 +232,12 @@ class Factor:
         key_list = list(factors.keys())
         value_list = list(factors.values())
 
-        old_data = {}
+        old_data = None
         if os.path.exists(self.path_expand):
             with open(self.path_expand, "r", encoding="utf-8") as f:
                 old_data = json.load(f)
 
         data = factor_expanding(llm_factors, self.env, key_list, value_list, old_data)
-
         # 儲存資料
         os.makedirs(os.path.dirname(self.path_expand), exist_ok=True)
         with open(self.path_expand, 'w', encoding="utf-8") as f:

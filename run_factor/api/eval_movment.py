@@ -38,8 +38,7 @@ def overnight_rtn_list(sigs, df_price_his):
     position = 0
     enter_price = 0
     MOV = "MA5"
-    
-    # print(sigs)
+    print(f"MOV: {MOV}")
     
     for date_str, sig in sigs:
 
