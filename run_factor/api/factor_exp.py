@@ -42,10 +42,9 @@ def factor_expanding(llm, env, key_list, value_list, old_data):
             print(f"\tdate {str_news_date} was not fetched, skip {str_sig_date}")
             continue    
 
-        # 如果已經處理過，則跳過
-        if "output_data" in old_data and str_sig_date in old_data["output_data"]:
-            # print(f"Already processed for date {str_sig_date}, skip this date")
-            output_data[str_sig_date] = old_data["output_data"][str_sig_date]
+        # 如果output_data已經有了，跳過
+        if str_sig_date in output_data:
+            # print(f"\t{str_sig_date} already processed, skip")
             continue
         print(f"Processing for date {str_sig_date}", end="")
 

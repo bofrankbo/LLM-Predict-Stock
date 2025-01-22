@@ -54,16 +54,17 @@ def overnight_rtn_list(env, sigs, df_price_his):
             # print("last day")
             if position == 1:
                 # Close
-                in_out_list_sig.append([date_str, "close", sig])
                 rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
+                in_out_list_sig.append([date_str, "close", sig])
             elif position == -1:
                 # Close
-                in_out_list_sig.append([date_str, "close", sig])
                 rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
+                in_out_list_sig.append([date_str, "close", sig])
             elif position == 0:
                 rtn = 0
             rtn_list.append([date_str, rtn])
 
+            # print(in_out_list_sig)
             return rtn_list, in_out_list_sig
         
         # print(sig, df_price.iloc[0]["Close"], df_price.iloc[0]["MA5"])
@@ -146,12 +147,13 @@ def eval_mov(env, individual, data, df_price_his):
                 longshort = 'long'
             elif sig == -1:
                 longshort = 'short'
-        
-        enter_price = df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Open"]
+            enter_price = df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Open"]
+            # print(f"enter  {longshort} \t {date_str} {enter_price}", end="\t")    
+            
         close_price = df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Close"]
-
         if state == "close":
             if longshort == 'long':
+                # print(f"close {date_str} {close_price}")
                 rtn = (close_price - enter_price) / enter_price
                 if rtn > 0:
                     tp += 1
@@ -162,6 +164,7 @@ def eval_mov(env, individual, data, df_price_his):
                     loss.append(rtn)
                     loss_precision.append(rtn)
             elif longshort == 'short':
+                # print(f"close {date_str} {close_price}")
                 rtn = (enter_price - close_price) / enter_price
                 if rtn > 0: 
                     tn += 1
