@@ -146,11 +146,13 @@ def eval_mov(env, individual, data, df_price_his):
                 longshort = 'long'
             elif sig == -1:
                 longshort = 'short'
-            enter_price = df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Open"]
-            
+        
+        enter_price = df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Open"]
+        close_price = df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Close"]
+
         if state == "close":
             if longshort == 'long':
-                rtn = (df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Close"] - enter_price) / enter_price
+                rtn = (close_price - enter_price) / enter_price
                 if rtn > 0:
                     tp += 1
                     gain.append(rtn)
@@ -160,7 +162,7 @@ def eval_mov(env, individual, data, df_price_his):
                     loss.append(rtn)
                     loss_precision.append(rtn)
             elif longshort == 'short':
-                rtn = (enter_price - df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Close"]) / enter_price
+                rtn = (enter_price - close_price) / enter_price
                 if rtn > 0: 
                     tn += 1
                     gain.append(rtn)    
