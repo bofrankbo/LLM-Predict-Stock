@@ -3,14 +3,15 @@ import json
 import random
 
 class GeneticAlgorithm:
-    def __init__(self, factors, state_file, results_file, datarange, df_price_his, eval_func, population_size=20, generations=50, mode=0):
-        self.factors = factors
-        self.state_file = state_file
-        self.results_file = results_file
+    def __init__(self, env, df_price_his, datarange, eval_func, pop_size=20, generations=50, mode=0, pop_len=20):
+        self.env = env
+        self.state_file = env['path_state']
+        self.results_file = env['path_result']
         self.datarange = datarange
         self.df_price_his = df_price_his
         self.eval_func = eval_func
-        self.population_size = population_size
+        self.population_size = pop_size
+        self.population_length = pop_len
         self.generations = generations
         self.mode = mode
         self.individual_score = {}
@@ -50,7 +51,7 @@ class GeneticAlgorithm:
     def generate_population(self):
         population = []
         for _ in range(self.population_size):
-            individual = [random.randint(0, 1) for _ in range(len(self.factors))]
+            individual = [random.randint(0, 1) for _ in range(self.population_length)]
             population.append(individual)
         return population
 
@@ -60,7 +61,7 @@ class GeneticAlgorithm:
             if self.individual_score.get(str(individual)):
                 return self.individual_score[str(individual)]
         
-        result = self.eval_func(individual, self.datarange, self.df_price_his)
+        result = self.eval_func(self.env, individual, self.datarange, self.df_price_his)
         score = result['accuracy'] if self.mode == 0 else result['ev']
         self.individual_score[str(individual)] = score
 

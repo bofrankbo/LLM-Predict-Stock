@@ -10,7 +10,7 @@ from datetime import datetime
 
 from factor import Factor
 from api import GeneticAlgorithm
-from api import eval_mov
+
 
 class UsableMovment(Factor):
     '''
@@ -36,7 +36,7 @@ class UsableMovment(Factor):
         self.path_clustered_summaries = f"out_stock/Cluster_summmaries/{self.path_out}/embeddings.json"    # 輸出 JSON 檔案
         self.path_factors = f"out_stock/Factors/{self.path_out}/factors.json"    # 輸出 JSON 檔案
         self.path_expand = f"out_stock/Expands/{self.path_folder}/{env['stock_id']}/expand.json"    # 輸出 JSON 檔案
-        self.training_path = f"out_stock/Training_result/{self.path_folder}/{str(self.run_count)}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
+        self.training_path = f"out_stock/Training_result/{self.path_folder}/{env['MOV']}/{str(self.run_count)}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
         self.similarity_threshold = 0.8    
     
     def generate_factors(self):
@@ -79,7 +79,7 @@ class UsableMovment(Factor):
             json.dump(res_factors_json, f, ensure_ascii=False, indent=4)
         
 
-    def run_taining(self, mode, train_datarange, test_datarange, re_run=False):
+    def run_taining(self, mode, train_datarange, test_datarange, eval_func):
         env = self.env
         if mode == 0:
             out_folder = f"{self.training_path}/ac"
@@ -89,18 +89,18 @@ class UsableMovment(Factor):
         with open(self.path_factors, "r", encoding="utf-8") as f:
             factors = json.load(f)
 
-        state_file = out_folder + '/state.json'
-        file_gen = out_folder + '/generation_results.json'
-        file_result = out_folder + '/result.json'
+        env['path_state'] = out_folder + '/state.json'
+        env['path_gen'] = out_folder + '/generation_results.json'
+        env['path_result']  = out_folder + '/result.json'
 
         # print("Start, 第一次跑的話請確認state是空的")
-        ga = GeneticAlgorithm(factors, state_file, file_gen, train_datarange, self.price_his, eval_mov, population_size=20, generations=50, mode=mode)
+        ga = GeneticAlgorithm(env, self.price_his, train_datarange, eval_func, pop_size=20, generations=50, mode=mode, pop_len=len(factors.keys()))
         best_individual = ga.run()
         # print(f"Best individual: {best_individual}")
 
         individual = best_individual
-        res_train = eval_mov(individual, train_datarange, self.price_his)
-        res_test = eval_mov(individual, test_datarange, self.price_his)
+        res_train = eval_func(env, individual, train_datarange, self.price_his)
+        res_test = eval_func(env, individual, test_datarange, self.price_his)
         res = {
             "train": res_train,
             "test": res_test,
@@ -108,7 +108,7 @@ class UsableMovment(Factor):
         }
         # print(res)
         # print(file_result)
-        with open(file_result, 'w', encoding='utf-8') as f:
+        with open(env['path_result'], 'w', encoding='utf-8') as f:
             json.dump(res, f, ensure_ascii=False, indent=4)
 
         # print(res['test'])
