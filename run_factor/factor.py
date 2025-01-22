@@ -232,14 +232,14 @@ class Factor:
         key_list = list(factors.keys())
         value_list = list(factors.values())
 
-        old_data = {}
+        old_data = None
         if os.path.exists(self.path_expand):
             with open(self.path_expand, "r", encoding="utf-8") as f:
                 old_data = json.load(f)
 
         data = factor_expanding(llm_factors, self.env, key_list, value_list, old_data)
-
         # 儲存資料
+        os.makedirs(os.path.dirname(self.path_expand), exist_ok=True)
         with open(self.path_expand, 'w', encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
 
@@ -253,11 +253,12 @@ class Factor:
         with open(self.path_factors, "r", encoding="utf-8") as f:
             factors = json.load(f)
 
-        state_file = out_folder + '/state.json'
-        file_gen = out_folder + '/generation_results.json'
-        file_result = out_folder + '/result.json'
+        env['path_state'] = out_folder + '/state.json'
+        env['path_gen'] = out_folder + '/generation_results.json'
+        env['path_result']  = out_folder + '/result.json'
 
-        ga = GeneticAlgorithm(factors, state_file, file_gen, train_datarange, self.price_his, eval, population_size=20, generations=50, mode=mode)
+        # print("Start, 第一次跑的話請確認state是空的")
+        ga = GeneticAlgorithm(env, self.price_his, train_datarange, eval, pop_size=20, generations=50, mode=mode, pop_len=len(factors.keys()))
         best_individual = ga.run()
 
         individual = best_individual

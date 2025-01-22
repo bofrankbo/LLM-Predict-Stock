@@ -29,7 +29,7 @@ def get_sigs(data, individual, diff=0):
 
     return sigs
 
-def overnight_rtn_list(sigs, df_price_his):
+def overnight_rtn_list(env, sigs, df_price_his):
     '''
         long-term investment evaluation
     '''
@@ -37,9 +37,7 @@ def overnight_rtn_list(sigs, df_price_his):
     in_out_list_sig = []
     position = 0
     enter_price = 0
-    MOV = "EMA26"
-    
-    # print(sigs)
+    MOV = env['MOV']
     
     for date_str, sig in sigs:
 
@@ -122,7 +120,7 @@ def overnight_rtn_list(sigs, df_price_his):
         rtn_list.append([date_str, rtn])
     
 
-def eval_mov(individual, data, df_price_his):
+def eval_mov(env, individual, data, df_price_his):
     '''
         Overnight Trade Eval : Evaluate Overnight return based on the individual
     '''
@@ -132,7 +130,7 @@ def eval_mov(individual, data, df_price_his):
     loss = []
     gain_precision = []
     loss_precision = []
-    accumulated_rtn_list, in_out_sig_list = overnight_rtn_list(sigs, df_price_his)
+    accumulated_rtn_list, in_out_sig_list = overnight_rtn_list(env, sigs, df_price_his)
     tp = 0
     fp = 0
     tn = 0
