@@ -1,4 +1,651 @@
 {
+    "20230101": [],
+    "20230102": [
+        {
+            "headline": "Taiwan Semiconductor Stock Forecast | Is Taiwan Semiconductor a Good Stock to Buy?",
+            "content": "The world's largest semiconductor foundry, Taiwan Semiconductor Manufacturing Company (TSMC), is at the centre of a shift in the semiconductor market as the..."
+        }
+    ],
+    "20230103": [
+        {
+            "headline": "Pixel 7a hands-on video surfaces confirming 90Hz display, familiar design",
+            "content": "The Google Pixel 6a was announced in May 2022, and the Pixel 7a, the next iteration, is expected to be released later this year. A video revealing the..."
+        },
+        {
+            "headline": "SkyeChip Inspires UTM Electrical and Electronic Engineering Students",
+            "content": "On 3rd January 2023, the Faculty of Electrical Engineering, Universiti Teknologi Malaysia (UTM), organised an industrial seminar for its undergraduate stude..."
+        }
+    ],
+    "20230104": [
+        {
+            "headline": "Top 30 Big Tech Companies in the World 2025",
+            "content": "Big tech often refers to the world's four biggest companies: Amazon, Apple, Facebook, and Google (each valued at over 1 trillion USD)."
+        }
+    ],
+    "20230105": [],
+    "20230106": [
+        {
+            "headline": "Paving The Way For 800 Gb/sec Ethernet In The Enterprise",
+            "content": "There are exceptions to every rule, but in general, when it comes to datacenter networks, enterprise customers are doing now what the hyperscalers and."
+        }
+    ],
+    "20230107": [
+        {
+            "headline": "CES 2023: Wi-Fi 7 announcements from MediaTek, ASUS, Actiontec",
+            "content": "By Claus Hetting, Wi-Fi NOW CEO & Chairman. Are there fewer Wi-Fi 7 announcement at this year's CES than expected? Probably. I take this to mean two things:..."
+        }
+    ],
+    "20230108": [
+        {
+            "headline": "Helping the federal government navigate its multi-cloud future",
+            "content": "With a solid federal footprint, leading solutions and customer-first reputation, Broadcom has a proven track record of supporting successful cloud..."
+        }
+    ],
+    "20230109": [
+        {
+            "headline": "Apple to replace key Broadcom chip with in-house design - Bloomberg News",
+            "content": "Apple Inc plans to replace a Broadcom Inc chip from its devices with an in-house design in 2025, Bloomberg News reported on Monday, citing people familiar..."
+        },
+        {
+            "headline": "Apple Plans to Drop Key Broadcom Chip to Use In-House Design",
+            "content": "Apple Plans to Drop Key Broadcom Chip to Use In-House Design · Company also is swapping out Qualcomm for homegrown modem · Combined Wi-Fi and Bluetooth chip..."
+        },
+        {
+            "headline": "Apple Working On A Chip That Will Provide Cellular, Wi-Fi, And Bluetooth Connectivity In A Single Package",
+            "content": "Apple has a plan to drop both Qualcomm and Broadcom by developing a chip solution that supports cellular, Wi-Fi and Bluetooth connectivity."
+        },
+        {
+            "headline": "Apple’s custom 5G iPhone modem could finally launch in 2024",
+            "content": "Apple's lengthy effort to make its own 5G modem will reportedly begin to bear fruit in 2024. This will replace ones now sourced from Qualcomm."
+        },
+        {
+            "headline": "Apple is reportedly making an all-in-one cellular, Wi-Fi, and Bluetooth chip",
+            "content": "Apple is working on a new in-house iPhone chip that would power the device's cellular, Wi-Fi, and Bluetooth functionality, according to a report from..."
+        },
+        {
+            "headline": "Making It Easier To Break The SONiC Barrier For Networking",
+            "content": "Thanks to the ubiquity of the X86 server platform, the Kubernetes container controller, and the KVM server virtualization hypervisor, it is relatively."
+        },
+        {
+            "headline": "Apple Reportedly Working on Own Bluetooth, Wi-Fi Chip",
+            "content": "The iPhone maker is also working on its own 5G chip that might be in phones in 2024."
+        },
+        {
+            "headline": "Now is the time to ‘semiconductorize’ photonics",
+            "content": "Photonics can help the semiconductor industry move at the speed of light."
+        },
+        {
+            "headline": "Apple to Start Transitioning Away From Qualcomm Modem Chips in Late 2024 or 2025",
+            "content": "Apple wants to start replacing the Qualcomm modem chips that it uses in iPhones as soon as 2024, according to a new report from Bloomberg."
+        },
+        {
+            "headline": "8 Best Semiconductor Stocks to Buy Amid a Global Chip Shortage",
+            "content": "Cloud computing, artificial intelligence and 5G are long-term tailwinds for these semiconductor stocks."
+        }
+    ],
+    "20230110": [
+        {
+            "headline": "Everything's connected by Broadcom",
+            "content": "Broadcom technology is embedded in a vast array of client and network devices, powering our connected lifestyles. 99 percent (estimated) of all internet..."
+        },
+        {
+            "headline": "Apple Chip Risk to Broadcom Isn't Material, Says Analyst",
+            "content": "Rasgon noted Broadcom sells several other parts to Apple—including radio frequency (RF) chips and charging products. The affected “connectivity [chips]..."
+        },
+        {
+            "headline": "Apple to ditch Broadcom, Qualcomm for its in-house chips by 2025",
+            "content": "Apple aims to ready its first cellular modem chip by the end of 2024 or early 2025, letting it swap out electronics from Qualcomm."
+        },
+        {
+            "headline": "Broadcom Redefines the European Channel Model to Provide Greater Flexibility, Autonomy and Efficiency",
+            "content": "Arrow Electronics and Broadcom collaboration helps streamline transactions, accelerate value and drive customer success ... Now, in cooperation with Arrow,..."
+        },
+        {
+            "headline": "Apple to drop Broadcom, Qualcomm chips for in-house parts by 2025",
+            "content": "The phone also has helped fuel growth at Broadcom, which refers to Apple as its “large North American customer” during earnings calls. The chip maker makes a..."
+        },
+        {
+            "headline": "Apple aims to replace Broadcom, Qualcomm wireless chips with its own",
+            "content": "According to Bloomberg, Apple is set to use its own cellular chips in just one new device at first, and will then gradually migrate away from Qualcomm silicon..."
+        },
+        {
+            "headline": "The iPhone could be a Qualcomm & Broadcom-free zone by 2025",
+            "content": "According to that report Apple intends to drop Broadcom by 2025, replacing its component with one that is designed in-house. \"The chipmaker makes a combined..."
+        },
+        {
+            "headline": "Apple to replace key Broadcom chip with in-house design: Report",
+            "content": "Apple plans to replace Broadcom's Wi-Fi and Bluetooth chip, according to the Bloomberg News report, which added that Apple is the U.S. chipmaker's largest..."
+        },
+        {
+            "headline": "Report: Apple plans to use its own Wi-Fi and Bluetooth chip in future iPhones",
+            "content": "End goal is said to be one chip that can handle Wi-Fi, Bluetooth, and cellular."
+        },
+        {
+            "headline": "No Apple's Broadcom-cut effect on Malaysia's Inari",
+            "content": "KUALA LUMPUR: Inari Amertron Bhd's outsourced semiconductor assembly and test (OSAT) business is unlikely to be affected by Apple's move to cut its..."
+        }
+    ],
+    "20230111": [
+        {
+            "headline": "VMware Announces VMware Explore 2023 Dates and Locations",
+            "content": "VMware Explore will be hosted August 21 – 24, 2023 at the Venetian Convention and Expo Center, Las Vegas, NV, and November 6 – 9 at the Fira Gran Via in..."
+        },
+        {
+            "headline": "Apple’s Exodus From Outsourcing Continues With Plans to Drop Broadcom Chips - News",
+            "content": "Apple is continuing this push with reports that it is developing its own Wi-Fi and Bluetooth chips to replace the Broadcom and Skyworks components currently..."
+        },
+        {
+            "headline": "Citrix and Tibco staff report sweeping redundancies",
+            "content": "After months of speculation, job cuts appear to have commenced at the Cloud Software Group (CSG) – the company formed by the odd couple merger of Citrix and..."
+        },
+        {
+            "headline": "Inari affected by Apple’s chip replacement move",
+            "content": "Inari Amertron Bhd 's share price tumbled nearly 6% to RM2.64 following Apple Inc's plans to replace Broadcom Inc's chips in its devices with homegrown..."
+        }
+    ],
+    "20230112": [
+        {
+            "headline": "5 Signs Your PMO is on the Hot Seat",
+            "content": "Traditional PMO roles and responsibilities don't always fit neatly into the requirements of a digital transformation, but by addressing these five common..."
+        },
+        {
+            "headline": "Cloud Software Group confirms 15 percent headcount cut",
+            "content": "The Cloud Software Group, the mashup of Citrix and TIBCO, has confirmed it made at least one thousand staff redundant yesterday."
+        },
+        {
+            "headline": "Applications open for Broadcom membership",
+            "content": "The President's Office opened applications for the vacant post of a member at the Maldives Broadcasting Commission (MBC) on Thursday."
+        },
+        {
+            "headline": "Back Again At Comparing Skyworks Vs. Qorvo (NASDAQ:SWKS)",
+            "content": "Both Skyworks and Qorvo are at basement-level pricing with significant growth arrows in their quivers. Click here to understand the differences between the..."
+        },
+        {
+            "headline": "Applications open for membership at Broadcom",
+            "content": "Applications have been opened for a vacancy at the Maldives Broadcasting Commission (MBC). The President's Office opened applications for the vacant post of..."
+        },
+        {
+            "headline": "CGS-CIMB sees growth and diversification opportunities in China for Inari",
+            "content": "KUALA LUMPUR (Jan 12): CGS-CIMB Securities has maintained its “add” rating on Inari Amertron Bhd at RM2.65 with an unchanged target price of RM3 and said it..."
+        }
+    ],
+    "20230113": [
+        {
+            "headline": "Intel Launches 4th Gen Xeon Scalable Processors for Data Centers, Cloud",
+            "content": "After a variety of delays, Intel launched its 4th Gen Xeon Scalable processor family for data center, cloud, security and AI solutions."
+        }
+    ],
+    "20230114": [
+        {
+            "headline": "Smartwatch Chips Market Size & Share Analysis Report, 2030",
+            "content": "The global smartwatch chips market size was valued at USD 1343.3 million in 2021 and is expected to expand at a compound annual growth rate (CAGR) of 10.3%..."
+        }
+    ],
+    "20230115": [
+        {
+            "headline": "Mark Cuban: ‘People thought I was an idiot’ for launching the company I sold for billions",
+            "content": "Mark Cuban says skeptics laughed in 1995 when he launched Broadcast.com, the streaming audio startup that eventually sold to Yahoo for $5.7 billion."
+        }
+    ],
+    "20230116": [
+        {
+            "headline": "VMware Modernizes Point of Sale for Global Retailers",
+            "content": "VMware Modernizes Point of Sale for Global Retailers ... NEW YORK / NRF 2023 (January 16, 2023) — VMware, Inc. (NYSE: VMW) today unveiled a new solution to help..."
+        }
+    ],
+    "20230117": [
+        {
+            "headline": "Intel Does a 360 on Discontinuing VROC Around Sapphire Rapids Server Launch",
+            "content": "Intel did a 360 on VROC support, discontinuing and then reinstating the product bookending the Sapphire Rapids Xeon launch."
+        },
+        {
+            "headline": "Microsoft Just Acquired a Chip Design Start-Up. Here's What Semiconductor Investors Need to Know.",
+            "content": "After rumors surfaced that Microsoft (MSFT -0.12%) was interested in making a chip design acquisition, the software titan made it official."
+        },
+        {
+            "headline": "Raspberry Pi: Projects, Models, Prices, How to Get Started",
+            "content": "From which model to buy to how to get started, we've got the advice, tutorials and background info you need to make the most of Raspberry Pi."
+        },
+        {
+            "headline": "Keychron unveils Q1 Pro Wireless Custom Mechanical Keyboard with Mac layout",
+            "content": "The new Q1 Pro Wireless Custom Mechanical Keyboard features a full aluminum design with hot-swappable keys, a Mac layout, is fully customizable through QMK/VIA..."
+        },
+        {
+            "headline": "Keychron’s best mechanical keyboard finally gets Bluetooth",
+            "content": "With the Q1 Pro, Keychron is finally adding Bluetooth 5.1 wireless connectivity to its affordable premium mechanical keyboard. Available on Kickstarter..."
+        }
+    ],
+    "20230118": [
+        {
+            "headline": "Vulnerable NetComm routers and a public PoC exploit (CVE-2022-4873, CVE-2022-4874)",
+            "content": "Two vulnerabilities (CVE-2022-4873, CVE-2022-4874) found in three NetComm router models could be exploited to achieve remote code execution on vulnerable..."
+        },
+        {
+            "headline": "Remote Code Execution Vulnerabilities Found in TP-Link, NetComm Routers",
+            "content": "Vulnerabilities identified in TP-Link and NetComm router models could be exploited to achieve remote code execution (RCE)."
+        },
+        {
+            "headline": "Apple's Next Move: In-House Network Chip, Screens & Display Technology Development",
+            "content": "Apple will now opt for in-house Network and Bluetooth/Wi-Fi connectivity chips over Broadcom. With companies turning to custom Silicon for their ASIC, FPGA,..."
+        },
+        {
+            "headline": "White House Photo Gallery",
+            "content": "Beginning in 1942, the White House has welcomed finalists from the Society for Science's renowned science research competitions. These finalists have had..."
+        }
+    ],
+    "20230119": [
+        {
+            "headline": "Broadcom launches 9600 series with breakthrough performance for NVMe SSD RAID",
+            "content": "The 9600 family delivers a 97X increase in IOPs for performance-under-rebuild and a fast rebuild time at 5.5X over previous generations."
+        },
+        {
+            "headline": "Mohamed Fazeen appointed Vice President of Broadcom",
+            "content": "Mohamed Fazeen has been appointed as the Vice President of Maldives Broadcasting Commission (Broadcom). Fazeen's appointment to the post comes following the..."
+        }
+    ],
+    "20230120": [],
+    "20230121": [
+        {
+            "headline": "The Apple impact on Inari Amertron",
+            "content": "It is still unclear what the full impact of Apple Inc's recent decision to make more in-house microchips for its devices will have on companies that are in..."
+        }
+    ],
+    "20230122": [
+        {
+            "headline": "Hock Tan | Coding for the future of U.S. national defense",
+            "content": "A combined Broadcom-VMware will empower customers to modernize and architect their IT infrastructure with large-scale, secure, and reliable yet flexible..."
+        }
+    ],
+    "20230123": [
+        {
+            "headline": "XenServer, split from Citrix, promises per-socket prices 'unlike certain other hypervisors'",
+            "content": "The server virtualization market has a new/old player that wants to make waves with keen pricing and a plan to improve its tech: XenServer."
+        },
+        {
+            "headline": "Network Processing Unit (NPU) Market to See Huge Demand by 2030: Alcatel-Lucent, Broadcom, Cisco Systems",
+            "content": "Press release - HTF Market Intelligence Consulting Pvt. Ltd. - Network Processing Unit (NPU) Market to See Huge Demand by 2030: Alcatel-Lucent, Broadcom,..."
+        }
+    ],
+    "20230124": [
+        {
+            "headline": "Harness® Acquires Propelo, Bringing Actionable Engineering Insights to Award-Winning Software Delivery Platform",
+            "content": "PRNewswire/ -- Harness, the Modern Software Delivery Platform™ company, today announced the acquisition of Propelo, Inc., an industry leader in engineering."
+        },
+        {
+            "headline": "Stadia controller Bluetooth Mode Firmware #ReverseEngineerinng #Gaming #Hacking @kiscyne",
+            "content": "You can switch to Bluetooth mode, check the controller mode, and check for Bluetooth updates until Dec 31, 2023. The process uploads certain firmware files."
+        }
+    ],
+    "20230125": [
+        {
+            "headline": "A conversation with Charlie Kawwas: The importance of innovation and R&D at Broadcom",
+            "content": "Broadcom invests $5 billion annually in pure research and development, partnering with the world's most successful companies, to deliver solutions for..."
+        },
+        {
+            "headline": "What Apple v. Caltech Means for University Patent Litigation",
+            "content": "McKool Smith's Alfonso Chan analyzes the increased role of universities in US patent litigation, saying they are involved in some of the most profound cases..."
+        }
+    ],
+    "20230126": [
+        {
+            "headline": "Connecting data center infrastructure with Broadcom's 100G PAM-4 SerDes",
+            "content": "Broadcom's 100G PAM-4 SerDes plays a crucial role in connecting various network elements, including AI/ML servers and driving the migration to 800G/1.6T/3.2T..."
+        },
+        {
+            "headline": "AT&T Labs Unlocks Power of Open, Disaggregated Design",
+            "content": "Mike Satterlee, VP of Network Core Infrastructure Services, discusses how our open, disaggregated platforms helped speed up 5G, fiber rollout and services."
+        },
+        {
+            "headline": "Apple Wants More of its Own Chips, Revolutionizing the Supply Chain",
+            "content": "The next iPhone, scheduled for arrival after the summer, will probably have more Apple chipsets among its own processor."
+        },
+        {
+            "headline": "Intel is halting development of the networking chip it got from Barefoot Networks",
+            "content": "Intel is getting out of the business of making chips for networking switches as it seeks ways to cut costs after a dismal fourth quarter."
+        },
+        {
+            "headline": "Apple prioritizing 3nm Apple Silicon chip engineering over other projects",
+            "content": "Kuo says that Apple is directing most of its engineering resources toward Apple Silicon chips built on a 3nm process for the foreseeable future."
+        },
+        {
+            "headline": "Kuo: Development on Apple-Designed Wi-Fi Chip Paused 'for a While'",
+            "content": "Apple has paused work on the Wi-Fi chip that it has in development, Apple analyst Ming-Chi Kuo said today. The development of the Apple-designed..."
+        },
+        {
+            "headline": "Applications opened for membership at Broadcom",
+            "content": "Applications have been opened for a vacancy at the Maldives Broadcasting Commission (MBC). The President's Office opened applications for the vacant post of an..."
+        }
+    ],
+    "20230127": [
+        {
+            "headline": "Apple’s Custom WiFi Chip Sees Indefinite Delay, Broadcom to Potentially Supply WiFi 6E chips for iPhone 15",
+            "content": "Apple will use WiFi 6E chips from its existing supplier Broadcom for the iPhone 15 models. Apple is prioritizing the development of 3nm chips as it delayed its..."
+        },
+        {
+            "headline": "The iPhone 15 Series Will Borrow This Feature From The MacBook Pro",
+            "content": "The iPhone 15 models will make their debut this year, and a reliable tipster claims they will feature Wi-Fi 6E for faster connectivity."
+        },
+        {
+            "headline": "Apple has reportedly given up on another iPhone chip project",
+            "content": "After the iPad Pro, Mac mini, and MacBook Pro all gained support for speedier Wi-Fi 6E with their latest releases, it's all but certain to come to the..."
+        },
+        {
+            "headline": "Apple has reportedly paused development on its own iPhone WiFi chips",
+            "content": "Back in 2019, Apple acquired Intel's smartphone modem business for roughly $1 billion, giving Apple everything it needs to develop its own WiFi chips for..."
+        }
+    ],
+    "20230128": [
+        {
+            "headline": "Intel Sunsets Network Switch Biz, Kills RISC-V Pathfinder Program (Updated)",
+            "content": "The decision to end the Intel Pathfinder for RISC-V has no impact on Intel Foundry Services (IFS) or the Horse Creek platform."
+        }
+    ],
+    "20230129": [],
+    "20230130": [
+        {
+            "headline": "Biden Team Weighs Fully Cutting Off Huawei From US Suppliers",
+            "content": "The Biden administration is considering cutting off Huawei Technologies Co. from all of its American suppliers, including Intel Corp. and Qualcomm Inc.,..."
+        },
+        {
+            "headline": "AT&T touts success of Domain 2.0 open network, white box efforts",
+            "content": "The company has leveraged the strategy to achieve improvements in its 5G and fiber broadband infrastructure, AT&T Vice President, Network Core..."
+        }
+    ],
+    "20230131": [
+        {
+            "headline": "Better Semiconductor Stock: Texas Instruments vs. Broadcom",
+            "content": "TI and Broadcom both outperformed the market over the past year. TI is more conservative and cyclical, while Broadcom is more aggressive and less exposed to..."
+        },
+        {
+            "headline": "Acquisition of VMware by Broadcom will be closely watched by NetApp’s customers",
+            "content": "Acquisition of VMware by Broadcom will be closely watched by NetApp's customers - SiliconANGLE."
+        }
+    ],
+    "20230201": [
+        {
+            "headline": "Cognitive routing in the Tomahawk 5 data center switch",
+            "content": "Cognitive Routing improves upon the Adaptive Routing functions present in previous generations of Tomahawk products, emphasizing the performance needs of..."
+        },
+        {
+            "headline": "Broadcom wants to compete with hyperscalers after VMware acquisition",
+            "content": "Broadcom plans to attack hyperscalers such as AWS, Microsoft Azure and Google Cloud after its final acquisition of VMware. This is according to a."
+        },
+        {
+            "headline": "Broadcom's VMware battle plan is to challenge hyperscalers",
+            "content": "As 17 percent of customers see Virtzilla's short term strategic significance shrinking ... Broadcom has signalled its intention to take on hyperscale datacenter..."
+        },
+        {
+            "headline": "Multi-Cloud Flexibility Heats up 5G Opportunity for Ice Norway",
+            "content": "Multi-Cloud Flexibility Heats up 5G Opportunity for Ice Norway ... The telco industry is gearing itself up to take advantage of the potential of 5G. The victors..."
+        },
+        {
+            "headline": "2 Seattle CEOs rank among the nation's 3 best paid",
+            "content": "Expedia Group's Peter Kern topped the list of best-paid CEOs, making $296.2 million in total compensation in 2021, S&P Global Market Intelligence found."
+        },
+        {
+            "headline": "Here Are 11 Big Tech Firms That Haven't Had Layoffs yet",
+            "content": "It may seem like every well-known tech company has had layoffs in the last few months, but there are still some holdouts, including Apple and Nvidia."
+        }
+    ],
+    "20230202": [
+        {
+            "headline": "Broadcom chief Hock Tan seeks more acquisitions after $69bn VMware deal",
+            "content": "Dealmaker targets semiconductor and software companies after signing on for five more years as chief."
+        }
+    ],
+    "20230203": [
+        {
+            "headline": "Semiconductors: Legislative and Regulatory Spotlight–2022",
+            "content": "This Advisory summarizes some key considerations under the CHIPS Act, developments relating to antitrust, export controls, and CFIUS, and potential future..."
+        },
+        {
+            "headline": "The Powerful Lobbyist Behind Kevin McCarthy (Published 2023)",
+            "content": "Jeff Miller is the new House speaker's top fund-raiser and closest confidant. He is also one of Washington's most prominent corporate lobbyists,..."
+        }
+    ],
+    "20230204": [],
+    "20230205": [],
+    "20230206": [
+        {
+            "headline": "AI and automation will play an increasing role in technology",
+            "content": "As AI and automation continue to advance, Broadcom will play a key role in driving even more exciting developments in the future."
+        }
+    ],
+    "20230207": [
+        {
+            "headline": "Broadcom Software 2022 Partner Awards",
+            "content": "Congratulations to our Broadcom Software 2022 Partner Award Winners ... We are pleased to announce our Broadcom Software Partner Awards, where we are recognizing..."
+        },
+        {
+            "headline": "Video: 14-Year-Old Inventor Wins $25,000 Prize For Robotic Hand He Built For Less Than $100",
+            "content": "Inspired by the Fukushima disaster & the need to protect first responders, Pennsylvania's Thomas Aldous created a hand to copy movements by humans."
+        }
+    ],
+    "20230208": [
+        {
+            "headline": "A Letter From CEO Raghu Raghuram Celebrating VMware’s 25 Years of Collective Innovation",
+            "content": "VMware celebrates the 25th anniversary of its founding on Feb. 10, 1998, when five forward-thinking technologists from Stanford University and the University..."
+        },
+        {
+            "headline": "Graphiron: New Russian Information Stealing Malware Deployed Against Ukraine",
+            "content": "The Nodaria espionage group (aka UAC-0056) is using a new piece of information stealing malware against targets in Ukraine. The malware (Infostealer."
+        },
+        {
+            "headline": "Skybox Security raises $50M and appoints Mo Rosen CEO",
+            "content": "Cybersecurity management platform company Skybox Security Inc. today announced that it has raised $50 million in new funding and has appointed season..."
+        }
+    ],
+    "20230209": [
+        {
+            "headline": "Xen hypervisor port to RISC-V moving – slowly, but moving",
+            "content": "If RISC-V is to become a viable processor architecture for servers, its software ecosystem will need a solid hypervisor. Which is why The Register noted in..."
+        }
+    ],
+    "20230210": [
+        {
+            "headline": "Broadcom: 2023 Tech Trends That Transform IT",
+            "content": "Broadcom believes artificial intelligence and automation go hand-in-hand in driving operational efficiencies, adaptive processes, higher performance and..."
+        },
+        {
+            "headline": "Nvidia, Broadcom, and Marvell Are Chip Stocks to Benefit in AI Arms Race",
+            "content": "J.P. Morgan analyst Harlan Sur worte that chip stocks Nvidia, Broadcom, and Marvell are best positioned to sell chips to tech giants building..."
+        },
+        {
+            "headline": "VMware turns 25 today: Is it a mature professional or headed back to Mom's house?",
+            "content": "VMware at 25 is a singular success: few enterprise software companies ever reach its size or manage to thrive for so long."
+        },
+        {
+            "headline": "RF front-end: at the heart of the turmoil?",
+            "content": "The total RF front-end market will reach about US$26.9 billion in 2028 with a CAGR22-28 of ~5.8%. 5G is improving the quality of service delivered to the..."
+        }
+    ],
+    "20230211": [
+        {
+            "headline": "The Reason Apple Never Added A Radio Tuner App Like Android",
+            "content": "As with so many Apple mysteries, it's one part engineering to two parts business culture. It comes down to what the iPhone is built to do."
+        },
+        {
+            "headline": "Is the Raspberry Pi 3B+ Still Worth It in 2023?",
+            "content": "Although it's been superseded by the more powerful Raspberry Pi 4, is the Pi 3B+ model still worth buying?"
+        }
+    ],
+    "20230212": [],
+    "20230213": [
+        {
+            "headline": "Here's A Simple Way To Bet On Semiconductor Plays Like NVDA Stock",
+            "content": "With semiconductor stocks like NVDA stock, TSM and AMD rebounding, the SMH ETF offers a simple one-trade way to tap into that trend."
+        },
+        {
+            "headline": "BoM Analysis - iPhone 14 Pro Max Costs 3.7% More to Make Than iPhone 13 Pro Max",
+            "content": "The blended bill of materials (BoM) cost for the iPhone 14 Pro Max with 128GB Nand flash is about $464, a 3.7% increase from that of the iPhone 13 Pro Max."
+        },
+        {
+            "headline": "iPhone 14 Pro Max’s BoM costs 3.7% more than its predecessor: Counterpoint",
+            "content": "The average materials cost for the iPhone 14 Pro Max comes to around $464, which represents a 3.7% increase compared to the iPhone 13 Pro Max."
+        }
+    ],
+    "20230214": [
+        {
+            "headline": "RFFEM Comparison 2023 – SatCom Chipset in Huawei and Apple Smartphone",
+            "content": "Technology, Process and Cost Comparison. RFFEM Comparison 2023 – SatCom Chipset in Huawei and Apple Smartphone. By Yole SystemPlus — Feb 2023..."
+        },
+        {
+            "headline": "Seeing The World Like A Palestinian",
+            "content": "With collaboration of Big Tech, Israeli state has rolled out ever more digital tools to spy, surveil and repress Palestinians in order to entrench its..."
+        },
+        {
+            "headline": "Watch: A California Teen’s Research Experiment Is Now Saving the Lives of Bees",
+            "content": "With the help of a local beekeeper, San Jose's Rory Hu launched an experiment where artificial flowers helped boost learning within bee colonies."
+        },
+        {
+            "headline": "Thick Cables, Thin Margins – Microsoft, Amazon, and Google Demand Overstated By $CRDO Credo",
+            "content": "Faster networking speeds have come like clockwork every ~3 years in the datacenter, but scaling is starting to hit some difficulties, especially due to the..."
+        }
+    ],
+    "20230215": [
+        {
+            "headline": "VMware Completes Successful Participation at LEAP in Saudi Arabia",
+            "content": "VMware president Sumit Dhawan discusses the importance of a cloud-smart approach to support the aims of Saudi Vision 2030 during the event."
+        },
+        {
+            "headline": "Meta Platforms Spent Over $1 Billion On Arista Networking In 2022",
+            "content": "The hyperscalers and cloud builders are the toughest customers in the IT sector, demanding the highest performance at the lowest price and an."
+        },
+        {
+            "headline": "What’s Old Is New Again: A Linux PC From A Set Top Box",
+            "content": "There was a time around two decades ago, when the new hotness was taking control of home routers to use as small Linux computers."
+        },
+        {
+            "headline": "Infomina Secures RM14.4 Million Deal From Maybank Indonesia",
+            "content": "Infomina Berhad announced the receipt of a letter of confirmation from PT Bank Maybank Indonesia TBK for a contract amounting to USD3.3 million (equivalent to..."
+        }
+    ],
+    "20230216": [
+        {
+            "headline": "Mediacom targets DOCSIS 4.0 rollout in Q4 2023",
+            "content": "CTO J.R. Walden told Fierce it is aiming to begin live testing of full duplex (FDX) DOCSIS 4.0 kit in Q3 and in the meantime is working through a program of..."
+        },
+        {
+            "headline": "Dividend Contenders: Why Not Get Dividend Growth AND Capital Appreciation?",
+            "content": "The \"dividend contenders\" are companies that have raised their dividend between 10 and 24 straight years. In most cases, they're already committed to long-term..."
+        },
+        {
+            "headline": "Parrot Security OS 5.2 Release – What’s New!",
+            "content": "The newly released version, Parrot Security OS 5.2, comes with a range of powerful tools and features to help cybersecurity professionals perform comprehensive..."
+        },
+        {
+            "headline": "Infomina bags maiden job in Indonesia worths RM14m",
+            "content": "Infomina Bhd has received a RM14.1 million contract to provide technology application and infrastructure operations, maintenance and support services."
+        }
+    ],
+    "20230217": [
+        {
+            "headline": "Windows 11 on Arm now officially supported on Apple Macs",
+            "content": "Microsoft now officially supports running Windows 11 on devices with Arm architecture-based processors. With this, running Windows 11 on Arm in a VM on."
+        },
+        {
+            "headline": "Cyber’s Top 10 Network Security Providers",
+            "content": "These companies provide network security solutions including firewalls, intrusion prevention systems, endpoint security, and cloud security."
+        },
+        {
+            "headline": "Microsoft makes Windows-on-Arm in VMs on Macs official – with Parallels for starters",
+            "content": "Microsoft has started to officially support Windows 11 on Arm running as a virtual machine on Macs powered by Apple's own M1 and M2 CPUs."
+        }
+    ],
+    "20230218": [
+        {
+            "headline": "Samuel Davison Obituary - West Vancouver, BC",
+            "content": "Celebrate the life of Samuel Davison, leave a kind word or memory and get funeral service information care of Hollyburn Funeral Home."
+        }
+    ],
+    "20230219": [],
+    "20230220": [
+        {
+            "headline": "Broadcom Stingray PS225-H16 Dual 25GbE DPU Photoshoot",
+            "content": "Broadcom Stingray PS225-H16 Dual 25GbE DPU Photoshoot ... The Broadcom Stingray was the company's original offering in the DPU space. It was designed as a direct..."
+        },
+        {
+            "headline": "Chris Szymanski",
+            "content": "Christopher Szymanski is Director of Product Marketing for Broadcom Inc.'s Mobile Connectivity Division, with a focus on technology strategy."
+        }
+    ],
+    "20230221": [
+        {
+            "headline": "Broadcom’s Top Lawyer Gets 90% Pay Boost Following Promotion",
+            "content": "Broadcom Inc.'s top lawyer Mark Brazeal saw his compensation rise by 90% last year as the technology company pushed forward with its bid to buy VMware Inc."
+        },
+        {
+            "headline": "Committee approves three nominations for Broadcom membership",
+            "content": "Broadcom is a seven-member commission. The commission is chaired by Mariyam Waheeda. The current members of the commission are Amjad Waheed, Ali Yusuf, Aminath..."
+        }
+    ],
+    "20230222": [
+        {
+            "headline": "Purdue University Preserves Educational Promise with Help From VMware",
+            "content": "When the COVID-19 pandemic forced the world into lockdown in March 2020, colleges and universities in the United States quickly pivoted to online."
+        },
+        {
+            "headline": "Four names for Broadcom sent for committee review",
+            "content": "The names read out at parliament in the order submitted by President Solih are: · Shiham Mohamed Waheed, Malé registry 5143, · Shaan Salih Mohamed, native of..."
+        },
+        {
+            "headline": "President forwards Broadcom applicants for parliament consideration",
+            "content": "Four nominations for the Maldives Broadcasting Commission (Broadcom) on behalf of President Ibrahim Mohamed Solih have been forwarded to the parliament on..."
+        }
+    ],
+    "20230223": [],
+    "20230224": [
+        {
+            "headline": "\"Grass to Glass\": How Chitale Dairy Brings Agility to Milk Production",
+            "content": "What is more essential than milk? As the world's largest producer and consumer of dairy products, India accounts for more than a fifth of global milk yield,..."
+        }
+    ],
+    "20230225": [],
+    "20230226": [],
+    "20230227": [
+        {
+            "headline": "Exclusive: Broadcom faces EU antitrust warning on $61 bln VMware deal - sources",
+            "content": "U.S. chipmaker Broadcom is set to receive a European Union antitrust warning about the possible anti-competitive effects of its proposed $61 billion bid for..."
+        },
+        {
+            "headline": "NTT DATA and VMware Collaborate to Accelerate Open RAN Adoption and Deployment",
+            "content": "NTT DATA and VMware, Inc. (NYSE: VMW) today announced an expanded collaboration to accelerate the path to software-defined, large-scale Open RAN deployments."
+        },
+        {
+            "headline": "Arm has legs: VMware's Bitnami starts packaging apps for Graviton and Ampere",
+            "content": "VMware's open source app packaging outfit Bitnami has started offering images ready for deployment on Arm-powered clouds, citing customer demand for the..."
+        },
+        {
+            "headline": "VMware Collaborates with Samsung on Virtualized RAN to Pave Way for Open 5G Networks",
+            "content": "Companies advance Open RAN network architecture by combining Samsung vDU and VMware Telco Cloud Platform. BARCELONA—Mobile World Congress 2023 (February 28,..."
+        },
+        {
+            "headline": "This Unbelievably Common Error Could Cost You 7%+ Dividends",
+            "content": "The simple truth is that Google Finance and Yahoo Finance don't include dividends when reporting an investment's historical performance."
+        }
+    ],
+    "20230228": [
+        {
+            "headline": "Broadcom's persistent cadence of co-packaged optics innovation",
+            "content": "Broadcom showcases the Tomahawk® 5-based 51.2T Bailly CPO prototype system at OFC 2023 and will also demonstrate a fully functional Tomahawk® 4-based 25.6T..."
+        },
+        {
+            "headline": "Exploring the Broadcom Tomahawk 5 Chip and its Impact on ASICs in Data Center Environments",
+            "content": "In Q4 last year, I attended Networking Field Day 29 and explored Broadcom Tomahawk 5 new chip for their data center switches. Since I am starting a career..."
+        },
+        {
+            "headline": "Broadcom faces EU warning on $94.5 billion VMware deal - Strategy - Software",
+            "content": "Antitrust action expected in weeks. Broadcom is set to receive an EU antitrust warning about the possible anti-competitive effects of its proposed US$61 billion..."
+        },
+        {
+            "headline": "Biden wants chipmakers to provide childcare if they want billions in free money",
+            "content": "There are more than a few strings attached to the $52 billion in funding set aside by the CHIPS and Science Act for domestic chipmaking projects,..."
+        },
+        {
+            "headline": "New SerDes Stays a Step Ahead in High-Speed Connectivity",
+            "content": "Intel is taking high-speed serial connectivity up a level with its latest 224-Gb/s PAM-4 SerDes."
+        }
+    ],
     "20230301": [
         {
             "headline": "Broadcom Tomahawk 5 based 51.2T Bailly Co-Packaged Optics Switch Shown",
