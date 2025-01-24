@@ -271,7 +271,7 @@ class Factor:
         }
         # print(res)
         # print(file_result)
-        with open(file_result, 'w', encoding='utf-8') as f:
+        with open(env['path_result'], 'w', encoding='utf-8') as f:
             json.dump(res, f, ensure_ascii=False, indent=4)
 
         # print(res['test'])
