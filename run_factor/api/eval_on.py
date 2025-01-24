@@ -121,7 +121,7 @@ def overnight_rtn_list(sigs, df_price_his):
         rtn_list.append([date_str, rtn])
     
 
-def eval_on(individual, data, df_price_his):
+def eval_on(env, individual, data, df_price_his):
     '''
         Overnight Trade Eval : Evaluate Overnight return based on the individual
     '''

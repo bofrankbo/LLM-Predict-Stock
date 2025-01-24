@@ -236,7 +236,7 @@ class Factor:
         if os.path.exists(self.path_expand):
             with open(self.path_expand, "r", encoding="utf-8") as f:
                 old_data = json.load(f)
-
+        # print(self.path_expand)
         data = factor_expanding(llm_factors, self.env, key_list, value_list, old_data)
         # 儲存資料
         os.makedirs(os.path.dirname(self.path_expand), exist_ok=True)

@@ -1,4 +1,320 @@
 {
+    "20230301": [
+        {
+            "headline": "Broadcom Tomahawk 5 based 51.2T Bailly Co-Packaged Optics Switch Shown",
+            "content": "That includes a new Broadcom Tomahawk 5 Bailly chip at 51.2Tbps speeds. With the need to decrease bits/ joule costs within the datacenter while also increasing..."
+        },
+        {
+            "headline": "NatWest Group Optimizes User Experience Through Improved Security and Development Environments",
+            "content": "Learn how NatWest stays ahead with VMware. Discover how their partnership helps create an agile infrastructure, reduce manual effort, and enhance security."
+        },
+        {
+            "headline": "Broadcom intros ‘Bailly,’ a co-packaged optics networking switch",
+            "content": "Rajiv Pancholy, director of hyperscale strategy and products for Broadcom's Optical Systems Division, talks to Laser Focus World about its Bailly..."
+        },
+        {
+            "headline": "6 GHz Brazil: Anatel reconfirms commitment to full 6 GHz band & AFC comes alive with ABRINT, Broadcom, Cisco, & DSA",
+            "content": "President of Brazilian regulator Anatel this week 'buried' speculation that 6 GHz spectrum allocation to Wi-Fi could be reconsidered."
+        },
+        {
+            "headline": "Top CIOs in the US-The 100 Best",
+            "content": "Position: Chief Information Officer Company: Akin Gump Strauss Hauer & Feld LLP. Aaron Ruleman has been in the IT industry for over 20 years."
+        }
+    ],
+    "20230302": [
+        {
+            "headline": "AI boost lifts Broadcom forecast amid lingering enterprise weakness",
+            "content": "Broadcom Inc forecast second-quarter revenue above estimates on Thursday, as increased investments in artificial intelligence spur demand for its chips used..."
+        },
+        {
+            "headline": "Broadcom Stock Gains on Earnings and Solid Guidance",
+            "content": "Broadcom gave a revenue forecast of $8.7 billion for the fiscal second quarter, compared with the $8.6 billion expected by analysts."
+        },
+        {
+            "headline": "BAE Systems Launches Floating Cloud for the Royal Navy",
+            "content": "BAE Systems created a freestanding, secure cloud deployed at sea. “Shared Infrastructure is basically a floating cloud,” says Minister."
+        },
+        {
+            "headline": "Marvell Teralynx 10 Announced for 51.2T 800GbE Switching",
+            "content": "We are on the verge of a new era of switches with the Broadcom Tomahawk 5 based 51.2T Bailly Co-Packaged Optics Switch shown yesterday,..."
+        },
+        {
+            "headline": "5G: Good for GaAs",
+            "content": "Right now, the titans of the GaAs microelectronic industry are going through a tricky time. Take US industry stalwart Qorvo: its latest quarterly sales are..."
+        },
+        {
+            "headline": "2022, a record year for semiconductors that feels anything but",
+            "content": "LONDON, 2 March, 2023 – The semiconductor market reached an all-time high in 2022, with total revenue hitting $595.7B, just surpassing 2021's record revenue..."
+        },
+        {
+            "headline": "BoM Analysis: Google Pixel Watch Costs $123 to Make",
+            "content": "The BoM cost of the LTE-capable Google Pixel Watch is estimated to be $123, which is a big leap from the previous Fitbit smartwatches."
+        },
+        {
+            "headline": "Top 20 Best Semiconductors Company In India 2023",
+            "content": "The semiconductor industry is essential to the Indian economy, as it provides the technology and components that power many modern devices and systems. We."
+        }
+    ],
+    "20230303": [
+        {
+            "headline": "AVGO Earnings: Highlights of Broadcom’s Q1 2023 report",
+            "content": "Chipmaker Broadcom, Inc. (NASDAQ: AVGO) Thursday reported higher adjusted earnings and revenues for the first quarter of 2023. Net profit was $10.33 per..."
+        },
+        {
+            "headline": "Broadcom ‘s Price Chart Sending a Warning Already",
+            "content": "Broadcom stock is up 3530% since it went public in 2009, but Elliott Wave analysis suggests a 50% correction is lurking around the corner."
+        },
+        {
+            "headline": "Broadcom forecasts second-quarter revenue above estimates on AI boost",
+            "content": "Broadcom Inc forecast second-quarter revenue above estimates on Thursday, as increased investments in artificial intelligence spurs demand for its chips..."
+        },
+        {
+            "headline": "TechInsights Teardown: Apple iPhone 14 Pro",
+            "content": "The Apple iPhone 14 Pro is the latest edition of the popular smartphone that includes new features such as lidar."
+        }
+    ],
+    "20230304": [],
+    "20230305": [
+        {
+            "headline": "Broadcom | Google Cloud",
+            "content": "Broadcom and Google enjoy a unique relationship. Broadcom supplies wireless chips for Google phones as well as chips for its data center and cloud services. At..."
+        }
+    ],
+    "20230306": [
+        {
+            "headline": "Apple Wants to Part Ways With Broadcom, but It Might Be Very Hard to Do So",
+            "content": "Broadcom is a massive supplier of hardware to Apple. Back in 2020, it was awarded new contracts to supply wireless modules and related components for the iPhone..."
+        },
+        {
+            "headline": "Salesforce promises to follow the Oracle playbook",
+            "content": "Salesforce CEO Marc Benioff promised he had received expert advice in tackling the company's problems – ones that have seen it resort to cutting around 10..."
+        },
+        {
+            "headline": "Qualtrics has $12B offer on the table to go private",
+            "content": "Qualtrics was once a hot startup before SAP bought the company in 2018 for $8 billion. It was a fine exit, making the founders rich, but it never was really..."
+        }
+    ],
+    "20230307": [
+        {
+            "headline": "VMware Cloud on AWS Launches in Bahrain",
+            "content": "VMware Cloud on AWS is now available in Bahrain. The service, which launched on February 28 in the AWS Middle East (Bahrain) region, will help customers in..."
+        },
+        {
+            "headline": "Setting The Stage For 1.6T Ethernet, And Driving 800G Now",
+            "content": "Marvell has had a large and profitable I/O and networking silicon business for a long time, but with the acquisitions of Inphi in October 2020 and of."
+        },
+        {
+            "headline": "Standards: The Next Step For Silicon Photonics",
+            "content": "Testing silicon photonics is becoming more critical and more complicated as the technology is used in new applications ranging from medicine to cryptography..."
+        }
+    ],
+    "20230308": [],
+    "20230309": [
+        {
+            "headline": "Leadership Legend: Hock Tan, President and CEO of Broadcom",
+            "content": "As President and CEO, Hock Tan has transformed Broadcom into a global superpower thanks to a series of smart business decisions and bold acquisitions."
+        }
+    ],
+    "20230310": [
+        {
+            "headline": "Deploying firmware at Cloudflare-scale: updating thousands of servers in more than 285 cities",
+            "content": "In this blog post I will outline the methods that we use to automate firmware deployment to our entire fleet."
+        },
+        {
+            "headline": "5 Ways This $2.5 Billion Tech Company Takes the Lead",
+            "content": "Can a company win and retain new customers in the midst of a flurry of ownership changes? This question comes to mind when considering the path of Veracode,..."
+        },
+        {
+            "headline": "Cisco Touts Co-Packaged Optics Future with Demo",
+            "content": "Cisco showed off its co-packaged optics demo switch. For those unfamiliar with the concept, the idea is to move the Silicon Photonics modules onto the switch..."
+        },
+        {
+            "headline": "Fix: Broadcom Netlink Gigabit Ethernet Driver Stops Working in Windows",
+            "content": "The problem can be fixed by restarting the computer. However, this fix is only temporary, as the same issue can return in a matter of minutes after the next..."
+        }
+    ],
+    "20230311": [],
+    "20230312": [],
+    "20230313": [
+        {
+            "headline": "Research Group Shows Intel & NVIDIA Data Center Revenue Gab Narrowing, AMD at 4th Place & Climbing",
+            "content": "650 Group recently shared slides showcasing the data center revenue of major semiconductor companies including Intel, NVIDIA, and AMD."
+        }
+    ],
+    "20230314": [
+        {
+            "headline": "Netgear Introduces Nighthawk RS700 Wi-Fi 7 Router",
+            "content": "The RS700 boasts of almost double the wireless throughput, and comes with 10G WAN and LAN ports. It is based on Broadcom's Wi-Fi 7 platform."
+        }
+    ],
+    "20230315": [
+        {
+            "headline": "Broadcom starts shipping Tomahawk 5 Ethernet switch / router chips",
+            "content": "Tomahawk 5 provides a performance boost for AI/ML infrastructure, delivering 51.2 terabits/second of switching capacity, twice that of any other switch on the..."
+        }
+    ],
+    "20230316": [
+        {
+            "headline": "In The Need For Speed, Chipmaker Broadcom Leads The Push For Silicon Photonics",
+            "content": "In The Need For Speed, Chipmaker Broadcom Leads The Push For Silicon Photonics ... \"Top Gun\" pilots aren't the only ones feeling the need for speed. So are data..."
+        },
+        {
+            "headline": "Optical I/O Technology Needed for Zettascale, Say Top Chipmakers",
+            "content": "Optical I/O is being singled out by top companies to push computing beyond exascale and into zettascale."
+        },
+        {
+            "headline": "Cox SVP: Multi-gig coming in late ’23, DOCSIS 4.0 in ‘25",
+            "content": "Cox's Guy McCormick dished on HFC upgrade progress and DOCSIS 4.0 as well as plans to increase speeds for consumers and deploy more greenfield fiber."
+        }
+    ],
+    "20230317": [
+        {
+            "headline": "Taiwan OSATs consider Mexico as regional operations base to help partners expand in US",
+            "content": "Taiwan-based OSATs, many of which are involved with TSMC and other chipmakers, are considering Mexico as their regional base of operations to assist..."
+        },
+        {
+            "headline": "Update: 'Huge' GPU supply shortage due to AI needs, analyst Dylan Patel says",
+            "content": "Dylan Patel has already declared a “huge supply shortage of Nvidia GPUs” as well as networking gear from Broadcom and Nvidia due to “massive demand.”"
+        }
+    ],
+    "20230318": [
+        {
+            "headline": "Litigation Trends, Shared Core Technologies Make Wi-Fi 6 an Attractive SEP Monetization Target (Part 1)",
+            "content": "Wi-Fi 6 shares new technologies with LTE and 5G that are subject to heavy patenting. The firms and institutions that currently monetize their standard..."
+        }
+    ],
+    "20230319": [
+        {
+            "headline": "Broadcom BCM57508 NetXtreme-E 200GbE OCP NIC 3.0 Adapter is FAST",
+            "content": "This Broadcom BCM57508 NetXtreme-E 200GbE OCP NIC 3.0 adapter is FAST offering up to 200GbE speeds from a single card."
+        }
+    ],
+    "20230320": [
+        {
+            "headline": "Broadcom Accelerates Growth With Tech Leadership and AI Focus",
+            "content": "Broadcom's focus on the artificial intelligence market is driving growth in its 'compute offload accelerated' business."
+        },
+        {
+            "headline": "What’s next for network operations",
+            "content": "By Serge Lucio, Vice President and General Manager, Agile Operations Division - This is a continuation of Broadcom's blog series: 2023 Tech Trends That..."
+        },
+        {
+            "headline": "Building A Broader IT Modernization Strategy",
+            "content": "Hock Tan, President and CEO of Broadcom Inc, discusses why the rise of software factories across the Defense Department illustrates the art of the possible..."
+        },
+        {
+            "headline": "VMware reinvents the partner experience with Partner Connect",
+            "content": "Partner Connect is a singular, unified program for all partner types that is now more flexible and efficient, provides faster and simpler paths to progression."
+        },
+        {
+            "headline": "Launchpad: Navigation software, UAV and lidar systems",
+            "content": "A roundup of recent products in the GNSS and inertial positioning industry from the March 2023 issue of GPS World magazine."
+        }
+    ],
+    "20230321": [
+        {
+            "headline": "Kingston University: Preparing Students for Workplace Success",
+            "content": "Kingston University revolutionizes higher education by integrating digital skills, problem-solving, and hands-on experience with VMware Cloud on AWS."
+        },
+        {
+            "headline": "14 Best Dividend Aristocrat Stocks To Buy Now",
+            "content": "In this article, we discuss 14 best dividend aristocrats to buy now. You can skip our detailed analysis of dividend investments and the performance of..."
+        }
+    ],
+    "20230322": [
+        {
+            "headline": "Watchdog: Broadcom buy of VMware may be bad for competition",
+            "content": "The watchdog also found the merger could let Broadcom access commercially sensitive data, such as details on planned products that rivals currently supply to..."
+        },
+        {
+            "headline": "UK regulator warns on Broadcom’s $69bn VMware deal",
+            "content": "The regulator said Broadcom could obtain commercially sensitive information that its hardware rivals currently supply to VMware as a result of the deal, adding..."
+        },
+        {
+            "headline": "What’s up with… SoftBank, Nvidia, AT&T, Broadcom, VMware",
+            "content": "Introduction, News & Analysis, Videos, Next-Gen Telco Infra Summit, Open Telco Infra, What's up with... SoftBank, Nvidia, AT&T, Broadcom, VMware."
+        },
+        {
+            "headline": "AVGO: 3 Forever Stocks to Buy and Hold for the Long-Term",
+            "content": "Broadcom Inc.(NASDAQ:AVGO): The banking crisis and the Fed's determination to cool inflation with higher interest rate hikes are likely to tip the economy..."
+        },
+        {
+            "headline": "The top 10 biggest technology companies in the US in 2023",
+            "content": "We look at 10 of the largest tech companies in the United States, who have shown remarkable growth and resilience to secure their status as global players."
+        },
+        {
+            "headline": "Tech deal could make computer servers more expensive for UK businesses",
+            "content": "Broadcom, a leading US-based technology company, makes and sells specialist hardware components – such as network interface cards (NICs) and storage..."
+        },
+        {
+            "headline": "Gais appointed as HDC's Deputy Managing Director",
+            "content": "Former Vice President of the Maldives Broadcasting Commission (Broadcom), Ahmed Gais, has been appointed as the Deputy Managing Director of the Housing..."
+        }
+    ],
+    "20230323": [
+        {
+            "headline": "CMA may put the brakes on Broadcom acquisition of VMware",
+            "content": "News The UK's Competition and Markets Authority (CMA) said the $61 billion deal could see server prices increase, potentially warranting a more thorough..."
+        }
+    ],
+    "20230324": [
+        {
+            "headline": "Hock Tan: Broadcom-VMware ‘Win-Win-Win’ for Channel Partners, Buyers",
+            "content": "Broadcom CEO Hock Tan says a Broadcom-VMware pairing will only result in a “win-win-win” for channel partners and end users."
+        },
+        {
+            "headline": "The top paid people in US silicon",
+            "content": "Broadcom's president and CEO Hock E. Tan made $60.6 million in 2022 thanks largely to nearly $54 million stock awards given to him."
+        }
+    ],
+    "20230325": [
+        {
+            "headline": "HDC appoints new Deputy Managing Director",
+            "content": "The former Vice President of the Maldives Broadcasting Commission (BroadCom), Ahmed Gais, has been appointed as the new Deputy Managing Director of the..."
+        }
+    ],
+    "20230326": [
+        {
+            "headline": "Broadcom Knights: Empowering Partners for Success",
+            "content": "Arrow Electronics and Broadcom, together, enable EMEA channel partners to deliver invaluable security solutions and services against the latest global..."
+        }
+    ],
+    "20230327": [
+        {
+            "headline": "Protection Highlight: Snake Keylogger",
+            "content": "Designed to record and transmit keystrokes made on a computer to a remote server along with screenshots and clipboard data, it is used by multiple groups and..."
+        }
+    ],
+    "20230328": [
+        {
+            "headline": "VMware vSphere+ Sparks Lexmark’s Multi-Cloud Transformation",
+            "content": "The vSphere+ platform is a cloud-connected subscription that provides centralized management for an entire distributed environment through a cloud console."
+        },
+        {
+            "headline": "2023 Partner Program Guide: 5-Star Software Vendor Programs",
+            "content": "CRN designates some programs as 5-Star Partner Programs because they provide the most comprehensive lineups of incentives, resources, training, services and..."
+        },
+        {
+            "headline": "Enfabrica Converges Extended Memory And I/O Down To One Chip",
+            "content": "Disaggregation means a lot of things, but the one thing that it most certainly does not mean is that every little thing in a system necessarily has to be."
+        },
+        {
+            "headline": "Raspberry Pi GPIO Pinout: What Each Pin Does on Pi 4, Earlier Models",
+            "content": "The Raspberry Pi has 40 GPIO pins that connect to sensors, lights, motors and other devices. Here's a map and detailed explanation of what each does,..."
+        }
+    ],
+    "20230329": [],
+    "20230330": [],
+    "20230331": [
+        {
+            "headline": "The future of trust—no more playing catch up",
+            "content": "By Eric Chien, Director of Security Response, Symantec Enterprise Division, Broadcom. This is a continuation of Broadcom's blog series: 2023 Tech Trends..."
+        },
+        {
+            "headline": "Blockchain Nodes 101: Discover The Foundation Of Decentralized Crypto Networks in January 2025",
+            "content": "Nodes serve as the backbone of blockchain networks, providing essential functions such as maintaining the distributed ledger, validating transactions,..."
+        }
+    ],
     "20230401": [
         {
             "headline": "3 CEOs Selling Gobs of Stock Just Like the Head of SVB Did",

@@ -44,7 +44,10 @@ def overnight_rtn_list(env, sigs, df_price_his):
         date = pd.to_datetime(date_str, format="%Y%m%d")
         df_price = df_price_his[df_price_his["Date"] == date]
 
-        # print(df_price)
+        current_index = df_price_his.index[df_price_his["Date"] == date].tolist()[0]
+        price_t_1 = df_price_his.iloc[current_index - 1]    # t-1 個交易日的價格
+
+        # print(df_price_yesterday)
         if df_price.empty:
             continue
         
@@ -68,43 +71,45 @@ def overnight_rtn_list(env, sigs, df_price_his):
             return rtn_list, in_out_list_sig
         
         # print(sig, df_price.iloc[0]["Close"], df_price.iloc[0]["MA5"])
-        if sig == 1 and df_price.iloc[0]["Close"] > df_price.iloc[0][MOV]:
+        open_price = df_price.iloc[0]["Open"]
+        close_price = df_price.iloc[0]["Close"]
+        if sig == 1 and price_t_1["Close"] > price_t_1[MOV]:
             if position == 0:
                 # long
                 in_out_list_sig.append([date_str, "enter", sig])
-                enter_price = float(df_price.iloc[0]["Open"])
-                rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
-                enter_price = float(df_price.iloc[0]["Close"])
+                enter_price = open_price
+                rtn = (close_price - enter_price) / enter_price
+                enter_price = close_price
                 position = 1
             elif position == 1:
                 # hold
-                rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
-                enter_price = float(df_price.iloc[0]["Close"])
+                rtn = (close_price - enter_price) / enter_price
+                enter_price = close_price
             elif position == -1:
                 # Close 
                 in_out_list_sig.append([date_str, "close", sig])
-                rtn = (enter_price - float(df_price.iloc[0]["Open"])) / enter_price
+                rtn = (enter_price - open_price) / enter_price
                 enter_price = 0
                 position = 0
                 
-        elif sig == -1 and df_price.iloc[0]["Close"] < df_price.iloc[0][MOV]:        
+        elif sig == -1 and price_t_1["Close"] < price_t_1[MOV]:        
             if position == 0:
                 # Short
                 in_out_list_sig.append([date_str, "enter", sig])
-                enter_price = float(df_price.iloc[0]["Open"])
-                rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
-                enter_price = float(df_price.iloc[0]["Close"])
+                enter_price = open_price
+                rtn = (enter_price - close_price) / enter_price
+                enter_price = close_price
                 position = -1
             elif position == 1:
                 # Close
                 in_out_list_sig.append([date_str, "close", sig])
-                rtn = (float(df_price.iloc[0]["Open"]) - enter_price) / enter_price
+                rtn = (open_price - enter_price) / enter_price
                 enter_price = 0
                 position = 0
             elif position == -1:
                 # hold
-                rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
-                enter_price = float(df_price.iloc[0]["Close"])
+                rtn = (enter_price - close_price) / enter_price
+                enter_price = close_price
                 
         else:
             if position == 0:
@@ -112,12 +117,12 @@ def overnight_rtn_list(env, sigs, df_price_his):
                 rtn = 0
             elif position == 1:
                 # hold
-                rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
-                enter_price = float(df_price.iloc[0]["Close"])
+                rtn = (close_price  - enter_price) / enter_price
+                enter_price = close_price
             elif position == -1:
                 # hold
-                rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
-                enter_price = float(df_price.iloc[0]["Close"])
+                rtn = (enter_price - close_price) / enter_price
+                enter_price = close_price
         rtn_list.append([date_str, rtn])
     
 
