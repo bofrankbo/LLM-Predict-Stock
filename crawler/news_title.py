@@ -48,7 +48,7 @@ data = [
     ["BAC", "Bank of America", "us"],
     ["AVGO", "Broadcom", "us"],
     ["PYPL", "PayPal", "us"],
-    # ["ADBE", "Adobe", "us"],
+    ["ADBE", "Adobe", "us"],
 ]
 
 ##################################################
