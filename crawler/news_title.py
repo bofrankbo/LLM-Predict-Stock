@@ -46,8 +46,8 @@ data = [
     ["UNH", "UnitedHealth Group", "us"],
     ["DIS", "Disney", "us"],
     ["BAC", "Bank of America", "us"],
-    # ["AVGO", "Broadcom", "us"],
-    # ["PYPL", "PayPal", "us"],
+    ["AVGO", "Broadcom", "us"],
+    ["PYPL", "PayPal", "us"],
     # ["ADBE", "Adobe", "us"],
 ]
 
