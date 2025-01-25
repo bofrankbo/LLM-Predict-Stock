@@ -1,4 +1,3 @@
-from api import eval
 from api import GeneticAlgorithm
 from api import factor_expanding
 from api import split_expand
@@ -108,6 +107,7 @@ class Factor:
         st = start_date + timedelta(days=(end_date - start_date).days * 3 / 4 - 15)
         et = start_date + timedelta(days=(end_date - start_date).days * 3 / 4)
 
+        df_price_his = self.price_his.copy()
         df_price_his['Date'] = pd.to_datetime(self.price_his['Date'], format='%Y%m%d')
         df_price_his = df_price_his[(st <= df_price_his['Date']) & (self.price_his['Date'] <= et)]
 
@@ -184,12 +184,6 @@ class Factor:
             }
             把這些因素轉換成這樣的格式，你只需要回答我轉換後的樣子就好""")
 
-            json_str = re.search(
-                r'\{.*\}', res_factors_json.content, re.DOTALL).group()
-            json_data = json.loads(json_str)
-            with open(self.path_factors, 'w', encoding='utf-8') as f:
-                json.dump(json_data, f, ensure_ascii=False, indent=4)
-
         elif country == 'us':
             res_facotrs = llm.invoke(f"""
             After the following news, {stock_name}'s stock price rose the next day:
@@ -211,13 +205,20 @@ class Factor:
                 ...
                 "20":
             }
-            "Convert these factors into this format; you only need to reply with the converted version.""")
+            "Convert these 20 factors into this format; you only need to reply with the converted version.""")
+            
 
-            json_str = re.search(
-                r'\{.*\}', res_factors_json.content, re.DOTALL).group()
-            json_data = json.loads(json_str)
-            with open(self.path_factors, 'w', encoding='utf-8') as f:
-                json.dump(json_data, f, ensure_ascii=False, indent=4)
+
+        json_str = re.search(r'\{.*\}', res_factors_json.content, re.DOTALL).group()
+        json_data = json.loads(json_str)
+        with open(self.path_factors, 'w', encoding='utf-8') as f:
+            json.dump(json_data, f, ensure_ascii=False, indent=4)
+        
+        if len(json_data.keys()) != 20:
+            print("Error: factors error")
+        
+
+            
 
     def expand_factors(self, llm_factors):
         '''
@@ -243,7 +244,7 @@ class Factor:
         with open(self.path_expand, 'w', encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
 
-    def run_taining(self, mode, train_datarange, test_datarange):
+    def run_taining(self, mode, train_datarange, test_datarange, eval_func):
         env = self.env
         if mode == 0:
             out_folder = f"{self.training_path}/ac"
@@ -258,12 +259,12 @@ class Factor:
         env['path_result']  = out_folder + '/result.json'
 
         # print("Start, 第一次跑的話請確認state是空的")
-        ga = GeneticAlgorithm(env, self.price_his, train_datarange, eval, pop_size=20, generations=50, mode=mode, pop_len=len(factors.keys()))
+        ga = GeneticAlgorithm(env, self.price_his, train_datarange, eval_func, pop_size=20, generations=50, mode=mode, pop_len=len(factors.keys()))
         best_individual = ga.run()
 
         individual = best_individual
-        res_train = eval(individual, train_datarange, self.price_his)
-        res_test = eval(individual, test_datarange, self.price_his)
+        res_train = eval_func(env, individual, train_datarange, self.price_his)
+        res_test = eval_func(env, individual, test_datarange, self.price_his)
         res = {
             "train": res_train,
             "test": res_test,

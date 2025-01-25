@@ -4,16 +4,13 @@ import json
 import shutil
 import numpy as np
 import pandas as pd
-from openai import OpenAI
 from sklearn.cluster import KMeans
 from datetime import datetime
 
 from factor import Factor
-from api import genetic_algorithm_on
-from api import eval_on
 
 
-class FactorEmbOverNight(Factor):
+class FactorEmbd(Factor):
     '''
         Implement from Factor
         Change the factor generating function from factor
@@ -50,7 +47,7 @@ class FactorEmbOverNight(Factor):
             vector = embeddings_model.embed_documents(titles[i:i+2000])
             embeddings.extend(vector)
             # print(len(embeddings))
-        os.makedirs(self.path_out, exist_ok=True)
+        os.makedirs(os.path.dirname(self.path_embeddings) , exist_ok=True)
         with open(self.path_embeddings, 'w', encoding='utf-8') as f:
             json.dump(embeddings, f, ensure_ascii=False, indent=4)
         return np.array(embeddings)
@@ -82,6 +79,7 @@ class FactorEmbOverNight(Factor):
 
     # Step 5: 儲存結果
     def save_cluster(self, results, output_path):
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(results, f, ensure_ascii=False, indent=4)
             
@@ -143,9 +141,9 @@ class FactorEmbOverNight(Factor):
             }
             把這些因素轉換成這樣的格式，你只需要回答我轉換後的樣子就好""")
 
-            json_str = re.search(
-                r'\{.*\}', res_factors_json.content, re.DOTALL).group()
+            json_str = re.search(r'\{.*\}', res_factors_json.content, re.DOTALL).group()
             json_data = json.loads(json_str)
+            os.makedirs(os.path.dirname(self.path_factors), exist_ok=True)
             with open(self.path_factors, 'w', encoding='utf-8') as f:
                 json.dump(json_data, f, ensure_ascii=False, indent=4)
 
@@ -167,44 +165,8 @@ class FactorEmbOverNight(Factor):
             }
             "Convert these factors into this format; you only need to reply with the converted version.""")
 
-            json_str = re.search(
-                r'\{.*\}', res_factors_json.content, re.DOTALL).group()
+            json_str = re.search(r'\{.*\}', res_factors_json.content, re.DOTALL).group()
             json_data = json.loads(json_str)
+            os.makedirs(os.path.dirname(self.path_factors), exist_ok=True)
             with open(self.path_factors, 'w', encoding='utf-8') as f:
                 json.dump(json_data, f, ensure_ascii=False, indent=4)
-    
-    def run_taining(self, mode, train_datarange, test_datarange):
-        env = self.env
-        if mode == 0:
-            out_folder = f"{self.training_path}/ac"
-        elif mode == 1:
-            out_folder = f"{self.training_path}/ev"
-        
-        with open(self.path_factors, "r", encoding="utf-8") as f:
-            factors = json.load(f)
-
-        state_file = out_folder + '/state.json'
-        file_gen = out_folder + '/generation_results.json'
-        file_result = out_folder + '/result.json'
-
-        # print("Start, 第一次跑的話請確認state是空的")
-        best_individual = genetic_algorithm_on(factors, state_file, file_gen, train_datarange, self.price_his, population_size=20, generations=50, mode=mode)
-        # print(f"Best individual: {best_individual}")
-
-        individual = best_individual
-        res_train = eval_on(individual, train_datarange, self.price_his)
-        res_test = eval_on(individual, test_datarange, self.price_his)
-        res = {
-            "train": res_train,
-            "test": res_test,
-            "individual": individual,
-        }
-        # print(res)
-        # print(file_result)
-        with open(file_result, 'w', encoding='utf-8') as f:
-            json.dump(res, f, ensure_ascii=False, indent=4)
-
-        # print(res['test'])
-        df = pd.DataFrame([res['train'], res['test']], index=['train', 'test'])
-
-        return df
