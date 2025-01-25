@@ -1,33 +1,25 @@
 import pandas as pd
 import numpy as np
-from collections import Counter
 
-def get_sigs(data, individual, diff=0):
+def get_sigs(env, data, df_price_his):
     sorted_data = dict(sorted(data.items()))
     sigs = []
+    MOV = env['MOV']
+
     for date_str, value in sorted_data.items():
-        daily_sigs = []
+        current_index = df_price_his.index[df_price_his["Date"] == date_str].tolist()[0]
+        price_t_1 = df_price_his.iloc[current_index - 1]    # t-1 個交易日的價格
 
-        # remove elements with sig = 0
-        # Count the frequency of each element
-        # Get the maximum frequency
-        # If there is a tie, set sig to 0; otherwise, set it to the most frequent element
         sig = 0
-        for i in range(len(individual)):
-            if individual[i] == 1:
-                daily_sigs.append(value["skeleton"][f"{str(i+1)}"]["sig"])
-
-        if len(daily_sigs) > 0:
-            count = Counter(daily_sigs)
-            # print(count[1], count[-1])
-            if count[1] > count[-1] + diff:
-                sig = 1
-            elif count[1] < count[-1] - diff:
-                sig = -1
+        if price_t_1["Close"] > price_t_1[MOV]:
+            sig = 1
+        elif price_t_1["Close"] < price_t_1[MOV]:
+            sig = -1
 
         sigs.append([date_str, sig])
 
     return sigs
+
 
 def overnight_rtn_list(env, sigs, df_price_his):
     '''
@@ -44,7 +36,10 @@ def overnight_rtn_list(env, sigs, df_price_his):
         date = pd.to_datetime(date_str, format="%Y%m%d")
         df_price = df_price_his[df_price_his["Date"] == date]
 
-        # print(df_price)
+        current_index = df_price_his.index[df_price_his["Date"] == date].tolist()[0]
+        price_t_1 = df_price_his.iloc[current_index - 1]    # t-1 個交易日的價格
+
+        # print(df_price_yesterday)
         if df_price.empty:
             continue
         
@@ -63,14 +58,16 @@ def overnight_rtn_list(env, sigs, df_price_his):
             elif position == 0:
                 rtn = 0
             rtn_list.append([date_str, rtn])
-
+            
+            # print(rtn_list)
             # print(in_out_list_sig)
+            
             return rtn_list, in_out_list_sig
         
         # print(sig, df_price.iloc[0]["Close"], df_price.iloc[0]["MA5"])
         open_price = df_price.iloc[0]["Open"]
         close_price = df_price.iloc[0]["Close"]
-        if sig == 1 and df_price.iloc[0]["Open"] > df_price.iloc[0][MOV]:
+        if sig == 1:
             if position == 0:
                 # long
                 in_out_list_sig.append([date_str, "enter", sig])
@@ -89,7 +86,7 @@ def overnight_rtn_list(env, sigs, df_price_his):
                 enter_price = 0
                 position = 0
                 
-        elif sig == -1 and df_price.iloc[0]["Open"] < df_price.iloc[0][MOV]:        
+        elif sig == -1:        
             if position == 0:
                 # Short
                 in_out_list_sig.append([date_str, "enter", sig])
@@ -121,14 +118,14 @@ def overnight_rtn_list(env, sigs, df_price_his):
                 rtn = (enter_price - close_price) / enter_price
                 enter_price = close_price
         rtn_list.append([date_str, rtn])
-    
 
-def eval_onlymov(env, individual, data, df_price_his):
+def eval_onlymov(env, data, df_price_his):
     '''
         Overnight Trade Eval : Evaluate Overnight return based on the individual
     '''
     # print(individual, end=" ")
-    sigs = get_sigs(data, individual)
+    MOV = env['MOV']
+    sigs = get_sigs(env, data, df_price_his)
     gain = []
     loss = []
     gain_precision = []
@@ -154,7 +151,7 @@ def eval_onlymov(env, individual, data, df_price_his):
             
         close_price = df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Close"]
         if state == "close":
-            if df_price_his.iloc[0]["Close"] > df_price_his.iloc[0][MOV]:
+            if longshort == 'long':
                 # print(f"close {date_str} {close_price}")
                 rtn = (close_price - enter_price) / enter_price
                 if rtn > 0:

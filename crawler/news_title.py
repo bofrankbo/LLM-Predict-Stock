@@ -49,6 +49,8 @@ data = [
     ["AVGO", "Broadcom", "us"],
     ["PYPL", "PayPal", "us"],
     ["ADBE", "Adobe", "us"],
+    ["BA", "Boeing", "us"],
+    ["MRNA", "Moderna", "us"],
 ]
 
 ##################################################
