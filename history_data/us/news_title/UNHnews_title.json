@@ -1,4 +1,881 @@
 {
+    "20221101": [
+        {
+            "headline": "Allina opens new heart surgery center in Edina",
+            "content": "The facility for less-complicated heart procedures continues a partnership to develop free-standing surgery centers with a division of Minnetonka-based..."
+        },
+        {
+            "headline": "2008 alumnus helps world-class athletes succeed in life",
+            "content": "Ryan Henderson '08, executive vice president of marketing and partnerships at Radegen, the burgeoning sports and entertainment agency."
+        },
+        {
+            "headline": "Penguin Random House and Simon & Schuster merger blocked by federal judge",
+            "content": "A federal judge has blocked Penguin Random House's proposed purchase of Simon & Schuster, agreeing with the Justice Department that the joining of two of the..."
+        },
+        {
+            "headline": "Look Up Which Fortune 500 Companies Fund Election Deniers",
+            "content": "Corporate America pledged to quit supporting lawmakers who challenged the 2020 election results. Two years later, the companies' wallets are back open."
+        },
+        {
+            "headline": "Innovaccer Appoints TG Ganeshan as Chief Financial Officer",
+            "content": "Innovaccer Inc., the Health Cloud company, today announced that TG Ganeshan has joined its executive leadership team as Chief Financial Officer (CFO),"
+        },
+        {
+            "headline": "Penguin Random House bid for rival publisher Simon & Schuster blocked by U.S. judge",
+            "content": "A federal judge on Monday blocked Penguin Random House's proposed purchase of Simon & Schuster, agreeing with the U.S. Justice Department that the joining..."
+        }
+    ],
+    "20221102": [
+        {
+            "headline": "CVS looks to 2023 after opioids settlement, Medicare rating decline",
+            "content": "CVS Health Corp on Wednesday forecast a 2023 profit below Wall Street estimates and said it hoped to mitigate the hit from a performance rating decline for..."
+        },
+        {
+            "headline": "CVS agrees to pay $5B to resolve opioid-related lawsuits",
+            "content": "Walgreens and Walmart have also reportedly reached deals, which if finalized should end much of the yearslong litigation over opioids. Published Nov."
+        },
+        {
+            "headline": "FDA Approves Hepatitis B Therapy for Adolescents",
+            "content": "This approval expands the use of Vemlidy to children 12 years of age and older. Vemlidy is already available for adults living with this chronic liver disease."
+        },
+        {
+            "headline": "Narayana Murthy's son Rohan has big plans to make office work more efficient | Company Business News",
+            "content": "Rohan Murty saw his father build Infosys Ltd. into one of India's national champions by pioneering a novel strategy of outsourcing technology services."
+        }
+    ],
+    "20221103": [
+        {
+            "headline": "Amoxicillin in Shortage Due to Increased Demand",
+            "content": "After healthcare providers have been challenged with supply in recent weeks, the FDA officially listed amoxicillin oral powder for suspension in shortage on..."
+        },
+        {
+            "headline": "KAHP gives Maryhurst $150,000 grant to expand behavioral health care",
+            "content": "LOUISVILLE, Ky. — Maryhurst, Kentucky's oldest child welfare agency, announced it received $150,000 from the Kentucky Association of Health Plans (KAHP) to..."
+        },
+        {
+            "headline": "Capitated revenue now makes up outsized share of One Medical’s net revenue",
+            "content": "Revenue from capitated contracts now makes up half of One Medical's net revenue, even though the primary care provider's at-risk members comprise just 5% of..."
+        },
+        {
+            "headline": "HouseNovel Looks to Crowdsource Home History",
+            "content": "What happens if you combine the fundamentals of Zillow and Ancestry.com? You get Minnetonka startup HouseNovel."
+        }
+    ],
+    "20221104": [
+        {
+            "headline": "FDA Approves Melanoma Drug to Treat Blood Cancers",
+            "content": "Cotellic, an oral inhibitor of MEK1 and MEK2, was approved to treat patients with histiocytic neoplasms based on a phase 2 trial conducted solely at..."
+        },
+        {
+            "headline": "Optum, IIIT-H to handhold 5 healthcare startups",
+            "content": "The first Optum Startup Studio India cohort, consisting of five health care startups focussed on telehealth, clinical decision support and digital health..."
+        },
+        {
+            "headline": "AARP-Branded Medicare Drug Plan Is Too Costly for Many Retirees, Critics Say",
+            "content": "The AARP name has become a marketing juggernaut among baby boomers, with the group's nearly 38 million members receiving offers for AARP-branded health,..."
+        },
+        {
+            "headline": "The Bay Area ranked No. 2 nationally for tech job postings last month, despite mounting layoffs",
+            "content": "The number of job postings for tech positions in the Bay Area was up 10% in October from the prior month."
+        },
+        {
+            "headline": "Women in Poker – Eva Devi",
+            "content": "Eva Devi, a CRM specialist at MPL Poker, the poker arm of the Indian gaming unicorn Mobile Premier League (MPL)."
+        }
+    ],
+    "20221105": [
+        {
+            "headline": "Tim Cook has been an excellent leader for Apple — these numbers prove it",
+            "content": "Apple's impact on the broader stock market has never been bigger, landing its CEO on the MarketWatch 50 list of the most influential people in markets."
+        }
+    ],
+    "20221106": [],
+    "20221107": [
+        {
+            "headline": "UnitedHealth continues to lead the way on insurer profits in Q3. Here's how its competitors fared",
+            "content": "UnitedHealth Group continues to lead the pack in profitability, according to the latest earnings reports for major national insurers."
+        },
+        {
+            "headline": "Florida Blue Selects Amazon Pharmacy as Home Delivery Provider",
+            "content": "Subscribers will be able to compare medications through Amazon and pay either their insurance copay price or the price from Prime Therapeutics' MedsYourWay..."
+        },
+        {
+            "headline": "Walgreens-backed VillageMD buys Summit Health for $9B",
+            "content": "Walgreens will invest $3.5 billion through an even mix of debt and equity to support the acquisition, and will retain 53% ownership in VillageMD after the deal..."
+        },
+        {
+            "headline": "Study Finds Automated Texts Decrease Odds of Rehospitalization",
+            "content": "PHILADELPHIA—An occasional, simple “How are you feeling?” text from a primary care team can make a big difference in patients' health after they are..."
+        },
+        {
+            "headline": "United Properties’ industrial project at former Optum HQ advances",
+            "content": "A recent land sale signals motion on an industrial development in Golden Valley."
+        },
+        {
+            "headline": "WellMed Medical Management faces defamation lawsuit from San Antonio company",
+            "content": "WellMed provides care for nearly 2 million older adults — half of whom are Medicare patients. It has more than 20000 doctors' offices in Texas and Florida."
+        },
+        {
+            "headline": "MHS Health Wisconsin names president and CEO",
+            "content": "West Allis-based health maintenance organization MHS Health Wisconsin announced Monday that Titus Muzi Jr. has been named its president and chief executive..."
+        },
+        {
+            "headline": "Fierce Healthcare's 2022 Women of Influence Awards",
+            "content": "We're honoring 10 women who are making a difference in pushing healthcare to the future."
+        },
+        {
+            "headline": "Flint Group reaches $140M in revenue by rolling up plumbing and HVAC companies",
+            "content": "Founded in 2019, Prairie Village-based Flint Group already acquired seven HVAC, plumbing and sewer repair companies and has grown to $140 million in annual..."
+        },
+        {
+            "headline": "Winnebago's CEO compensation grew to $6.3M, driven by company's growth",
+            "content": "Michael Happe has been president and CEO of Winnebago Industries since January 2016, and during that time he's grown Winnebago's share in the recreational..."
+        }
+    ],
+    "20221108": [
+        {
+            "headline": "2022 Health Influencer 30: Kirsten Gorsuch",
+            "content": "Leading communications at UnitedHealthcare, a subsidiary of Fortune 5 company UnitedHealth Group, is Kirsten Gorsuch. Reporting to CEO Brian Thompson,..."
+        },
+        {
+            "headline": "15 companies that will let you work from home and are hiring now—some roles pay over $100K",
+            "content": "Companies are scaling back their remote offerings even though jobs that allow you to work from home continue to be high in demand amongst the workforce."
+        },
+        {
+            "headline": "Amwell sees opportunity in a down economy",
+            "content": "Amwell, a Boston-based virtual care company, could be in a good position to take advantage of well-documented provider challenges surrounding labor and..."
+        },
+        {
+            "headline": "Walgreens-backed Village MD to acquire Summit Health-CityMD for $8.9B",
+            "content": "The deal is being made with investments from Walgreens Boots Alliance and Evernorth, the health services subsidiary of Cigna."
+        },
+        {
+            "headline": "Oak Street Health brings in record revenue in Q3",
+            "content": "Oak Street Health brought in revenue of $545.7 million in the third quarter — an all-time high for the value-based primary care chain, up more than 40% year..."
+        }
+    ],
+    "20221109": [
+        {
+            "headline": "What’s in it for Evernorth? Cigna’s health services arm invests $2.5B in VillageMD-Summit",
+            "content": "Walgreens-backed VillageMD snapped up medical practice Summit Health for almost $9 billion earlier this week, with an assist from a big-name minority investor."
+        }
+    ],
+    "20221110": [
+        {
+            "headline": "Characteristics of EoE Differ Among Those With Childhood- and Adult-Onset Disease",
+            "content": "Despite differing characteristics, patients have similar responses to treatment regardless of when they were diagnosed with eosinophilic esophagitis (EoE)."
+        }
+    ],
+    "20221111": [
+        {
+            "headline": "UnitedHealth Group's CCO Jennifer Smoter insists on measurement to hold comms accountable",
+            "content": "UnitedHealth Group's CCO Jennifer Smoter insists on measurement to hold comms accountable · A full-scale comms organization. UHG operates a decentralized comms..."
+        },
+        {
+            "headline": "How the Wrong Presumptions Led to the Wrong Conclusions in the United/Change Healthcare Merger",
+            "content": "On Sept. 19, a federal judge approved UnitedHealth Group's acquisition of Change Healthcare over the concerns of the US Department of Justice."
+        },
+        {
+            "headline": "The Biggest Company in the World",
+            "content": "We think the biggest company in the world will be a consumer health tech company. This may sound crazy to some, but why shouldn't this be true?"
+        },
+        {
+            "headline": "Nasdaq, S&P 500 end sharply higher, fueled by inflation optimism",
+            "content": "The S&P 500 and Nasdaq ended sharply higher on Friday, extending a rally started the day before after a soft inflation reading raised hopes the Federal Reserve..."
+        },
+        {
+            "headline": "HR Brew",
+            "content": "Nov 11th, 2022 - A look at the recruiting sector's recent layoffs."
+        },
+        {
+            "headline": "Review: 'Flight,' by Lynn Steger Strong",
+            "content": "In Lynn Steger Strong's third novel, three siblings — Henry, Martin and Kate — celebrate Christmas in the wake of their mother Helen's death..."
+        },
+        {
+            "headline": "3 Stocks That May Be Kicked Out of the Dow Jones Industrial Average (and the 3 Stocks That Could Replace Them)",
+            "content": "There have been more than 50 changes to the Dow since 1896. Removing these three established companies could be next on the docket."
+        },
+        {
+            "headline": "Oleksandr Zinchenko receives award for his work to protest against Russia's invasion of Ukraine",
+            "content": "Oleksandr Zinchenko has received an award following his protests against Russia's invasion of his war-torn homeland of Ukraine."
+        }
+    ],
+    "20221112": [
+        {
+            "headline": "Christina Applegate says Dead to Me role is likely her last ever acting job following MS diagnosis",
+            "content": "It was revealed that Christina Applegate had been diagnosed with MS in 2021."
+        }
+    ],
+    "20221113": [],
+    "20221114": [
+        {
+            "headline": "IBD Names 13 Best HSA Accounts For 2023",
+            "content": "Health savings accounts (HSAs) are powerful savings and investing tools. But to take full advantage of these accounts, savers should evaluate the best HSA..."
+        }
+    ],
+    "20221115": [
+        {
+            "headline": "UnitedHealth Group Honors Apprenticeship Cohort Graduates",
+            "content": "UnitedHealth Group partnered with the IAA to develop roles and curriculum approved by the USDOL for the 10-week classroom-focused boot camp education program."
+        },
+        {
+            "headline": "UnitedHealth’s Optum Rx To Coax Patients To Less Pricey Biosimilars Of Abbvie’s Humira",
+            "content": "UnitedHealth Group's OptumRx will put biosimilar versions of Abbvie's pricey rheumatoid arthritis drug Humira “in the same position as the brand” on the..."
+        },
+        {
+            "headline": "UnitedHealthcare to Help Millions of AARP Members Save on Hearing Aids",
+            "content": "UnitedHealthcare is now administering AARP Hearing Solutions, helping make it easier and more affordable for millions of Americans to purchase prescription..."
+        },
+        {
+            "headline": "At-Home Care Provider DispatchHealth Raises Over $330 Million In Latest Funding Round",
+            "content": "The in-home medical company DispatchHealth has raised more than $330 million in yet another funding round, according to the company. Overall, that brings."
+        },
+        {
+            "headline": "Air analyst, meme master, gag gift developer: the list of bizarre remote jobs continues to grow",
+            "content": "From “air and noise analyst” to “meme master,” the career support service FlexJobs has published a list of 100 surprising remote and hybrid jobs to emerge..."
+        },
+        {
+            "headline": "Top 10 wealth creators over 10 years in US stock market",
+            "content": "Here are ten stocks that have generated a compounded annualized growth rate (CAGR) of more than 20% over the last 10 years."
+        }
+    ],
+    "20221116": [
+        {
+            "headline": "A Judge Let UnitedHealth Make a Deal That Gives It Key Data From Insurance Rivals",
+            "content": "A federal judge allowed the company to acquire a clearinghouse of health insurance claims. UnitedHealth says it won't use the data to give itself an edge."
+        },
+        {
+            "headline": "Here’s A Better Pick Over UnitedHealth Stock",
+            "content": "We believe that CVS Health stock (NYSE: CVS) is currently a better pick than UnitedHealth stock (NYSE: UNH), given its better prospects."
+        },
+        {
+            "headline": "UnitedHealth to Keep AbbVie’s Blockbuster Drug Humira Available",
+            "content": "AbbVie Inc.'s blockbuster drug Humira will remain available to members of UnitedHealth Group Inc.'s pharmacy benefits manager alongside up to three other..."
+        },
+        {
+            "headline": "Gift Enhances Lehigh Valley Fleming Neuroscience Institute’s Deep Brain Stimulation Program",
+            "content": "LVHN Trustee Joel Hoffman's generosity will help patients with Parkinson's disease, other movement disorders."
+        },
+        {
+            "headline": "Yet more data underscore the growing risk of suicide among youths",
+            "content": "The study looks at youngsters sent to emergency departments (EDs) in Illinois because of suicidal ideation (SI)."
+        },
+        {
+            "headline": "Generic Drug Roundup",
+            "content": "Sun Pharma will market SPARC's phenobarbital, which is under FDA review to treat neonatal seizures. In addition, several new generics have been approved,..."
+        },
+        {
+            "headline": "Interwell Health Names Board of Directors with Deep Experience in Value-Based Care",
+            "content": "PRNewswire/ -- Interwell Health, a physician-centered organization dedicated to reimagining kidney care, today announced the appointment of eight leaders to..."
+        }
+    ],
+    "20221117": [
+        {
+            "headline": "UnitedHealthcare hires Emil Hill as comms SVP for government programs",
+            "content": "UnitedHealthcare, part of the UnitedHealth Group, has brought on Emil Hill as SVP of communications for government programs."
+        },
+        {
+            "headline": "UnitedHealth to keep AbbVie’s blockbuster drug Humira available",
+            "content": "AbbVie Inc.'s blockbuster drug Humira will remain available to members of UnitedHealth Group Inc.'s pharmacy benefits manager alongside up to three other..."
+        },
+        {
+            "headline": "FDA Advisory Committee Supports Xphozah in CKD",
+            "content": "If approved, Xphozah will be the first phosphate absorption inhibitor for adults with chronic kidney disease who are on dialysis."
+        },
+        {
+            "headline": "WakeMed, UnitedHealthcare agreement brings hospital system back in network for thousands",
+            "content": "After nearly six months without a contract, UnitedHealthcare and WakeMed struck a deal that brings the hospital system back in-network for the insurers..."
+        },
+        {
+            "headline": "Hundreds attend Glen Cove Senior Health Expo",
+            "content": "The Glen Cove YMCA welcomed eager guests to RichnerLIVE and the Herald's Senior Health & Beyond Expo, presented by UnitedHealthcare on Nov."
+        }
+    ],
+    "20221118": [
+        {
+            "headline": "Uncompromising pursuit of excellence, key to Optum Philippines’ success in global health care services",
+            "content": "Optum Global Solutions, a member of the UnitedHealth Group, can attribute its success to the great work that its Filipino workforce has contributed."
+        },
+        {
+            "headline": "Dollar Tree Continues to Rebuild C-Suite",
+            "content": "Dollar Tree Inc. has made a number of key leadership additions, with Jennifer Bohaty, Terence Goods, Jennifer Silberman and Kristin Tetreault joining the..."
+        },
+        {
+            "headline": "Israeli arrested in South Africa with weapons, torture van",
+            "content": "A man reputed to be one of Israel's most wanted gang leaders was arrested during a raid of a home in a posh Johannesburg suburb."
+        },
+        {
+            "headline": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.59%",
+            "content": "Investing.com – U.S. stocks were higher after the close on Friday, as gains in the Utilities, Healthcare and Financials sectors led shares higher."
+        },
+        {
+            "headline": "Dollar Tree Appoints Terence Goods as Chief Diversity Officer and Jennifer Silberman as Chief Sustainability Officer",
+            "content": "Dollar Tree, Inc. announced a number of key leadership additions, with Jennifer Bohaty, Terence Goods, Jennifer Silberman and Kristin Tetreault joining the..."
+        }
+    ],
+    "20221119": [],
+    "20221120": [],
+    "20221121": [
+        {
+            "headline": "Vacant, massive Howard office complex goes up for auction. Starting bid? $2.7 million",
+            "content": "The vacant former UnitedHealth Group headquarters site in Howard will be auctioned off online between Nov. 28 and 30."
+        },
+        {
+            "headline": "U.S. Justice Department appeals UnitedHealth acquisition of Change Health",
+            "content": "The US Department of Justice, which saw its legal challenge to UnitedHealth Group Inc.'s aquisition of Change Healthcare rejected by a court earlier this fall,"
+        },
+        {
+            "headline": "Many Americans Feel US Healthcare Puts Profit Over Patients",
+            "content": "Results from a recent survey show 82% of Americans believe the US healthcare system puts profits ahead of people."
+        },
+        {
+            "headline": "HC9 Ventures closes $83M fund, builds community of investors to grow early-stage healthcare startups",
+            "content": "HC9 Ventures closed its first fund with $83 million to invest in healthcare software and services startups at seed and series A stages."
+        },
+        {
+            "headline": "2022: Year of the Cross-Market Health System Mega-Merger",
+            "content": "Announced this week, Sanford Health is planning to merge with Minnesota-based Fairview Health Services in what would create a $14B, 58-hospital merger."
+        },
+        {
+            "headline": "How Vanessa Guillen's Sisters Continue Fighting for Army Reform",
+            "content": "In an exclusive interview with People Chica, Mayra and Lupe Guillén opened up on how I am Vanessa Guillén on Netflix details the tragic disappearance and death..."
+        },
+        {
+            "headline": "Taiwan’s TSMC to bring its most advanced chip manufacturing to Arizona",
+            "content": "Taiwan Semiconductor Manufacturing Company plans to open a second plant in Arizona, and bring its most advanced manufacturing technology to the new factory,..."
+        },
+        {
+            "headline": "'My ambition was always to become a pharmacist, but I wouldn’t have been able to without this scholarship'",
+            "content": "The Ireland Healthcare Scholarship Program is focused on students from less-advantaged backgrounds who wish to pursue a degree in primary or specialised care."
+        },
+        {
+            "headline": "Express Scripts Adds Zorvye, Novel Psoriasis Treatment, to Formulary",
+            "content": "Express Scripts had put Zoryve (roflumilast), the company's PDE4 inhibitor cream for plaque psoriasis, on its formulary."
+        }
+    ],
+    "20221122": [
+        {
+            "headline": "Update: United Healthcare spokesperson says agreement reached with Providence",
+            "content": "People with United Healthcare insurance may not be able to get care at Providence facilities beginning next year. It all depends on how negotiations between..."
+        },
+        {
+            "headline": "Former Walt Disney CEO Bob Iger is back in the top job",
+            "content": "Bob Iger stepped down as CEO of Disney two years ago after 15 years at the helm. Before leaving, he picked Bob Chapek to be his successor. Now Iger is back."
+        },
+        {
+            "headline": "Ambitious Donegal students awarded scholarships for healthcare studies",
+            "content": "Six Donegal students have been named as 2022 Ireland Healthcare Scholars by The United Health Foundation, the philanthropic foundation of Optum Ireland's..."
+        }
+    ],
+    "20221123": [
+        {
+            "headline": "DispatchHealth Raises More Than $330 Million to Expand Its Technology-Enabled Ecosystem of High Acuity Care in the Home",
+            "content": "PRNewswire/ -- DispatchHealth, the nation's first comprehensive in-home, high acuity medical care provider, today announced it has raised more than $330..."
+        }
+    ],
+    "20221124": [],
+    "20221125": [
+        {
+            "headline": "Obama Stock Portfolio: 10 Year Returns",
+            "content": "Over the past ten years, these returns are even more impressive, clocking in at more than 150%. In November 2012, the share price of the fund was around $125."
+        },
+        {
+            "headline": "Was Alexander West’s Blue Pool Capital Right About These 10 Stocks?",
+            "content": "In this article, we discuss the top 10 stock picks of Alexander West's Blue Pool Capital as of the end of the third quarter of 2021 and assess their..."
+        }
+    ],
+    "20221126": [
+        {
+            "headline": "The 'Grinch' returns to Children's Theatre Company",
+            "content": "Performances of the Christmas classic started on Nov. 8 and continue through Jan. 8 at Children's Theatre Company."
+        }
+    ],
+    "20221127": [
+        {
+            "headline": "Review: Trampled by Turtles honor Low in sold-out Armory gig behind new album 'Alpenglow'",
+            "content": "Alan Sparhawk joined the acoustic sextet in a nearly two-hour Minneapolis set laden with homages to Duluth."
+        }
+    ],
+    "20221128": [
+        {
+            "headline": "UnitedHealth Group Revenue To Hit $360 Billion Next Year",
+            "content": "UnitedHealth Group revenue will surpass $357 billion next year as the diversified healthcare giant continues to grow its health insurance business along..."
+        },
+        {
+            "headline": "19,000 Polyclinic, Everett Clinic patients face in-network insurance loss",
+            "content": "Thousands of patients of The Polyclinic and The Everett Clinic could soon have to find new medical providers or face higher rates."
+        },
+        {
+            "headline": "Will the Nasdaq or S&P 500 Have a Better 2023?",
+            "content": "Depending on what the economy does, the performance of these indexes could be wildly different."
+        }
+    ],
+    "20221129": [
+        {
+            "headline": "Monitoring doesn't make employees more productive, but doing this does",
+            "content": "People data—like compensation and performance reviews, employee surveys, and feedback—must work for employees, not just employers..."
+        },
+        {
+            "headline": "US stocks edge higher in unsteady trading, oil prices rise",
+            "content": "New York, Nov.29 (BNA): Stocks edged mostly higher in unsteady trading on Wall Street Tuesday, reports AP. The S&P 500 rose 0.1% as of 10:19 a.m. Eastern..."
+        }
+    ],
+    "20221130": [
+        {
+            "headline": "PayPal, Netflix Top the List of Hedge Fund Favorites",
+            "content": "Here's a look at the stocks that attracted the most new interest from hedge funds in the third quarter — and the 15 most popular stocks overall."
+        },
+        {
+            "headline": "Gov. Tim Walz solicits six-figure donations for inauguration committee",
+            "content": "As Democrats prepare to take control of the Legislature, DFL Gov. Tim Walz's inauguration committee is soliciting donations as large as $100,000 for..."
+        },
+        {
+            "headline": "RUSH Leader Earns National Recognition for Social Work",
+            "content": "Robyn Golden, MA, LCSW, RUSH's associate vice president of Social Work and Community Health, as its 2022 Insley-Evans Public Health Social Worker."
+        },
+        {
+            "headline": "UNITED STATES : The Nancy Pelosi staff-to-private-sector pipeline creates a cottage industry of Washington lobbyists - 30/11/2022",
+            "content": "Former aides to long-time Democratic House leader cash in by lending a helping hand to the country's most powerful interests, from military contractors to..."
+        },
+        {
+            "headline": "Humana closing most SeniorBridge locations to focus on Medicare Advantage plans",
+            "content": "The news comes less than two weeks after Humana announced the expansion of its CenterWell Senior Primary Care clinics."
+        },
+        {
+            "headline": "After Honor’s Acquisition, Some Home Instead Franchisees Aren’t Buying In – Yet",
+            "content": "Honor and Home Instead have big plans together, but some speed bumps between franchisees and company leadership have understandably surfaced."
+        }
+    ],
+    "20221201": [
+        {
+            "headline": "United Health Foundation Partnership Aims to Decrease Nurse Burnout and Attrition",
+            "content": "The United Health Foundation has announced a three-year, $3.1 million grant partnership with the American Nurses Foundation to reduce burnout with an..."
+        },
+        {
+            "headline": "Breaking down UnitedHealth Group’s Investor Day and what it means for Healthcare in 2023",
+            "content": "We're diving into UnitedHealth Group's (”UHG”) investor day since the $360 billion a year in revenue company can signal a lot to us about what to expect in..."
+        },
+        {
+            "headline": "As Mental Health Crisis Grows, So Do Health Insurer Behavioral Health Provider Networks",
+            "content": "UnitedHealth Group has expanded its already massive network of behavioral healthcare providers by 25% to 375000 from about 300000 in 2020."
+        },
+        {
+            "headline": "Florida panel hands TeamHealth a win in its ongoing battle with UnitedHealthcare",
+            "content": "A panel of judges in Florida ruled this week that UnitedHealthcare must pay TeamHealth $10.8 million for underpayments."
+        },
+        {
+            "headline": "United Health Foundation Launches $3.1 Million Partnership with American Nurses Foundation to Fight Nurse Burnout",
+            "content": "Learn how United Health Foundation and American Nurses Foundation launched a $3.1 million grant partnership for the Stress & Burnout Prevention Pilot..."
+        },
+        {
+            "headline": "Satish Mehta Appointed to Express, Inc. Board of Directors",
+            "content": "The Board of Directors of fashion apparel retailer Express, Inc. (NYSE: EXPR) has named Satish Mehta as a Class I director, effective today. Mr. Mehta."
+        },
+        {
+            "headline": "This startup wants to help you get an appointment with a specialist doctor faster",
+            "content": "Kelsey Mellard, founder and CEO of telehealth startup Sitka, thinks she has a solution. The platform connects primary care physicians (PCPs) with specialists."
+        },
+        {
+            "headline": "Spokane Urology expands with demand",
+            "content": "A private-practice urology clinic in Spokane is establishing a Spokane Valley location and is building an outpatient surgery center at its main office."
+        },
+        {
+            "headline": "U.S. Health Club Performance in 2021 Not Back to 2019 Levels, Per IHRSA Report",
+            "content": "In 2021, 66.5 million people were members of US health clubs, down 9 million from 2019, according to the 2022 IHRSA Health Club Consumer Report."
+        },
+        {
+            "headline": "20 Biggest Life Insurance Companies in the US",
+            "content": "Some of the top firms in it are MetLife, Inc. (NYSE:MET), Aflac Incorporated (NYSE:AFL), and Prudential Financial, Inc. (NYSE:PRU)."
+        }
+    ],
+    "20221202": [
+        {
+            "headline": "UnitedHealthcare loses lawsuit to TeamHealth — again — in ongoing battle over billing",
+            "content": "UnitedHealthcare is suing TeamHealth over allegations TeamHealth refuses to join its networks, and billed the payer more then $100 million in fraudulent claims."
+        },
+        {
+            "headline": "UnitedHealth, American Nurses Foundation team on pilot to tackle nurse burnout",
+            "content": "The foundation, which is the philanthropic arm of health insurance giant UnitedHealth Group, will partner with the nursing group in a three-year, $3.1 million..."
+        },
+        {
+            "headline": "2022 Most Influential in Healthcare Brian Thompson",
+            "content": "Thompson plays a key role in growing UnitedHealthcare's lucrative Medicare Advantage membership. In the third quarter of 2022, UnitedHealthcare,..."
+        },
+        {
+            "headline": "Valley hospital, national health insurance provider in major contract dispute",
+            "content": "Phoenix Children's Hospital is in a contract dispute with one of the nation's biggest health insurance companies. They have two months to work out a deal..."
+        },
+        {
+            "headline": "2022 Most Influential in Healthcare Dr. Wyatt Decker",
+            "content": "Decker is responsible for managing UnitedHealth Group's fast-growing health services arm, which saw revenue per customer climb 31% in the third quarter of..."
+        },
+        {
+            "headline": "19 things to know about USPI going into 2023",
+            "content": "Here are 19 things to know about Dallas-based United Surgical Partners International, the industry's largest ASC chain, going into 2023:"
+        },
+        {
+            "headline": "2022 Most Influential in Healthcare Dr. Rhonda Medows",
+            "content": "Medows established the office of population health at the 52-hospital Catholic system in 2015. She oversees the organization's Medicaid, Medicare and..."
+        },
+        {
+            "headline": "Black Friday And Trading: OctaFX Presents The Results Of Its Client Survey",
+            "content": "This Black Friday, OctaFX decided to research traders' attitudes towards the shopping season, as well as their trading patterns during this period."
+        }
+    ],
+    "20221203": [],
+    "20221204": [
+        {
+            "headline": "Top 10 Famous Personalities In The Field Of Healthcare",
+            "content": "Health Care is a broad topic that encompasses a wide range of themes such as epidemiology, environmental health, workplace health and safety,..."
+        }
+    ],
+    "20221205": [
+        {
+            "headline": "The health insurer will see you now: How UnitedHealth is keeping more profits, as your doctor",
+            "content": "UnitedHealth Group expects to funnel more of the insurance premiums it collects from workers and taxpayers toward itself next year."
+        },
+        {
+            "headline": "UnitedHealthcare loses another lawsuit to TeamHealth in billing fight",
+            "content": "UnitedHealthcare, the nation's largest insurer, has lost its latest legal battle against provider group TeamHealth, with a three-judge arbitration panel in..."
+        },
+        {
+            "headline": "Cigna’s PBM Express Scripts Latest To Put Less Pricey Biosimilars Of Abbvie’s Humira On Preferred Drug List",
+            "content": "Cigna's pharmacy benefit manager Express Scripts will put “multiple\" biosimilar versions of Abbvie's expensive rheumatoid arthritis drug Humira in the “same..."
+        },
+        {
+            "headline": "$3.1 million grant aims to fight long-term care nurse burnout",
+            "content": "Reducing nurse burnout in long-term care and other healthcare settings is the goal of a three-year, $3.1 million grant partnership between the United Health..."
+        },
+        {
+            "headline": "What Happened to Bright Health As the Health Insurer Grew Too Fast",
+            "content": "Bright Health Group grew fast. It is unraveling even faster. The health-insurance upstart went public in June 2021 at a dizzying $11.2 billion valuation."
+        },
+        {
+            "headline": "What Changed in Top Momentum ETF MTUM in Late 2022",
+            "content": "When MTUM was rebalanced at the end of November, many of its largest positions were sold to make room for more recent winners."
+        },
+        {
+            "headline": "Humira biosimilars set the stage for long-awaited 2023 US launches",
+            "content": "After much buzz, the entry of Humira biosimilars is awaited as a cost-cutting opportunity, but market penetration will likely not be instant."
+        }
+    ],
+    "20221206": [
+        {
+            "headline": "Healthcare Dealmakers—VillageMD's $9B Summit Health acquisition; Major Midwest health system mergers and more",
+            "content": "Sanford Health and Fairview Health Services' 58-hospital merger, Amwell's Talkspace purchase rumors and more M&A news from the month of November."
+        },
+        {
+            "headline": "McDonald’s franchisee violated child labor laws, investigation finds",
+            "content": "Santonastasso Enterprises, which operates McDonald's locations in the Pittsburgh area, allowed 14- and 15-year-olds to work more than three hours after 7 pm on..."
+        },
+        {
+            "headline": "What does Ski-U-Mah smell like? Greg Heinemann put it in a candle",
+            "content": "Heritage Gear, started in the pandemic, sells upscale sports merchandise for a dozen colleges and the NFL."
+        }
+    ],
+    "20221207": [
+        {
+            "headline": "UnitedHealth’s $5.4B buy of LHC expected to close in Q1",
+            "content": "Dive Brief: UnitedHealth expects its acquisition of home health and hospice provider LHC Group to close in the first quarter of 2023 after facing antitrust..."
+        },
+        {
+            "headline": "Optum's LHC Group Acquisition Expected to Close in Q1 2023",
+            "content": "The anticipated acquisition of LHC Group (NASDAQ: LHCG) by the UnitedHealth Group (NYSE: UNH) subsidiary Optum is now expected to close during the first."
+        },
+        {
+            "headline": "Why Losing to Meta in Court May Still Be a Win for Regulators (Published 2022)",
+            "content": "As the Federal Trade Commission prepares to face off in court against Meta over a V.R. start-up deal, the agency is testing a novel argument as part of a..."
+        },
+        {
+            "headline": "LOOK: Here’s what a work day at Optum’s new wellness-forward office is like",
+            "content": "Editor's note: This content is sponsored by Optum Philippines and was produced by BrandRap, the sales and marketing arm of Rappler."
+        }
+    ],
+    "20221208": [
+        {
+            "headline": "Algorithmic Bias in Healthcare and Some Strategies for Mitigating It",
+            "content": "I don't know about you, but my first contact with AI was in movies full of intelligent robots. Their actions made me believe that the whole world would be..."
+        },
+        {
+            "headline": "Healthcare dealmaking will heat up in 2023 with plenty of corporate cash, PE 'dry powder'",
+            "content": "Economic headwinds and recessionary fears will not slow down healthcare dealmaking next year coming off a robust M&A market in 2022."
+        },
+        {
+            "headline": "EmsanaRx and Mark Cuban’s Pharmacy Offer New Program",
+            "content": "The EmsanaRx Plus program is connecting employers to the discounted drugs offered through Mark Cuban Cost Plus Drug Company. The program will be available..."
+        },
+        {
+            "headline": "Dustin Hinton",
+            "content": "Dustin Hinton has led UnitedHealthcare's operations in Wisconsin since 2014. The insurance company has 1.7 million members in the state."
+        },
+        {
+            "headline": "FDA Requests Removal of Pepaxto Indication for Multiple Myeloma",
+            "content": "Oncopeptides disagrees with the FDA about Pepaxto and will make a decision about next steps by the end of the first quarter of 2023."
+        }
+    ],
+    "20221209": [
+        {
+            "headline": "Exclusive AIS Health Data Outlines 2021 Compensation for Health Insurer CEOs",
+            "content": "At four newly public startup insurers, CEOs' total compensation in 2021 easily outstripped pay for executives at large, established payers like UnitedHealth..."
+        },
+        {
+            "headline": "Insurtech CEOs compensated more than their legacy insurer peers",
+            "content": "Clover Health awarded CEO Vivek Garipalli with $389.6 million in total compensation, which consisted entirely of stock awards, in 2021."
+        },
+        {
+            "headline": "The 21 Companies Making the Most Profit per Second",
+            "content": "These top 30 most profitable publicly traded US companies raked in nearly $870 billion in profits in 2021, or an average of $917 per second for each of the..."
+        }
+    ],
+    "20221210": [
+        {
+            "headline": "Optum: ‘Special Place’ Beset by Maddening Phone Woes, Alleged Doctor Shortages",
+            "content": "The bigger, related issue appears to be what some say is a doctor shortage at the medical group as a result of intentional, profit-driven attrition."
+        }
+    ],
+    "20221211": [
+        {
+            "headline": "CVS Wants to Be a Healthcare Provider. So Why Doesn't It Have Any Doctors?",
+            "content": "CVS Health staked its future on primary care, but a year later it still hasn't made an acquisition. Should investors be worried?"
+        },
+        {
+            "headline": "Why Should You Invest in Blue Chip Stocks?",
+            "content": "Blue chip stocks offer a number of benefits, including safety, income, profitability, and a proven ability to bounce back from recessions and other economic..."
+        }
+    ],
+    "20221212": [
+        {
+            "headline": "UnitedHealth appoints Google exec Kirsten Gil to Board of Directors - Bizwomen",
+            "content": "Minnetonka, Minnesota-based UnitedHealth Group Inc.(NYSE: UNH) said Monday it has appointed Google executive Kirsten Gil to its board of directors."
+        },
+        {
+            "headline": "Variability in Medicare direct contracting savings illustrates promises, pitfalls of value-based care",
+            "content": "ACOs' net savings rates ranged from -29.4% to 29.2% in the 2021 Global and Professional Direct Contracting Model."
+        },
+        {
+            "headline": "UnitedHealth names Google exec Kirsten Gil to board of directors",
+            "content": "Gil has been a business operations, strategy and finance leader at Alphabet, Google's parent company since 2007. Her leadership has involved in the Google..."
+        },
+        {
+            "headline": "What Behavioral Health Providers Need to Know When Negotiating Value-Based Care Contracts with Payers",
+            "content": "Behavioral health providers can up their negotiation game with payers by shifting their attitude about the provider-payer dynamic and investing in their."
+        },
+        {
+            "headline": "Health Care — Court won’t block California flavored tobacco ban",
+            "content": "The Supreme Court on Monday denied a request made by a group of major tobacco companies to block California's recently passed ban on flavored tobacco products."
+        },
+        {
+            "headline": "10 Best Medical Stocks Under $20",
+            "content": "Some of the best medical stocks to invest in include AbbVie Inc. (NYSE:ABBV), UnitedHealth Group Incorporated (NYSE:UNH), and Abbott Laboratories (NYSE:ABT)."
+        },
+        {
+            "headline": "Biocon Biologics Completes $3 Billion Acquisition of Viatris’ Biosimilars",
+            "content": "The acquisition provides Biocon Biologics with eight commercial biosimilars, and is part of Viatris' efforts to pay down debt related to phase 1 research..."
+        },
+        {
+            "headline": "12 Best Small-Cap Healthcare Stocks To Buy Now",
+            "content": "Investors usually gravitate towards healthcare stocks like AbbVie Inc. (NYSE:ABBV), UnitedHealth Group Incorporated (NYSE:UNH), and Abbott Laboratories (NYSE:..."
+        },
+        {
+            "headline": "From Adani Enterprises To ITC- 9 Indian Companies Enter 2022's List Of Top Global 500 Companies",
+            "content": "The list, led by Reliance Industries with a market capitalisation of $202 billion, also includes Tata Consultancy ($139 billion) and HDFC Bank ($97 billion)."
+        }
+    ],
+    "20221213": [
+        {
+            "headline": "UnitedHealth buys third building this year near Minnetonka headquarters",
+            "content": "United HealthCare Services Inc. recently bought another property in Minnetonka near the headquarters of its parent company, UnitedHealth Group Inc."
+        },
+        {
+            "headline": "James Bandler",
+            "content": "James Bandler is a reporter at ProPublica. He covers business and finance, with coverage areas that include corporate investigations, resource extraction..."
+        }
+    ],
+    "20221214": [
+        {
+            "headline": "Why Being Too Big to Fail is a Problem for Providers",
+            "content": "The combination of size, capital and lack of regulatory pressures seemingly make UnitedHealth Group too big to fail, placing the burden on providers to..."
+        },
+        {
+            "headline": "Chutes & Ladders—LifePoint Health taps new chief diversity officer; Providence Health System welcomes new treasurer",
+            "content": "Rafael Martinez-Chapman joined Providence Health System Dec. 12 as senior vice president and treasurer of the Washington-based not-for-profit health system."
+        },
+        {
+            "headline": "Optum's $8B+ year of deals: 6 acquisitions to know",
+            "content": "Optum, a subsidiary of UnitedHealth Group and parent company of ASC chain SCA Health, made six huge deals this year totaling more than $8 billion."
+        },
+        {
+            "headline": "USPI vs Surgery Partners vs SCA Health: 32 moves in 2022",
+            "content": "Dallas-based United Surgical Partners International, Brentwood, Tenn.-based Surgery Partners and Deerfield, Ill.-based SCA Health are three of the biggest ASC..."
+        }
+    ],
+    "20221215": [
+        {
+            "headline": "FDA Extends Review of Lynparza/Abiraterone for Prostate Cancer",
+            "content": "The agency has extended the review time by three months for Lynparza in combination with abiraterone and prednisone or prednisolone."
+        },
+        {
+            "headline": "Big Ideas in Tech for 2023: An a16z Omnibus",
+            "content": "From entertainment franchise games to the precision delivery of medicines, small modular reactors to loads of AI applications, here are 40+ builder-worthy..."
+        }
+    ],
+    "20221216": [
+        {
+            "headline": "Investing in the new era of value-based care",
+            "content": "Recent trends appear to make a case for investing in value-based care. Here's why value-based models now show both the potential and propensity for growth."
+        },
+        {
+            "headline": "FDA Approves Iyuzeh to Reduce Intraocular Pressure",
+            "content": "The FDA has approved new drug application (NDA) of Thea Pharma's Iyuzeh (latanoprost ophthalmic solution) to reduce elevated intraocular pressure (IOP)."
+        },
+        {
+            "headline": "Adam Daigle, Business Editor of The Acadiana Advocate, Looks Back on 2022",
+            "content": "Adam Daigle, Business Editor of the Acadiana Advocate, joined Discover Lafayette to discuss the biggest news stories of 2022."
+        }
+    ],
+    "20221217": [
+        {
+            "headline": "U.S. Health Officials Seek New Curbs on Private Medicare Advantage Plans (Published 2022)",
+            "content": "Proposed regulations would crack down on misleading ads for the private plans and would enhance scrutiny of denials for coverage of medical care."
+        },
+        {
+            "headline": "AbbVie Submits sNDA for Linzess for Children and Adolescents",
+            "content": "If approved, Linzess would be the first prescription therapy for functional constipation in children and adolescents 6 to 17 years of age."
+        },
+        {
+            "headline": "Costs could soar in 2023 for thousands who use Fresno’s biggest hospital system. Here’s why",
+            "content": "Community Medical Centers is in talks with United HealthCare, Anthem Blue Cross, Cigna to renew health insurance contracts set to expire."
+        }
+    ],
+    "20221218": [
+        {
+            "headline": "Richard John Hetherington, Ii Obituary 2022",
+            "content": "Richard John Hetherington, II, age 41, of Olathe, KS, passed away at home on Sunday, December 18, 2022 after battling pancreatic cancer."
+        },
+        {
+            "headline": "Minnesota legislators to vote on State Office Building overhaul",
+            "content": "The 90-year-old building has long needed expensive repairs. A vote Wednesday could be the final approval."
+        },
+        {
+            "headline": "New tactics for fighting online rumors with the truth",
+            "content": "Computer scientists can help companies unravel the way rumors spread through social media."
+        }
+    ],
+    "20221219": [
+        {
+            "headline": "Top 10 Behavioral Health Stories of 2022: How ABA Layoffs, Value-Based Care and Dealmaking Defined the Year",
+            "content": "The year 2022 saw several growing pains and tough lessons in the behavioral health industry. Two years after the onset of a world-altering pandemic,"
+        },
+        {
+            "headline": "10 healthcare companies that hit $1B valuations in 2022",
+            "content": "Health tech had a wild ride in 2021 as venture capital dollars flooded into the market. Digital health funding reached a fever pitch in 2021 with startups..."
+        },
+        {
+            "headline": "A Three-Week Vacation in 2023? Yes, You Can",
+            "content": "Here's how to strategize and ask your boss for the time to take that dream break."
+        }
+    ],
+    "20221220": [
+        {
+            "headline": "Major Diabetes Medications in Short Supply",
+            "content": "Lilly's first-in-class medicine that activates both the GLP-1 and GIP receptors, Mounjaro, is the latest to be included on the FDA's drug shortages list..."
+        },
+        {
+            "headline": "Haywood Street Congregation to get more than $500,000 to help homeless in Asheville",
+            "content": "An Asheville nonprofit has received a large grant to help it provide more medical care to the people who are living on the streets."
+        },
+        {
+            "headline": "Mark Cuban’s next act on drug costs: Tackling insulin",
+            "content": "Billionaire Mark Cuban's Cost Plug Drug company sells generic drugs at low costs. He plans to also include drugs like insulin."
+        }
+    ],
+    "20221221": [
+        {
+            "headline": "Eagle spotted carrying Canada goose near WA dam. Security camera captures the fly-by",
+            "content": "Grant PUD employees spotted the eagle at Wanapum Dam in Grant County. The bird then perched on a lamppost alongside another eagle."
+        },
+        {
+            "headline": "ICER: Monoclonal Antibodies Not Cost-Effective in Multiple Sclerosis",
+            "content": "The monoclonal antibodies that treat patients with multiple sclerosis would have to be priced more than 50% lower to meet the common standards of..."
+        },
+        {
+            "headline": "Thursday flight cancellations top 2,400 nationwide, disrupting holiday travel",
+            "content": "Airlines canceled more than 2400 US flights by 9 p.m. ET Thursday and proactively canceled more than 2200 flights for Friday, according to the flight..."
+        }
+    ],
+    "20221222": [
+        {
+            "headline": "Stifel Acquires Healthcare M&A Firm Torreya",
+            "content": "The investment banking company announced the acquisition of Torreya, a merger and acquisition and private capital advisory firm in the life sciences sector."
+        },
+        {
+            "headline": "New Acute Myeloid Leukemia Therapy has Monthly Price of $32,200",
+            "content": "Rezlidhia is an oral, small molecule inhibitor of mutated IDH1 that was approved by the FDA to treat patients with relapsed or refractory acute myeloid..."
+        },
+        {
+            "headline": "3 Vanguard ETFs That Could Help You Retire a Millionaire",
+            "content": "The last five years have been volatile for the stock market. In that span, the market finished the year down twice, in 2018 and 2022. And within that time..."
+        },
+        {
+            "headline": "Russian hacking group targeted a petroleum refinery in a NATO country",
+            "content": "Palo Alto Network's Unit 42 expert group has revealed details of a Russian-affiliated hacking group and its consistent phishing and intelligence gathering..."
+        }
+    ],
+    "20221223": [
+        {
+            "headline": "Benjamin R. Handel",
+            "content": "Ben Handel is an expert on healthcare economics and industrial organization. Professor Handel focuses on consumer choice, decision-making, and market structure."
+        }
+    ],
+    "20221224": [],
+    "20221225": [],
+    "20221226": [
+        {
+            "headline": "Ranked: The 100 Biggest Public Companies in the World",
+            "content": "Today, Apple stands as the world's most valuable company, towering at a $2.3 trillion valuation. Despite the tech downturn of 2022—driven by rising interest..."
+        }
+    ],
+    "20221227": [
+        {
+            "headline": "FDA Accepts Application for Nonprescription Naloxone",
+            "content": "A decision by the FDA is expected by April 28, 2023, and, if approved, Harm Reduction Therapeutics will launch RiVive in early 2024."
+        },
+        {
+            "headline": "Dealmakers grapple with unprecedented U.S. challenge to mergers",
+            "content": "Investment bankers and deal lawyers accustomed to regulatory hurdles to their mergers face an unprecedented challenge under U.S. President Joe Biden..."
+        }
+    ],
+    "20221228": [
+        {
+            "headline": "What’s Next For Signify Health After CVS Health Deal",
+            "content": "Signify Health (NYSE: SGFY) is a home-focused organization. Therefore, CVS Health's (NYSE: CVS) $8 billion pending purchase of it means the company is."
+        }
+    ],
+    "20221229": [
+        {
+            "headline": "UnitedHealth attacks Chile over new rules that fuel insurance crisis",
+            "content": "UnitedHealth Group and Bupa are preparing for a confrontation with Chile's government after a series of new regulations and court rulings pushed the industry..."
+        },
+        {
+            "headline": "Lawsuit accuses UnitedHealthcare Group of underpaying benefits for out-of-network care",
+            "content": "Lawsuit accuses UnitedHealthcare Group of underpaying benefits for out-of-network care. United has pocketed billions of dollars in \"savings\" fees since it began..."
+        },
+        {
+            "headline": "7 Ways Walmart Enters 2023 as a Different Digital Retailer",
+            "content": "Walmart enters 2023 a changed company, redefining and expanding omnichannel retailing for the post-pandemic era. The Arkansas-based operator of over."
+        }
+    ],
+    "20221230": [
+        {
+            "headline": "'They've Done Every Trick in the Book': Providers File Class Action Against Health Insurers",
+            "content": "Attorneys have filed a class action lawsuit in a federal district court in Orlando for health care providers and individual plaintiffs."
+        },
+        {
+            "headline": "Hospitals face direct competition from the 'retailization' of healthcare",
+            "content": "Investment may slow down in 2023, but inroads into primary care will continue, says Paul Schuhmacher."
+        }
+    ],
+    "20221231": [],
     "20230101": [],
     "20230102": [
         {
