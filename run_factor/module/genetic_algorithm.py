@@ -6,7 +6,7 @@ class GeneticAlgorithm:
     def __init__(self, env, df_price_his, datarange, eval_func, pop_size=20, generations=50, mode=0, pop_len=20):
         self.env = env
         self.path_out =  f"{env['path_folder']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
-        self.training_path = f"out_stock/Training_result/{self.path_folder}/{str(self.run_count)}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
+        self.training_path = f"out_stock/Training_result/{env['path_folder']}/{env['run_count']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
 
         if mode == 0:
             out_folder = f"{self.training_path}/ac"
@@ -69,7 +69,7 @@ class GeneticAlgorithm:
             if self.individual_score.get(str(individual)):
                 return self.individual_score[str(individual)]
         
-        result = self.eval_func(self.env, individual, self.datarange, self.df_price_his)
+        result = self.eval_func(self.datarange, individual)
         score = result['accuracy'] if self.mode == 0 else result['ev']
         self.individual_score[str(individual)] = score
 

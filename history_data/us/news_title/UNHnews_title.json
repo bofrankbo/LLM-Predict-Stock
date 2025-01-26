@@ -1,4 +1,468 @@
 {
+    "20221001": [
+        {
+            "headline": "FTC Probes Market Power of One of Country’s Biggest Anesthesia Providers",
+            "content": "The Federal Trade Commission is investigating one of the country's largest anesthesiology providers, US Anesthesia Partners, over whether it has amassed too..."
+        },
+        {
+            "headline": "Victim’s son and friend charged in Seekonk murder after 15-month investigation",
+            "content": "The two 21-year-old Rehoboth men, Christopher Heron and Joseph “JD” Housley II, were indicted Thursday on murder and firearm charges for the previously..."
+        }
+    ],
+    "20221002": [],
+    "20221003": [
+        {
+            "headline": "UnitedHealth Group’s Optum Closes $13 Billion Change Healthcare Deal",
+            "content": "UnitedHealth Group's Optum unit completed its $13 billion acquisition of the software and data analytics firm Change Healthcare after successfully fending..."
+        },
+        {
+            "headline": "Done deal: UnitedHealth completes $13B Change Healthcare buy",
+            "content": "UnitedHealth Group completed its purchase of Change Healthcare, the company announced Monday morning, after defeating the Department of Justice in federal..."
+        },
+        {
+            "headline": "UnitedHealth closes acquisition of Change Healthcare",
+            "content": "Just weeks after securing a federal court win, UnitedHealth Group has completed its controversial acquisition of Change Healthcare."
+        },
+        {
+            "headline": "UnitedHealth Group completes $13 billion deal to acquire Change Healthcare",
+            "content": "The acquisition moved forward after a federal judge found the Justice Department failed to show in court that the merger would substantially diminish..."
+        },
+        {
+            "headline": "UnitedHealth closes roughly $8B deal for Change Healthcare",
+            "content": "UnitedHealth Group said Monday that it completed its acquisition of Change Healthcare, closing the roughly $8 billion deal a couple weeks after a judge..."
+        },
+        {
+            "headline": "UnitedHealth unit completes acquisition of Change Healthcare",
+            "content": "UnitedHealth Group said on Monday its health services unit has completed the acquisition of Change Healthcare, ending more than a year of uncertainty due to..."
+        },
+        {
+            "headline": "Optum and Change Healthcare Complete Combination",
+            "content": "Optum, a diversified health services company, announced it has completed its combination with Change Healthcare."
+        },
+        {
+            "headline": "Optum and Change Healthcare complete merger",
+            "content": "Optum and Change Healthcare officially merged today. Change filed a report with the Securities and Exchange Commission today in connection with the closing."
+        }
+    ],
+    "20221004": [
+        {
+            "headline": "UnitedHealth closes roughly $8B deal for Change Healthcare",
+            "content": "UnitedHealth Group said Monday that it completed its acquisition of Change Healthcare, closing the roughly $8 billion deal."
+        },
+        {
+            "headline": "Google Cloud introduces digital suite for medical imaging",
+            "content": "The company's Medical Imaging Suite will also serve as a gateway for the development of AI programs for quickly parsing patient scans."
+        },
+        {
+            "headline": "TurningPoint Healthcare Solutions Welcomes Shawn Mobley As Chief Commercial Officer",
+            "content": "In this role, Mobley will lead growth strategy and innovation across the health plan and employer segment, broadening the reach of TurningPoint's complex..."
+        },
+        {
+            "headline": "First Lady Casey DeSantis announces nearly $35 million in donations for Florida Disaster Fund",
+            "content": "TALLAHASSEE, Fla. (..."
+        },
+        {
+            "headline": "Rickie Fowler puts NEW prototype irons in the bag for skins match",
+            "content": "Rickie Fowler and Matthew Wolff take on Rory McIlroy and Dustin Johnson in a $3 million charity skins match supported by UnitedHealth Group."
+        },
+        {
+            "headline": "These Are the Top 10 Holdings of David Rolfe",
+            "content": "David A. Rolfe is the chief investment officer at Wedgewood Partners and has been managing Wedgewood's portfolio for 18 years."
+        }
+    ],
+    "20221005": [
+        {
+            "headline": "Get ready for health insurers to raise prices next year",
+            "content": "Health insurance companies are set to raise prices next year faster than medical costs are increasing, according to some Wall Street analysts."
+        },
+        {
+            "headline": "American Crystal Sugar is one of the largest funders of election deniers",
+            "content": "Moorhead-based American Crystal Sugar is one of the largest political funders of election deniers in Congress, according to a new report from the..."
+        },
+        {
+            "headline": "TPG Capital completes $2.2B acquisition of ClaimsXten",
+            "content": "The private equity group's deal was contingent on UnitedHealth Group's $13 billion acquisition of Change Healthcare surviving an antitrust challenge from..."
+        },
+        {
+            "headline": "Perception of personal dietary habits in Malaysia 2018",
+            "content": "This statistic displays the results of a survey asking individuals about their dietary habits in Malaysia in 2018."
+        },
+        {
+            "headline": "Prime Therapeutics looks to sublease Eagan headquarters",
+            "content": "Prime Therapeutics, one of the largest privately held companies in the state, says that many of its 2200 Twin Cities-based workers have shifted to remote or..."
+        }
+    ],
+    "20221006": [
+        {
+            "headline": "Houston's Kelsey-Seybold is now owned by UnitedHealth's Optum. Here's what that means for patients.",
+            "content": "The purchase will help Kelsey-Seybold, which operates 32 clinics, complete a $1 billion expansion plan in Houston."
+        },
+        {
+            "headline": "The 19 Biggest Healthcare Business Stories from Q3 2022",
+            "content": "News dropped on Labor Day that CVS successfully won the bid for Signify Health and is acquiring SGFY for $30.50 per share – a valuation right around $8 billion."
+        },
+        {
+            "headline": "Should the same entity be allowed to own a retail pharmacy, a PBM and an insurance company?",
+            "content": "The Big Three – CVS Health, Cigna and UnitedHealth Group – account for 80% of the total adjusted claims in 2021 for prescription drug benefits through their..."
+        },
+        {
+            "headline": "Alex Rodriguez-founded company makes another bet on Minneapolis",
+            "content": "Monument Capital Management has completed its eighth deal in the city, giving it more than 1,000 units in the region. Published Oct. 6, 2022."
+        }
+    ],
+    "20221007": [
+        {
+            "headline": "TPG Capital closes $2.2B acquisition of claims-editing business ClaimsXten",
+            "content": "With UnitedHealth completing its $13 billion acquisition of Change Healthcare, private equity group TPG Capital finalized its $2.2 billion deal for Change..."
+        },
+        {
+            "headline": "Top 10 Stock Picks of Frederick DiSanto’s Ancora Advisors",
+            "content": "The top 10 stock picks of Frederick DiSanto's Ancora Advisors accounted for 24.45% of the portfolio weight and included well-known names such as Johnson &..."
+        },
+        {
+            "headline": "Cramer’s week ahead: ‘I am urging you not to be a hero’ while the Fed battles inflation",
+            "content": "CNBC's Jim Cramer on Friday warned investors against adding to their portfolios until the stock market and economy become less volatile."
+        }
+    ],
+    "20221008": [
+        {
+            "headline": "‘The Cash Monster Was Insatiable’: How Insurers Exploited Medicare for Billions (Published 2022)",
+            "content": "By next year, half of Medicare beneficiaries will have a private Medicare Advantage plan. Most large insurers in the program have been accused in court of..."
+        }
+    ],
+    "20221009": [],
+    "20221010": [
+        {
+            "headline": "Amazon, CVS, Walmart Are Playing Healthcare’s Long Game",
+            "content": "Amazon, CVS and Walmart have big healthcare ambitions. But critics say the healthcare system is far too complex for these retailers to figure out."
+        },
+        {
+            "headline": "CVS Health appoints former Optum exec to lead new healthcare delivery organization",
+            "content": "Dr. Amar Desai will oversee the company's clinical delivery strategy to support retail health, chronic disease management and behavioral health."
+        },
+        {
+            "headline": "Assurant Inc. stock outperforms competitors on strong trading day",
+            "content": "Shares of Assurant Inc. AIZ. -0.93%. rallied 1.27% to $149.57 Monday, on what proved to be an all-around poor trading session for the stock market,..."
+        },
+        {
+            "headline": "Mayo Clinic receives $100 million gift to expand radiation treatment center in Rochester",
+            "content": "Donation from the Fred C. and Katherine B. Andersen Foundation will expand access to proton beam technology."
+        },
+        {
+            "headline": "Jimmy Kimmel gives update on five-year-old son Billy's health following multiple heart surgeries",
+            "content": "Jimmy Kimmel issued an update on his five-year-old son's health and the 'scary' heart condition he's had since birth."
+        },
+        {
+            "headline": "Azure Power ropes in Shweta Srivastava as CHRO",
+            "content": "Azure Power, the independent sustainable energy solutions company, has appointed Shweta Srivastava as CHRO."
+        }
+    ],
+    "20221011": [
+        {
+            "headline": "Walmart launches research institute aimed at more diverse clinical trial participation",
+            "content": "Retail giant Walmart is launching a new healthcare research organization with the goal of driving higher-quality, more equitable healthcare."
+        },
+        {
+            "headline": "You Can Buy a $16,000 Portal-Axle Kit For Your Ford Bronco",
+            "content": "The kit comes from Ukranian company Werewolf Tech, and adds 5.1 inches of ground clearance to the SUV."
+        }
+    ],
+    "20221012": [
+        {
+            "headline": "Johnson & Johnson or UnitedHealth: Which Stock Is More Recession Proof?",
+            "content": "The two huge healthcare companies are beating the market so far this year."
+        },
+        {
+            "headline": "With teen suicide sharply on the rise, United Healthcare pledges $3 million to address mental health",
+            "content": "United Health Foundation announced a $3 million grant dedicated to addressing key mental health concerns, primarily among young adults."
+        },
+        {
+            "headline": "Stocks Climb in Sharp Reversal; S&P Jumps 2%: Markets Wrap",
+            "content": "US stocks roared back from losses sparked by a hot inflation reading on speculation the yearlong selloff had potentially reached a bottom."
+        }
+    ],
+    "20221013": [
+        {
+            "headline": "US health insurers set for 'benign' Q3 as revenues point upward",
+            "content": "Revenues for 11 of the largest publicly traded US managed care insurers are expected to be up year over year in the third quarter, while seven should see their..."
+        },
+        {
+            "headline": "Real-world test of colonoscopy screening program shows cancer reduction but no mortality benefit",
+            "content": "How can mortality be reduced by colonoscopies but not by a colonoscopy screening program? We break down the results from the groundbreaking NordICC trial."
+        },
+        {
+            "headline": "Walgreens buys remaining share of CareCentrix",
+            "content": "Walgreens Boots Alliance is buying the remaining 45% share of CareCentrix that it doesn't already own for approximately $392 million."
+        }
+    ],
+    "20221014": [
+        {
+            "headline": "UnitedHealth Group’s Profits Hit $5.2 Billion As Optum And Health Plans Roll",
+            "content": "UnitedHealth Group's profits eclipsed $5.2 billion in the third quarter on a strong performance by its Optum health services and UnitedHealthcare health..."
+        },
+        {
+            "headline": "UnitedHealth Group Adapts to Changing Health Care System Via Optum Investments",
+            "content": "UnitedHealth Group is positioning Optum as a cornerstone of its growing home-based care infrastructure and expansion of value-based service delivery."
+        },
+        {
+            "headline": "UnitedHealth plots further growth in its profitable provider division",
+            "content": "UnitedHealth Group's third quarter profit of nearly $5.3 billion was buoyed by its Optum Health division, slated for still further growth."
+        },
+        {
+            "headline": "The Community Builders Opens Chicago Development",
+            "content": "The new 508 Pershing development features 53 apartments for households earning from between 30% and 80% of area median income, including 20 apartments for CHA..."
+        },
+        {
+            "headline": "The future for practicing physicians in a corporate world",
+            "content": "The looming shortage of physicians will offer those who stay an array of choices along with increasing job mobility and earning potential."
+        }
+    ],
+    "20221015": [],
+    "20221016": [],
+    "20221017": [
+        {
+            "headline": "United Health Group Continues to Justify a Premium Valuation",
+            "content": "United Health Group Continues to Justify a Premium Valuation At a time when investors are seeking value wherever they can find it, UnitedHealth Group is..."
+        },
+        {
+            "headline": "The CEO of SmartyPants Vitamins says sleep \"is critical to high performance\" and prioritizes it every night",
+            "content": "Her wellness habits include unwinding with tea, prioritizing sleep, and Peloton bike rides."
+        },
+        {
+            "headline": "Duke drops 10,000 patients, in new dispute with UnitedHealthcare",
+            "content": "Another dispute between UnitedHealthcare and a hospital that participates in its network is affecting approximately10,000 people."
+        }
+    ],
+    "20221018": [
+        {
+            "headline": "UnitedHealth Group puts Minnetonka office space up for sublease",
+            "content": "It's the third large office property occupied by UnitedHealth Group or a subsidiary that's recently hit the leasing market."
+        },
+        {
+            "headline": "Everything you need to know from UnitedHealth’s Q3",
+            "content": "Breaking down UnitedHealth Group's Q3 2022 performance and other notable healthcare business news from the week."
+        },
+        {
+            "headline": "Johnson & Johnson Earnings Top Estimates. Its CFO Explains What Went Right.",
+            "content": "The hospital staffing crunch that throttled medical device sales in recent quarters has eased, according to Johnson & Johnson chief financial officer,..."
+        },
+        {
+            "headline": "Falling MA star ratings dog payers’ future earnings",
+            "content": "Falling Medicare Advantage star ratings are pressuring payers' future earnings, as some of the biggest US health insurers are poised to lose out on valuable..."
+        },
+        {
+            "headline": "OptumRx’s Top Pipeline Drugs to Watch This Fall",
+            "content": "Arash Sadeghi, Pharm.D., discusses three drugs in development, which treat a rare kidney disease, hemophilia B, and an advanced form of age-related macular..."
+        },
+        {
+            "headline": "Douglas Newton M.D., M.P.H.",
+            "content": "Douglas Newton, MD, MPH, is a psychiatrist and the former Chief Medical Officer at SonderMind, whose mission is to redesign behavioral health."
+        },
+        {
+            "headline": "How Card Skimming Disproportionally Affects Those Most In Need",
+            "content": "Authorities in multiple US states have reported rapid increases in skimming losses tied to people who receive assistance via Electronic Benefits Transfer (EBT)."
+        }
+    ],
+    "20221019": [
+        {
+            "headline": "Here's How Investing $50 per Week Could Be Enough for You to Retire a Millionaire",
+            "content": "If you have 30 investing years left, you don't need to invest a fortune to get to $1 million."
+        },
+        {
+            "headline": "Fortune 250 Companies Heavily Supported Anti-Abortion-Rights Politicians in Recent Election Cycles, Study Finds",
+            "content": "Despite accusations, companies aren't 'hostage to liberal elites' after all, report says."
+        },
+        {
+            "headline": "Dry Powder Plentiful for Behavioral Health Acquisitions, But Expect Caution and Strategic Deals in 2023",
+            "content": "As the Federal Reserve continues to raise interest rates, many behavioral health stakeholders are tightening their belt on merger and acquisition deals."
+        },
+        {
+            "headline": "Is a Beat in the Offing for NexTier (NEX) in Q3 Earnings?",
+            "content": "NexTier Oilfield Solutions Inc. NEX is set to report third-quarter 2022 results on Oct 25, after the closing bell. In the last reported quarter,..."
+        },
+        {
+            "headline": "Twin Cities Orthopedics proposes new medical building, with a fieldhouse, in Lakeville",
+            "content": "The new location is also expected to have an athletic fieldhouse, with turf space, a batting cage, basketball court, weight training and physical therapy..."
+        },
+        {
+            "headline": "5 top-grossing US companies lost half a trillion dollars in market cap in a month",
+            "content": "America's five top-grossing companies lost more than half a trillion dollars in market cap in just a month."
+        }
+    ],
+    "20221020": [
+        {
+            "headline": "Feds taking a deeper look at CVS-Signify deal",
+            "content": "In a filing with the SEC, CVS Health said that the Department of Justice sent the companies a second request for information on Oct. 19."
+        },
+        {
+            "headline": "Drugs and Older Age: An Increasingly Deadly Combination",
+            "content": "Drug-related deaths are soaring among older Americans, driven by factors including unintentional misuse of prescription medications, self-medicating to treat..."
+        },
+        {
+            "headline": "Humana tops best Medicare Advantage plan companies in new ranking",
+            "content": "The insurer was ranked as the best overall Medicare Advantage company, the best for member experience and the best for low-premium plans."
+        },
+        {
+            "headline": "Insurance Giant Sees Strong Medicare Plan Selling Season",
+            "content": "Elevance hopes to appeal to your clients with home support benefits and prepaid grocery cards."
+        },
+        {
+            "headline": "Zionsville resident travels to D.C. to advocate for cancer patients",
+            "content": "Holly Walpole of Zionsville, an associate director at UnitedHealth Group and adjunct professor at the Indiana Institute of Technology."
+        },
+        {
+            "headline": "Investigators Report High Similarity Between NovoLog and Biosimilar Candidate",
+            "content": "A drug that could become the first biosimilar of NovoLog (insulin aspart) in the US is highly similar to the reference product, according to a new study."
+        },
+        {
+            "headline": "CTC selects Grinch team",
+            "content": "Children's Theatre Company (CTC) is proud to announce the cast and creative team that will bring to life Dr. Seuss's How the Grinch Stole Christmas."
+        }
+    ],
+    "20221021": [
+        {
+            "headline": "Crossover Health in talks with multiple major insurers to offer capitated primary care",
+            "content": "Crossover Health currently operates shared and on-campus clinics in 11 states for self-insured employers."
+        },
+        {
+            "headline": "Imaging overuse: What care cascades may cost you",
+            "content": "Two recent studies show the high cost patients face from unnecessary imaging and follow up events."
+        },
+        {
+            "headline": "Readers Write: Hennepin County attorney, inflation, health care, Mississippi River",
+            "content": "Hennepin County attorney candidate Martha Holton Dimick waves to a community member as she leaves a campaign event on Sept. 28 in St. Louis Park."
+        },
+        {
+            "headline": "7 Stocks, 4 Funds to Profit from a Strong Dollar",
+            "content": "Among the many challenges confronting investors in 2022 is the dizzying rise of the U.S. dollar. From the start of the year through September 9, the Dollar..."
+        }
+    ],
+    "20221022": [
+        {
+            "headline": "Connecticut health insurers paid out an extra $1.8 billion last year",
+            "content": "Connecticut insurance carriers spent 20 percent more to cover the administrative cost of medical claims in the second year of the COVID-19 pandemic,..."
+        }
+    ],
+    "20221023": [],
+    "20221024": [
+        {
+            "headline": "Novel Programs Advance Members’ Well-being, Leadership Skills",
+            "content": "The AAFP is pulling out all the stops to tackle the burnout dilemma with new resources and well-being programming for students and residents, as well as an..."
+        },
+        {
+            "headline": "15 Work From Home Jobs That Are Hiring Now",
+            "content": "These 15 jobs are some of positions where the demand for remote workers is highest. Clicking on the job title will take you to a page on the AARP Job Board."
+        },
+        {
+            "headline": "Eleven inducted into Industrial and Manufacturing Systems Hall of Fame",
+            "content": "October 24, 2022. Group image of IMSE Hall of Fame inductees. The Department of Industrial and Manufacturing Systems Engineering (IMSE) honored 11 new IMSE..."
+        },
+        {
+            "headline": "7 Top Stocks That Can Make You Richer in 2023",
+            "content": "When investors cross the proverbial finish line for 2022 in less than two and a half months, they're likely to look back on this year as one of the most..."
+        },
+        {
+            "headline": "Walmart sets the stage for crypto payments",
+            "content": "Walmart plans to add crypto payment options… Fidelity rolls out Ethereum access to institutional investors… Solana sinks after suffering another outage…"
+        }
+    ],
+    "20221025": [
+        {
+            "headline": "AG Dave Yost says PBM overcharging Ohio will repay $15M. OptumRX denies it",
+            "content": "Ohio Attorney General Dave Yost announced Tuesday that UnitedHealth Group-owned OptumRX, one of the largest pharmacy benefit managers in the nation, will repay..."
+        },
+        {
+            "headline": "OptumRX to pay $15 mln to settle Ohio's overcharging claims",
+            "content": "UnitedHealth Group Inc's OptumRx unit has agreed to pay $15 million to settle claims that it overcharged Ohio's worker's compensation agency for prescription..."
+        }
+    ],
+    "20221026": [
+        {
+            "headline": "Nearly half of consumers are in debt due to medical bills, survey finds",
+            "content": "The Babylon survey suggests many Americans are having difficulty managing their healthcare expenses and are unprepared financially to deal with a health..."
+        },
+        {
+            "headline": "Top 10 Largest Fortune 500 Employers in the U.S.",
+            "content": "The 10 largest employers in Fortune's list of the 500 most profitable US companies collectively employed around 7 million people in 2022."
+        },
+        {
+            "headline": "Walmart to launch 16 Florida health centers next year",
+            "content": "Walmart Health is significantly expanding its presence in Florida, with plans to open 16 health centers across the Jacksonville, Orlando and Tampa areas by..."
+        },
+        {
+            "headline": "Walmart Health Grows in Florida with 16 New Health Centers Opening in 2023",
+            "content": "BENTONVILLE, Ark., Oct. 26, 2022 — Today, Walmart Health announced plans to bring more accessible, convenient, and affordable healthcare to communities in..."
+        },
+        {
+            "headline": "Express Scripts lands its largest client in Centene",
+            "content": "Express Scripts will manage more than $35 billion in drug spend covering prescriptions for nearly all of its members starting on Jan. 1, 2024."
+        }
+    ],
+    "20221027": [
+        {
+            "headline": "UnitedHealth to offer ACA exchange plans in 22 states for 2023",
+            "content": "UnitedHealthcare is expanding its reach on the ACA exchanges to 22 states, the insurance giant announced on Thursday."
+        }
+    ],
+    "20221028": [
+        {
+            "headline": "UnitedHealthcare latest payer to expand ACA reach with 4 new states for 2023",
+            "content": "Dive Brief: UnitedHealthcare plans to offer individual and family health plans in 22 state marketplaces in 2023, newly entering Kansas, Mississippi,..."
+        },
+        {
+            "headline": "Flawed Md. claims process sunk health workers in red tape as need grew",
+            "content": "Maryland state health officials botched oversight of a vendor they hired to pay mental health providers, causing accounting nightmares for clinicians and..."
+        }
+    ],
+    "20221029": [],
+    "20221030": [
+        {
+            "headline": "6 ETFs That Are All You Need for Retirement",
+            "content": "These yield-producing stock and bond funds are all down less than the S&P 500 this year."
+        }
+    ],
+    "20221031": [
+        {
+            "headline": "Judge Blocks a Merger of Penguin Random House and Simon & Schuster (Published 2022)",
+            "content": "A federal judge blocked on Monday a bid by Penguin Random House, the biggest book publisher in the United States, to buy one of its main rivals, Simon &..."
+        },
+        {
+            "headline": "Paxlovid Has Hospitalization, Mortality Benefits Among the Vaccinated",
+            "content": "Paxlovid led to a 57% reduction in hospitalization or death in that vaccinated group, although the difference didn't meet the statistical standards for showing..."
+        },
+        {
+            "headline": "AccentCare, LHC Group, VITAS Execs: Care Continuum Sprawl Central to Hospice’s Growth",
+            "content": "Expansion across the care continuum is a key to sustainable growth for hospices, according to executives from some of the industry's largest companies."
+        },
+        {
+            "headline": "5 Dividend ETF Picks For November 2022",
+            "content": "October has a reputation as one of the worst months of the year for equities. The numbers back that up, but October 2022 was actually a pretty good one for..."
+        },
+        {
+            "headline": "US judge blocks Penguin Random House and Simon & Schuster $2.2bn book megamerger",
+            "content": "A US federal judge on Monday ruled to block the $2.2bn merger of Penguin Random House and Simon & Schuster, halting the creation of a colossus in the US books..."
+        },
+        {
+            "headline": "Walmart Health Grows in Florida with 16 New Health Centers Opening in 2023",
+            "content": "Walmart Health plans to bring more accessible, convenient, and affordable healthcare to communities in Florida with 16 new health centers."
+        },
+        {
+            "headline": "PMs build portfolios for a $10M inheritance",
+            "content": "Hakes recommended a portfolio comprising 80% global equities and 20% Canadian equities, with 5% allocation to each stock."
+        },
+        {
+            "headline": "Top 15 Life Insurance Companies In The World",
+            "content": "This article will review some of the top life insurance companies in the world which include UnitedHealth Group Inc. (NYSE:UNH), American International Group,..."
+        },
+        {
+            "headline": "Target will sell Marks & Spencer treats for holidays",
+            "content": "Target Corp. is teaming up with British retailer Marks & Spencer for the holidays, offering a lineup of cookies, chocolates and other treats."
+        },
+        {
+            "headline": "Judge blocks Penguin Random House-Simon & Schuster merger",
+            "content": "NEW YORK (AP) — A federal judge has blocked Penguin Random House's proposed purchase of Simon & Schuster, agreeing with the Justice Department that the..."
+        }
+    ],
     "20221101": [
         {
             "headline": "Allina opens new heart surgery center in Edina",

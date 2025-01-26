@@ -4,8 +4,10 @@ import numpy as np
 from sklearn.cluster import KMeans
 
 class Embedding:
-    def __init__(self, env, price_his):
+    def __init__(self, env, price_his, embd_model):
         self.price_his = price_his
+        self.env = env
+        self.embd_model = embd_model
         self.path_out =  f"{env['path_folder']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
         self.path_embeddings = f"out_stock/Embeddings/{self.path_out}/embeddings.json"    # 輸出 JSON 檔案
         self.path_clustered_summaries = f"out_stock/Cluster_summmaries/{self.path_out}/embeddings.json"    # 輸出 JSON 檔案
@@ -26,7 +28,7 @@ class Embedding:
         return data
 
     # Step 2: 生成嵌入向量
-    def generate_embeddings(self, titles, embeddings_model):
+    def generate_embeddings(self, titles):
         if os.path.exists(self.path_embeddings):
             with open(self.path_embeddings, 'r', encoding='utf-8') as f:
                 embeddings = json.load(f)
@@ -35,7 +37,7 @@ class Embedding:
         embeddings = []
         for i in range(0, len(titles), 2000):  # 批量處理
             print(f"Generating embeddings for titles {i}/{len(titles)}")
-            vector = embeddings_model.embed_documents(titles[i:i+2000])
+            vector = self.embd_model.embed_documents(titles[i:i+2000])
             embeddings.extend(vector)
             # print(len(embeddings))
         os.makedirs(os.path.dirname(self.path_embeddings) , exist_ok=True)

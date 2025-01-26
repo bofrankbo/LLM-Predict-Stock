@@ -5,18 +5,16 @@ from collections import Counter
 
 
 class EvalDayTrade:
-    def __init__(self, env, sig_data, individual, price_his):
-        self.sig_data = sig_data
+    def __init__(self, env, price_his):
+        self.env = env
         self.price_his = price_his 
-        self.individual = individual
         self.path_out =  f"{env['path_folder']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
-        self.training_path = f"out_stock/Training_result/{self.path_folder}/{env["run_count"]}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
+        self.training_path = f"out_stock/Training_result/{env['path_folder']}/{env['run_count']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
     
     def get_eval_path(self):
         return self.training_path
     
     def get_result(self, mode):
-        env = self.env
         if mode == 0:
             out_folder = f"{self.training_path}/ac"
         elif mode == 1:
@@ -28,7 +26,6 @@ class EvalDayTrade:
         return res
     
     def save_result(self, res, mode):
-        env = self.env
         if mode == 0:
             out_folder = f"{self.training_path}/ac"
         elif mode == 1:
@@ -36,10 +33,20 @@ class EvalDayTrade:
         
         with open(f"{out_folder}/result.json", "w", encoding="utf-8") as f:
             json.dump(res, f, ensure_ascii=False, indent=4)
+            
+    def load_result(self, mode):
+        if mode == 0:
+            out_folder = f"{self.training_path}/ac"
+        elif mode == 1:
+            out_folder = f"{self.training_path}/ev"
+        
+        with open(f"{out_folder}/result.json", "r", encoding="utf-8") as f:
+            res = json.load(f)
+        
+        return res
 
-    def get_sigs(self, diff=0):
-        individual = self.individual
-        sorted_data = dict(sorted(self.sig_data.items()))
+    def get_sigs(self, sig_data, individual):
+        sorted_data = dict(sorted(sig_data.items()))
         sigs = []
         for date_str, value in sorted_data.items():
             daily_sigs = []
@@ -56,20 +63,20 @@ class EvalDayTrade:
                 if len(daily_sigs) > 0:
                     count = Counter(daily_sigs)
                     # print(count[1], count[-1])
-                    if count[1] > count[-1] + diff:
+                    if count[1] > count[-1]:
                         sig = 1
-                    elif count[1] < count[-1] - diff:
+                    elif count[1] < count[-1]:
                         sig = -1
 
             sigs.append([date_str, sig])
         return sigs
 
-    def eval_daytrade(self):
+    def eval_daytrade(self, sig_data, individual):
         '''
             Day Trade Eval : Evaluate daily return based on the individual
         '''
         # print(individual, end=" ")
-        sigs = self.get_sigs()
+        sigs = self.get_sigs(sig_data, individual)
         gain = []
         loss = []
         gain_precision = []
