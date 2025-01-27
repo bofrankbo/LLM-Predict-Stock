@@ -4,9 +4,11 @@ from collections import Counter
 from eval.eval_daytrade import EvalDayTrade
 
 class EvalOvernight(EvalDayTrade):
-    def __init__(self, data, df_price_his):
-        super().__init__(data, df_price_his)
-        
+    def __init__(self, env, price_his):
+        self.env = env
+        self.price_his = price_his 
+        self.path_out =  f"{env['path_folder']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
+        self.training_path = f"out_stock/Training_result/{env['path_folder']}/{env['run_count']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
 
     def overnight_rtn_list(self, sigs, df_price_his):
         '''
@@ -100,12 +102,13 @@ class EvalOvernight(EvalDayTrade):
             rtn_list.append([date_str, rtn])
         
 
-    def eval_on(self, env, individual, data, df_price_his):
+    def eval_daytrade(self, sig_data, individual):
         '''
-            Overnight Trade Eval : Evaluate Overnight return based on the individual
+            Day Trade Eval : Evaluate daily return based on the individual
         '''
         # print(individual, end=" ")
-        sigs = get_sigs(data, individual)
+        df_price_his = self.price_his
+        sigs = self.get_sigs(sig_data, individual)
         gain = []
         loss = []
         gain_precision = []
@@ -116,6 +119,7 @@ class EvalOvernight(EvalDayTrade):
         tn = 0
         fn = 0
         # print(in_out_sig_list)
+        
         
         longshort = 'none'
         enter_price = 0

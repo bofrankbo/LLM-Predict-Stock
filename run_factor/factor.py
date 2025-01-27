@@ -140,3 +140,20 @@ class Factor:
             list_stag_rtn.append(rtn)
             
         return list_date, list_bnh_rtn, list_stag_rtn
+    
+    def show_sig(self):
+        fac_exp = FactorExpanding(self.env, self.llm, self.price_his)
+        fac_exp.show_sig()
+        
+    def show_individual(self, mode):
+        individuals = self.get_individual(mode)
+        
+        fac_gen = FactorGenerator(self.env, self.price_his, self.llm4o)
+        factors = fac_gen.generate_factors()
+        
+        i = 0
+        for key, value in factors.items():
+            if individuals[i] == 1:
+                print(key, value)
+            i += 1
+        print("")
