@@ -50,7 +50,7 @@ data = [
     ["PYPL", "PayPal", "us"],
     ["ADBE", "Adobe", "us"],
     ["BA", "Boeing", "us"],
-    # ["MRNA", "Moderna", "us"],
+    ["MRNA", "Moderna", "us"],
 ]
 
 ##################################################
