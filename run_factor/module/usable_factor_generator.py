@@ -7,9 +7,8 @@ from datetime import datetime, timedelta
 from sklearn.cluster import KMeans
 
 class UsableGenerator:
-    def __init__(self, env, price_his, llm):
+    def __init__(self, env, price_his):
         self.env = env
-        self.llm = llm
         self.price_his = price_his
         self.path_factors = f"out_stock/Factors/{env['path_folder']}/{env['stock_id']}/factors.json"    # 輸出 JSON 檔案
         

@@ -1,4 +1,882 @@
 {
+    "20220701": [
+        {
+            "headline": "How to Overclock Raspberry Pi 4 Safely?",
+            "content": "Raspberry Pi 4 has the Broadcom BCM2711 processor with four Cortex-A72 cores (same as the Raspberry Pi 400). Raspberry Pi 4 is factory clocked at 1.5GHz,"
+        }
+    ],
+    "20220702": [],
+    "20220703": [],
+    "20220704": [
+        {
+            "headline": "Why it makes sense for Broadcom to buy VMware",
+            "content": "It's also the place where the hybrid cloud is anchored, in (you guessed it!) applications. The data center and its network are the linchpin. Broadcom's..."
+        }
+    ],
+    "20220705": [
+        {
+            "headline": "OnLogic Factor 201 Fits The Raspberry Pi CM4 For Industrial Needs & Other Innovative Uses",
+            "content": "Back in March the folks at OnLogic announced the Factor 201 as a Raspberry Pi CM4 (Compute Module 4) fitted for industrial use-cases like IoT gateways and..."
+        }
+    ],
+    "20220706": [
+        {
+            "headline": "Council Post: Sustainability: Upcoming Regulations Could Impact Every Business",
+            "content": "Laureen Knudsen is the Chief Transformation Officer of Broadcom Software, Member of Power50, Top 100 Women in Tech. Concept of earth protection day or..."
+        }
+    ],
+    "20220707": [
+        {
+            "headline": "VMware : VOP – Subscriptions Expert (SE) 2022 & VOP – Subscription Consumption (SC)",
+            "content": "The new VOP-SE 2022 accreditation is designed for partners transacting VMware Subscription Services. This provides foundational knowledge on how products in..."
+        }
+    ],
+    "20220708": [
+        {
+            "headline": "Panasonic lawsuits say Broadcom violated computer tech patents",
+            "content": "Japanese electronics maker Panasonic accused chipmaker Broadcom Corp of violating its rights in several computer-technology patents in Texas federal court..."
+        }
+    ],
+    "20220709": [
+        {
+            "headline": "Broadcom's VMware buy got you worried? Give these 5 FOSS hypervisors a spin",
+            "content": "We shared four VMware ESXi alternatives for enterprises hedging their bets over Broadcom's impending takeover of the virtualization giant."
+        }
+    ],
+    "20220710": [],
+    "20220711": [
+        {
+            "headline": "Broadcom’s Krause Exits After Helping Lead VMWare Deal Talks",
+            "content": "Broadcom Inc. is losing one of its most senior executives, dealing a blow to the chipmaker as it attempts to close one of the biggest technology deals in..."
+        },
+        {
+            "headline": "Mastermind of Broadcom’s VMware buy is out, CEO Tan to take over software",
+            "content": "Broadcom CEO Hock Tan will personally oversee his company's burgeoning software portfolio following the departure of Thomas Krause."
+        },
+        {
+            "headline": "Broadcom loses top software exec in the middle of VMware deal to head combined Citrix-Tibco company",
+            "content": "Tom Krause, head of software at Broadcom until Friday, is leaving before the $61 billion deal to buy VMware — that he helped bring about — closes."
+        },
+        {
+            "headline": "Tom Krause, Broadcom exec who helped lead VMware deal, leaving to be new Citrix CEO",
+            "content": "The executive has headed San Jose-based Broadcom's software unit since December 2020 and was previously its chief financial officer."
+        },
+        {
+            "headline": "The 2022 Rising Female Stars Of The IT Channel",
+            "content": "Can-do attitudes, tireless work ethics, problem-solving skills are just a few of the characteristics ascribed to this CRN's 2022 100 Rising Female Stars list."
+        },
+        {
+            "headline": "STMicroelectronics and GlobalFoundries to build wafer fab in France",
+            "content": "While the US continues to debate how and whether to subsidize its semiconductor manufacturing industry, one of its leading lights – GlobalFoundries – has..."
+        }
+    ],
+    "20220712": [
+        {
+            "headline": "Broadcom Software Leader Krause Jumps Ship To Citrix-Tibco",
+            "content": "Broadcom software leader Tom Krause, who was key in Broadcom's VMware acquisition, is leaving to become CEO of the Citrix and Tibco merged company."
+        },
+        {
+            "headline": "Hock Tan: Broadcom’s Plan For VMware As Krause Departs",
+            "content": "Broadcom CEO Hock Tan tells VMware employees he's confident in Broadcom's VMware acquisition after its software leader Tom Krause leaves for Citrix Tibco."
+        },
+        {
+            "headline": "Citrix-Tibco New CEO Tom Krause: 5 Huge Things To Know",
+            "content": "From his vast IT history to his key role in Broadcom's planned acquisition of VMware, here are five big things to know about Citrix-Tibco's new CEO,..."
+        }
+    ],
+    "20220713": [
+        {
+            "headline": "Broadcom CEO Hock Tan unveils new plan for VMware following Krause exit - Software",
+            "content": "“Following the closing of the transaction, the Broadcom Software Group will rebrand and operate our existing infrastructure and security software solutions as..."
+        },
+        {
+            "headline": "Securing Google Workspace with Symantec CloudSOC",
+            "content": "With CloudSOC Mirror Gateway you can monitor and enforce controls over the use of Google Workspace and other sanctioned apps from completely unmanaged endpoint..."
+        },
+        {
+            "headline": "New CEO not likely to change Tibco once merged with Citrix",
+            "content": "Tibco will get a new CEO when it merges with Citrix, but with the analytics vendor's product leaders unchanged, its product pipeline should remain intact."
+        },
+        {
+            "headline": "Broadcom Software boss Tom Krause jumps to Citrix-Tibco",
+            "content": "Broadcom Software president Tom Krause, who was slated to lead VMware post-acquisition, has jumped ship to become the CEO of the soon-to-be combined Cit..."
+        },
+        {
+            "headline": "Is It Finally Time for Silicon Photonics to Shine?",
+            "content": "A new silicon-photonics process developed by GlobalFoundries has the backing of Ayar Labs, Broadcom, Cisco, Marvell, and NVIDIA."
+        },
+        {
+            "headline": "Key Takeaways: 2022 Gartner Magic Quadrant for Security Service Edge",
+            "content": "In this Magic Quadrant, Gartner evaluates the strengths and weaknesses of 11 providers that it considers most significant in the marketplace."
+        },
+        {
+            "headline": "Apple is no longer working with Jony Ive, who shaped the look of so many iconic designs",
+            "content": "Ive and Apple have agreed to stop working together after they were unable to agree on terms of a contract renewal."
+        }
+    ],
+    "20220714": [
+        {
+            "headline": "Juniper's entry-level campus switches pack a lot of (literal) power",
+            "content": "Juniper Networks ginned up its campus switching portfolio this week by extending multi-gigabit networking and large power over ethernet (PoE) budgets."
+        },
+        {
+            "headline": "The Semiconductor Problem (Published 2022)",
+            "content": "The most advanced category of mass-produced semiconductors — used in smartphones, military technology and much more — is known as 5 nm."
+        }
+    ],
+    "20220715": [],
+    "20220716": [],
+    "20220717": [
+        {
+            "headline": "Hewlett-Packard: A tale of three cities",
+            "content": "Sixty years after Hewlett-Packard began moving onto its Loveland campus, three former HP sites in Northern Colorado face far different fates."
+        }
+    ],
+    "20220718": [
+        {
+            "headline": "TikTok owner ByteDance looks to design in-house chips, joining rivals",
+            "content": "ByteDance said building a chip design team remains in a preliminary stage as it explores application-specific chips to support its services."
+        }
+    ],
+    "20220719": [
+        {
+            "headline": "GE Aerospace (GE-N) Quote - Press Release",
+            "content": "One of the most common metrics used when trading options is the Implied Volatility Percentile. IV Percentile is a measure of implied volatility where..."
+        }
+    ],
+    "20220720": [
+        {
+            "headline": "LockBit ransomware hitting network servers",
+            "content": "The latest tactic used to deploy the prolific malware allows threat actors to end processes, stop services and duplicate more quickly."
+        }
+    ],
+    "20220721": [
+        {
+            "headline": "VMware Furthers Commitment to Public Sector, Achieves Expanded FedRAMP High Authorization",
+            "content": "VMware achieves FedRAMP High Authorization for VMware Government Services to help agencies accelerate innovation across data centers, cloud and the edge for..."
+        },
+        {
+            "headline": "Broadcom, TI plan price increases",
+            "content": "Broadcom and Texas Instruments (TI) are the latest IC vendors to follow in TSMC's footsteps and raise their chip quotes, despite growing concerns over..."
+        }
+    ],
+    "20220722": [
+        {
+            "headline": "‘Broadcom intends to make VMware its flagship brand’",
+            "content": "In May, US semiconductor giant Broadcom said it will acquire cloud and virtualization services provider VMware in a cash-and-stock deal worth $61 billion."
+        },
+        {
+            "headline": "Higher Regional Court allows DivX to enforce German injunction against Netflix",
+            "content": "A series of global disputes between video coding company DivX and the streaming platform Netflix has seen the latter hit with two cease and desist orders in..."
+        },
+        {
+            "headline": "The 8 Major Players in Network Services, Global in 2022",
+            "content": "Solutions Review examine the Leaders quadrant in the 2022 Gartner Network Services, Global. These are the major players in global network services..."
+        }
+    ],
+    "20220723": [],
+    "20220724": [],
+    "20220725": [
+        {
+            "headline": "Intel bags deal to make chips for MediaTek, that other Android processor designer",
+            "content": "Intel will manufacture chips for Taiwanese chip designer MediaTek, making the latter the first major silicon customer for Intel's revitalized contract chip..."
+        }
+    ],
+    "20220726": [
+        {
+            "headline": "Spotlight: Henry & Susan Samueli",
+            "content": "The Anaheim Ducks are 15 years removed from its lone Stanley Cup win, but team owner Henry Samueli says he and wife, Susan, are in it for the long haul with..."
+        },
+        {
+            "headline": "Qualcomm, Qorvo, Skyworks Lead the $4.4 Billion Smartphone RFFE Market in Q1 2022",
+            "content": "In Q1 2022, the smartphone RF front-end market recorded nearly $4.4 billion in revenues. Qualcomm managed to expand its market share to around 23.5%."
+        },
+        {
+            "headline": "Vodafone Tapped Cisco, Ciena, Juniper for Transport SDN",
+            "content": "Vodafone recently completed a project with Cisco, Juniper, and Ciena to update SDN control of its wide-reaching optical transport network."
+        },
+        {
+            "headline": "Credo rides the wave of the exponential growth of data even as the economy slows",
+            "content": "Credo believes the data economy will continue to expand on an exponential curve on that front, said Bill Brennan, CEO of Credo, in an interview with..."
+        }
+    ],
+    "20220727": [
+        {
+            "headline": "The power of DNX silicon to optimize edge computing services for 5G vertical markets",
+            "content": "The DNX based network infrastructure is ideal to meet the new demands of the edge network and will build a solid foundation for the development of edge..."
+        },
+        {
+            "headline": "HCL Technologies Teams with VMware to Launch a New Dedicated VMware Business Unit",
+            "content": "Companies expand efforts to help enterprises accelerate cloud and app transformation NOIDA, India and PALO ALTO, Calif., July 27, 2022 – HCL Technologies."
+        },
+        {
+            "headline": "U.S. Senate advances chip funding bill to encourage local semiconductor manufacturing",
+            "content": "The US Senate voted in favor of advancing the CHIPS bill through cloture, or bypassing the filibuster stage, on Tuesday to bolster local semiconductor..."
+        }
+    ],
+    "20220728": [
+        {
+            "headline": "Wi-Fi 7: Wi-Fi Reimagined for the Connected World",
+            "content": "Emerging wireless applications demand increased throughput and low latency from Wi-Fi. Here's how next-generation Wi-Fi 7 is delivering on those..."
+        },
+        {
+            "headline": "Broadcom President Tom Krause Recruited as the First CEO of the Merged Citrix-Tibco",
+            "content": "After five years in leadership at Broadcom, including two as president, tech industry veteran Tom Krause will lead the newly-formed company as its inaugural..."
+        },
+        {
+            "headline": "Asus GT-AXE11000 review",
+            "content": "The Asus ROG Rapture GT-AXE11000 is nothing short of the fastest and best engineered Wi-Fi router available today."
+        },
+        {
+            "headline": "Motorola Q11 review",
+            "content": "The Motorola Q11 delivers on price, ease of setup and configurability but falls short when it comes to ports and wireless connectivity at a distance."
+        }
+    ],
+    "20220729": [
+        {
+            "headline": "VMware’s subscriptions start at 16 cores, prices won't be made public",
+            "content": "VMware will not publicly disclose the price of its vSphere+ and VSAN+ subscription bundles, though the virtualization giant's partners have been given a figure..."
+        },
+        {
+            "headline": "Raspberry Pi V3DV Driver Now Exposes Vulkan 1.2",
+            "content": "The Mesa V3DV open-source Vulkan driver for supporting Broadcom VideoCore V/VI graphics that is most notably used by the Raspberry Pi 4 and later is now..."
+        }
+    ],
+    "20220730": [],
+    "20220731": [
+        {
+            "headline": "FS S5860-24XB-U Multi-Gigabit 740W PoE Switch Review with 25GbE",
+            "content": "The FS S5860-24XB-U is a 24-port 1/2.5/5/10Gbase-T switch with ample PoE++ power and both SFP+ 10GbE and SFP28 25GbE uplink ports."
+        }
+    ],
+    "20220801": [
+        {
+            "headline": "VMware Fusion now supports Windows on Apple M1 processors",
+            "content": "VMware recently updated VMware Fusion. The update makes it easier to run Windows applications in VMs on Arm-based Apple M1 processors. It's been difficult."
+        }
+    ],
+    "20220802": [
+        {
+            "headline": "Meet VMware’s New Chief Operating Officer, Mike Hayes",
+            "content": "You've been at VMware for almost two years as the Chief Digital Transformation Officer and are now Chief Operating Officer. What does this mean for you and..."
+        },
+        {
+            "headline": "UCIe Consortium Incorporates, Nvidia and Alibaba Round Out Board",
+            "content": "The Universal Chiplet Interconnect Express (UCIe) consortium is moving ahead with its effort to standardize a universal interconnect at the package level."
+        },
+        {
+            "headline": "Former VMware Star Sanjay Poonen Becomes CEO Of Cohesity",
+            "content": "VMware's popular former COO Sanjay Poonen has become the new CEO of data management company Cohesity. Here's what you need to know. ARTICLE TITLE HERE."
+        },
+        {
+            "headline": "Raspberry Pi 4 expands 3D potential with Vulkan update",
+            "content": "The Raspberry Pi 4 has hit a major graphics milestone, adding support for a more modern Vulkan 3D API."
+        }
+    ],
+    "20220803": [
+        {
+            "headline": "Council Post: Three Ways Strategic Optionality Can Amplify Value Streams",
+            "content": "Laureen Knudsen is the Chief Transformation Officer of Broadcom Software, Member of Power50, Top 100 Women in Tech. Businesswoman giving presentation."
+        },
+        {
+            "headline": "Asus ZenWiFi ET8 review",
+            "content": "The Asus ZenWiFi ET8 can move more data farther than other mesh router kits but only comes in a two-pack for now."
+        }
+    ],
+    "20220804": [
+        {
+            "headline": "The Billionaire Who Built A Cocaine Batcave",
+            "content": "Henry Nicholas, the founder of tech manufacturer Broadcom, was charged in 2008 for financial crimes. We're not going to bore you with details of those."
+        },
+        {
+            "headline": "China actions could endanger global chip supply afresh",
+            "content": "China's action against Taiwan could deepen the global semiconductor shortage with the country housing the world's leading chip foundry."
+        }
+    ],
+    "20220805": [
+        {
+            "headline": "The Forbidden Arm Server that is Banned in the US - Page 4 of 6",
+            "content": "We take apart a Huawei TaiShan 200 (2280) server with Kunpeng 920 Arm CPUs and see what makes this server, banned in the US, very different."
+        }
+    ],
+    "20220806": [
+        {
+            "headline": "Linux 6.0 Drops Support For Old NEC VR4100 MIPS CPUs Found In The IBM WorkPad & More",
+            "content": "Support for old NEC VR4100 CPUs based on the MIPS R4000 core is being removed with the Linux 6.0 kernel leading to devices like the old IBM WorkPad Z50 no..."
+        },
+        {
+            "headline": "10 Awful Things Billionaires Did",
+            "content": "We decided to take a look at all the little-known good deeds performed by famous billionaires. Unfortunately, we instead just kept stumbling on stories of them..."
+        }
+    ],
+    "20220807": [
+        {
+            "headline": "Broadcom Software & the U.S. Government: Partners on Cyber Defense",
+            "content": "Broadcom Software solutions secure digital operations across the federal government, and our Global Intelligence Network (GIN) evaluates and shares insights."
+        }
+    ],
+    "20220808": [
+        {
+            "headline": "VMware Report Warns of Deepfake Attacks and Cyber Extortion",
+            "content": "The Global Incident Response Threat Report takes a deep dive into the challenges faced by security teams amid pandemic disruptions, burnout,..."
+        },
+        {
+            "headline": "NetApp CEO George Kurian: Pure Storage Boss’ Comments Inaccurate",
+            "content": "Charles Giancarlo, CEO of Pure Storage, told CRN in an exclusive interview published on July 15 that top storage rivals such as NetApp, Hewlett Packard..."
+        },
+        {
+            "headline": "How TSMC killed 450mm wafers for fear of Intel, Samsung",
+            "content": "A former TSMC executive has described how a collaborative effort towards 450mm (18-inch) wafers for manufacturing chips was halted."
+        }
+    ],
+    "20220809": [
+        {
+            "headline": "New WiFi 6E and WiFi 7 standards: market and applications",
+            "content": "WiFi 6E and WiFi 7 adds new 6GHz spectrum to address higher bandwidth applications such as 8k video and XR display."
+        },
+        {
+            "headline": "Raspberry Pi 4 gets Vulkan 1.2 conformance, Android Vulkan support",
+            "content": "Iglia has done more work on the graphics driver for the VideoCore VI GPU found in Raspberry Pi 4 and other Broadcom BCM2711-based hardware with Vulkan 1.2."
+        }
+    ],
+    "20220810": [
+        {
+            "headline": "What has Broadcom become?",
+            "content": "Broadcom began its existence as a spin-off of a spin-off. Twenty years or so ago, Hewlett Packard began its process of miniaturization."
+        },
+        {
+            "headline": "Cybersecurity and Technology Industry Leaders Launch Open-Source Project to Help Organizations Detect and Stop Cyberattacks Faster and More Effectively",
+            "content": "A coalition of cybersecurity and technology leaders announced an open-source effort to break down data silos that impede security teams. The Open Cybe."
+        },
+        {
+            "headline": "Coalition Of Cybersecurity Leaders Launch Open Cybersecurity Schema Framework (OCSF)",
+            "content": "A coalition of cybersecurity and technology leaders announced the Open Cybersecurity Schema Framework (OCSF) project at Black Hat USA 2022."
+        },
+        {
+            "headline": "Penang’s five decades of industrial success",
+            "content": "The Malaysia Semiconductor Industry Association (MSIA) celebrated Penang's 50th anniversary of industrial excellence via a gala dinner at the Eastern &..."
+        }
+    ],
+    "20220811": [],
+    "20220812": [
+        {
+            "headline": "Broadcom Stock Forecast | Is Broadcom a Good Stock to Buy?",
+            "content": "The recent sharp decline in the AVGO stock price came as the semiconductor giant could move ahead with the acquisition of cloud service provider VMware (VMW)."
+        }
+    ],
+    "20220813": [],
+    "20220814": [],
+    "20220815": [
+        {
+            "headline": "BroadCom signs with sponsors ahead of Broadcast Awards",
+            "content": "Maldives Broadcasting Commission (BroadCom) signs with the sponsors of \"Maldives Broadcast Awards 2022.\" Signing ceremony took place on Sunday afternoon,..."
+        }
+    ],
+    "20220816": [
+        {
+            "headline": "Broadcom challenges Nvidia's Spectrum-4 with 51.2T switch silicon",
+            "content": "Double the bandwidth of previous gen and 6x reduction in power consumption ... Broadcom says it has doubled the capacity of its merchant switch silicon with the..."
+        },
+        {
+            "headline": "Broadcom: Private Equity-Like Business Model Drives Long-Term Value (NASDAQ:AVGO)",
+            "content": "Broadcom: Private Equity-Like Business Model Drives Long-Term Value. Aug. 16, 2022 11:43 AM ET. Broadcom Inc. (AVGO) Stock. 14 Comments. 10 Likes."
+        },
+        {
+            "headline": "Like A Drumbeat, Broadcom Doubles Ethernet Bandwidth With “Tomahawk 5”",
+            "content": "This single chip Tomahawk 5 can drive 51.2 Tb/sec of aggregate bandwidth, double that of the Tomahawk 4 that was unveiled two years ago – right on the two year..."
+        },
+        {
+            "headline": "VMware’s 2022 ESG Report: How We’re Accelerating into Action￼",
+            "content": "Corporate social responsibility as a nice-to-have is a relic of yesterday—whereas today, driving innovation through Environmental, Social and Governance..."
+        },
+        {
+            "headline": "Broadcom unveils Tomahawk 5 chip to unlock the AI network",
+            "content": "Broadcom unveils Tomahawk 5 chip to unlock the AI network. The cloud giants such as Amazon, Google, and Meta don't want to be locked into Nvidia's InfiniBand,..."
+        },
+        {
+            "headline": "Broadcom Tomahawk 5 Silicon Targets Hyperscaler AI/ML Workloads",
+            "content": "Broadcom announced the latest version of its Tomahawk ethernet switch silicon that it claims is twice as powerful as any other silicon."
+        },
+        {
+            "headline": "GRAID’s 3-4 year advantage arguably makes it acquisition bait",
+            "content": "GRAID (GPU-RAID) reckons it has an up to four-year lead over competitors like Broadcom and may agree to an acquisition if it could help it grow to the next..."
+        },
+        {
+            "headline": "World’s first 51.2 Tbit/s Ethernet switch chip plans chiplet optical version",
+            "content": "Broadcom has shipped samples of the world's first Ethernet switch capable of 50.2 Tbit/s, or 64 channels of 800 Gigabit Ethernet in data centres. The 5nm..."
+        },
+        {
+            "headline": "Broadcom delivers StrataXGS Tomahawk 5 switch series",
+            "content": "Tomahawk 5 includes real-time dynamic load balancing that tracks the utilization of all links, both at the switch and downstream in the network, to determine..."
+        }
+    ],
+    "20220817": [
+        {
+            "headline": "64x 800GbE Broadcom Tomahawk 5 51.2Tbps Switch Chip Released",
+            "content": "The new Broadcom Tomahawk 5 is a 51.2Tbps switch chip that supports up to 64x 800GbE and new silicon photonics and co-packaged optics options."
+        },
+        {
+            "headline": "Fix: Broadcom Netxtreme 57xx Gigabit Controller",
+            "content": "Downloading and installing the latest driver version for Broadcom Netxtreme 57xx Gigabit Controller will most likely resume your internet connection."
+        }
+    ],
+    "20220818": [],
+    "20220819": [
+        {
+            "headline": "Ethernet Switch Silicon Doubles Bandwidth to 51.2 Tb/s",
+            "content": "Broadcom's Tomahawk 5 switch ASIC packs 512 high-performance 100G PAM4 SerDes transceivers."
+        },
+        {
+            "headline": "Qualcomm readying new Arm server chip based on Nuvia acquisition",
+            "content": "Chipmaker Qualcomm is said to be preparing to re-enter the Arm server market, based on technology the company gained from its acquisition of startup Nuvia last..."
+        },
+        {
+            "headline": "Samsung Galaxy Buds Pro review",
+            "content": "Despite its flaws, the Samsung Galaxy Buds Pro are solid wireless earbuds with dynamic sound, improved ANC, and cool exclusive features."
+        }
+    ],
+    "20220820": [
+        {
+            "headline": "Report: Qualcomm plans Arm server chip return with Nuvia acquisition, gets early interest from Amazon",
+            "content": "Qualcomm is talking to cloud and data center companies about testing an Arm chip for the server market. Bloomberg reports that the processor was built by Nuvia."
+        }
+    ],
+    "20220821": [],
+    "20220822": [
+        {
+            "headline": "From silicon to software",
+            "content": "As a global infrastructure technology leader built on decades of innovation, collaboration and engineering excellence, Broadcom's journey is the history of..."
+        },
+        {
+            "headline": "Broadcom and Tencent Partner to Accelerate Commercialization of Co-Packaged Optics Network Switch",
+            "content": "Industry's first 25.6-Tbps CPO switch delivers unprecedented bandwidth density and power efficiency. 22. August 2022 09:00 ET | Quelle: Broadcom Inc."
+        },
+        {
+            "headline": "Broadcom's CEO tells VMware employees 'real estate isn't cheap' when asked about work-from-home policy",
+            "content": "Broadcom's CEO tells VMware employees 'real estate isn't cheap' when asked about work-from-home policy."
+        },
+        {
+            "headline": "Broadcom, Tencent to commercialise co-packaged 25Tbit optical switch",
+            "content": "Broadcom is working with Tencent in China on a 25Tbit/s co-packaged optics (CPO) network switch for cloud infrastructure using optical chiplets. Broadcom..."
+        },
+        {
+            "headline": "AMD MI250X and Toplogies Explained at HC34",
+            "content": "At Hot Chips 34, we learned more about the AMD MI250X for HPC and the MI250 OAM for mainstream GPU compute and AI/ ML workloads."
+        }
+    ],
+    "20220823": [
+        {
+            "headline": "VMware Blockchain is Bringing Ethereum to the Enterprise",
+            "content": "VMware Blockchain is Bringing Ethereum to the Enterprise ... The Ethereum technology stack — from EVM, smart contracts, APIs, developer tools, and its overall..."
+        },
+        {
+            "headline": "Broadcom, Tencent link for 25.6-Tbps co-packaged optics switch",
+            "content": "Broadcom, Tencent link for 25.6-Tbps co-packaged optics switch ... Tencent plans to field 2RU boxes based on the Humboldt CPO switch devices in the first half of..."
+        }
+    ],
+    "20220824": [
+        {
+            "headline": "Broadcom’s First Switch with Co-Packaged Optics is Cloud-Bound",
+            "content": "The company said it will deploy its first switch with optics inside, called Humboldt, in the cloud giant's data centers next year."
+        },
+        {
+            "headline": "VMware confirms Carbon Black causes BSODs, boot loops on Windows",
+            "content": "VMware has admitted an update on some versions of its Carbon Black endpoint solution is responsible for BSODs and boot loops on Windows machines."
+        },
+        {
+            "headline": "How AWSC got its groove back and secured orders from SpaceX｜Industry｜2022-08-24",
+            "content": "Semiconductor foundry company AWSC got its start relying on orders from a single major account, but this left it vulnerable to competition from WIN..."
+        },
+        {
+            "headline": "How Google uses mirrors to dynamically reconfigure its networks",
+            "content": "Google has scaled its network capacity from over one petabit per second to beyond six petabits per second since 2015, and some of that growth has come from..."
+        }
+    ],
+    "20220825": [
+        {
+            "headline": "AVGO: Which Semiconductor Stock Is the Better Buy — Intel or Broadcom?",
+            "content": "Broadcom Inc.(NASDAQ:AVGO): The passage of the CHIPS and Science Act and continued adoption of advanced technologies bode well for the semiconductor..."
+        },
+        {
+            "headline": "The Next Incarnation Of EDA",
+            "content": "The EDA industry has incrementally addressed issues as they arise in the design of electronic systems, but is there about to be a disruption?"
+        }
+    ],
+    "20220826": [],
+    "20220827": [],
+    "20220828": [],
+    "20220829": [
+        {
+            "headline": "Waferscale startup says it can stitch chips together with light",
+            "content": "A startup called Lightmatter is trying to solve with its Passage silicon photonics technology, detailed at the Hot Chips conference this month."
+        },
+        {
+            "headline": "The Best Single-Board Computers",
+            "content": "At $15, it's true that the Raspberry Pi Zero 2 W isn't the cheapest single-board computer around: That title goes to its predecessor, the Raspberry Pi Zero,..."
+        }
+    ],
+    "20220830": [
+        {
+            "headline": "Broadcom CEO Hock Tan Shows up at VMware's Cloud Conference",
+            "content": "Broadcom CEO Hock Tan made a surprise appearance at VMware's big annual conference, VMware Explore, which kicked off this week in San Francisco."
+        },
+        {
+            "headline": "VMware President Sumit Dhawan Takes On Broadcom Deal, R&D And Partner Questions",
+            "content": "VMware President Sumit Dhawan talks with CRN about Broadcom, as well as the company's multi-cloud future."
+        },
+        {
+            "headline": "Becoming Cloud Smart: Learn from CVS Health - Broadcom News and Stories",
+            "content": "VMware's portfolio of cross-cloud services enables organizations to navigate their own journeys to cloud smart and ensure accelerated app dev, consistent..."
+        },
+        {
+            "headline": "VMware Advances Multi-Cloud Management with VMware Aria",
+            "content": "Today at VMware Explore 2022, VMware is unveiling a multi-cloud management portfolio called VMware Aria, which provides a set of end-to-end solutions for..."
+        },
+        {
+            "headline": "VMware Tanzu teases vSphere, PaaS tie-ins -- but doubts linger",
+            "content": "VMware Tanzu previews expanded Kubernetes integrations with vSphere 8 and Cloud Foundry, but worries about the Broadcom acquisition cast persistent shadows."
+        },
+        {
+            "headline": "VMware Carbon Black MSSPs Gain Network Detection Security Capabilities -",
+            "content": "VMware & Carbon Black security updates span endpoint, network, API, application & multi-cloud solutions. MSSPs watch Broadcom-VMware M&A deal closely."
+        }
+    ],
+    "20220831": [
+        {
+            "headline": "Tomahawk 5: Driving the future of AI/ML networking",
+            "content": "Tomahawk 5 is the world's first and only 51 Terabit per second (Tbps) switch, providing double the bandwidth of any other switch available today."
+        },
+        {
+            "headline": "AVGO: 1 Stock That Could Crush the Market for the Long Term",
+            "content": "Broadcom Inc.(NASDAQ:AVGO): Semiconductor producer Broadcom (AVGO) has experienced a sell-off amid the broader market volatility this year."
+        },
+        {
+            "headline": "FS N8560-48BC 48x 25GbE 8x 100GbE Switch Review",
+            "content": "In our FS N8560-48BC review, we see what this 48 port 25GbE and 8 port 100GbE switch based around Broadcom silicon has to offer."
+        }
+    ],
+    "20220901": [
+        {
+            "headline": "VMware Partners See Opportunity to Win Customers Via Broadcom Deal",
+            "content": "Some VMware partners say they're optimistic about the $61 billion Broadcom buyout and see it as an opportunity to cozy up to customers who fear they'll get..."
+        },
+        {
+            "headline": "'This time it will be different': VMware CEO on Broadcom’s acquisition",
+            "content": "Raghu Raghuram, CEO at VMware. Broadcom and VMware revealed the $61B deal in May this year, in a move that caught market watchers off guard."
+        },
+        {
+            "headline": "Over 1,800 Android and iOS Apps Found Leaking Hard-Coded AWS Credentials",
+            "content": "Researchers have identified 1859 apps for Android and iOS containing hard-coded Amazon Web Services (AWS) credentials, posing a major security risk."
+        }
+    ],
+    "20220902": [
+        {
+            "headline": "Microsoft extends Teams into VMware and Citrix VDI",
+            "content": "Microsoft is making it easier for Teams to work with virtual desktop infrastructure (VDI) in a bid to grow the number of monthly active users on the..."
+        }
+    ],
+    "20220903": [
+        {
+            "headline": "Latest Automotive IC “Firsts” Include Ethernet Switches and IMUs",
+            "content": "Feeding the needs of next-gen automotive designs, chip companies have rolled out devices that are “firsts” in their categories."
+        }
+    ],
+    "20220904": [],
+    "20220905": [
+        {
+            "headline": "The chips are down: Putin scrambles for high-tech parts as his arsenal goes up in smoke",
+            "content": "It's the microchips that look set to get Vladimir Putin in the end. Six months into its invasion of Ukraine, Russia is being throttled by a severe..."
+        },
+        {
+            "headline": "2021 was an exceptional year for MEMS companies. What is next?",
+            "content": "With an unprecedented growth period, MEMS sensors and actuators have become part of everyday life and are found in a variety of systems."
+        },
+        {
+            "headline": "ASUS ROG Rapture GT-AX6000 Wi-Fi 6 Router launched in India",
+            "content": "It is a high-performance Wi-Fi 6 (802.11ax) gaming router with a striking new look. It boasts wireless rates up to 6000 Mbps with ASUS RangeBoost Plus for..."
+        }
+    ],
+    "20220906": [
+        {
+            "headline": "Broadcom Trident 4 Silicon Pushes Enterprise Network Security",
+            "content": "The Trident 4-X11C chip is \"all about security in the enterprise,\" Broadcom Director of Product Marketing Fred Olsson told SDxCentral."
+        },
+        {
+            "headline": "Hock Tan",
+            "content": "Hock Tan is Broadcom President, Chief Executive Officer and Director. He has held this position since March 2006."
+        }
+    ],
+    "20220907": [
+        {
+            "headline": "Broadcom MASTERS announces the Top 300 middle school innovators in national STEM competition",
+            "content": "Broadcom MASTERS announces the Top 300 middle school innovators in national STEM competition · The top 300 hail from 35 states, Guam and Puerto Rico · Top..."
+        },
+        {
+            "headline": "Everything we know about what's going on at VMware as employees leave in droves ahead of the $61 billion Broadcom acquisition",
+            "content": "The chip giant Broadcom announced it would acquire the software firm VMware for a whopping $61 billion. While the deal has yet to close, it's already causing..."
+        },
+        {
+            "headline": "A conversation with Kit Colbert, VMware CTO",
+            "content": "As one of the keynote speakers at VMExplore 2022, Kit Colbert, VMware's Chief Technology Officer kept the mood going high during his session."
+        }
+    ],
+    "20220908": [
+        {
+            "headline": "Ethernet Switches | DDoS Protection | Trident4-X11C",
+            "content": "Broadcom's Trident4-X11C is the industry's first core-scale switch ASIC able to precisely identify individual connections that fit a defined threat profile in..."
+        },
+        {
+            "headline": "Broadcom Secures The Edge By Beefing Up The Network Core",
+            "content": "The new bit of circuitry added to the Trident 4C – what Broadcom calls an “ultra-high performance analysis engine” – is so important."
+        },
+        {
+            "headline": "Intel & Broadcom demo Wi-Fi 7 at 5 Gbps, expect first commercially available devices in 2H23",
+            "content": "This week Wi-Fi technology leaders Intel and Broadcom jointly demonstrated the world's first multi-vendor Wi-Fi 7 over-the-air connection."
+        },
+        {
+            "headline": "2022 Top 300 MASTERS by Fair ID",
+            "content": "the Top 300 competitors in the 2022 Broadcom MASTERS® — the nation's premier STEM competition for middle school students..."
+        },
+        {
+            "headline": "What is WiFi 7 and when is its release date?",
+            "content": "WiFi7 is coming to consumer - and enterprise - devices and will offer faster, more flexible wireless connections."
+        }
+    ],
+    "20220909": [
+        {
+            "headline": "Intel and Broadcom achieve WiFi 7 speed of over 5 Gbps",
+            "content": "Intel and Broadcom managed to achieve WiFi 7 speeds of more than 5 Gbps in a joint test. The test was conducted to demonstrate that the new WiFi standard."
+        },
+        {
+            "headline": "Intel and Broadcom Achieve Major Wi-Fi 7 Industry Milestone",
+            "content": "The wireless future has arrived with the world's first cross-vendor Wi-Fi 7 demonstration. Today, Intel Corporation and Broadcom Inc. showcased the..."
+        },
+        {
+            "headline": "Intel And Broadcom Tag Team Wi-Fi 7 Demo For Blazing Fast Next-Gen Wireless Topping 5Gbps",
+            "content": "The demonstration was performed by Intel's Wireless CTO Carlos Cordeiro and Broadcom Vice President of Wireless Connectivity Vijay Nagarajan. The setup..."
+        },
+        {
+            "headline": "Intel and Broadcom Demo Wi-Fi 7 Transfer Speeds of 5 Gbps",
+            "content": "A Wi-Fi 7 connection between an Intel Core-powered laptop and a Broadcom access point achieved a steady 5 Gbps transfer speed."
+        },
+        {
+            "headline": "Intel and Broadcom show off Wi-Fi 7 reaching 5Gbps",
+            "content": "In a joint presentation, Intel and Broadcom linked a laptop running one of its processors to a Broadcom Wi-Fi 7 modem, achieving speeds of 5Gbps. The trial."
+        },
+        {
+            "headline": "Broadcom and Intel Push Real-World WiFi 7 Speed Test to 5Gbps",
+            "content": "This trial was able to achieve a speed of over 5Gbps, which is perhaps a reasonable real-world expectation of what Wi-Fi 7 will actually hit in ideal..."
+        }
+    ],
+    "20220910": [],
+    "20220911": [],
+    "20220912": [
+        {
+            "headline": "Broadcom Stock: Networking Segment Driving Double-Digit Revenue Growth (NASDAQ:AVGO)",
+            "content": "We projected Broadcom's Ethernet switch product revenue growth at an average of 22.2% through 2026 based on unit and ASP growth after the launch of its..."
+        },
+        {
+            "headline": "How Fast Is Wi-Fi 7? Intel & Broadcom Just Demoed Crazy Speeds",
+            "content": "Wi-Fi 7 isn't publicly available yet, but Intel and Broadcom's demonstration represents a significant step forward for the next iteration of Wi-Fi."
+        },
+        {
+            "headline": "Intel and Broadcom demonstrate Wi-Fi 7 technology with 5Gbps speed",
+            "content": "Intel in association with semiconductor manufacturing company Broadcom has demonstrated the next generation of Wi-Fi standards, the Wi-Fi 7."
+        },
+        {
+            "headline": "The SEC revealed today that it charged VMware with fraud . . . and then settled for next to nothing",
+            "content": "The Securities and Exchange Commission today said it has charged the cloud computing giant VMware for misleading investors about its order backlog management..."
+        },
+        {
+            "headline": "Brain-inspired chips promise ultra-efficient AI, so why aren’t they everywhere?",
+            "content": "Interview Every time a chipmaker or researcher announces an advancement in neuromorphics, it's inevitably the same story: a brain-like AI chip capable of..."
+        },
+        {
+            "headline": "Intel Shows Off 5 Gbps WiFi-7 Technology Coming Soon in 2024",
+            "content": "Intel, in collaboration with Broadcom, is shown to demonstrate that Wi-Fi 7 can achieve speeds of up to over 5 Gbps, at least 5 times faster than the 1 Gbps..."
+        }
+    ],
+    "20220913": [
+        {
+            "headline": "SEC charges VMware with hiding slowing sales from investors",
+            "content": "VMware misled investors about its order backlog management processes that allowed it to roll revenue into future quarters by postponing product delivery..."
+        }
+    ],
+    "20220914": [
+        {
+            "headline": "Little Rock student named tops nationally in STEM competition",
+            "content": "LITTLE ROCK, Ark. – A Little Rock fifth grader has gained national recognition as a STEM (science, technology, engineering and math) student."
+        },
+        {
+            "headline": "5 Years and counting-VMware ranked #1 in Worldwide IT Automation and Configuration Management by IDC",
+            "content": "Leading analyst firm IDC ranked VMware No. 1 in the worldwide IT automation and configuration management (ITACM) software market for 2021."
+        },
+        {
+            "headline": "SparklingGoblin APT Hackers Using New Linux Variant of SideWalk Backdoor",
+            "content": "A Linux variant of a backdoor known as SideWalk was used to target a Hong Kong university in February 2021, underscoring the cross-platform abilities of the..."
+        }
+    ],
+    "20220915": [
+        {
+            "headline": "AJHS 8th Grader Selected as Top 300 Broadcom Master",
+            "content": "Armstrong Jr High School 8th grader Anya Rai has been selected as a Top 300 Broadcom Master. The Broadcom Masters competition is the nation's premier science,..."
+        },
+        {
+            "headline": "Webworm Hackers Using Modified RATs in Latest Cyber Espionage Attacks",
+            "content": "A threat actor tracked under the moniker Webworm is taking advantage of bespoke variants of already existing Windows-based remote access trojans to fly under..."
+        },
+        {
+            "headline": "Agora names Sheng Zhong as chief technology officer",
+            "content": "Zhong who has served as Agora s chief scientist since January 2018 will be responsible for managing Agora s global research and development organisation and..."
+        }
+    ],
+    "20220916": [
+        {
+            "headline": "Cybercriminals Modify Older RATs to Evade Detection 2022",
+            "content": "A study found a cyber-attacker group, 'Webworm', testing older versions of remote access trojans (RATs) to launch new attacks. According to Broadcom..."
+        },
+        {
+            "headline": "Raspberry Pi Zero Guide: Projects, Specs, GPIO, Getting Started",
+            "content": "Everything you need to know to get started with the Raspberry Pi Zero, from which SKU to buy to what projects it can do."
+        },
+        {
+            "headline": "Raspberry Pi Compute Module 4 Review: Small Yet Mighty",
+            "content": "The essence of a Raspberry Pi 4 distilled into a smaller and embeddable package. Designed for industrial and embedded applications, the Compute Module 4..."
+        }
+    ],
+    "20220917": [],
+    "20220918": [
+        {
+            "headline": "Hock Tan Receives WITSA Eminent Person Award",
+            "content": "Hock Tan, Broadcom's president and CEO, was honored today with the Eminent Person Award from the World Innovation, Technology and Services Alliance (WITSA)."
+        },
+        {
+            "headline": "Chinese state-backed hackers target PMOs, heads of nations",
+            "content": "Such activities have been part of an intelligence gathering operation that has been in motion since 2021. Chinese state-backed hackers have."
+        }
+    ],
+    "20220919": [
+        {
+            "headline": "Thirty exceptional young scientists named finalists in Broadcom MASTERS",
+            "content": "The 30 finalists in the 2022 annual Broadcom MASTERS®, the nation's premier science, technology, engineering and mathematics (STEM) middle school competition."
+        },
+        {
+            "headline": "RF front-end module industry: Apple’s gambit",
+            "content": "Yole SystemPlus analyzes the technology and costs of the changing radio frequency front-end modules integrated into Apple's iPhone series from 2017 to 2021."
+        },
+        {
+            "headline": "These 10 mutual funds had the best returns of the decade",
+            "content": "The best-performing mutual funds had an average annualized return of 18.62%."
+        }
+    ],
+    "20220920": [
+        {
+            "headline": "Broadcom switch SDK software enables rapid development and deployment",
+            "content": "Broadcom SDK hides complex programming of device with high-level functionality. Broadcom SDK was developed to provide customers access to a canned switch..."
+        },
+        {
+            "headline": "Comcast promises huge boost to cable upload speeds by end of 2023",
+            "content": "Full Duplex DOCSIS expected in 2023 but won't be available to everyone at first."
+        },
+        {
+            "headline": "A closer look at Inari amid talk of a global chip slump",
+            "content": "CALLING Inari Amertron Bhd a bellwether for the local semiconductor industry is no exaggeration. The country's largest outsourced semiconductor assembly and..."
+        }
+    ],
+    "20220921": [
+        {
+            "headline": "2022 Broadcom MASTERS Finalists",
+            "content": "The team's design uses a bicycle hand pump, tubing, and a nebulizer cup. A nebulizer is a device that makes a fine spray of liquid. The girls used water, but in..."
+        },
+        {
+            "headline": "Thirty Exceptional Young Scientists Named Finalists in Broadcom MASTERS",
+            "content": "The 30 finalists in the 2022 annual Broadcom MASTERS®, the nation's premier science, technology, engineering and mathematics (STEM) middle school competition."
+        },
+        {
+            "headline": "Former Broadcom engineer gets eight months in prison for trade secrets theft",
+            "content": "Peter Kisang Kim admitted to stealing Broadcom data related to its Trident family of network switching and cloud networking chipsets, while working for a..."
+        },
+        {
+            "headline": "VMware Stock Forecast | Is VMware a Good Stock to Buy?",
+            "content": "VMware stock forecast: Price targets 2022 – 2025. The stock is rated as a 'hold', according to the views of 21 analysts compiled by MarketBeat, as of 20..."
+        },
+        {
+            "headline": "Henderson teen named finalist in nation's top STEM competition",
+            "content": "Henderson student Luka Nguyen was recognized for his research on mangroves and how they thrive in aerial reforestation."
+        },
+        {
+            "headline": "The Open Mainframe Project Announces A New Mainframe Resource to Advance Mainframe Talent and Innovative Technologies",
+            "content": "Broadcom-donated Mainframe system will be available in 2023 for use by all Open Mainframe projects. SAN FRANCISCO, Sept. 21, 2022 /PRNewswire/ -- The Open..."
+        },
+        {
+            "headline": "Kenneth Chen elevated to ExtraHop VP Asia Pacific",
+            "content": "Cloud-native network intelligence provider ExtraHop has appointed Kenneth Chen as vice president of the Asia Pacific region, including ASEAN, South Ko..."
+        }
+    ],
+    "20220922": [
+        {
+            "headline": "8 Indian Americans Among 30 Finalists in 2022 Annual Broadcom MASTERS",
+            "content": "The program, founded and produced by Society for Science, “seeks to inspire young scientists, engineers and innovators who will work towards solving the grand..."
+        },
+        {
+            "headline": "OnLogic IGN800 Industrial Raspberry Pi Edge Gateway runs Ignition Edge software",
+            "content": "OnLogic IGN800 is an industrial edge gateway based on the Raspberry Pi CM4 module pre-loaded with the Ignition Edge HMI, SCADA (Supervisory Control And Data..."
+        }
+    ],
+    "20220923": [
+        {
+            "headline": "VMware CEO Avoids Broadcom Talk, Focuses on New Offerings",
+            "content": "While computer chip company Broadcom's planned $61 billion acquisition of cloud computing mainstay VMware hangs in the balance, Rangarajan Raghuram,..."
+        }
+    ],
+    "20220924": [],
+    "20220925": [],
+    "20220926": [
+        {
+            "headline": "Hybrid cloud wins rely on data protection",
+            "content": "After silicon chipmaker Broadcom acquired CA Technologies in 2018 and Symantec Enterprise in 2019, it decided to invest in hybrid cloud environments,..."
+        },
+        {
+            "headline": "The 100 People You Don’t Know But Should 2022",
+            "content": "CRN's 100 People You Don't Know But Should spotlights some of the channel's best and brightest people who may not be as visible as some channel chiefs or CEOs."
+        }
+    ],
+    "20220927": [
+        {
+            "headline": "Broadcom’s Golden Parachute For Top 5 VMware Execs May Total $169.4M",
+            "content": "Broadcom is promising the top five VMware executives each a share of a possible $169.4 million should they depart between now and when the the..."
+        },
+        {
+            "headline": "Word on the Street: Media Roundup for Tomahawk 5",
+            "content": "What writers, editors and analysts are saying about the Tomahawk 5 — delivering 51.2 Terabits/sec of Ethernet switching capacity — double the bandwidth of any..."
+        }
+    ],
+    "20220928": [
+        {
+            "headline": "Developing A Vibe",
+            "content": "OCVibe—the $4 billion project headed by the Samueli family to turn nearly 100 acres surrounding Anaheim' Honda Center into a vibrant and walkable mixed-use..."
+        },
+        {
+            "headline": "AMD was right about chiplets, Intel's Gelsinger all but says",
+            "content": "While some have given up on Moore's Law, Intel CEO Pat Gelsinger clearly hasn't. “For decades now, I've been in the debate: is Moore's Law dead?"
+        }
+    ],
+    "20220929": [
+        {
+            "headline": "See every stock trade Rep. Marjorie Taylor Greene and her husband have made since 2021",
+            "content": "MTG told Insider that she has an investment advisor who makes trades for her. Several of the trades are incongruent with her own political stances."
+        }
+    ],
+    "20220930": [
+        {
+            "headline": "How Citrix dropped the ball on Xen ... according to Citrix",
+            "content": "Open Source Summit What's the difference between the Citrix Hypervisor and Xen? Well, one has quite a big crowd of upset current and former community..."
+        },
+        {
+            "headline": "Questions remain following Citrix-TIBCO merger",
+            "content": "Investment firms Vista Equity Partners and Evergreen Coast Capital completed the acquisition of Citrix, which the owners plan to merge with TIBCO."
+        }
+    ],
     "20221001": [
         {
             "headline": "New telecom products, exports will drive growth : HFCL MD Mahendra Nahata",

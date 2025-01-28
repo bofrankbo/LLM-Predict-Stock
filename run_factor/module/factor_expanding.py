@@ -100,10 +100,10 @@ class FactorExpanding:
                 for factor in value_list:
                     if country == "us":
                         messages = [
-                            ("system", "You are an expert in the financial field and will answer users' questions about stock day trading."),
+                            ("system", "You are an expert in the financial field and will answer users' questions about stock movment."),
                             ("human",
                             f"""
-                            This is the stock price change factor {factor}
+                            This is the possible stock price change factor {factor}
                             Please consider the following news. Will stocks rise or fall because of {factor}?
                             This is today's news: {text_news}
                             Please answer yes if it is likely to rise, answer no if it is likely to fall, and answer unknown if it is impossible to determine or irrelevant.

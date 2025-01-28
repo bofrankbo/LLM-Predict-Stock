@@ -33,16 +33,6 @@ class UsableFactorON(Factor):
         self.price_his = self.get_price_his()
         
         # models
-        self.embeddings_model = OpenAIEmbeddings(
-            model="text-embedding-3-small"
-        )
-
-        self.llm4o = ChatOpenAI(
-            openai_api_key = os.getenv('OPENAI_API_KEY'),
-            model='gpt-4o',
-            temperature=1,
-        )
-
         self.llm = ChatOpenAI(
             openai_api_key = os.getenv('OPENAI_API_KEY'),
             model='gpt-4o-mini',
@@ -51,7 +41,7 @@ class UsableFactorON(Factor):
         
     def run(self):
         # preprocess
-        fac_gen = UsableGenerator(self.env, self.price_his, self.llm4o)
+        fac_gen = UsableGenerator(self.env, self.price_his)
         fac_exp = UsableExpanding(self.env, self.llm, self.price_his)
         self.factors = fac_gen.generate_factors()
         self.exp_data = fac_exp.expanding(self.factors)
@@ -80,11 +70,11 @@ class UsableFactorON(Factor):
 
     def training(self, mode, train_datarange, test_datarange):
         eval_module = EvalOvernight(self.env, self.price_his)
-        ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, eval_module.eval_daytrade, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys()))
+        ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys()))
         individual = ga.run()
         
-        res_train = eval_module.eval_daytrade(train_datarange, individual)
-        res_test = eval_module.eval_daytrade(test_datarange, individual)
+        res_train = eval_module.eval(train_datarange, individual)
+        res_test = eval_module.eval(test_datarange, individual)
         res = {
             "train": res_train,
             "test": res_test,
@@ -148,7 +138,7 @@ class UsableFactorON(Factor):
     def show_individual(self, mode):
         individuals = self.get_individual(mode)
         
-        fac_gen = UsableGenerator(self.env, self.price_his, self.llm4o)
+        fac_gen = UsableGenerator(self.env, self.price_his)
         factors = fac_gen.generate_factors()
         
         i = 0

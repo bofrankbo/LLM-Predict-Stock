@@ -102,7 +102,7 @@ class EvalOvernight(EvalDayTrade):
             rtn_list.append([date_str, rtn])
         
 
-    def eval_daytrade(self, sig_data, individual):
+    def eval(self, sig_data, individual):
         '''
             Day Trade Eval : Evaluate daily return based on the individual
         '''
