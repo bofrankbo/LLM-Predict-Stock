@@ -1,5 +1,6 @@
 from .embedding import Embedding
 from .genetic_algorithm import GeneticAlgorithm
+from .genetic_algorithmMOV import GeneticAlgorithmMOV
 
 from .factor_generator import FactorGenerator
 from .usable_factor_generator import UsableGenerator

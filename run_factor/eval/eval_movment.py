@@ -54,27 +54,31 @@ class EvalMovment(EvalDayTrade):
             # print(sig, df_price.iloc[0]["Close"], df_price.iloc[0]["MA5"])
             open_price = df_price.iloc[0]["Open"]
             close_price = df_price.iloc[0]["Close"]
-            if sig == 1 and price_t_1["Close"] > price_t_1[MOV]:
-                if position == 0:
+            if sig == 1:
+                if position == 0 and price_t_1["Close"] > price_t_1[MOV]:
                     # long
                     in_out_list_sig.append([date_str, "enter", sig])
                     enter_price = open_price
                     rtn = (close_price - enter_price) / enter_price
                     enter_price = close_price
                     position = 1
-                elif position == 1:
-                    # hold
-                    rtn = (close_price - enter_price) / enter_price
-                    enter_price = close_price
                 elif position == -1:
                     # Close 
                     in_out_list_sig.append([date_str, "close", sig])
                     rtn = (enter_price - open_price) / enter_price
                     enter_price = 0
                     position = 0
+                else:
+                    if position == 0:
+                        # hold
+                        rtn = 0
+                    else:
+                        # hold
+                        rtn = (close_price - enter_price) / enter_price
+                        enter_price = close_price
                     
-            elif sig == -1 and price_t_1["Close"] < price_t_1[MOV]:        
-                if position == 0:
+            elif sig == -1:        
+                if position == 0 and price_t_1["Close"] < price_t_1[MOV]:
                     # Short
                     in_out_list_sig.append([date_str, "enter", sig])
                     enter_price = open_price
@@ -87,10 +91,14 @@ class EvalMovment(EvalDayTrade):
                     rtn = (open_price - enter_price) / enter_price
                     enter_price = 0
                     position = 0
-                elif position == -1:
-                    # hold
-                    rtn = (enter_price - close_price) / enter_price
-                    enter_price = close_price
+                else:
+                    if position == 0:
+                        # hold
+                        rtn = 0
+                    else:
+                        # hold
+                        rtn = (enter_price - close_price) / enter_price
+                        enter_price = close_price
                     
             else:
                 if position == 0:

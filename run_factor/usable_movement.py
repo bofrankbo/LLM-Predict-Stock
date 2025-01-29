@@ -8,7 +8,7 @@ from langchain_openai import ChatOpenAI
 
 from usable_on import UsableFactorON
 
-from module import GeneticAlgorithm
+from module import GeneticAlgorithmMOV
 from module import UsableGenerator
 from module import UsableExpanding
 from eval import EvalMovment
@@ -72,7 +72,7 @@ class UsableMovment(UsableFactorON):
 
     def training(self, mode, train_datarange, test_datarange):
         eval_module = EvalMovment(self.env, self.price_his)
-        ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys()))
+        ga = GeneticAlgorithmMOV(self.env, self.price_his, train_datarange, eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys()))
         individual = ga.run()
         
         res_train = eval_module.eval(train_datarange, individual)
