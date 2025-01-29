@@ -30,7 +30,7 @@ class EvalDayTrade:
             out_folder = f"{self.training_path}/ac"
         elif mode == 1:
             out_folder = f"{self.training_path}/ev"
-        
+        print(out_folder)
         with open(f"{out_folder}/result.json", "w", encoding="utf-8") as f:
             json.dump(res, f, ensure_ascii=False, indent=4)
             
