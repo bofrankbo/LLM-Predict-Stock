@@ -4,10 +4,7 @@ import json
 import shutil
 import pandas as pd
 from datetime import datetime, timedelta
-import matplotlib.pyplot as plt
-import os
-import pandas as pd
-from datetime import datetime
+
 from langchain_openai import ChatOpenAI
 from langchain_openai import OpenAIEmbeddings
 
@@ -15,7 +12,6 @@ from eval import EvalDayTrade
 from module import FactorGenerator
 from module import FactorExpanding
 from module import GeneticAlgorithm
-from module import Embedding
 
 class Factor:
     def __init__(self, env):
