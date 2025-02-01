@@ -36,26 +36,28 @@ class EvalOvernight(EvalDayTrade):
                 # print("last day")
                 if position == 1:
                     # Close
-                    in_out_list_sig.append([date_str, "close", sig])
                     rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
+                    in_out_list_sig.append([date_str, "close", sig, float(df_price.iloc[0]["Close"])])
                 elif position == -1:
                     # Close
-                    in_out_list_sig.append([date_str, "close", sig])
                     rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
+                    in_out_list_sig.append([date_str, "close", sig, float(df_price.iloc[0]["Close"])])
                 elif position == 0:
                     rtn = 0
                 rtn_list.append([date_str, rtn])
 
+                # print(in_out_list_sig)
                 return rtn_list, in_out_list_sig
             
-            # print(sig, df_price.iloc[0]["Close"], df_price.iloc[0]["MA5"])
+            open_price = df_price.iloc[0]["Open"]
+            close_price = df_price.iloc[0]["Close"]
             if sig == 1 and df_price.iloc[0]["Close"]:
                 if position == 0:
                     # long
-                    in_out_list_sig.append([date_str, "enter", sig])
-                    enter_price = float(df_price.iloc[0]["Open"])
-                    rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
-                    enter_price = float(df_price.iloc[0]["Close"])
+                    enter_price = open_price
+                    rtn = (close_price - enter_price) / enter_price
+                    in_out_list_sig.append([date_str, "enter", sig, enter_price])
+                    enter_price = close_price
                     position = 1
                 elif position == 1:
                     # hold
@@ -63,23 +65,23 @@ class EvalOvernight(EvalDayTrade):
                     enter_price = float(df_price.iloc[0]["Close"])
                 elif position == -1:
                     # Close 
-                    in_out_list_sig.append([date_str, "close", sig])
-                    rtn = (enter_price - float(df_price.iloc[0]["Open"])) / enter_price
+                    rtn = (enter_price - open_price) / enter_price
+                    in_out_list_sig.append([date_str, "close", sig, open_price])
                     enter_price = 0
                     position = 0
                     
             elif sig == -1 and df_price.iloc[0]["Close"]:        
                 if position == 0:
                     # Short
-                    in_out_list_sig.append([date_str, "enter", sig])
-                    enter_price = float(df_price.iloc[0]["Open"])
-                    rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
-                    enter_price = float(df_price.iloc[0]["Close"])
+                    enter_price = open_price
+                    rtn = (enter_price - close_price) / enter_price
+                    in_out_list_sig.append([date_str, "enter", sig, enter_price])
+                    enter_price = close_price
                     position = -1
                 elif position == 1:
                     # Close
-                    in_out_list_sig.append([date_str, "close", sig])
-                    rtn = (float(df_price.iloc[0]["Open"]) - enter_price) / enter_price
+                    rtn = (open_price - enter_price) / enter_price
+                    in_out_list_sig.append([date_str, "close", sig, open_price])
                     enter_price = 0
                     position = 0
                 elif position == -1:
@@ -123,18 +125,18 @@ class EvalOvernight(EvalDayTrade):
         
         longshort = 'none'
         enter_price = 0
-        for i, (date_str, state, sig) in enumerate(in_out_sig_list):
+        for i, (date_str, state, sig, price) in enumerate(in_out_sig_list):
 
             if state == "enter":
                 if sig == 1:
                     longshort = 'long'
                 elif sig == -1:
                     longshort = 'short'
-                enter_price = df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Open"]
+                enter_price = price
                 
             if state == "close":
                 if longshort == 'long':
-                    rtn = (df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Close"] - enter_price) / enter_price
+                    rtn = (price - enter_price) / enter_price
                     if rtn > 0:
                         tp += 1
                         gain.append(rtn)
@@ -144,7 +146,7 @@ class EvalOvernight(EvalDayTrade):
                         loss.append(rtn)
                         loss_precision.append(rtn)
                 elif longshort == 'short':
-                    rtn = (enter_price - df_price_his[df_price_his["Date"] == pd.to_datetime(date_str, format="%Y%m%d")].iloc[0]["Close"]) / enter_price
+                    rtn = (enter_price - price) / enter_price
                     if rtn > 0: 
                         tn += 1
                         gain.append(rtn)    
