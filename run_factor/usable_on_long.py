@@ -11,13 +11,13 @@ from datetime import datetime
 from langchain_openai import ChatOpenAI
 from langchain_openai import OpenAIEmbeddings
 
-from eval import EvalOvernight
+from eval import EvalONLong
 from module import GeneticAlgorithm
 from module import UsableGenerator
 from module import UsableExpanding
 from factor import Factor
 
-class UsableFactorON(Factor):
+class UsableFactorONLong(Factor):
     def __init__(self, env):
         self.env = env
         self.run_count = env['run_count']
@@ -69,7 +69,7 @@ class UsableFactorON(Factor):
         return individual
 
     def training(self, mode, train_datarange, test_datarange):
-        eval_module = EvalOvernight(self.env, self.price_his)
+        eval_module = EvalONLong(self.env, self.price_his)
         ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys()))
         individual = ga.run()
         
@@ -109,12 +109,12 @@ class UsableFactorON(Factor):
         return train_datarange, test_datarange
     
     def get_result(self, mode):
-        eval_module = EvalOvernight(self.env, self.price_his)
+        eval_module = EvalONLong(self.env, self.price_his)
         res = eval_module.get_result(mode)
         return res
     
     def get_return_list(self):
-        eval_module = EvalOvernight(self.env, self.price_his)
+        eval_module = EvalONLong(self.env, self.price_his)
         result = eval_module.get_result(1)
         res_test = result['test']
         df_price_his = self.price_his

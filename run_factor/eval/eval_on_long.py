@@ -3,7 +3,7 @@ import numpy as np
 from collections import Counter
 from eval.eval_daytrade import EvalDayTrade
 
-class EvalOvernight(EvalDayTrade):
+class EvalONLong(EvalDayTrade):
     def __init__(self, env, price_his):
         self.env = env
         self.price_his = price_his 
@@ -38,10 +38,10 @@ class EvalOvernight(EvalDayTrade):
                     # Close
                     rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
                     in_out_list_sig.append([date_str, "close", sig, float(df_price.iloc[0]["Close"])])
-                elif position == -1:
-                    # Close
-                    rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
-                    in_out_list_sig.append([date_str, "close", sig, float(df_price.iloc[0]["Close"])])
+                # elif position == -1:
+                #     # Close
+                #     rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
+                #     in_out_list_sig.append([date_str, "close", sig, float(df_price.iloc[0]["Close"])])
                 elif position == 0:
                     rtn = 0
                 rtn_list.append([date_str, rtn])
@@ -63,31 +63,31 @@ class EvalOvernight(EvalDayTrade):
                     # hold
                     rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
                     enter_price = float(df_price.iloc[0]["Close"])
-                elif position == -1:
-                    # Close 
-                    rtn = (enter_price - open_price) / enter_price
-                    in_out_list_sig.append([date_str, "close", sig, open_price])
-                    enter_price = 0
-                    position = 0
+                # elif position == -1:
+                #     # Close 
+                #     rtn = (enter_price - open_price) / enter_price
+                #     in_out_list_sig.append([date_str, "close", sig, open_price])
+                #     enter_price = 0
+                #     position = 0
                     
             elif sig == -1 and df_price.iloc[0]["Close"]:        
                 if position == 0:
                     # Short
-                    enter_price = open_price
-                    rtn = (enter_price - close_price) / enter_price
-                    in_out_list_sig.append([date_str, "enter", sig, enter_price])
+                    # enter_price = open_price
+                    rtn = 0
+                    # in_out_list_sig.append([date_str, "enter", sig, enter_price])
                     enter_price = close_price
-                    position = -1
+                    position = 0
                 elif position == 1:
                     # Close
                     rtn = (open_price - enter_price) / enter_price
                     in_out_list_sig.append([date_str, "close", sig, open_price])
                     enter_price = 0
                     position = 0
-                elif position == -1:
-                    # hold
-                    rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
-                    enter_price = float(df_price.iloc[0]["Close"])
+                # elif position == -1:
+                #     # hold
+                #     rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
+                #     enter_price = float(df_price.iloc[0]["Close"])
                     
             else:
                 if position == 0:
@@ -97,10 +97,10 @@ class EvalOvernight(EvalDayTrade):
                     # hold
                     rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
                     enter_price = float(df_price.iloc[0]["Close"])
-                elif position == -1:
-                    # hold
-                    rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
-                    enter_price = float(df_price.iloc[0]["Close"])
+                # elif position == -1:
+                #     # hold
+                #     rtn = (enter_price - float(df_price.iloc[0]["Close"])) / enter_price
+                #     enter_price = float(df_price.iloc[0]["Close"])
             rtn_list.append([date_str, rtn])
         
 
