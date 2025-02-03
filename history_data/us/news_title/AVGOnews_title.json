@@ -1,4 +1,563 @@
 {
+    "20220401": [
+        {
+            "headline": "Spectrum-4 Ethernet Leaps To 800G With Nvidia Circuits",
+            "content": "When Nvidia announced a deal to buy Mellanox Technologies for $6.9 billion in March 2019, everyone spent a lot of time thinking about the synergies."
+        }
+    ],
+    "20220402": [],
+    "20220403": [
+        {
+            "headline": "Kubernetes and Emulex Fibre Channel HBAs",
+            "content": "Emulex Fibre Channel connectivity is the perfect choice for secure, high performance persistent storage for Kubernetes-orchestrated containers."
+        }
+    ],
+    "20220404": [
+        {
+            "headline": "Latham & Watkins Represents Broadcom Inc. in US$1.95 Billion Private Senior Notes Offering",
+            "content": "Latham & Watkins LLP represents Broadcom in the offering with a corporate team led by Bay Area partner Tony Richmond and New York/Los Angeles partner Greg..."
+        },
+        {
+            "headline": "Qualcomm Hypes 5G mmWave Momentum",
+            "content": "Qualcomm remains confident in the future of millimeter-wave spectrum for wireless communications despite a relatively slow start globally."
+        },
+        {
+            "headline": "AMD Acquires Pensando for its DPU Future",
+            "content": "AMD plans to acquire Pensando for roughly $1.9B. That is a lot of money. With this acquisition, AMD is formally entering the DPU and infrastructure fray."
+        },
+        {
+            "headline": "Why AMD Spent $1.9B for Pensando’s DPU Biz",
+            "content": "AMD's $1.9 billion acquisition of data processing unit (DPU) vendor Pensando better positions the company to compete directly against rivals Nvidia, Intel, and..."
+        },
+        {
+            "headline": "ISP Sky Broadband to Launch Gigafast 900Mbps Fibre Package",
+            "content": "Credible sources have informed ISPreview that UK ISP Sky Broadband (Comcast, Sky TV) are about to launch a new 900Mbps \"Gigafast\" package for homes, which."
+        }
+    ],
+    "20220405": [
+        {
+            "headline": "Raspberry Pi Compute Module 4S revealed to combat the global chip shortage",
+            "content": "There is a new Raspberry Pi Compute Module in town with the SO-DIMM form factor. The Compute Module 4S combines the Broadcom BCM2711 from the Compute Module..."
+        },
+        {
+            "headline": "Raspberry Pi Compute Module 4S SO-DIMM module is powered by Broadcom BCM2711 SoC",
+            "content": "The Raspberry Pi Compute Module 4S is an upcoming system-on-module based on the same Broadcom BCM2711 quad-core Cortex-A72 processor found in Raspberry Pi."
+        }
+    ],
+    "20220406": [
+        {
+            "headline": "VMware Recognizes 2022 Partner Achievement Award Winners",
+            "content": "VMware Recognizes 2022 Partner Achievement Award Winners · Global: Lenovo · North America: Carahsoft · Latin America: Cloud Carib Limited · APJ: BIM Advanced..."
+        },
+        {
+            "headline": "Five Questions with Akilan Sankaran, winner of the $25,000 Samueli Foundation Prize",
+            "content": "Akilan Sankaran, a ninth grade student at Albuquerque Academy, won the Samueli Foundation Prize in the 2021 Broadcom MASTERS competition."
+        },
+        {
+            "headline": "St. Joseph student advances to International Science and Engineering Fair",
+            "content": "OGDEN — At the age of 16, Saint Joseph Catholic High School junior Mercedes Randhahn is making big strides in her academic career."
+        },
+        {
+            "headline": "Carroll Valley Twins Win Top Awards in the 2022 Frederick County Science and Engineering Fair",
+            "content": "Two Carroll Valley students swept the Middle School division of the Frederick County, MD 41st Annual Secondary Science and Engineering Fair last week by..."
+        },
+        {
+            "headline": "Metasurface wavefront control for high-performance user-natural augmented reality waveguide glasses",
+            "content": "Augmented reality (AR) devices, as smart glasses, enable users to see both the real world and virtual images simultaneously, contributing to an immersive..."
+        }
+    ],
+    "20220407": [
+        {
+            "headline": "VMware Unveils VMware Explore: The Industry’s Go-To-Event for All Things Multi-Cloud",
+            "content": "PALO ALTO, Calif. – April 7, 2022 – VMware, Inc. (NYSE: VMW) today unveiled VMware Explore, the global multi-cloud industry event. VMware Explore is an..."
+        }
+    ],
+    "20220408": [],
+    "20220409": [],
+    "20220410": [],
+    "20220411": [
+        {
+            "headline": "The future of wireless is now with Wi-Fi 7",
+            "content": "The next generation of wireless is here thanks to a full ecosystem of Wi-Fi 7 solutions by Broadcom. Wi-Fi 7 brings exceptional speeds, low latency,..."
+        }
+    ],
+    "20220412": [
+        {
+            "headline": "Broadcom adds speed and reliability with Wi-Fi 7 chipsets",
+            "content": "Broadcom has announced the availability of chipset solutions for the Wi-Fi 7 ecosystem (product details below). This will greatly improve the user experience."
+        },
+        {
+            "headline": "Broadcom Launches Wi-Fi 7 Portfolio for Access Points and Client Devices",
+            "content": "Broadcom is announcing a comprehensive portfolio of products targeting various Wi-Fi 7 markets today."
+        },
+        {
+            "headline": "Broadcom Stock: Software As A Sustainable Revenue (NASDAQ:AVGO)",
+            "content": "Broadcom Reports Quarterly Earnings Justin Sullivan/Getty Images News application development and infrastructure software market share Gartner, IDC"
+        }
+    ],
+    "20220413": [
+        {
+            "headline": "Broadcom launches four chips for Wi-Fi 7 access points",
+            "content": "Broadcom introduced four chips for Wi-Fi 7 access points. According to the organisation, the chips deliver twice the speed of current Wi-Fi 6 and 6E access..."
+        },
+        {
+            "headline": "Broadcom Is Sampling Wi-Fi 7 Chips But Don't Kick Yourself If You Just Upgraded To Wi-Fi 6E",
+            "content": "Broadcom's newly introduced Wi-Fi 7 portfolio consists of five chipsets, including two for residential (BCM67263 and BCM6726), two for enterprise (BCM43740 and..."
+        },
+        {
+            "headline": "Broadcom launches Wi-Fi 7 chips",
+            "content": "Broadcom launches Wi-Fi 7 chips · Support for 4 streams of Wi-Fi 7 · Single radio that supports 6 GHz band (plus 5 GHz, or 6 GHz bands for BCM6726) · Up to 11.5..."
+        },
+        {
+            "headline": "Broadcom unveils WiFi 7 chips for access points and clients",
+            "content": "Broadcom unveils WiFi 7 chips for access points and clients · 4096-QAM modulation · Multi-link operation (MLO) · Automated Frequency Coordination (AFC) · Full..."
+        }
+    ],
+    "20220414": [],
+    "20220415": [],
+    "20220416": [
+        {
+            "headline": "Broadcom introduces world’s first Wi-Fi 7 chipset solutions",
+            "content": "Broadcom announced their full end-to-end chipset solutions designed for Wi-Fi 7 applications that range from residential gateways, enterprise access points,..."
+        }
+    ],
+    "20220417": [],
+    "20220418": [
+        {
+            "headline": "What is 24G SAS and How does SAS-4 Fit in the Data Center",
+            "content": "24G SAS is out, but the deployment is still gaining momentum, so we wanted to discuss what the new standard is as our readers are going to see it more often."
+        }
+    ],
+    "20220419": [
+        {
+            "headline": "Intel CEO the highest paid CEO in 2021",
+            "content": "Yahoo Finance Live's Julie Hyman and Brian Sozzi discuss the CEOs of U.S. companies that brought in the most compensation in 2021."
+        },
+        {
+            "headline": "Top 10 global tech CEOs' bonuses soared 400% amid pandemic: Report",
+            "content": "However, Alphabet and Google CEO Sundar Pichai saw a drop of 14% in his bonuses in 2020 and 2021."
+        }
+    ],
+    "20220420": [
+        {
+            "headline": "CEOs of Top-10 Tech Companies Witness 400% Bonus Hikes During Covid-19",
+            "content": "Google CEO Sundar Pichai, however, saw a drop of 14 per cent in bonus during the pandemic years of 2020 and 2021."
+        }
+    ],
+    "20220421": [
+        {
+            "headline": "For these STEM leaders, Mother Earth is top of mind every day",
+            "content": "A lot has changed since the first Earth Day in 1970. Learn how Society for Science alumni are doing their part to protect our planet."
+        }
+    ],
+    "20220422": [
+        {
+            "headline": "Broadcom under Antitrust scrutiny from FTC again - The Information",
+            "content": "Semiconductor maker Broadcom Inc is under scrutiny from the U.S. Federal Trade Commission following complaints it is forcing exclusive agreements with..."
+        },
+        {
+            "headline": "Steven Romick Trims Top Holding Broadcom, Covers 2 Short Positio",
+            "content": "Steven Romick (Trades, Portfolio) disclosed his portfolio for the first quarter of 2022 earlier this week.Part of Los Angeles-based investment firm First..."
+        }
+    ],
+    "20220423": [],
+    "20220424": [],
+    "20220425": [],
+    "20220426": [
+        {
+            "headline": "Better Tech Dividend Stock: Broadcom or Cisco?",
+            "content": "Broadcom and Cisco trade at low valuations and pay high dividends. Broadcom is growing faster, but it faces more cyclical risks."
+        },
+        {
+            "headline": "With $130 Million In Hand, Ayar Labs Looks To Commercialize Optical I/O",
+            "content": "When it comes to co-packaged optical interconnects, there are two camps: Lasers in and lasers out. The one, epitomized in the datacenter by the on-chip."
+        },
+        {
+            "headline": "Optical Communication Systems and Networking Market to Worth USD 32.94 Billion by 2029 | Optical Communication Systems and Networking Industry Exhibiting a CAGR of 7.09% (2022-2029)",
+            "content": "Companies Covered in Optical Communication Systems and Networking Market are ADTRAN, Inc. (U.S.), ADVA Optical Networking (Germany), Arista Networks (U.S.),..."
+        },
+        {
+            "headline": "MediaTek, Realtek eyeing bigger presence in high-end network IC market",
+            "content": "With US-based network IC vendors putting increased focus on automotive applications, Taiwan's MediaTek and Realtek Semiconductor are both expected to grow..."
+        },
+        {
+            "headline": "Co-packaged Optics in the ICP Data Center – 2022 Update",
+            "content": "Some ICP data centers are concerned about the rise in power consumption of their optical pluggable devices. Since 2019, there has been an effort afoot to..."
+        }
+    ],
+    "20220427": [
+        {
+            "headline": "Five Questions with Ryka Chopra, winner of the 2021 Robert Wood Johnson Foundation Award for Health Advancement",
+            "content": "In 2021, The Centers for Disease Control and Prevention (CDC) reported that approximately 35% of residents in 16 states across the country have obesity."
+        },
+        {
+            "headline": "5 Stock Picks With Bulletproof Profit Margins",
+            "content": "Companies that can squeeze a lot of blood from the revenue stone can flourish, even in tough times."
+        }
+    ],
+    "20220428": [
+        {
+            "headline": "VMware Ranked Number 2 on Forbes’ List of Best Employers for Diversity 2022",
+            "content": "VMware has been recognized by Forbes in its list of America's Best Employers for Diversity in 2022, ranking number 2 on the overall list."
+        },
+        {
+            "headline": "Broadcom Looks to Build on Wi-Fi 6/6E Momentum with End-to-End Wi-Fi 7 Solutions",
+            "content": "The new Wi-Fi 7 standard unlocks newer capabilities that provide users a richer experience when they connect, learn, game, and consume content."
+        },
+        {
+            "headline": "A Real GPU On The Raspberry Pi — Barely.",
+            "content": "[Jeff Geerling] saw the Raspberry Pi Compute Module 4 and its exposed PCI-Express 1x connection, and just naturally wondered whether he could plug a GPU..."
+        }
+    ],
+    "20220429": [
+        {
+            "headline": "Browser as a Service Market 2028 : This Report Explains How This",
+            "content": "Press release - Worldwide Market Reports - Browser as a Service Market 2028 : This Report Explains How This Industry Will Witness Comprehensive Growth by..."
+        }
+    ],
+    "20220430": [],
+    "20220501": [],
+    "20220502": [
+        {
+            "headline": "Veteran Technology Industry Executive Nicole Anasenes Joins VMware Board of Directors",
+            "content": "Palo Alto, Calif. – May 2, 2022 – VMware, Inc. (NYSE: VMW), a leading innovator in enterprise software, today announced that Nicole Anasenes has been."
+        },
+        {
+            "headline": "OCP NIC 3.0 Form Factors The Quick Guide",
+            "content": "There are two fundamental widths an OCP NIC 3.0 comes in. W1 is perhaps the most common as it uses the 4C+ connector and is the common width we see for many..."
+        }
+    ],
+    "20220503": [
+        {
+            "headline": "Platon Life LTD Listed in the Official EU Transparency Register as an Official Supplier of UN and a Participant of the UN Global Compact",
+            "content": "PLATON LIFE LTD, an international fintech company with branches in London, Czech Republic, Slovakia, and Dubai has successfully listed in the official EU..."
+        }
+    ],
+    "20220504": [
+        {
+            "headline": "Qualcomm launches Wi-Fi 7 capable chips in bid against Broadcom",
+            "content": "Qualcomm on Wednesday announced sampling of its “Wi-Fi 7 -capable” chips for next-generation APs, routers and carrier gateways."
+        },
+        {
+            "headline": "Broadcom Inc. stock outperforms competitors on strong trading day",
+            "content": "Shares of Broadcom Inc. AVGO. +2.59%. rose 3.87% to $603.66 Wednesday, on what proved to be an all-around favorable trading session for the stock market,..."
+        },
+        {
+            "headline": "Atos and VMware Join Forces to Help Organizations and Industries Derive Value from Data More Easily",
+            "content": "VMware and Atos extend strategic partnership to deliver an integrated set of capabilities to help speed up the development of “Data Spaces”."
+        },
+        {
+            "headline": "Qualcomm Launches Wi-Fi 7 Networking Pro Series for 10Gbps Access Points",
+            "content": "The last few months have seen multiple vendors launch products in the Wi-Fi 7 (802.11be) space. Mediatek demonstrated working 802.11be-compliant silicon..."
+        },
+        {
+            "headline": "Gartner Magic Quadrant for Enterprise Agile Planning Tools 2022",
+            "content": "CX Today covers Customer Data Platform news including ERP and more."
+        }
+    ],
+    "20220505": [],
+    "20220506": [
+        {
+            "headline": "Musk's new Twitter funding could draw TikTok-like U.S. scrutiny",
+            "content": "Elon Musk disclosed investors included a Saudi Arabian prince, Qatar's sovereign wealth fund and Binance."
+        },
+        {
+            "headline": "Was Nokia's Microsoft switch deal win a reward for SONiC contributions?",
+            "content": "Nokia's \"significant\" contributions to Microsoft's open-source SONiC project and ongoing supply-chain challenges undoubtedly played a role."
+        },
+        {
+            "headline": "11 Of The Biggest Acquisitions In The History Of Tech World",
+            "content": "Recently Elon musk bought Twitter and Microsoft bought Activision Blizzard in January and spent billions of dollars to hold the power in the companies."
+        }
+    ],
+    "20220507": [],
+    "20220508": [
+        {
+            "headline": "Pulliam joins Arvest Bank as chief product and strategy officer",
+            "content": "Arvest Bank has announced that Richard Pulliam has joined the team as chief product and strategy officer to advance the company's multi-year growth strategy..."
+        }
+    ],
+    "20220509": [
+        {
+            "headline": "TD Synnex secures exclusive Symantec deal with Broadcom in North America",
+            "content": "TD Synnex entered a new deal to be the exclusive cyber-security aggregator partner in the US for Broadcom Software's cyber-security portfolio."
+        }
+    ],
+    "20220510": [
+        {
+            "headline": "Digital Banking Trends in Asia Pacific | VMware News & Stories",
+            "content": "Digital banking trends are reshaping traditional banking services and relationships. The Asia-Pacific region is leading this transformation."
+        }
+    ],
+    "20220511": [
+        {
+            "headline": "VMware is an official partner of @McLarenF1!",
+            "content": "As an Official Partner of the McLaren Formula 1 Team, VMware multi-cloud solutions will help McLaren operate with speed and drive confidence no matter where..."
+        }
+    ],
+    "20220512": [],
+    "20220513": [],
+    "20220514": [],
+    "20220515": [
+        {
+            "headline": "Word on the Street: Media roundup for Wi-Fi 7",
+            "content": "What writers and editors from the industry press are saying about Broadcom's end-to-end chipset solutions for the Wi-Fi 7 ecosystem."
+        }
+    ],
+    "20220516": [
+        {
+            "headline": "Meta hires network chip guru from Intel: What does this mean for future silicon?",
+            "content": "Facebook parent company Meta has hired a veteran networking chip engineer from Intel to lead silicon design efforts in the internet giant's infrastructure..."
+        }
+    ],
+    "20220517": [
+        {
+            "headline": "VMware Appoints Wiliam Buyung as Country Manager for Indonesia",
+            "content": "Wiliam will focus on driving VMware's growth and strategy in Indonesia, strengthening the company's presence, and growing customer and partner relationships..."
+        },
+        {
+            "headline": "VMware Appoints Sarene Lee as Country Manager for Malaysia￼",
+            "content": "Sarene will drive business strategy and development as well as customer and partner relations for VMware to accelerate the adoption of digital..."
+        }
+    ],
+    "20220518": [
+        {
+            "headline": "The Most Obvious Hyperscaler To Do Custom Chips Was Always Facebook",
+            "content": "Et tu, Meta? Of all of the world's hyperscalers and large cloud builders, only Meta Platforms, dominated by its Facebook and related social network."
+        }
+    ],
+    "20220519": [],
+    "20220520": [
+        {
+            "headline": "Building scientific questions at Education Outreach Day 2022",
+            "content": "Last week, over 1750 high school students competed in the 2022 Regeneron International Science and Engineering Fair, but the finalists weren't the only."
+        },
+        {
+            "headline": "Two teens accused of threatening & sexually abusing 15-year-old",
+            "content": "Two teens now face charges in a case where police say they used a sharp object to threaten a 15-year-old girl to hold her against her will and sexually..."
+        }
+    ],
+    "20220521": [],
+    "20220522": [
+        {
+            "headline": "Broadcom in talks to buy VMware",
+            "content": "Chipmaker Broadcom Inc is in talks to acquire cloud service provider VMware Inc , people familiar with the matter told Reuters."
+        },
+        {
+            "headline": "Broadcom in Talks to Acquire VMware, the Cloud Computing Company (Published 2022)",
+            "content": "Broadcom in Talks to Acquire VMware, the Cloud Computing Company. Since its attempt to buy the U.S. chip maker Qualcomm was blocked in 2018, Broadcom has..."
+        },
+        {
+            "headline": "Chipmaker Broadcom in talks to buy VMware for up to $50bn",
+            "content": "Deal for software group would generate windfall for software group's largest shareholder Michael Dell."
+        }
+    ],
+    "20220523": [
+        {
+            "headline": "How Broadcom Acquiring VMware Would Shake Up Cybersecurity",
+            "content": "In April 2020, Broadcom sold Symantec's 300-person Cyber Security Services business to Accenture for a reported $200 million to help organizations anticipate,..."
+        },
+        {
+            "headline": "Broadcom's deal history under CEO Hock Tan",
+            "content": "Broadcom on Thursday made its biggest and boldest move to diversify its business, with a $61 billion offer for VMware Inc ."
+        },
+        {
+            "headline": "Broadcom in Talks to Acquire Cloud Company VMware",
+            "content": "Broadcom Inc. is in talks to acquire VMware Inc., the cloud-computing company backed by billionaire Michael Dell, setting up a blockbuster tech deal."
+        },
+        {
+            "headline": "Broadcom in talks to purchase cloud computing company VMware",
+            "content": "Chipmaker Broadcom is in advanced talks to acquire cloud service company VMware in a cash-and-stock deal, though negotiations are still ongoing."
+        },
+        {
+            "headline": "Broadcom in talks to buy VMware",
+            "content": "The acquisition would further diversify Broadcom's business away from semiconductors and into enterprise software."
+        },
+        {
+            "headline": "Intel CEO weighs in on Broadcom's potential blockbuster deal for VMWare",
+            "content": "DAVOS, Switzerland — Intel CEO and former long-time VMWare CEO Pat Gelsinger is watching Broadcom's potential deal for his former employer with a close eye."
+        },
+        {
+            "headline": "Broadcom mulls $50 billion takeover offer for VMware: Reports",
+            "content": "Overnight speculation suggests Broadcom wants to acquire VMwareThe reported offer price is a whopping $50 billionSuch a deal would combine one of the..."
+        },
+        {
+            "headline": "Michael Dell Becomes Billionaire Kingmaker in Broadcom, VMware Deal",
+            "content": "Dell holds a roughly $16.2 billion stake in VMware Inc., meaning he's likely to have a important say in a potential takeover of the cloud-computing provider by..."
+        },
+        {
+            "headline": "MediaTek Filogic 880 & Filogic 380 WiFi 7 Chips announced to compete vs Qualcomm & Broadcom",
+            "content": "MediaTek Filogic 880 Features · Support for key WiFi 7 technologies such as 4096-QAM, 320MHz, MRU and MLO · Flexibility to scale to pentaband 36Gbps speeds..."
+        }
+    ],
+    "20220524": [
+        {
+            "headline": "Broadcom: The New IBM?",
+            "content": "It looks like Broadcom may be acquiring VMware. Acquiring VMware would give the company a strong position in critical enterprise cloud computing and..."
+        },
+        {
+            "headline": "A VMware Mega-Deal Would Add To Broadcom’s History Of Big-Ticket M&A",
+            "content": "Broadcom is in serious talks to acquire cloud computing powerhouse VMware, according to multiple reports. A possible price hasn't yet emerged."
+        },
+        {
+            "headline": "Former VMware CEO Pat Gelsinger ‘mixed’ on Broadcom’s reported VMware deal",
+            "content": "Software maintenance company Origina appoints two APAC channel chiefs. Pat Gelsinger, the former VMware CEO, gave a conditional thumbs up to the company's..."
+        },
+        {
+            "headline": "Woah! Broadcom Could Acquire VMware for $60 Billion",
+            "content": "Broadcom, a semiconductor chip company, is infamous among desktop Linux users for the incompatibility issues with its wireless adapter/card and drivers."
+        },
+        {
+            "headline": "Larry Summers calls Biden’s efforts to limit corporate power ‘populist antitrust.’ (Published 2022)",
+            "content": "Broadcom's potential bid to buy VMware, which would be one of the largest deals of 2022, could raise a number of questions. The biggest one: Will the Biden..."
+        }
+    ],
+    "20220525": [
+        {
+            "headline": "Broadcom Builds $60 Billion Hedge Against Chip Turmoil With VMware Pursuit",
+            "content": "Acquiring the cloud-computing company would help Broadcom depend less on chips—a strategy CEO Hock Tan has been at for years."
+        },
+        {
+            "headline": "Age no bar: 49-year-old from Bengaluru basks in Everest glory",
+            "content": "Bengaluru's 49-year-old Sunil Nataraj with his Nepali guide Tsering Pemba sherpa on top of the Mt Everest. Credit: Special arrangement. ADVERTISEMENT."
+        },
+        {
+            "headline": "Raspberry Pi CM4 compatible module coming soon with Amlogic A311D CPU",
+            "content": "Banana Pi BPI-CM4 is a Raspberry Pi CM4 compatible module powered by Amlogic A311D hexa-core Arm Cortex-A73/A53 processor."
+        }
+    ],
+    "20220526": [
+        {
+            "headline": "Broadcom to Buy VMware in $61 Billion Bet on Unsexy Software",
+            "content": "Chief Executive Hock Tan's $61 billion deal to buy VMware Inc. marks the biggest bet yet that the boom in enterprise software demand will endure."
+        },
+        {
+            "headline": "Chipmaker Broadcom to buy VMware in $61 bln deal",
+            "content": "Broadcom Inc said on Thursday it will acquire cloud computing company VMware Inc in a $61 billion cash-and stock deal, the chipmaker's biggest and boldest..."
+        },
+        {
+            "headline": "Broadcom's $61B VMware buy ranks as 3rd-largest tech deal",
+            "content": "The Broadcom-VMware deal would be the third-biggest tech transaction in recent decades, behind Microsoft's $74.01 billion acquisition of game developer and..."
+        },
+        {
+            "headline": "Broadcom announces plans to buy VMware in $61 billion deal",
+            "content": "Broadcom announces plans to buy VMware in $61 billion deal ... Broadcom will buy VMware in a cash-and-stock transaction valued at $61 billion, based on the..."
+        },
+        {
+            "headline": "Chipmaker Broadcom to buy software group VMware for $69bn",
+            "content": "Takeover would help transform acquisitive semiconductor company in to diversified tech business."
+        },
+        {
+            "headline": "Broadcom To ‘Rapidly’ Shift VMware Software Licenses To Subscriptions",
+            "content": "Broadcom to shift VMware software license to subscription and SaaS after it acquires the cloud and software company for $61 billion."
+        },
+        {
+            "headline": "Full Roster of Big Banks Line Up for Broadcom-VMware Deal",
+            "content": "More than a half-dozen Wall Street banks are supporting Broadcom Inc.'s $61 billion acquisition of VMware Inc., the biggest software deal in years."
+        },
+        {
+            "headline": "With VMware, Broadcom Has A Real Enterprise Software Stack",
+            "content": "The interesting bit is whether or not Michael Dell, who has a 40.2 percent stack in VMware, wants to be a large shareholder in Broadcom."
+        },
+        {
+            "headline": "Deploying AI/ML training clusters with IP/Ethernet",
+            "content": "AI/ML training clusters require very high bandwidth and reliable transport with predictable low tail latency to reduce job completion time. As described below,..."
+        },
+        {
+            "headline": "Broadcom Acquiring VMware in Third-Largest Tech Deal in History",
+            "content": "Confirming reports that surfaced this weekend, semiconductor company Broadcom announced on Thursday that it was acquiring virtualization pioneer VMware for..."
+        }
+    ],
+    "20220527": [
+        {
+            "headline": "How Broadcom CEO Tan shaped a tech giant through acquisitions",
+            "content": "For Tan, now 70, the deal would be the culmination of a string of acquisitions that has helped him turn Broadcom into a technology conglomerate worth $225..."
+        },
+        {
+            "headline": "Broadcom will tame the VMware beast",
+            "content": "Broadcom will assume $8 billion of VMware debt and promises the acquisition will be immediately accretive, and will generate for Broadcom an incremental $8.5..."
+        },
+        {
+            "headline": "Broadcom Stock Has Gained on VMware Takeover. Its Dividend Could Rise 20%.",
+            "content": "Stein calculates that Broadcom could raise its dividend by more than 20% this year alone, and is projecting a double-digit dividend growth on a compound annual..."
+        },
+        {
+            "headline": "Broadcom Secretly Eyed VMware Before $61 Billion Blockbuster Tech Deal",
+            "content": "(Bloomberg) -- Long before Broadcom Inc. sealed a deal to buy VMware Inc. for $61 billion Thursday, it eyed the company secretly from a distance."
+        },
+        {
+            "headline": "Broadcom, VMware deal good for investors but customers may suffer",
+            "content": "Broadcom's purchase of VMware may raise prices, while cost-cutting measures aimed at achieving profitability targets could negatively impact support and..."
+        },
+        {
+            "headline": "Broadcom to buy Palo Alto’s VMware for $61 billion",
+            "content": "Broadcom to buy Palo Alto's VMware for $61 billion ... Map from the VMWare website. Computer chip and software maker Broadcom will spend about $61 billion to..."
+        },
+        {
+            "headline": "Broadcom, VMware $61bn deal could lead to price hikes",
+            "content": "Broadcom's US$61 billion acquisition of cloud computing firm VMware could result in increased pricing for VMware customers, an industry analyst says."
+        },
+        {
+            "headline": "Whirlwind talks led to Broadcom’s $69.1bn capture of VMware",
+            "content": "Hock Tan and Michael Dell agreed industry-defining deal, codenamed 'Project Atlas,' within two weeks."
+        },
+        {
+            "headline": "Why everyone wants to own VMware",
+            "content": "Broadcom is buying VMware for $61 billion - the deal which had been rumored became official today. If the deal goes through, Broadcom will be just the..."
+        },
+        {
+            "headline": "Wake Up Call: Six Firms Lead Broadcom’s $61 Billion VMware Buy",
+            "content": "Leading off, Wachtell Lipton and O'Melveny & Myers are counseling computer chipmaker Broadcom Inc. on its agreement to buy cloud-computing company VMware Inc."
+        }
+    ],
+    "20220528": [
+        {
+            "headline": "How Broadcom CEO Tan shaped a tech giant through acquisitions",
+            "content": "For Tan, now 70, the deal would be the culmination of a string of acquisitions that has helped him turn Broadcom into a technology conglomerate worth $225..."
+        },
+        {
+            "headline": "How Broadcom CEO Hock Tan shaped a tech giant through acquisitions",
+            "content": "For Tan, now 70, the deal would be the culmination of a string of acquisitions that has helped him turn Broadcom into a technology conglomerate worth $225..."
+        },
+        {
+            "headline": "The highest paid CEOs in America in 2021",
+            "content": "Elon Musk, the chief executive of SpaceX and Tesla, topped Fortune's new list of the most highly compensated CEOs on the Fortune 500."
+        },
+        {
+            "headline": "Poor skinny kid from Malaysia makes it really big",
+            "content": "Once a poor \"skinny kid\" from Malaysia, Hock Tan was going head-to-head with a legendary U.S. technology mogul for a transformative acquisition."
+        }
+    ],
+    "20220529": [
+        {
+            "headline": "Should Oracle or Alphabet buy VMware instead of Broadcom?",
+            "content": "The chip giant intends to snap up the virtualization software company for $61 billion in cash and stock, along with taking on $8 billion in VMware debt."
+        },
+        {
+            "headline": "How Broadcom CEO Hock Tan shaped a tech giant through acquisitions, Money News",
+            "content": "Once a poor \"skinny kid\" from Malaysia, Hock Tan was going head-to-head with a legendary US technology mogul for a transformative acquisition."
+        }
+    ],
+    "20220530": [
+        {
+            "headline": "Broadcom's stated strategy ignores most VMware customers",
+            "content": "Krause told investors that the company actively pursues 600 customers – the top three tiers of the pyramid above – because they are often in highly regulated..."
+        },
+        {
+            "headline": "Elon Musk Tops World’s Highest-Paid CEOs List; Apple's Tim Cook And Microsoft Boss Satya Nadella Feature In Top 10",
+            "content": "Pretty much sums up what you should pursue in academia for a career that mints moolah!"
+        }
+    ],
+    "20220531": [
+        {
+            "headline": "JPM says Meta will become Broadcom's next billion-dollar customer",
+            "content": "Facebook parent Meta Platforms Inc will use Broadcom Inc's custom chips to build its metaverse hardware, becoming the chipmaker's next billion-dollar ASIC..."
+        },
+        {
+            "headline": "IBM Owes BMC $1.6B In Court Case Over Customer Installation",
+            "content": "IBM must pay BMC $1.6 billion in a lawsuit where IBM induced a mutual customer to replace BMC software with its own."
+        }
+    ],
     "20220601": [
         {
             "headline": "Broadcom’s VMware Acquisition: 5 Key Customer And Cost Figures To Know",

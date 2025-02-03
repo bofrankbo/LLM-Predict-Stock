@@ -1,4 +1,2354 @@
 {
+    "20220201": [
+        {
+            "headline": "Boeing Gets off the Ground Again",
+            "content": "This chart compares aircraft deliveries of Airbus and Boeing from 2008 to 2020."
+        },
+        {
+            "headline": "Another 1,000 Boeing jobs lost in WA last year, but unions hope for upswing in 2022",
+            "content": "WA state lost just over 1000 Boeing jobs last year, cutting Boeing employment to under 56000. However, hiring resumed in the second half of 2021."
+        },
+        {
+            "headline": "Boeing Lands Qatar Airways as First Customer for 777X Freighter",
+            "content": "Qatar Airways has signed to be the launch customer for Boeing's next-generation 777X freighter still in development, agreeing Monday to buy 34 of the widebody..."
+        },
+        {
+            "headline": "Comparing American Airlines' 737-800 and MAX 8 -",
+            "content": "Now that the Boeing 737 MAX has settled into service across the globe, does this new aircraft provide a significant improvement to its predecessor for the..."
+        },
+        {
+            "headline": "Boeing Preps World’s Largest Twin-Engine Cargo Jet",
+            "content": "Boeing Commercial Airplanes will introduce the 777-8 Freighter with Qatar Airways following an order for up to 50 of the new variant of the twin-engine..."
+        },
+        {
+            "headline": "Boeing launches 777-8 freighter",
+            "content": "Qatar Airways has ordered up to 50 of Boeing's new 777-8 freighter aircraft – the largest freighter commitment in Boeing's history by value."
+        },
+        {
+            "headline": "Ryanair Is Happy With The 737 MAX But Unhappy With Boeing",
+            "content": "Very happy with the MAX. It seems as though Ryanair is pleased with the performance of its Boeing 737 MAX aircraft, which it calls the game-changer. The airline..."
+        },
+        {
+            "headline": "Ethiopian resumes Boeing 737 Max flights",
+            "content": "Ethiopian Airlines has today brought its Boeing 737 Max back into service, almost three years after a fatal crash of one of its aircraft prompted the global..."
+        },
+        {
+            "headline": "Boeing just unveiled the freighter variant of its new flagship 777X jet as cargo demand continues to skyrocket — take a look at the massive plane",
+            "content": "Once complete, the 777-8F will be the largest and longest-range twin-engine cargo jet on the market, combining the advanced technology of the 777X and the..."
+        },
+        {
+            "headline": "Boeing launches new freighter with Qatar Airways order",
+            "content": "Qatar Airways has ordered up to 50 Boeing 777-8 freighters as the airframer adds a new model to cater for growing cargo demand."
+        }
+    ],
+    "20220202": [
+        {
+            "headline": "First Upgraded Chinook Helicopter Delivered to Spain",
+            "content": "The first remanufactured CH-47 Chinook helicopter was delivered to the Spanish Army at a ceremony held at the headquarters of the Spanish Army Airmobile Forces."
+        },
+        {
+            "headline": "American Airlines to buy more 737 MAX jets, defers Dreamliner delivery",
+            "content": "American Airlines Group Inc said on Wednesday it has agreed to buy an additional 23 737 MAX 8 aircraft from Boeing Co by exercising existing purchase..."
+        },
+        {
+            "headline": "Ethiopian Airlines Boeing 737 MAX Resumes Flight Operations",
+            "content": "Ethiopian Airlines has returned its Boeing 737 MAX to regular passenger-carrying operations nearly three years after the African carrier's fatal accident that..."
+        },
+        {
+            "headline": "American Airlines reshuffles Boeing aircraft orders",
+            "content": "According to Cirium fleets data, American has 46 Dreamliners in service and 43 on order – distributed between 13 787-8s and 30 of the larger 787-9 versions."
+        },
+        {
+            "headline": "Boeing launches 777-8 Freighter",
+            "content": "With a range of 4,410nm (8,167km), the 777-8 Freighter has a maximum structural payload of 118 tonnes, allowing customers to make fewer stops and reduce landing..."
+        },
+        {
+            "headline": "1,000 Boeing jobs lost in WA last year, but unions hopeful",
+            "content": "“Boeing's Washington state employment has stabilized and remains our largest workforce anywhere in the world,” Kowal added."
+        },
+        {
+            "headline": "What is Boeing still doing at PSU?",
+            "content": "As of now, PSU has a Supply and Logistics Management program with a “special recruiting and hiring relationship with Boeing.” Boeing is also a major contributor..."
+        },
+        {
+            "headline": "American Airlines Swaps Boeing 787s For More 737 Maxes",
+            "content": "American Airlines is adding 30 additional Boeing 737 Max aircraft to its order book as it juggles Boeing 787 deliveries amid lengthy delivery delays of."
+        },
+        {
+            "headline": "American Delays 11 Boeing Dreamliner Deliveries",
+            "content": "American Airlines Group Inc. will delay taking 11 Boeing Co. 787 Dreamliners that had been scheduled for delivery next year as the planemaker continues to work..."
+        },
+        {
+            "headline": "Boeing Reveals New Hypersonic Aircraft Model Evolved From Pr",
+            "content": "It has a flatter central fuselage, as well as shorter wings and twin tails. The positioning of two engines underneath the fuselage has been changed, with them..."
+        }
+    ],
+    "20220203": [
+        {
+            "headline": "Performing under pressure",
+            "content": "Beginning on Dec. 9, Boeing engineers loaded the tank into a NASA testing trench. With the engineers looking on from a remote viewing station, the tank was..."
+        },
+        {
+            "headline": "Electric Skies: Boeing Joins GE And NASA’s Hybrid Electric Flight Project",
+            "content": "Last October, NASA and GE Aviation announced a new partnership to mature a megawatt-class hybrid electric engine that could power a single-aisle aircraft."
+        },
+        {
+            "headline": "The new Boeing freighter, 777-8F, versus Airbus’ A350F",
+            "content": "We can now compare the 777-8F from Boeing with the A350F from Airbus. We also compare these with the present Boeing freighter, 777F."
+        },
+        {
+            "headline": "The duopoly is alive, well, and working to the benefit of the 737 Max",
+            "content": "Allegiant Air's order for 50 Boeing 737 Max aircraft in December comes at a particularly pivotal time for the jetliner duopoly."
+        },
+        {
+            "headline": "American Airlines Orders 30 New Boeing 737 Max Jets Amid Dreamliner Slowdown",
+            "content": "American Airlines has orders for 57 of the 737 Max 8..."
+        },
+        {
+            "headline": "Retired Boeing 747 Bought for $1.30 Begins New Life As Party Plane",
+            "content": "After a 14-month refurbishment, a retired Boeing 747 is ready to begin its new life as a party plane."
+        },
+        {
+            "headline": "Boeing 737 MAX values are recovering – here’s why",
+            "content": "The market values and lease rates for the Boeing 737 MAX are rapidly recovering, and closing on the A320neo, according to the latest market intelligence..."
+        },
+        {
+            "headline": "'Downfall: The Case Against Boeing' Trailer Teases the Emotional Impact of New Netflix Doc",
+            "content": "'Downfall: The Case Against Boeing' Trailer Teases the Emotional Impact of New Netflix Doc ... The official trailer for the new Netflix documentary Downfall: The..."
+        },
+        {
+            "headline": "American Airlines And The Boeing 787-9: A Range Of Opportunities",
+            "content": "American Airlines still has plans to launch a new flight between Seattle-Tacoma International Airport (SEA) and Bangalore's Kempegowda International Airport (..."
+        },
+        {
+            "headline": "Spain receives its first upgraded Chinook CH-47F helicopter",
+            "content": "Boeing has delivered the Spanish Army's first remanufactured CH-47 Chinook helicopter at the headquarters of the Spanish Army Airmobile Forces in Colmenar..."
+        }
+    ],
+    "20220204": [
+        {
+            "headline": "Boeing’s latest political donations deserve a closer look | Roegner",
+            "content": "Despite a brief pause, Boeing has shown no hesitation in supporting Republican legislators who voted against certifying the presidential election of Joe Biden."
+        },
+        {
+            "headline": "Boeing designed and manufactured fully-composite, linerless cryogenic fuel tank passes critical tests",
+            "content": "Boeing designed and manufactured fully-composite, linerless cryogenic fuel tank passes critical tests ... A new type of large, fully-composite, linerless..."
+        },
+        {
+            "headline": "Qatar Purchased up to 50 737 MAX Jets After Airbus Canceled A321 Order",
+            "content": "Qatar's decision to purchase the MAX will increase its loyalty to Boeing, but will also further exacerbate its dispute with Airbus."
+        },
+        {
+            "headline": "Boeing cryogenic fuel tank passes tests at Marshall",
+            "content": "Boeing's linerless cryogenic fuel tank has passed a critical series of tests at NASA's Marshall Space Flight Center."
+        },
+        {
+            "headline": "Sun Country Airlines Boeing 737-800 suffers right landing gear malfunction while returning to Las Vegas ai ...",
+            "content": "Sun Country Boeing 737-800 (N817SY, built 2001) suffered a partial collapse of its right main gear whilst returning to land at Las Vegas-Intl (KLAS), NV."
+        },
+        {
+            "headline": "GE Aviation To Partner With Boeing On Hybrid Electric Flight Test Demonstration Program",
+            "content": "GE Aviation has selected Boeing to support flight tests of its hybrid-electric propulsion system using a modified Saab 340B aircraft and CT7-9B turboprop..."
+        },
+        {
+            "headline": "Boeing donates $1M to California wildlife freeway crossing",
+            "content": "Boeing has donated $1 million toward construction of a bridge over a Southern California highway to allow mountain lions and other animals to move between..."
+        },
+        {
+            "headline": "Good News: EL AL Updates Boeing 777 Cabins, Introduces Premium Economy",
+            "content": "The Israeli flag carrier has confirmed plans to overhaul its business class product as well as to remove first class and introduce premium economy."
+        },
+        {
+            "headline": "Landing Gear of Boeing 737 with 56 People Onboard Collapses On Landing at Las Vegas Airport",
+            "content": "Landing Gear of Boeing 737 with 56 People Onboard Collapses On Landing at Las Vegas Airport ... The right landing gear of a Boeing 737 operated by Sun Country..."
+        },
+        {
+            "headline": "Boeing’s Cryogenic Fuel Tank for Aerospace Applications Completes Tests at NASA Facility",
+            "content": "The company said Wednesday its engineers and their NASA counterparts put the cryogenic liquid-filled composite tank to a stress test, with the storage surviving..."
+        }
+    ],
+    "20220205": [
+        {
+            "headline": "American's Big New Boeing 737 MAX Order",
+            "content": "American Airlines has announced that it has firmed options for an additional 30 Boeing 737 MAX 8 aircraft. Deliveries of these 30 additional planes will..."
+        },
+        {
+            "headline": "Boeing's new 777-8 freighter will be the largest and longest-range twin-engine cargo plane in the industry. See how it stacks up to rival Airbus' A350F.",
+            "content": "Boeing's new 777-8 freighter will be the largest and longest-range twin-engine cargo plane in the industry. See how it stacks up to rival Airbus' A350F."
+        },
+        {
+            "headline": "Forget Range, Business Jets Are Now Prioritizing Supersized Interiors",
+            "content": "Cabin size and comfort level have become as critical as range and speed for manufacturers from Airbus to Boeing—and it's a game of inches."
+        },
+        {
+            "headline": "Boeing's new 777-8 freighter will be the largest and longest-range twin-engine cargo plane in the industry. See how it stacks up to rival Airbus' A350F.",
+            "content": "The freighter will be the largest and longest-range twin-engine cargo plane on the market. It is expected to enter service in 2027 with Doha-based Qatar..."
+        },
+        {
+            "headline": "Sun Country Boeing 737 Landing Gear Collapse on Landing",
+            "content": "A Sun Country Boeing 737-800 suffered a collapse of its right-hand main landing gear on touch down after a problem with the landing gear retraction on take off."
+        }
+    ],
+    "20220206": [
+        {
+            "headline": "With landing gear problems, Sun Country Boeing 737 makes forced landing in Las Vegas",
+            "content": "The Boeing 737 that was carrying 50 passengers and 6 crew members took off from McCarran International Airport in Las Vegas (LAS) and with only 30 minutes of..."
+        },
+        {
+            "headline": "Icelandair Looks To Replace Boeing 757s In Second Half Of Decade",
+            "content": "The Icelandic flag carrier's 757s are also among its oldest aircraft. As such, it plans to replace them in the second half of the decade."
+        },
+        {
+            "headline": "Photos: See Northern Pacific Airways' Aircraft Paint Job",
+            "content": "Insider spoke with designer Edmond Huot to discuss how Northern's livery, as well as his other works, went from first concept to final product."
+        },
+        {
+            "headline": "Charles Bronson: Hollywood Actor and Aerial Gunner",
+            "content": "Following a life of poverty and working in coal mines, he joined the US Army Air Forces, serving as a gunner aboard a B-29 bomber during the Second World War."
+        },
+        {
+            "headline": "Sun Country Boeing 737 Gear Collapses On Landing In Las Vegas",
+            "content": "Earlier this week, a Sun Country Airlines 737 suffered a landing gear malfunction in Las Vegas. The issue with the gear emerged shortly after takeoff."
+        },
+        {
+            "headline": "Why are there 3 Boeing 747s in an aerodrome just outside Sussex?",
+            "content": "Three Boeing 747 jets are kept in Dunsford Aerodrome - which you can see on the A281 just 10 minutes from Sussex."
+        }
+    ],
+    "20220207": [
+        {
+            "headline": "Boeing joins major US program to demonstrate hybrid electric aircraft",
+            "content": "Boeing joins major US program to demonstrate hybrid electric aircraft ... Boeing is to modify the test aircraft and support the flight testing of a megawatt class..."
+        },
+        {
+            "headline": "A Retired Boeing 747 Becomes a New Party Venue",
+            "content": "Party like a Rockstar. The plane already has bookings, though it does not officially open until March 1. Some of the events include TV show recordings and a..."
+        },
+        {
+            "headline": "GE Aviation, Boeing partner on hybrid electric flight tests",
+            "content": "Boeing and its subsidiary Aurora Flight Sciences will provide GE Aviation with airplane modification, system integration, and flight-testing services. That work..."
+        },
+        {
+            "headline": "Boeing to highlight 777X, sustainability at Singapore Airshow 2022",
+            "content": "During the show, a Boeing 777X flight test airplane will make its Asia debut, demonstrating aerial maneuvers that showcase its new carbon-fiber composite..."
+        },
+        {
+            "headline": "Boeing 747 To Be Retired From Passenger Service In Russia",
+            "content": "Russia's only operator of passenger Boeing 747s, Rossiya Airlines, will retire the type by the end of 2024."
+        },
+        {
+            "headline": "Aeroflot Takes Two More Boeing 777-300ERs With New Cabins",
+            "content": "Aeroflot Takes Two More Boeing 777-300ERs With New Cabins ... Aeroflot has taken onboard two more retrofitted Boeing 777-300ERs configured to the airline's new..."
+        },
+        {
+            "headline": "Boeing to showcase 777X at Singapore Airshow 2022",
+            "content": "Boeing has announced Singapore Airshow 2022 would be the second international venue to feature the Boeing 777X widebody. This will be the first visit of the..."
+        },
+        {
+            "headline": "LEGO Ideas Boeing 747 Cockpit Achieves 10,000 Supporters",
+            "content": "The Boeing 747 Cockpit by DarrenJones is the latest project to achieve 10000 supporters on LEGO Ideas."
+        },
+        {
+            "headline": "SmartLynx Airlines to expand its fleet by adding Boeing 737 MAX 8 as new aircraft type",
+            "content": "The leading ACMI and charter operator has signed an agreement with SMBC Aviation Capital to lease two Boeing 737 MAX 8 aircraft to meet growing demand."
+        },
+        {
+            "headline": "Boeing breakthrough in all-composite Cryogenic fuel tank proves technology ready for use",
+            "content": "The test which builds upon Boeing's extensive experience with the safe use of hydrogen in aerospace applications will inform Boeing's ongoing studies of..."
+        }
+    ],
+    "20220208": [
+        {
+            "headline": "Boeing deliveries remain low as 787 problems weigh",
+            "content": "Boeing Co said on Tuesday it delivered 32 aircraft in January as its sidelined 787 Dreamliner program continued to weigh on the planemaker's ability to..."
+        },
+        {
+            "headline": "Demand for 737 MAX and new freighter jet boosts Boeing orders in January",
+            "content": "Boeing added 75 net new jet orders in January, all either MAXs or freighters, It delivered 32 aircraft, only three of which were widebodies."
+        },
+        {
+            "headline": "US supports 737 MAX settlement, says families not ‘crime victims’",
+            "content": "The Department of Justice says the settlement with Boeing reached under Trump provided more compensation for families than the law requires."
+        },
+        {
+            "headline": "Boeing Purchases 2 Million Gallons of Sustainable Aviation Fuel",
+            "content": "Boeing has made a deal with Epic Fuels to acquire 2 million gallons of blended sustainable aviation fuel (SAF) to power its commercial airplanes operation..."
+        },
+        {
+            "headline": "Nadia Milleron: Illinois law spares Boeing from paying for 737 Max 8 fatalities. Lawmakers, fix the ‘death gap.’",
+            "content": "My daughter Samya Rose Stumo was killed in the 2019 crash of Ethiopian Airlines Flight 302. She was one of 157 people who died because the Boeing 737 Max 8..."
+        },
+        {
+            "headline": "DOJ Backs 737 MAX Liability Settlement",
+            "content": "The US Dept. of Justice is standing by a $2.5-billion deferred prosecution agreement (DPA) it reached with Boeing Corp. last year."
+        },
+        {
+            "headline": "FAA Proposes Shielding Boeing Employees Overseeing Safety",
+            "content": "Aviation regulators are taking steps to shield U.S. aviation-industry engineers from the kind of pressures that helped lead to the design flaw on the Boeing..."
+        },
+        {
+            "headline": "Former Boeing pilot from Keller hopes all criminal charges will be dropped",
+            "content": "Mark Forkner of Keller is the focus of the first criminal case connected to the Boeing 737 MAX jets investigation. Two major crashes killed more than 300..."
+        },
+        {
+            "headline": "Boeing’s all-composite cryogenic fuel tank passes critical test; technology ready for use",
+            "content": "Boeing's new type of large, fully-composite, linerless cryogenic fuel tank passed a critical series of tests at NASA's Marshall Space ..."
+        },
+        {
+            "headline": "iAero Airways Completes Certification For Boeing 767 Aircraft To Support Its Expanding Charter and Sports Team Businesses",
+            "content": "iAero Airways began operating an ultra-luxurious VIP Boeing 767-300ER last week for the NBA's Houston Rockets."
+        }
+    ],
+    "20220209": [
+        {
+            "headline": "UPS Orders 19 Extra 767 Freighters From Boeing",
+            "content": "UPS (NYSE: UPS) has placed an order with Boeing (NYSE: BA) for 19 medium widebody 767-300 freighters in response to significant ongoing air cargo demand."
+        },
+        {
+            "headline": "Today in history: The first Boeing 747 test flight",
+            "content": "On February 9, 1969, Boeing's new flagship, the 747 'Jumbo Jet', took off for the first time from the Boeing factory at Everett on its first test flight."
+        },
+        {
+            "headline": "RNZAF Selects Thomas Global's Flight Displays for Boeing 757 Fleet Modernization",
+            "content": "The Royal New Zealand Air Force (RNZAF) has selected Thomas Global's TFD-7000 Series flight displays for its Boeing 757 fleet. The TFD-7000 Series displays..."
+        },
+        {
+            "headline": "Thomas Global to deliver flight displays for RNZAF’s Boeing 757 Fleet",
+            "content": "Thomas Global has been chosen by the RNZAF to deliver TFD-7000 Series flight displays for the latter's Boeing 757 fleet."
+        },
+        {
+            "headline": "Boeing Rolls Out First P-8A for South Korea, to Be Delivered Next Year",
+            "content": "Boeing Rolls Out First P-8A for South Korea, to Be Delivered Next Year ... Boeing has rolled out its first P-8A Poseidon multi-mission maritime aircraft for South..."
+        },
+        {
+            "headline": "Canada’s Swoop to take six new Boeing 737 Max 8 this year",
+            "content": "WestJet's ultra-low-cost subsidiary Swoop will add six Boeing 737 Max 8 aircraft to its fleet as the discount segment in Canada heats up with two new..."
+        },
+        {
+            "headline": "Alaska's New West Coast Wonders Boeing 737 MAX Livery Revealed",
+            "content": "Alaska's New West Coast Wonders Boeing 737 MAX Livery Revealed ... Alaska Airlines' new West Coast Wonders livery has officially been revealed. Flying on a new..."
+        },
+        {
+            "headline": "China's C919, challenger to Boeing 737, aims for 2022 deliveries",
+            "content": "Deliveries of China's homegrown C919 narrow-body passenger jet are expected this year after several delays, despite a tight schedule for regulatory..."
+        },
+        {
+            "headline": "Lufthansa Boeing 747 diverts to Frankfurt due to engine trouble",
+            "content": "A Lufthansa Boeing 747, also known as the 'Queen of the Skies', suffered an engine issue while performing a long-haul flight."
+        },
+        {
+            "headline": "Netflix to release documentary on Boeing 737 MAX problems this month",
+            "content": "Netflix published this week the trailer for the next documentary that will be shown on the platform. In Free Fall: The Tragedy of the Boeing Affair."
+        }
+    ],
+    "20220210": [
+        {
+            "headline": "Boeing Purchases 2 Million Gallons of Sustainable Aviation Fuel",
+            "content": "Boeing and EPIC Fuels entered into an agreement for Boeing to purchase 2 million gallons of sustainable aviation fuel (SAF)."
+        },
+        {
+            "headline": "Top Five Reasons Lockheed Martin Believes It Can Beat Boeing In The Next Round Of Tanker Competition",
+            "content": "Lockheed Martin has teamed with Airbus to offer an advanced version of the latter company's Multi-Role Tanker Transport designated LMXT."
+        },
+        {
+            "headline": "Lockheed Martin Sikorsky-Boeing Selects Honeywell Engine to Power DEFIANT X®",
+            "content": "Sikorsky, a Lockheed Martin Company (NYSE: LMT), and Boeing (NYSE: BA) today announced Honeywell (NYSE: HON) as the engine provider for DEFIANT X."
+        },
+        {
+            "headline": "Boeing all-composite cryogenic fuel tank proves technology readiness",
+            "content": "Boeing all-composite cryogenic fuel tank proves technology readiness. Ultra-lightweight tank passes critical test campaigned by NASA, intended for a variety of..."
+        },
+        {
+            "headline": "A Lapse in Safety Can Lead to Lawsuits for Directors and Officers. Boeing's Board Learned That Firsthand.",
+            "content": "In the case titled In re The Boeing Company Derivative Litigation, 2021 WL 4059934 (Del. Ch. Sept. 7, 2021), the Court permitted a claim to proceed against the..."
+        },
+        {
+            "headline": "Boeing to offer the P-8A Poseidon for Canada’s Multi-Mission Aircraft project",
+            "content": "The Canadian Multi-Mission Aircraft (CMMA) project will replace the Royal Canadian Air Force fleet of CP-140 Aurora aircraft and enhance its anti-submarine..."
+        },
+        {
+            "headline": "US Air Force seeks AWACS replacement for Boeing E-3G Sentry",
+            "content": "The US Air Force (USAF) has formally launched its search for a replacement for the Boeing E-3G Sentry Airborne Warning and Control System (AWACS)."
+        },
+        {
+            "headline": "The new Boeing freighter, 777-8F, versus Airbus’ A350F, Part 2",
+            "content": "Subscription Required. By Bjorn Fehrm. Introduction. February 10, 2022, © Leeham News: Boeing introduced the freighter version of the 777X last week,..."
+        },
+        {
+            "headline": "HONEYWELL SELECTED BY LOCKHEED MARTIN SIKORSKY-BOEING TO POWER DEFIANT X HELICOPTER IN KEY U.S. ARMY PURSUIT",
+            "content": "Honeywell (NASDAQ: HON) has been selected to provide its new HTS7500 turboshaft engine as the power behind the Lockheed Martin Sikorsky-Boeing DEFIANT X..."
+        },
+        {
+            "headline": "Honeywell Turboshaft Engine Chosen to Power Lockheed Martin Sikorsky-Boeing Helicopter for U.S. Army; Aerospace President Dave Marinick Quoted",
+            "content": "Honeywell Turboshaft Engine Chosen to Power Lockheed Martin Sikorsky-Boeing Helicopter for U.S. Army; Aerospace President Dave Marinick Quoted ... The HTS7500..."
+        }
+    ],
+    "20220211": [
+        {
+            "headline": "The DOJ says the families of those killed in 2 Boeing crashes are not crime victims",
+            "content": "The families of 346 people who died in two Boeing crashes want the DOJ to rescind a settlement that protects Boeing and its executives from criminal..."
+        },
+        {
+            "headline": "Its Days Are Numbered: A Look At Jet2’s Boeing 757s",
+            "content": "It has had 14 B757s in total, along with a further two on a short-term, peak-season basis. It now has eight, all owned by the carrier."
+        },
+        {
+            "headline": "Boeing to Offer P-8A Poseidon Maritime Patrol Aircraft to Canada",
+            "content": "“The P-8 will ensure allied interoperability to meet Canada's security commitments,” Flood stated in a press release. “Coupled with a robust industrial..."
+        },
+        {
+            "headline": "Heritage Special: Boeing’s First Short-Haul Jet, the 720",
+            "content": "Heritage Special: Boeing's First Short-Haul Jet, the 720 · American Airlines was an early adopter of turbofan engines, and announced they would convert all..."
+        },
+        {
+            "headline": "Transformational F-15EX continues to rapidly advance through Development and Operational Testing",
+            "content": "The F-15EX is the first USAF aircraft to be completely tested and fielded through combined Developmental and Operational Test."
+        },
+        {
+            "headline": "Press Release: A new colourful livery for Icelandair",
+            "content": "This month, Icelandair is introducing a new livery with colours inspired by Icelandic nature, including the northern lights."
+        },
+        {
+            "headline": "Sikorsky-Boeing helo gets HTS7500 - 42% more powerful engine than T55",
+            "content": "The HTS7500 is an advanced turbocharged engine and is the latest engine in the company's product portfolio. The new Defiant X engine will provide much better..."
+        },
+        {
+            "headline": "FedEx Wants New Freighters: Will Airbus or Boeing Win?",
+            "content": "FedEx is planning a large order of next-generation widebody freighters in 2022."
+        },
+        {
+            "headline": "When Will Direct Connectivity Between Oceania And South America Resume",
+            "content": "Will LATAM Airlines Group, Air New Zealand, and Qantas resume their flights between South America and Oceania soon?"
+        }
+    ],
+    "20220212": [
+        {
+            "headline": "Aviation Prepares For The 2022 Singapore Airshow",
+            "content": "The aviation industry is preparing to gather in Singapore for the first airshow of 2022. While the biennial airshow was able to occur in 2020, it did face some..."
+        },
+        {
+            "headline": "INCIDENT: Boeing 777 Elevator Locked Out In Flight!",
+            "content": "INCIDENT: Boeing 777 Elevator Locked Out In Flight! ... The crew of an Emirates Boeing 777 had to divert when they had to deal with a locked out elevator, on..."
+        },
+        {
+            "headline": "Boeing Could Yet Gain An Indian Customer For Its 777-X",
+            "content": "The 777-X programme was launched in November 2013 at the Dubai Airshow. At its launch, its predecessor, the highly successful 777, commanded a 71% share of the..."
+        },
+        {
+            "headline": "Edging Past F-22 Raptor – Here Is The Only ‘Super Fighter’ That Could Have Outgunned The World’s Most Powerful Jet",
+            "content": "boasts some of the best fighter jets in the world including F-22 Raptor & F-35 Lightning II, as well as F-16 Fighting Falcon and F-15 Eagle."
+        },
+        {
+            "headline": "Emirates Looks To Maldivian To Expand Opportunities",
+            "content": "On February 10th, Dubai-based Emirates signed a Memorandum of Understanding (MoU) with Maldivian, the national airline of the Maldives."
+        },
+        {
+            "headline": "Digital Rebirth: 20 Years Of Jet2.com",
+            "content": "Jet2 is a dominant force in the low-cost and package holiday realms. The Yorkshire outfit prides itself on providing scheduled and charter short and..."
+        },
+        {
+            "headline": "ALERT Aerosucre Boeing 737 narrowly avoided trees and houses after takeoff from Puerto Carreno",
+            "content": "An Aerosucre Boeing 737 suffered takeoff failure and could not climb as expected after takeoff from Puerto Carreno as one of its engines showed overheat..."
+        }
+    ],
+    "20220213": [
+        {
+            "headline": "How Boeing Printed Alaska Airlines' New 737 Livery",
+            "content": "Boeing set out to develop a heavily customized inkjet printer, capable of printing just about anything, anywhere."
+        },
+        {
+            "headline": "What happened with Austrian Airlines’ Boeing 737? Know more",
+            "content": "Austrian Airlines flew a whole of 10 Boeing 737 family aircraft in the late 2000s and earlier 2010s. This figure included three variants."
+        },
+        {
+            "headline": "Boeing test team sends upbeat message on 777-9",
+            "content": "Van Chaney, chief test pilot for the 777/777X, shares Hermesmeyer's enthusiasm: “It's been a really, really good programme so far. The engines have been..."
+        },
+        {
+            "headline": "A retired British Airways Boeing 747 was bought for $1.35 by an English airport and converted into a flightless 'party plane' event space — see inside the renovated Queen of the Skies",
+            "content": "A retired British Airways Boeing 747 was bought for $1.35 by an English airport and converted into a flightless 'party plane' event space."
+        },
+        {
+            "headline": "Bigger windows, quieter flight: What to expect from the new Boeing 777X jetliner",
+            "content": "SINGAPORE: When Boeing's all-new 777X jumbo jet goes into service, passengers can likely expect an upsized experience – from a more spacious cabin to bigger..."
+        },
+        {
+            "headline": "Passengers can look forward to new cabin features when Singapore Airlines takes delivery of new fleet",
+            "content": "SINGAPORE - When air travel picks up after the Covid-19 pandemic, passengers of Singapore Airlines (SIA) can look forward to flying on board a new fleet of..."
+        },
+        {
+            "headline": "Cayman Airways Returns To Denver With A Boeing 737 MAX",
+            "content": "This summer, Cayman Airways has scheduled flights to four destinations in the United States. According to data from Cirium, all the flights are scheduled to run..."
+        },
+        {
+            "headline": "The Planned Evolution Of Alaska Airlines' Fleet",
+            "content": "Alaska Airlines is engaging in a multi-year fleet transformation. With the introduction of the MAX, Alaska is now moving back to its Boeing roots."
+        },
+        {
+            "headline": "Why Was An Emirates Boeing 777-300ER In Winnipeg Last Week?",
+            "content": "The crew flying an Emirates Boeing 777-300ER, operating flight EK235 from Dubai to Chicago O'Hare had received a flight control caution message."
+        },
+        {
+            "headline": "SkyUp Flight Barred From Ukrainian Airspace Over Lessor's Concerns",
+            "content": "A SkyUp Airlines Boeing 737 from Funchal, Madeira to Kyiv, Ukraine was diverted to Chisinau, Moldova. The reason for the diversion is due to the lessor not..."
+        }
+    ],
+    "20220214": [
+        {
+            "headline": "Boeing Reaches Record $2 Billion in E-Commerce Sales",
+            "content": "Boeing Global Services online sales portal simplifies customer transactions with new tools - Record online orders reflect continued recovery from COVID-19..."
+        },
+        {
+            "headline": "Boeing not concerned about titanium supply, watching other pinch points",
+            "content": "Boeing Co is not concerned about a potential disruption to Russian titanium supplies because of tensions over Ukraine, but is keeping a close watch on other..."
+        },
+        {
+            "headline": "Boeing Reports Record $2 Billion in Online Sales of Aircraft Parts",
+            "content": "Boeing's record online orders for parts products in 2021 were fueled by investment in digital tools, amounting to $2 billion in e-commerce sales."
+        },
+        {
+            "headline": "Boeing Seeks Exemption From Looming ICAO 767 Production Ban",
+            "content": "Boeing is seeking a potential exemption from International Civil Aviation Organization (ICAO) environmental emissions regulations that will effectively ban the..."
+        },
+        {
+            "headline": "Honeywell engine to power Lockheed Martin Sikorsky-Boeing DEFIANT X",
+            "content": "The HTS7500 turboshaft engine is the latest model in Honeywell's family of military engines."
+        },
+        {
+            "headline": "Boeing 777X flight test crew upbeat on its performance",
+            "content": "When it enters service it will be the most rigorously tested aircraft Boeing has ever built. There were 19 months of program analysis and 10 months of ground..."
+        },
+        {
+            "headline": "Electric airplane CEO ousted ahead of 1st flight",
+            "content": "Omer Bar-Yohay, co-founder and CEO of electric aircraft company Eviation, abruptly stepped down Monday, weeks ahead of a planned first flight."
+        },
+        {
+            "headline": "Korean Air sets March return date for Boeing 737 MAX",
+            "content": "South Korea's flag carrier Korean Air has announced the date when it will begin operating passenger flights with its Boeing 737 MAX 8 aircraft following the..."
+        },
+        {
+            "headline": "Korean eyes March launch of Boeing 737 Max flights",
+            "content": "Korean Air aims to begin Boeing 737 Max operations from the start of March after taking delivery of its initial example on 13 February."
+        },
+        {
+            "headline": "Boeing Announces Record Online Parts Sales for 2021",
+            "content": "(NYSE: BA) says it set a company record of more than $2 billion in e-commerce parts sales in 2021, resulting in part from changes to ease its ordering..."
+        }
+    ],
+    "20220215": [
+        {
+            "headline": "FAA toughens oversight of Boeing's 787 Dreamliner",
+            "content": "Safety regulators have twice halted deliveries of new 787s after finding production flaws and will now conduct final inspections themselves instead of..."
+        },
+        {
+            "headline": "Korea Selects Boeing to Support Readiness for Three Critical Defense Platforms",
+            "content": "Boeing [NYSE: BA] has received three performance based logistics (PBL) contracts from the Republic of Korea's Defense Acquisition Program Administration (DAPA)."
+        },
+        {
+            "headline": "Malaysia Airlines' parent to lease 25 737 MAX jets from Air Lease Corp",
+            "content": "Air Lease Corp will lease 25 Boeing 737 MAX jets to Malaysia Airlines' parent to be delivered between early 2023 and 2026 through the lessor's orderbook..."
+        },
+        {
+            "headline": "Lawmakers demand fresh investigation into FAA decision not to penalize Boeing for MAX failures",
+            "content": "Democratic Reps. Peter DeFazio and Rick Larsen are demanding a fresh investigation into what they see as the FAA's failure to hold Boeing accountable for..."
+        },
+        {
+            "headline": "Regulators won't let Boeing certify new 787 jets for flight",
+            "content": "Federal safety regulators say they will retain power to approve Boeing 787 airliners for flight rather than return that authority to the aircraft maker,..."
+        },
+        {
+            "headline": "Netflix's Downfall digs into what really caused the Boeing plane crashes",
+            "content": "The Case Against Boeing suggests that corporate greed as much as mechanical error was at fault ... The opening minutes of the documentary Downfall: The Case..."
+        },
+        {
+            "headline": "Watch Boeing's Ihssane Mounir on Commercial Sales Outlook",
+            "content": "Ihssane Mounir, Senior Vice President of Commercial Sales & Marketing, The Boeing Company, discusses the global recovery in the air travel, the order book,..."
+        },
+        {
+            "headline": "Korea Selects Boeing For F-15K, CH-47 Sustainment Contracts",
+            "content": "Kimberly Johnson ... The Republic of Korea has selected Boeing (NYSE:BA) for three performance-based logistics (PBL) contracts to support the country's F-15K..."
+        },
+        {
+            "headline": "Uplifting News: Singapore Airlines Orders GE Engines, Services Valued At $2.9 Billion",
+            "content": "Boeing showed its latest passenger jet, the 777X, to the public a few months ago, but the plane keeps making headlines. In January, Qatar Airways became the..."
+        },
+        {
+            "headline": "FAA to sign off on individual 787s when deliveries of troubled jet resume",
+            "content": "The Federal Aviation Administration said Tuesday it will sign off on each 787 produced by Boeing once it approves deliveries of the jet to resume,..."
+        }
+    ],
+    "20220216": [
+        {
+            "headline": "Western Global Airlines Purchases Two Boeing 777 Freighters",
+            "content": "Western Global Airlines today announced a firm order for two 777 Freighters, the first new-production freighters for the all-Boeing cargo operator based in..."
+        },
+        {
+            "headline": "Boeing wins PBL contracts for ROK’s F-15K, CH-47 and AEW&C fleets",
+            "content": "The Boeing Co · View all. As agreed, Boeing will be responsible for the sustainment of the assets. The deals will last for five years and focus on enhancing the..."
+        },
+        {
+            "headline": "Western Global Airlines orders 2 Boeing 777 freighters",
+            "content": "Boeing (NYSE: BA) said that Western Global Airlines has placed a firm order for two of the manufacturer's 777 freighters."
+        },
+        {
+            "headline": "Is Boeing Going Out of Business? Troubles Are Far From Over",
+            "content": "Looking at the strong order backlog and the expected improvement in the company's finances, Boeing isn't going out of business anytime soon. However, the..."
+        },
+        {
+            "headline": "How Might The Boeing 797 Stack Up Against The Airbus A321XLR?",
+            "content": "Any new revised NMA plan is likely to be based on competing with the A321XLR. This does not mean it will be the same design of a narrowbody with additional..."
+        },
+        {
+            "headline": "Gallery: Boeing 777X Timeline Of Program Progression",
+            "content": "The 777-9 is the first member of Boeing's flagship 777X program which is aimed at replacing the 777-300ER and 747-400 while competing with the A350-1000."
+        },
+        {
+            "headline": "The new Boeing freighter, 777-8F, versus Airbus’ A350F, Part 3",
+            "content": "We looked at the operating economics of the Boeing 777-8F and Airbus A350F. Both freighters are new launches over the last 6 months with planned service entry..."
+        },
+        {
+            "headline": "ST Engineering plans to convert Boeing 757 into an air tanker",
+            "content": "The model name for the air tanker will be Boeing 757P2T, and is estimated to be completed in 2024. It will have a capacity of up to 7,000 gallons of fire..."
+        },
+        {
+            "headline": "‘It is time to go home’: FAA chief Steve Dickson resigns",
+            "content": "A veteran airline pilot praised and criticized for his agency's handling of Boeing after two 737 MAX crashes, FAA chief Steve Dickson has resigned."
+        },
+        {
+            "headline": "Boeing waits on Chinook Block II decision from US Army",
+            "content": "Boeing is hopeful the US Army will make a decision later this year on whether it will proceed with the Block II upgrade for the CH-47F Chinook helicopter."
+        }
+    ],
+    "20220217": [
+        {
+            "headline": "‘Downfall: The Case Against Boeing’ Review: Behind Two Fatal Crashes (Published 2022)",
+            "content": "This documentary on Netflix leaves the impression that the 737 Max's entire existence is rotten."
+        },
+        {
+            "headline": "Sikorsky-Boeing SB-1 Defiant demos single-engine, sling-load and slalom flight",
+            "content": "During one flight, on 31 January, the SB-1 Defiant demonstrated three capabilities: the ability to fly with one engine; carry a 1,542kg (3,400lb) external sling..."
+        },
+        {
+            "headline": "FAA needs 'systemic fix' to Boeing 787 Dreamliner production issues",
+            "content": "The head of the Federal Aviation Administration said Thursday the agency needs a \"systemic fix\" from Boeing to address 787 Dreamliner production issues but..."
+        },
+        {
+            "headline": "The Comet, the 707, and the disaster that shaped the Jet Age",
+            "content": "In 1952, Britain won the race to put the world's first jet airliner into service, but it turned out to be a hollow victory. Disasters, delays, and an..."
+        },
+        {
+            "headline": "'Downfall: The Case Against Boeing' documentary argues tragedy could have been avoided",
+            "content": "A new documentary takes a closer look at an aviation tragedy: the deaths of 346 passengers aboard two airline flights that crashed."
+        },
+        {
+            "headline": "Kuehne+Nagel enters into long-term agreement with Atlas Air for two Boeing 747-8 freighters",
+            "content": "Kuehne+Nagel will charter the entire and exclusive capacity of the two new B747-8F aircraft to operate the flights globally from the third and fourth quarters..."
+        },
+        {
+            "headline": "Ethiopian Airlines is flying 737 Max again: here are the lessons learnt",
+            "content": "Ethiopian Airlines has announced that it plans to put its Boeing's 737 Max back to service for the first time since the aircraft model was involved in a crash."
+        },
+        {
+            "headline": "When Boeing 787 deliveries resume, FAA will certify each plane itself",
+            "content": "The agency will perform final inspections on each newly built jet before issuing an airworthiness certificate that approves the plane to carry passengers."
+        },
+        {
+            "headline": "Rory Kennedy turns spotlight on catastrophic Boeing crashes",
+            "content": "As Rory Kennedy was making her new Netflix documentary “Downfall: The Case Against Boeing,” the film's tragic events were unfolding concerning two Boeing..."
+        },
+        {
+            "headline": "American cargo carrier Western Global Airlines buys two Boeing 777 freighters",
+            "content": "Florida-based Western Global Airlines and Boeing have announced on February 16, 2022 a firm order for two 777 freighters. The order serves as the first..."
+        }
+    ],
+    "20220218": [
+        {
+            "headline": "‘Downfall’: How Boeing Put Profits Over People, With Catastrophic Results",
+            "content": "A new Netflix documentary explores the corruption behind Boeing's disastrous 737 MAX."
+        },
+        {
+            "headline": "‘Downfall’ Director Rory Kennedy on the Importance of Retelling the Story of the Boeing 737 Max Crashes",
+            "content": "The new Netflix doc explores how the Boeing 737 Max crashes occurred: 'Downfall: The Case Against Boeing' directed by Rory Kennedy."
+        },
+        {
+            "headline": "Optimism In Textron Stock A Trigger For Boeing?",
+            "content": "The shares of Textron observed a strong rally in 2021 largely due to a surge in the company's Aviation segment's order backlog, whereas the shares of Boeing..."
+        },
+        {
+            "headline": "Netflix’s Boeing documentary, ‘Downfall,’ is a righteous screed against corporate greed",
+            "content": "Digging deep into why two Boeing 737s crashed within five months of each other, the doc touches the dark American heart of profits-over-people mindset."
+        },
+        {
+            "headline": "Downfall: The Case Against Boeing movie review (2022)",
+            "content": "“Downfall: The Case Against Boeing” (now streaming on Netflix) investigates both crashes and their aftermath while exposing the culture of concealment at..."
+        },
+        {
+            "headline": "How and why Colbert brought Boeing Global Services back down to earth",
+            "content": "Under Ted Colbert, Boeing's massive services arm has replaced lofty revenue targets with considerably more conservative goals: stabilisation, recovery,..."
+        },
+        {
+            "headline": "American Airlines Trims More International Flights as Boeing Dreamliner Delays Drag On",
+            "content": "The carrier is again cutting its summer schedule as production problems at Boeing hold up delivery of new 787s."
+        },
+        {
+            "headline": "Alaska launches Boeing 737 service at Paine Field in Everett",
+            "content": "Alaska Airlines marked the start of Boeing 737 service at Paine Field with a splash Thursday afternoon."
+        },
+        {
+            "headline": "Review: Netflix doc ‘Downfall: The Case Against Boeing’ explores cost of greed over safety",
+            "content": "'Downfall: The Case Against Boeing,' Rory Kennedy's look at the aviation giant's troubled recent history, is a dissection of corporate greed."
+        },
+        {
+            "headline": "In Singapore, Boeing touts P-8 Poseidon multi-sensor pod, for more ‘multi-mission’ uses",
+            "content": "The new pod takes the P-8 \"and further expands it to be truly multi-int and multi-spectral,\" a Boeing rep said."
+        }
+    ],
+    "20220219": [
+        {
+            "headline": "‘Downfall’ documentary casts the tale of Boeing’s 737 MAX debacle as tech tragedy",
+            "content": "The missteps traced in \"Downfall: The Case Against Boeing\" — Netflix's new documentary about Boeing's troubled 737 MAX jet — are the stuff of Greek tragedy."
+        },
+        {
+            "headline": "2 Planes Fall Out of the Sky — Killing Hundreds — and New Documentary Investigates How",
+            "content": "In Downfall: The Case Against Boeing, now on Netflix, director Rory Kennedy takes a comprehensive look at what caused two high-profile Boeing 737 crashes."
+        },
+        {
+            "headline": "American Revises Summer Schedule Over Delayed Delivery of Boeing 787 Dreamliners",
+            "content": "American Airlines says it is revising its summer schedule to reduce flights because of \"Boeing's continued inability to delivery our 787-8 aircraft.\""
+        },
+        {
+            "headline": "BlueBird Simulations Announces Boeing 757 for MSFS",
+            "content": "BlueBird Simulations has announced their first project, the Boeing 757 for MSFS."
+        },
+        {
+            "headline": "How Boeing 787 Dreamliner Delays Are Affecting American Airlines",
+            "content": "American Airlines has trimmed its long-haul routes in 2022 due to an ongoing impact as Boeing's delivery schedule of the 787 drags on."
+        },
+        {
+            "headline": "Fasten Your Seatbelts: Cockpit Video Shows Pilot Landing Boeing 777 During Storm Eunice",
+            "content": "Just a few days ago, Manchester City's jet, a Boeing 757, was rocked during Storm Dudley and unable to land at Manchester Airport."
+        },
+        {
+            "headline": "Flight Report: Flying a LATAM Boeing 767 to Porto Alegre",
+            "content": "The flight itself was very good, as the legroom is excellent in the emergency exits and in the seat. The seat is also very comfortable, so much so that during..."
+        },
+        {
+            "headline": "Watch: Terrifying Video Shows Pilot Attempting To Land Boeing 777 During Storm Eunice In The UK",
+            "content": "Storm Eunice is wreaking havoc in the UK and videos of the terrifying storm are all over social media. Now, another video has surfaced that shows the..."
+        },
+        {
+            "headline": "American Airlines cuts summer flights due to Boeing 787 delays",
+            "content": "NEW YORK, Feb 19, 2022 (BSS/AFP) - American Airlines on Friday said it would cut more international flights over the summer..."
+        },
+        {
+            "headline": "747 Hump Facts You May Not Know",
+            "content": "The iconic hump of the 747 distinguishes it from [almost] all aircraft. But there are some key “hump facts” that not all aviation fans know!"
+        }
+    ],
+    "20220220": [
+        {
+            "headline": "Fallout of United Airlines jetliner’s engine failure over metro Denver continues with legal cases, searing memories",
+            "content": "One year after a United Airlines 777 engine exploded over Denver's suburbs, passengers and people who dodged falling debris deal with emotional scars as the..."
+        },
+        {
+            "headline": "Each Boeing 787 Dreamliner Produced Will Have to Be Individually Certified By FAA",
+            "content": "Usually, the issue of an airworthiness certificate for a specific aircraft is a task delegated to the manufacturer, which the certifying body — the Federal..."
+        },
+        {
+            "headline": "First Lufthansa 787-9 Dreamliner Rolls Out Of Boeing Factory",
+            "content": "First Lufthansa 787-9 Dreamliner Rolls Out Of Boeing Factory ... Lufthansa's first Boeing 787-9 Dreamliner has been spotted rolling out of Boeing's facilities."
+        },
+        {
+            "headline": "Boeing 737 Max Airplane: Safe to Fly? Or Yet Another Flying Coffin?",
+            "content": "Reportedly, according to the Boeing bigwigs, it was just a minor modification to the software that worked in the background and automatically helped the..."
+        },
+        {
+            "headline": "The Boeing 757 is coming to Microsoft Flight Simulator",
+            "content": "There's an exciting new jetliner announcement coming directly from Just Flight and Bluebird Simulations: the Boeing 757!"
+        },
+        {
+            "headline": "Cockpit footage shows moment pilot lands Boeing 777 during Storm Eunice",
+            "content": "Incredible new footage taken from the cockpit of a Boeing 777 aeroplane has shown the moment a brave pilot managed to land in the middle of Storm Eunice."
+        },
+        {
+            "headline": "$103.8 million Contract awarded to Boeing for Building AH-6 light attack helicopters for Thailand !",
+            "content": "Officials of the Army Contracting Command at Redstone Arsenal, announced a $103.8 million contract to Boeing Friday to build AH-6 light helicopter gunships for..."
+        },
+        {
+            "headline": "What we know about the United Flight 328 engine explosion over Broomfield",
+            "content": "The Boeing 777 plane engine explosion that rained debris over Broomfield, Colorado has sparked at least 6 lawsuits from passengers."
+        },
+        {
+            "headline": "Boeing unveils technologically enhanced platforms at the Dubai Air Show",
+            "content": "US aerospace giant Boeing held several interactions with the press, speaking about the several products it aims to field at the air show."
+        },
+        {
+            "headline": "‘Nerves of steel’: Pilot of Boeing 777 shares view from cockpit as he lands during Storm Eunice",
+            "content": "With people advised to stay home during the storm, over 2,00,000 tuned in to Big Jet TV on Friday to see the amazing skills of pilots manoeuvring through..."
+        }
+    ],
+    "20220221": [
+        {
+            "headline": "Still Going: 40 Years Of Boeing 757 Flights",
+            "content": "Registration N757A was the first 757 to hit the air. It performed its maiden flight at Renton Municipal Airport, Washington, on February 19th, 1982. Test pilots..."
+        },
+        {
+            "headline": "Boeing secures $104M contract for AH-6 light attack helicopters for Thailand",
+            "content": "Aerospace giant Boeing has been awarded a $103,7 million contract to provide AH-6 light attack helicopter for Thailand, which is part of agreement the U.S...."
+        },
+        {
+            "headline": "US airline to operate its third Boeing 747 in 'hybrid' livery from another airline",
+            "content": "JetOneX is a company that does not have its own 'visual identity' in the paintwork of its planes. This happens because the company focused on the freighter..."
+        },
+        {
+            "headline": "Malaysia Airlines Finalizes Leases for 25 Boeing 737 MAX 8s",
+            "content": "Under a contract with Air Lease Corporation (ALC), Malaysia Airlines will get 25 new Boeing 737 MAX 8s from its order book. The purchase, which comes from..."
+        },
+        {
+            "headline": "American Airlines changes summer schedule again due to 787-8 delays",
+            "content": "American Airlines (A1G) (AAL) has had to change its summer schedule again due to delivery delays with the Boeing 787-8 Dreamliner aircraft."
+        },
+        {
+            "headline": "Full Circle - A timeline of Boeing 737Max Aircraft from it's 'Inception' to the 'Downfall' and 'resurrect' in a Pandemic battered Aviation industry !",
+            "content": "Lets take a look on the timeline of events, that shaped the journey of B737 Max starting year 2010 till date."
+        },
+        {
+            "headline": "Atlas Air and Kuehne+Nagel enter into long-term agreement for two Boeing 747-8 freighters",
+            "content": "Atlas Air has entered into a long-term, dedicated charter agreement to operate two of its new incoming Boeing 747-8 freighters on a global basis for Kuehne+..."
+        },
+        {
+            "headline": "Downfall – The Case Against Boeing review: How Boeing got away with murder",
+            "content": "The Netflix documentary deep dives into the circumstances that led to the fatal crashes of two Boeing aircrafts within a span of five months in 2018 and 2019."
+        },
+        {
+            "headline": "Boeing to build AH-6 light helicopter gunships and avionics for Thailand in $103.8 million contract",
+            "content": "AH-6 is a light helicopter gunship based on the MH-6 Little Bird and MD 500 family of light military helicopters, which includes the AH-6 and AH-6S."
+        },
+        {
+            "headline": "For next new airplane, Pratt appears to trail CFM for next new engine",
+            "content": "Subscription Required. By Scott Hamilton. Feb. 21, 2022, © Leeham News: As Boeing ponders whether to launch a new airplane program and industry consensus..."
+        }
+    ],
+    "20220222": [
+        {
+            "headline": "‘All those agencies failed us’: inside the terrifying downfall of Boeing",
+            "content": "In the damning new Netflix documentary Downfall: The Case Against Boeing, the errors and oversights that led to two crashes are examined."
+        },
+        {
+            "headline": "Internet Slams Boeing After Netflix Doc Connects Company to Plane Crashes",
+            "content": "The recently released documentary on Netflix alleges that the crashes were caused by flawed designs in the Boeing 737 Max planes."
+        },
+        {
+            "headline": "Thailand to Acquire Boeing AH-6 Attack Helicopters for $104 Million",
+            "content": "Thailand is purchasing an undisclosed number of AH-6 light attack and reconnaissance helicopters as part of a $103.8 million contract."
+        },
+        {
+            "headline": "Flydubai signs Quick Engine Change parts agreement with Boeing",
+            "content": "The Boeing Quick Engine Change (QEC) kit is an assortment of hardware and components used to build up a spare engine to a service-ready configuration."
+        },
+        {
+            "headline": "‘Downfall: The Case Against Boeing:’ A hard-hitting documentary on corporate avarice",
+            "content": "CHENNAI: Greed is often the cause of humanity's slide into disaster. It can be for territorial gains or higher profits and comes with immense human..."
+        },
+        {
+            "headline": "Boeing to Build Attack Helicopters for Thailand Under $104M Army FMS Award",
+            "content": "Boeing has secured a $103.8 million in foreign military sales funds to manufacture AH-6 light attack helicopters for Thailand."
+        },
+        {
+            "headline": "A trip on Ford’s private Boeing 737 – evo Archive",
+            "content": "The first drive of the modern-era Ford Shelby Mustang GT500. It was 2006, I was 24 years old and I'd been with evo for about a year."
+        },
+        {
+            "headline": "Airline review: Etihad Airways, Boeing 787-9 Dreamliner economy class, Dubai-Abu Dhabi-Melbourne",
+            "content": "On a high-traffic route, this is not a lavish flight, but it gets you from A to B efficiently with minimal fuss. The COVID-19 insurance is an absolute winner."
+        },
+        {
+            "headline": "Singapore Airlines’ B777-9 new cabin products: Some hints, few revelations",
+            "content": "SIA's B777-9s are still a few years away, but designs for the new cabin products have already been locked in. Here's what we might see."
+        }
+    ],
+    "20220223": [
+        {
+            "headline": "FAA issues 5G warning for Boeing 737s but says practical effects are limited",
+            "content": "The Federal Aviation Administration has warned that 5G wireless operations can interfere with radio altimeters in Boeing 737s, impeding a crew's ability to..."
+        },
+        {
+            "headline": "Press Release: SWISS to equip Boeing 777-300ER fleet with AeroSHARK",
+            "content": "SWISS has decided to equip its entire Boeing long-haul fleet with the fuel-saving AeroSHARK surface technology."
+        },
+        {
+            "headline": "Boeing awarded contract for AH-6 helicopters for Thailand",
+            "content": "Boeing has received a $103.7 million contract from the U.S. Department of Defense as part of a foreign military sale for eight AH-6 light attack..."
+        },
+        {
+            "headline": "Camp Corral Awarded $55,000 Grant From Boeing to Support Enrichment Programs for Children of Wounded Warriors",
+            "content": "Grant to help fund 2022 programs that will provide military children with opportunities to build peer connections and coping skills for overcoming everyday."
+        },
+        {
+            "headline": "Boeing wins helicopter contract for Thailand",
+            "content": "Boeing has been awarded a contract for AH-6 light-attack helicopters to Thailand, the Pentagon announced."
+        },
+        {
+            "headline": "Croatia Airlines Needs A New Fleet: Could It Pick Airbus, Boeing, Or Embraer?",
+            "content": "Croatia Airlines is looking to renew its fleet with Boeing 737 MAX 7, Embraer E2, or Airbus A220 aircraft."
+        },
+        {
+            "headline": "‘Downfall: The Case Against Boeing’ is a Chilling, Anger-Inducing Documentary that’s Impe...",
+            "content": "The new Netflix documentary titled Downfall: The Case Against Boeing explores what happened and peels back the layers as to the preventive conditions that could..."
+        },
+        {
+            "headline": "Boeing Awarded Contract for 8 AH-6 Helicopters for Thailand",
+            "content": "Boeing [NYSE:BA] has been awarded a $103.7 million contract by the US Department of Defense as part of a foreign military sale for eight AH-6 light attack..."
+        },
+        {
+            "headline": "Lessor ALC places nine Boeing 737 aircraft with Corendon Airlines Group",
+            "content": "Lessor Air Lease Corporation (ALC) has placed nine new Boeing 737 aircraft with charter carrier Corendon Airlines Group on long-term leases."
+        },
+        {
+            "headline": "Giovanni Spitale, former Boeing executive, is new CEO of Davis-Standard",
+            "content": "Giovanni Spitale, a former executive at Boeing Global Services and machine builder Milacron, has been named CEO of Pawcatuck, Conn.-based Davis-Standard LCC..."
+        }
+    ],
+    "20220224": [
+        {
+            "headline": "Boeing Would Kill Us All to Increase Its Profits",
+            "content": "The software on Boeing's 737 MAX was designed to override human controls — but ended up smashing the planes into the ground. Netflix's Downfall shows how..."
+        },
+        {
+            "headline": "Plaintiffs Target Boeing's Top Executives in Max 8 Lawsuit",
+            "content": "A lawsuit filed on behalf of a 24-year-old passenger of Ethiopian Air Flight 302, which crashed in 2019, wants to add Boeing CEO David Calhoun and former..."
+        },
+        {
+            "headline": "Rossell Techsys Wins Boeing Contract to Manufacture Wire Harnesses for the T-7A Red Hawk Platform",
+            "content": "Rossell Techsys has won a contract from Boeing to manufacture and supply wire harnesses for the global aerospace company's T-7A Red Hawk."
+        },
+        {
+            "headline": "Now on Netflix: 'Downfall: The Case Against Boeing,' Or How Capitalism Ends Up Destroying Its Actual Achievements",
+            "content": "Downfall is an impeccable documentary, rigorously made, not exploitative of the tragedy at the heart of it, informing us of a broader problem in the..."
+        },
+        {
+            "headline": "Anatomy Of The Boeing 777X",
+            "content": "Developed from the 777-300ER, the three-family 777X series incorporates General Electric GE9X engines and a high-aspect composite wing design to deliver an..."
+        },
+        {
+            "headline": "Is IAG Getting Ready To Firm Up Its Boeing 737 MAX LOI?",
+            "content": "The big question on everyone's mind is whether IAG's 2019 tentative order of eye-watering 200 Boeing MAX airplanes will finally see the light of the day."
+        },
+        {
+            "headline": "Boeing to build AH-6 light attack reconnaissance helicopters for Royal Thai Army",
+            "content": "The US Department of Defense has awarded Boeing a $103.7 million contract to supply eight AH-6 light attack reconnaissance helicopters to the Royal Thai..."
+        },
+        {
+            "headline": "A Boeing 787-10 HGW, how good is it?",
+            "content": "Summary · The 787-10 can grow to a range of over 7,000nm with a modest increase of its gross weight. · It will be competitive with the A350-900 but for the..."
+        },
+        {
+            "headline": "Boeing awarded contract for eight AH-6 helicopters for Thailand",
+            "content": "Boeing has been awarded a $103.7 million contract by the US Department of Defense as part of a foreign military sale for eight AH-6 light attack reconnaissance..."
+        },
+        {
+            "headline": "Swiss equips Boeing 777-300ER fleet with shark foil",
+            "content": "The Swiss carrier is covering its 777-300ER with AeroShark films. The film, developed by Lufthansa Technik and BASF, imitates the properties of shark skin and..."
+        }
+    ],
+    "20220225": [
+        {
+            "headline": "Netflix's new Boeing doc 'Downfall' is a deadly tale",
+            "content": "Netflix documentary “Downfall: The Case Against Boeing,” details the corporate greed to 346 people dying aboard two Boeing 737 Max aircraft."
+        },
+        {
+            "headline": "Emirates may cancel Boeing 777X if delays extend beyond 2023 -report",
+            "content": "Dubai's Emirates could cancel an order for Boeing 777X passenger jets if the model's entry into service slips beyond the end of 2023, the airline's..."
+        },
+        {
+            "headline": "Sir Michael Arthur",
+            "content": "Sir Michael Arthur is the former President of Boeing International, where he headed Boeing activities outside the US."
+        },
+        {
+            "headline": "Boeing Starliner chief to retire, but staying on through next flight test",
+            "content": "Boeing's Starliner program leader will soon retire from the company but stay as an advisor through the capsule's test flight later this year."
+        },
+        {
+            "headline": "FAA Says Thousands of Boeing 737s Are Susceptible to 5G Interference",
+            "content": "The FAA has issued an airworthiness directive aimed at the Boeing 737 that sheds some light on the issues that have delayed a full 5G c-band rollout."
+        },
+        {
+            "headline": "Boeing delivers 12th P-8I maritime patrol aircraft to India",
+            "content": "Boeing announced the delivery of the 12th P-8I maritime patrol aircraft (MPA) to the Indian Navy on 24 February."
+        },
+        {
+            "headline": "There’s a Whale on That Tail",
+            "content": "What do you get when you combine new graphics technology and concern for the environment? A killer whale on the tail of a Boeing 737 of course."
+        },
+        {
+            "headline": "Indian Navy takes delivery of 12th Boeing P-8I Poseidon",
+            "content": "The Indian Navy has expanded its fleet by adding the 12th Boeing P-8I Poseidon maritime patrol aircraft. This was the fourth of four additional P-8I..."
+        },
+        {
+            "headline": "Emirates Voices Serious Concerns About Boeing & Airbus Production Issues, Joining Qatar Airways Criticism",
+            "content": "Emirates is facing a dilemma with Boeing's (lack of) progress with the B777-900 program which was started 12 years ago on the behest of the Dubai-based carrier."
+        },
+        {
+            "headline": "Tata Group in Talks with Boeing, Airbus Over Air India Order",
+            "content": "Planemakers Boeing and Airbus have met executives from Tata Group to discuss future plane orders for Air India."
+        }
+    ],
+    "20220226": [
+        {
+            "headline": "Boeing is number one. Who are the other largest local employers?",
+            "content": "Boeing is number one. Who are the other largest local employers? By the numbers: here are the largest employers in Snohomish County. ... Here are the largest..."
+        },
+        {
+            "headline": "Southwest Boeing 737 Suffers Double Engine Damage After Bird Strike",
+            "content": "Southwest 737 suffers multiple bird strikes. Southwest Airlines Flight WN-350 on February 24th experienced multiple bird strikes during takeoff, causing damage..."
+        },
+        {
+            "headline": "A retired 757 is being turned into a flying fire truck",
+            "content": "For the first time, a Boeing 757 aircraft will be converted into a flying firefighting machine."
+        },
+        {
+            "headline": "Emirates may cancel Boeing 777X if delays extend beyond 2023 -report",
+            "content": "Dubai's Emirates could cancel an order for Boeing 777X passenger jets if the model's entry into service slips beyond the end of 2023."
+        },
+        {
+            "headline": "Western Global Airlines buys Boeing 777 Freighter",
+            "content": "Boeing y Western Global anunciaron pedido en firme de dos 777 Freighter, primeros cargueros de nueva producción para el operador de carga."
+        },
+        {
+            "headline": "First Time In A Decade: Icelandair Flies Passengers To Dominican Republic",
+            "content": "The first direct passenger flight from Iceland to the Dominican Republic in over a decade landed at Punta Cana International Airport this week."
+        },
+        {
+            "headline": "SpiceJet To Connect 3 Indian Cities With Bangkok, Thailand",
+            "content": "From March, the low-cost carrier will connect three Indian cities – New Delhi, Kolkata, and Mumbai – with Thailand's capital."
+        }
+    ],
+    "20220227": [
+        {
+            "headline": "The Boeing Documentary",
+            "content": "But what this documentary does so well is delineate the schism that ultimately led to the crashes. Boeing merged with the fading McDonnell Douglas, which itself..."
+        },
+        {
+            "headline": "This Is How China's C919 Compares to Boeing and Airbus' Narrowbodies",
+            "content": "China is hoping to begin deliveries of its first mainline airliner soon. Here's how the jet compares to its Boeing and Airbus competition."
+        },
+        {
+            "headline": "Check out these 6 retired Boeing 747 jumbo jets that have been converted into flightless tourist attractions and entertainment venues",
+            "content": "The iconic Queen of the Skies has been retired by many airlines, but the Boeing 747's legacy is kept alive as transformed hotels and dance clubs."
+        },
+        {
+            "headline": "SWISS equips entire Boeing 777-300ER fleet with AeroSHARK riblet films",
+            "content": "SWISS will equip its entire Boeing long-haul fleet with fuel-saving AeroSHARK surface technology (earlier post). Starting in the middle of the year,..."
+        },
+        {
+            "headline": "Airplane Art – Lufthansa Boeing 747-8i climbing out of Chicago O’Hare",
+            "content": "This week, we have a Lufthansa Boeing 747-8i climbing out of Chicago O'Hare as it begins the long trip back to Frankfurt Airport."
+        },
+        {
+            "headline": "6 Go Arounds – Jet Airways Boeing 737 Nearly Crash Story",
+            "content": "A Jet Airways 737-800 performed an unprecedented six go-arounds before landing safely on the seventh approach, albeit with insufficient fuel."
+        },
+        {
+            "headline": "Sunday Reads: Our Most Notable Stories This Week",
+            "content": "As we approach the end of February, it's time to take a look back at some of our most notable articles from the past seven days for the last time this month..."
+        },
+        {
+            "headline": "See Alaska's New Boeing 737 MAX 9 Paint Job; Orca, Livery",
+            "content": "Alaska unveiled its new Boeing 737 MAX 9 livery featuring the orca whale. Here's how the scene was designed and painted."
+        },
+        {
+            "headline": "Review: Qatar Airways Business Class Boeing 787-9 (MXP-DOH)",
+            "content": "Qatar Airways' new Boeing 787-9 business class offers an excellent hard product, with suites that have doors and direct aisle access."
+        }
+    ],
+    "20220228": [
+        {
+            "headline": "Opinion: Why The Next Year Will Be Crucial For Boeing",
+            "content": "The biggest question in the aviation industry today is whether Boeing will create a new jet, specifically a midmarket one."
+        },
+        {
+            "headline": "Norwegian Air leases 10 new Boeing MAX aircraft",
+            "content": "Norwegian Air has signed lease agreements with AerCap for 10 new Boeing 737-800 MAX 8 aircraft ahead of the European summer season of 2023, the airline said..."
+        },
+        {
+            "headline": "Thrustmaster TCA Yoke Pack Boeing Edition review: \"Become the ultimate world traveler\"",
+            "content": "Expensive, but fun. ... The TCA Yoke Pack makes flying some of the best planes in Microsoft Flight Simulator – the Boeings in particular, go figure – an absolute..."
+        },
+        {
+            "headline": "Norwegian to lease ten new Boeing 737 MAX 8 aircraft",
+            "content": "“The addition of these aircraft will help us achieving our target of building a larger, modern and more fuel-efficient fleet. This will in turn enable us to..."
+        },
+        {
+            "headline": "Hundreds of Irish-Owned Aircraft To Be Ordered Back From Russia",
+            "content": "Irish-owned aircraft on lease in Russia will be recalled by their owners as sanctions against Russia escalate. Major aviation lessors based in Ireland,..."
+        },
+        {
+            "headline": "Air Nauru introduces new livery with Boeing 737-700",
+            "content": "The airline Air Nauru has entered the fleet with the first Boeing 737-700. At the same time, a new livery was introduced. This has a much more modern design..."
+        },
+        {
+            "headline": "Seeking normalcy , Norwegian Air Shuttle signed Lease agreement with AerCap for Ten New Boeing 737 MAX 8 Aircraft and Eight Boeing 737-800 NG Aircraft .",
+            "content": "AerCap Holdings today announced that it has signed agreements with Norwegian Air Shuttle ASA for the lease of ten new Boeing 737 MAX 8 aircraft and eight..."
+        },
+        {
+            "headline": "Norwegian leases 10 new Boeing 737 MAX 8 and 8 Boeing 737-800 aircraft",
+            "content": "Norwegian has a long-standing relationship with AerCap, the world's largest aviation leasing company. The signed lease agreements for 10 Boeing 737 MAX 8..."
+        },
+        {
+            "headline": "Inside the unusual aspects of Swiss’ new ZIM premium economy -",
+            "content": "Swiss is rolling out its newly unveiled premium economy cabin at speed, with all of its Boeing 777 routes to offer the new ZIM seats by the end of May."
+        },
+        {
+            "headline": "Norwegian to lease ten new Boeing 737 MAX 8 aircraft",
+            "content": "Norwegian continues to expand its aircraft fleet and has entered into agreements with AerCap to lease aircraft, of which ten are new Boeing 737 MAX 8,..."
+        }
+    ],
+    "20220301": [
+        {
+            "headline": "Boeing is Building Wideband Global SATCOM (WGS)-11+ Satellite Using Advanced Techniques to Deliver Unrivaled Capability at \"Record-Breaking Speed\"",
+            "content": "Boeing has begun building the latest version of the Wideband Global SATCOM satellite system, WGS-11+, using advanced techniques to effectively integrate the..."
+        },
+        {
+            "headline": "Boeing and Ford suspend operations in Russia. (Published 2022)",
+            "content": "Boeing and Ford suspend operations in Russia. The U.S. manufacturing companies are the latest to shut down offices and factories since Russia invaded Ukraine."
+        },
+        {
+            "headline": "Boeing suspends Moscow engineering center and halts support to Russian airlines",
+            "content": "Boeing announced it has temporarily suspended major operations in Russia, including at its Moscow Design Center where it employs more than 1000 engineers."
+        },
+        {
+            "headline": "Boeing increases use of 3D printing to speed up production of WGS military satellite",
+            "content": "Boeing is 3D printing more than a thousand parts for WGS-11+, a new communications satellite it is producing for the US Space Force."
+        },
+        {
+            "headline": "Boeing Halts Support For Russian Airlines",
+            "content": "Boeing has suspended support of Russian airlines operating its products, including spare parts sales and engineering services, adding to previously..."
+        },
+        {
+            "headline": "Boeing to demonstrate its defence capabilities at WDS 2022",
+            "content": "Boeing will be exhibiting its advanced range of defence technologies, products, and service capabilities at the first edition of the Saudi World Defense Show (..."
+        },
+        {
+            "headline": "Inside the most insane, extravagant converted Boeing 747 planes around the world",
+            "content": "A number of former Boeing 747 jets have been given a new lease of life in recent years and turned into hotels, party pads and cafes."
+        },
+        {
+            "headline": "Airline review: Delta Air Lines Boeing 737-900, economy class, New York to Cancun",
+            "content": "Delta is more than my favourite US airline, it's a brand I love and choose to fly often. It is consistently awarded top marks for service and customer loyalty."
+        },
+        {
+            "headline": "Olympus Airways Retires Its Boeing 757 Jets",
+            "content": "Olympus Airways Retires Its Boeing 757 Jets ... Greek charter airline Olympus Airways has retired its two Boeing 757-200PCFs as its looks to build its fleet..."
+        },
+        {
+            "headline": "Hydrogen evangelist",
+            "content": "Paul Eremenko is firmly in the first camp. His 70-person startup Universal Hydrogen has taken its first concrete steps toward creating a hydrogen fuel..."
+        }
+    ],
+    "20220302": [
+        {
+            "headline": "Boeing suspends parts, maintenance and support for Russian airlines",
+            "content": "U.S. airplane manufacturer Boeing Co said on Tuesday it was suspending parts, maintenance and technical support for Russian airlines as well as major..."
+        },
+        {
+            "headline": "Putting our best fleet forward: Alaska Airlines recalibrates Boeing 737-9 order - Mar 2, 2022",
+            "content": "Alaska Airlines announced plans today to broaden our mainline fleet by adjusting our current 737-9 aircraft order with Boeing to include the bigger 737-10 and..."
+        },
+        {
+            "headline": "Boeing reliance on Russia underscores aerospace industry’s failure to have it all",
+            "content": "The western civil and defense aerospace business has long believed that Russia could be its customer, supplier and adversary to its patron governments."
+        },
+        {
+            "headline": "Airbus and Boeing to halt supply of aircraft parts to Russian airlines",
+            "content": "Airbus and Boeing to halt supply of aircraft parts to Russian airlines ... Airbus has joined Boeing in halting the supply of aircraft parts and services to..."
+        },
+        {
+            "headline": "Alaska Airlines opts to upgrade its Boeing order to larger 737 MAXs",
+            "content": "Alaska Airlines announced Wednesday that it will switch part of its order for the jet from the MAX 9 to the larger MAX 10."
+        },
+        {
+            "headline": "Boeing deploys 3D printing to halve the lead time of US Space Force asset",
+            "content": "Boeing has begun using 3D printing to ramp up its production of the Wideband Global SATCOM 'WGS-11+' satellite for the US Space Force."
+        },
+        {
+            "headline": "Boeing Suspends Moscow Engineering Center and Halts Support to Russian Airlines",
+            "content": "A Boeing memo to employees on Monday quoted Sergey Kravchenko, president of Boeing Russia who also heads up operations in Ukraine and the former Soviet..."
+        },
+        {
+            "headline": "In First Appearance Since Ukraine, Airbus, Boeing Maintain Rate Optimism",
+            "content": "Despite Russia's invasion of Ukraine adding to a panoply of issues facing the aerospace industry, executives from Boeing and Airbus told the Aviation Week..."
+        },
+        {
+            "headline": "When Did Each Boeing 737 Variant Enter Service?",
+            "content": "The first aircraft, the mid-sized 737-700 entered service with Southwest Airlines in December 1997. The smaller 737-600 and the larger stretched 737-800 both..."
+        },
+        {
+            "headline": "Can China’s Comac C919 Compete With the Boeing 737 and Airbus A320?",
+            "content": "The C919, by comparison, has a capacity of upwards of 174 seats and a range of over 2,200 nautical miles — meaning it can operate medium-haul flights, such as..."
+        }
+    ],
+    "20220303": [
+        {
+            "headline": "Boeing Commits US$2 Million to Support Humanitarian Response in Ukraine",
+            "content": "Boeing Commits US$2 Million to Support Humanitarian Response in Ukraine · $1,000,000 to CARE to assist with food, water and hygiene kit distribution as well as..."
+        },
+        {
+            "headline": "Boeing buys 2 million gallons of aviation biofuel",
+            "content": "Made in part from agricultural waste, the fuel will power Boeing test flights and airplane deliveries in Everett and elsewhere."
+        },
+        {
+            "headline": "Boeing to 'strictly adhere' to restrictions on operating in Russia -CEO",
+            "content": "Boeing Co will strictly adhere to the export controls and restrictions that have been announced governing work in Russia, the U.S. airplane manufacturer's..."
+        },
+        {
+            "headline": "Who's getting Boeing bonuses in WA this week, and how much they can expect",
+            "content": "Boeing is paying out $1.1 billion in annual bonuses, $485 million of it in Washington state. Rank-and-file workers got bonuses above target."
+        },
+        {
+            "headline": "Boeing to Deliver Anti-Ship Missile Launch Equipment to Taiwan Under $498M FMS Order",
+            "content": "Boeing to Deliver Anti-Ship Missile Launch Equipment to Taiwan Under $498M FMS Order ... Boeing (NYSE: BA) will produce Harpoon anti-ship system equipment for..."
+        },
+        {
+            "headline": "A Look At The Battery Issues That Grounded The Boeing 787 In 2013",
+            "content": "What went wrong with the batteries? The review focussed on the 787s lithium-ion batteries for the APU. Initially, it was thought that overvoltage caused heating..."
+        },
+        {
+            "headline": "Russia discusses nationalization of its Boeing, Airbus fleets: reports",
+            "content": "The Ministry of Transport of the Russian Federation has been in discussions with the country's largest airlines regarding the potential nationalization of..."
+        },
+        {
+            "headline": "A Boeing 787-10 HGW, how good is it? Part 2",
+            "content": "We looked at the predicted performance of a new version of Boeing's 787-10 with an increased Gross Weight as announced by Boeing (called 787-10 HGW by us)."
+        },
+        {
+            "headline": "Airbus and Boeing pull out of Russia in major blow to country’s aviation industry",
+            "content": "Airbus and Boeing pull out of Russia in major blow to country's aviation industry · 'In line with international sanctions now in place, Airbus has suspended..."
+        },
+        {
+            "headline": "Boeing 3D Prints Components for U.S. Space Force Satellite",
+            "content": "After using 3D printing to design various prototyping and end-use parts, the aerospace giant is now 3D printing components for US satellites. Specifically,..."
+        }
+    ],
+    "20220304": [
+        {
+            "headline": "Boeing and Ethiopian Airlines Sign Memorandum of Understanding for New 777-8 Freighter",
+            "content": "Boeing and Ethiopian Airlines announced the signing of a Memorandum of Understanding with the intent to purchase five 777-8 Freighters."
+        },
+        {
+            "headline": "Boeing S-307 Stratoliner prototype crashes near Alder in Pierce County, killing 10, on March 18, 1939.",
+            "content": "The aircraft unintentionally stalls, goes into a flat spin and crashes into a ravine near Alder, a former logging town in Pierce County, 40 miles southeast of..."
+        },
+        {
+            "headline": "EXCLUSIVE Boeing aims to nearly double 737 MAX production by end-2023 -sources",
+            "content": "Boeing Co has preliminary plans to boost production of its cash cow 737-family narrowbody to around 47 per month by the end of next year,..."
+        },
+        {
+            "headline": "Etihad is Bringing Jeppesen FliteDeck Advisor to Boeing 787 Fleet",
+            "content": "FliteDeck Advisor is Jeppesen's mobile application that is capable of providing pilots with real-time, tail-specific, in-flight advisories to improve flight..."
+        },
+        {
+            "headline": "Ethiopian Airlines says it intends to buy 5 Boeing 777-8 freighters",
+            "content": "Boeing (NYSE: BA) specifications show the 777-8 has a payload capacity nearly identical to the legacy 747-400 freighter with a 30% improvement in fuel..."
+        },
+        {
+            "headline": "Boeing wins half-billion-dollar order for Taiwan coastal defense based on Harpoon radar-guided missiles",
+            "content": "HCDS is the land-based version of the Boeing Harpoon missile to eliminate enemy coastal defenses, missile launch sites, aircraft, ports, and ships."
+        },
+        {
+            "headline": "Air Force One replacement facing additional delays, up to 17 months late: sources",
+            "content": "Two sources with knowledge of the program told Breaking Defense that Boeing now projects the VC-25B program will run 17 months behind schedule."
+        },
+        {
+            "headline": "Boeing Stock: Worth Considering in Times of War",
+            "content": "Invest with Confidence: ... Currently, its stock is down 18% year-over-year and about 8% year-to-date. With all the ongoing conflict between Russia and Ukraine..."
+        },
+        {
+            "headline": "Boeing has been on the ropes many times",
+            "content": "Boeing has been on the ropes many times ... Boeing the US aerospace giant is certainly on the ropes battling 787 production issues as well as 777X certification..."
+        },
+        {
+            "headline": "Alaska Airlines diversifies order of 145 Boeing MAX aircraft",
+            "content": "Alaska Airlines announced plans to broaden its fleet by adjusting its current 737 MAX 9 aircraft order, according to a recent company update made public on..."
+        }
+    ],
+    "20220305": [
+        {
+            "headline": "With all-composite cryogenic tank, Boeing eyes mass-reducing space, aviation applications",
+            "content": "With all-composite cryogenic tank, Boeing eyes mass-reducing space, aviation applications ... After a series of DARPA-supported tests of an all-composite..."
+        },
+        {
+            "headline": "Air Transport Associates passenger plane crashes upon takeoff from Bo",
+            "content": "The aircraft crashes into Georgetown, a residential area south of Seattle, killing two passengers aboard the aircraft and five men in a rooming house. Seven..."
+        },
+        {
+            "headline": "Ethiopian Airlines signs agreement for Boeing 777-8F",
+            "content": "Ethiopian Airlines has signed an agreement with Boeing for the manufacturer's newest freighter model, the Boeing 777-8F."
+        },
+        {
+            "headline": "Why Air India Isn't Using Its Boeing 747s For Evacuation Flights",
+            "content": "Why Air India Isn't Using Its Boeing 747s For Evacuation Flights ... The Indian government is currently engaged in a massive mission to evacuate thousands of its..."
+        },
+        {
+            "headline": "Boeing builds reusable all-composite cryogenic propellant tank",
+            "content": "A new type of large, fully composite, linerless cryogen tank, designed and manufactured by Boeing, recently completed a series of critical tests at NASA's..."
+        },
+        {
+            "headline": "Ethiopian Airlines plans purchasing five Boeing 777-8 Freighters",
+            "content": "Ethiopian Airlines has expressed its plan to purchase five Boeing 777-8 Freighters, the industry's newest, most capable and “most fuel-efficient twin-engine..."
+        },
+        {
+            "headline": "Boeing aims to nearly double 737 MAX production by end",
+            "content": "Boeing Co has preliminary plans to boost production of its cash cow 737-family narrowbody to around 47 per month by the end of next year,..."
+        },
+        {
+            "headline": "Peninsular Air Transport charter plane crashes upon takeoff from Boei",
+            "content": "Peninsular Air Transport charter plane crashes upon takeoff from Boeing Field, killing 28 and injuring 46, on November 17, 1955. By Daryl McClary..."
+        },
+        {
+            "headline": "Ethiopian Airlines Picks The Boeing 777X Freighter With MOU For 5",
+            "content": "Ethiopian Airlines Picks The Boeing 777X Freighter With MOU For 5 ... Boeing and Ethiopian Airlines have signed a Memorandum of Understanding (MoU) for five 777-8..."
+        },
+        {
+            "headline": "Boeing and Ethiopian Airlines Sign Memorandum of Understanding for New 777-8 Freighter",
+            "content": "Boeing (NYSE: BA) and its longstanding customer Ethiopian Airlines today announced the signing of a Memorandum of Understanding (MoU) with the intent to..."
+        }
+    ],
+    "20220306": [
+        {
+            "headline": "Seattle Air Charter passenger plane crashes upon takeoff from Boeing Field, killing 14, on January 2, 1949.",
+            "content": "A Seattle Air Charter DC-3C, carrying 27 Yale University students, home for the Christmas holidays, veers off the runway on takeoff, crashes into an aircraft..."
+        },
+        {
+            "headline": "Boeing Looking To Double 737 MAX Production By End Of Next Year",
+            "content": "Boeing plans to ramp back up production of its 737 MAX production line from 27 jets to 47 jets per month by the end of 2023."
+        },
+        {
+            "headline": "Ethiopian Airlines signs agreement for five new Boeing 777-8 freighters",
+            "content": "Ethiopian Airlines, Africa's largest aviation group, has signed an initial agreement with Boeing to order five of its newest freighter jets, the 777-8s."
+        },
+        {
+            "headline": "Boeing and Ethiopian sign a memorandum for the new freighter 777-8",
+            "content": "Boeing y Ethiopian Airlines, announced the signing of a Memorandum of Understanding (MoU) intending to buy five 777-8 freighters."
+        },
+        {
+            "headline": "New Air Force One Running 17 Months Behind Schedule",
+            "content": "Boeing has assessed that the new Air Force One project is running 17 months behind schedule, putting delivery in the mid-2025 timeframe."
+        },
+        {
+            "headline": "United Boeing 787-9 Economy Review: Chicago To LA",
+            "content": "Not too much. United's 787-9 economy class is laid out in standard 3-3-3 configuration, with 188 seats in total. However, not all seats are built equal, with..."
+        },
+        {
+            "headline": "How A Tree Nearly Made A Boeing 737 Fall In Colombia",
+            "content": "A Boeing 737-200 almost suffered an accident in Colombia last month after hitting a tree while departing."
+        },
+        {
+            "headline": "Aeroitalia Looking To Launch Services With Boeing 737-800 Jets",
+            "content": "Within the span of a year Italy will have two new airlines. We know about ITA Airways. But what do we know about Aeroitalia?"
+        },
+        {
+            "headline": "Flight Review: Virgin Australia's Boeing 737-800 Business Class",
+            "content": "This review road tests the current Boeing 737-800 Virgin Australia business class offering on a recent mid-morning flight from Adelaide to Sydney."
+        },
+        {
+            "headline": "Russia: How Many Planes Will Be Undelivered Due To Sanctions?",
+            "content": "As Boeing, Airbus, and Embraer all pull out of supplying Russian airlines with planes and parts, all three are staring down the barrel of a potentially empty..."
+        }
+    ],
+    "20220307": [
+        {
+            "headline": "Boeing suspends Russian titanium as Airbus keeps buying",
+            "content": "Boeing Co said on Monday it had suspended buying titanium from Russia, while its European rival Airbus continues to use supplies from the nation that hosts..."
+        },
+        {
+            "headline": "Boeing Halts Russian Titanium Buys",
+            "content": "Boeing has suspended buying titanium from Russia. Titanium producer VSMPO-Avisma has been a Boeing partner and supplier of raw material and titanium parts."
+        },
+        {
+            "headline": "Taking over the skies, one Boeing 767 at a time: Meet Taylor Montgomery",
+            "content": "Historically, women make up just six percent of the pilot workforce, a staggeringly uneven statistic for the aviation industry. Female pilots, simply put,..."
+        },
+        {
+            "headline": "WSJ News Exclusive | Boeing’s Big Bet on Russian Titanium Includes Ties to Sanctioned Oligarch",
+            "content": "Plane maker has suspended buying the metal from Russia but must still deal with ties with company linked to sanctioned oligarch and Putin ally."
+        },
+        {
+            "headline": "Boeing halts Russian titanium purchases as Airbus keeps buying",
+            "content": "Boeing halted buying titanium from Russia in response to the invasion of Ukraine. Boeing buys metals from other nations and has been stockpiling metal..."
+        },
+        {
+            "headline": "S.A.F.E. delivers custom Boeing CH-47 fall protection platforms",
+            "content": "Without impedances to critical areas on the aircraft, these platforms allow for maintenance access to all required areas when performing depot level overhauls..."
+        },
+        {
+            "headline": "Boeing Might Have a Russian Titanium Problem",
+            "content": "A lot of titanium metal ends up on modern jets. Much of it is supplied from Russia, though Boeing says it has enough of the metal."
+        },
+        {
+            "headline": "Ethiopian Airlines signs MoU for five Boeing 777X freighters",
+            "content": "Ethiopian Airlines is the latest carrier to sign a Memorandum of Understanding (MoU) for the purchase of five Boeing 777X freighters."
+        },
+        {
+            "headline": "Ethiopian Airlines signs MoU with Boeing for five 777-8 Freighters",
+            "content": "Ethiopian Airlines has signed a Memorandum of Understanding (MoU) with Boeing to purchase five 777-8 Freighters."
+        },
+        {
+            "headline": "Etihad Airways selects Boeing's digital solution to optimize 787 efficiency",
+            "content": "During a trial on several of its 787 Dreamliners, the airline found that the digital solution delivered cruise fuel savings of 1.4%, saving an average of..."
+        }
+    ],
+    "20220308": [
+        {
+            "headline": "Boeing demos MOSA progress on Apache",
+            "content": "Boeing recently used its Crewstation Advanced Technology Testbed to demonstrate progress toward implementing a Modular Open Systems Approach, or MOSA, on the AH..."
+        },
+        {
+            "headline": "DHL commits to buy 6 more 777 cargo jets from Boeing",
+            "content": "With nonstop growth in global e-commerce volumes and corporate interest in reducing its greenhouse gas emissions, DHL Express is investing once again in new..."
+        },
+        {
+            "headline": "Open aircraft, 'Plane Talks' return to National Museum of the U.S. Air Force for Vietnam V",
+            "content": "Visitors have a chance to peek inside the Republic P-47D Thunderbolt and Messerschmitt Bf 109G-10 on Saturday, Mar. 12 from 11:00 am to 3:00 pm."
+        },
+        {
+            "headline": "Boeing Isn't Worried About A Lack Of Russian Titanium",
+            "content": "Boeing revealed on Monday that it would no longer look to Russia for its titanium requirements, suspending a contract with VSMPO-AVISMA. The Russian-based..."
+        },
+        {
+            "headline": "Boeing's airplane deliveries slipped in February as Dreamliner problem lingers",
+            "content": "Boeing's airplane deliveries slipped in February as Dreamliner problem lingers · Boeing delivered 22 planes to customers in February, its fewest since August."
+        },
+        {
+            "headline": "MDA To Extend Boeing GMD Contract Through Late 2024",
+            "content": "The Missile Defense Agency is getting ready to extend Boeing's development and sustainment contract (DSC) for the Ground-Based Midcourse Defense (GMD)"
+        },
+        {
+            "headline": "Aventure acquires second Copa Airlines Boeing 737NG for teardown",
+            "content": "Aventure acquires second Copa Airlines Boeing 737NG for teardown ... Aventure Aviation has acquired a second Boeing 737NG, MSN 30460, recently retired by Copa..."
+        },
+        {
+            "headline": "‘No better than North Korea’: Russian aviation faces wipeout",
+            "content": "Russians are facing a future with little or no international air travel amid the ostracisation of its aviation sector."
+        },
+        {
+            "headline": "Saudi Chinook delivery on schedule, Boeing turns eyes to F-15 upgrades",
+            "content": "The first delivery of CH-47 Chinook helicopters to Saudi Arabia will go on as scheduled this year, and a Boeing official tells Breaking Defense that the..."
+        },
+        {
+            "headline": "DHL Express orders seven more 777 Freighters",
+            "content": "DHL Express and Boeing have announced an order for six additional 777 Freighters and the purchase takes DHL Express' order book total to 28 777 Freighters."
+        }
+    ],
+    "20220309": [
+        {
+            "headline": "Boeing may ask Congress to extend MAX 10 exemption from safety rule",
+            "content": "Boeing and Congress say the jetmaker may not get the largest 737 MAX variant, the MAX 10, through FAA certification in time to hit a crucial deadline."
+        },
+        {
+            "headline": "U.S. FAA finalizes Boeing 777 safety directives after fan blade failures",
+            "content": "The Federal Aviation Administration (FAA) said on Wednesday it is finalizing three safety directives for some grounded Boeing 777 planes with Pratt & Whitney..."
+        },
+        {
+            "headline": "FlightRadar24's Most Tracked Plane Now: A Look At The Boeing RC-135",
+            "content": "A 59-year-old Boeing RC-135W 'Rivet Joint' registered as 62-4130 briefly held the top spot among the most-tracked aircraft on FlightRadar24.com."
+        },
+        {
+            "headline": "Boeing receives another DHL 777 freighter order",
+            "content": "Since placing its first direct order for today's largest and most capable twin-engine freighter in 2018, DHL Express has purchased a total of 28 777..."
+        },
+        {
+            "headline": "DHL Express places order for six additional 777 freighter from Boeing",
+            "content": "DHL Express has placed an order for an additional six 777 freighters from Boeing. This takes DHL Express' total orders of the twin-engine freighter to 28."
+        },
+        {
+            "headline": "Boeing's Building a Powerful Laser, Patent Reveals Its Secrets",
+            "content": "A newly disclosed United States Patent and Trademark Office (USPTO) filing shows it. Here's how this new technology will work and what use cases it might have."
+        },
+        {
+            "headline": "List of companies leaving Russia: Boeing suspends support for Russian airlines, Exxon quits oil project; Ikea, Disney dial back",
+            "content": "A growing number of international companies, including Apple, Disney and Ford, are dialing back operations in Russia over its invasion of Ukraine."
+        },
+        {
+            "headline": "Aviation Enthusiast Builds an Incredible Boeing 737 Flight Simulator at Home",
+            "content": "One aviation enthusiast has created the next best alternative. As you can see, it fits snugly in a standard room and the enclosure itself is powered by a PC."
+        },
+        {
+            "headline": "Boeing and Ethiopian sign memorandum for five new 777-8F Freighters",
+            "content": "Boeing and Ethiopian Airlines announce the signing of a Memorandum of Understanding (MoU) with the intention to purchase five 777-8 Freighters."
+        },
+        {
+            "headline": "DHL orders more B777s while forwarding loses top spot in air cargo",
+            "content": "DHL Express has placed an order for six additional 777 freighters from Boeing as Deutsche Post DHL Group closed 2021 with record earnings."
+        }
+    ],
+    "20220310": [
+        {
+            "headline": "Supply Chain Challenges Impact Boeing 737 MAX Production",
+            "content": "Supply Chain Challenges Impact Boeing 737 MAX Production ... Supply chain problems are slowing the delivery of already delayed jets at Boeing. The US aircraft..."
+        },
+        {
+            "headline": "FAA Mandates Safety Measures for Boeing Following Reports of Failing Parts",
+            "content": "The trouble was caused by a failure of the aircraft's right engine, according to the FAA. Passengers posted harrowing videos online showing the engine catching..."
+        },
+        {
+            "headline": "Ethiopian Airlines orders 5 Boeing 777 freighters -sources",
+            "content": "Ethiopian Airlines (ETHA.UL) has emerged as the unidentified buyer of five Boeing current-generation 777 freighters reported this week, two people familiar..."
+        },
+        {
+            "headline": "Singapore Airlines to operate Boeing 777F for DHL Express",
+            "content": "Singapore Airlines will operate five current-generation Boeing 777F for DHL. This agreement includes crew and maintenance."
+        },
+        {
+            "headline": "Ronald Reagan Presidential Library: Go on board a Boeing 707 and former Air Force One jet",
+            "content": "In a huge glass-fronted pavilion, suspended high above the ground on concrete pillars, sits a Boeing 707, which appears as if it is about to become airborne..."
+        },
+        {
+            "headline": "DHL increases Boeing 777F order",
+            "content": "The logistics group DHL Express has increased an existing large order by six more Boeing 777F. A total of 28 aircraft of this type are awaiting delivery."
+        },
+        {
+            "headline": "Britain Imposes Sanctions on Roman Abramovich’s $2.6 Billion Empire, Check Out His Assets",
+            "content": "Roman Abramovich is the latest Russian oligarch to be slapped with sanctions amid Russia's attack on Ukraine, and they apply to his assets which are estimated..."
+        },
+        {
+            "headline": "Travel experts put KLM's Boeing 777 business class head-to-head with its economy cabin",
+            "content": "Travel experts put KLM's Boeing 777 business class head-to-head with its economy cabin offering on a flight to Dubai (and it's not great at the back)"
+        },
+        {
+            "headline": "Revealed: The Top Boeing 747 Airlines Of The 2010s",
+            "content": "We've used schedule data from aviation data experts Cirium to reveal the top ten users of the Boeing 747 for passenger services between January 2010 and..."
+        },
+        {
+            "headline": "DHL Express Orders Six Boeing 777 Freighters",
+            "content": "DHL Express has placed an order with Boeing for six additional 777 Freighters. The purchase takes DHL Express' order book total to 28 B777 Freighters since..."
+        }
+    ],
+    "20220311": [
+        {
+            "headline": "Despite Boeing woes, top executives get big paychecks",
+            "content": "Boeing's annual proxy filing on Friday shows the top executives did all right. They took home millions of dollars in cash pay, and the board granted them large..."
+        },
+        {
+            "headline": "EXCLUSIVE Boeing tests suppliers on 787 output hikes -sources",
+            "content": "Boeing Co is yet to see any respite from a freeze in deliveries of its 787 Dreamliner - but that has not stopped it testing suppliers' capacity to meet..."
+        },
+        {
+            "headline": "US Awards Boeing $500 Million Taiwan Harpoon Contract",
+            "content": "The US Naval Air Systems Command has awarded Boeing a $498 million Harpoon Coastal Defense System (HCDS) contract for Taiwan."
+        },
+        {
+            "headline": "Drzewiecki Design releases Renton Municipal Airport for MSFS with fully modeled and animated Boeing factory",
+            "content": "Drzewiecki Design releases Renton Municipal Airport for MSFS with fully modeled and animated Boeing factory ... Drzewiecki Design is out this week with a very..."
+        },
+        {
+            "headline": "Grounded Boeing 777s Could Soon Fly Again As FAA Finalizes Directives",
+            "content": "Three safety directives. In February 2021, a United Airlines Boeing 777-200 suffered an uncontained engine failure shortly after leaving Denver on-route to..."
+        },
+        {
+            "headline": "New regulation for aircraft certification could affect Boeing's plans with the 737 MAX 10",
+            "content": "Boeing plans to obtain certification for its new 737 MAX 10 aircraft by the end of this year, but some factors may cause."
+        },
+        {
+            "headline": "Boeing to rebuild six more Chinooks for USSOCOM",
+            "content": "US approves $203 million sale of Hellfire missiles for French Tiger helicopters. Boeing is to provide six more remanufactured MH-47G Chinook helicopters to US..."
+        },
+        {
+            "headline": "13 Dallas Aerospace Companies Taking to the Stars and the Skies",
+            "content": "Humans share a collective tradition of exploration, one that has been made possible to continue building upon due to the work of the aerospace industry."
+        },
+        {
+            "headline": "Five DHL Boeing 777 freighters to be operated by Singapore Airlines under CM agreement",
+            "content": "This agreement marks a further step in DHL Express' expansion of its intercontinental air network. DHL Express to deploy five Boeing 777 freighters with..."
+        },
+        {
+            "headline": "Singapore Airlines Pilots To Fly DHL Boeing 777 Freighters",
+            "content": "DHL is teaming up with Singapore Airlines to base five Boeing 777 freighters in Singapore and use SQ pilots and ground crews to keep the planes flying."
+        }
+    ],
+    "20220312": [
+        {
+            "headline": "SIA To Operate 5 Boeing 777 Freighter Planes on Behalf of DHL Express",
+            "content": "Singapore Airlines (SIA) will begin operating five freighter aircraft on behalf of DHL Express by the end of next year, as it aims to expand its presence in..."
+        },
+        {
+            "headline": "Is Boeing 787 Production About To Restart?",
+            "content": "At the moment, 787 production is at (or slightly under) two aircraft per month, Boeing maintaining key workforce in place. Officially, the manufacturer is..."
+        },
+        {
+            "headline": "Boeing may ask Congress to extend Max 10 exemption from safety rule",
+            "content": "Boeing and Congress say the jetmaker may not get the largest 737 Max variant, the Max 10, through FAA certification in time to hit a crucial deadline."
+        },
+        {
+            "headline": "'Disturbing' secret behind plane plunges",
+            "content": "The circumstances around the crashes are explored in a Netflix documentary called Downfall: The Case Against Boeing. It could change the way passengers feel..."
+        },
+        {
+            "headline": "With 6 Destinations Jordan Has Never Seen So Many Seats To North America",
+            "content": "It'll be a record summer. Royal Jordanian will serve Toronto and grow Chicago and Detroit, while United Airlines will launch Washington to Amman."
+        }
+    ],
+    "20220313": [
+        {
+            "headline": "Supplier Talks Underway As Boeing Eyes 787 Deliveries Resumption",
+            "content": "Boeing is talking to suppliers as it tries to reboot its 787 Dreamliner production after a long-running pause."
+        },
+        {
+            "headline": "Photos: See the Retired Boeing 747s Converted Into Tables, Clocks, Art",
+            "content": "An English design company is turning retired Boeing 747 planes into things like cocktail tables, clocks, and wall art — take a look at Aerotiques."
+        },
+        {
+            "headline": "Wing42 finally reveals Boeing 247D release date and pricing",
+            "content": "This “new” old Boeing be out in less than a month, on April 2, but it will also come at a surprisingly low price for such a highly-detailed aircraft: just $19...."
+        },
+        {
+            "headline": "Jetstar's First Flight To Bali In Two Years Takes Off",
+            "content": "Jetstar is resuming flights to Bali on Monday, with the first Boeing 787-8 in two years departing Melbourne for the popular Indonesian island."
+        },
+        {
+            "headline": "Bermuda Suspends Licences Of Over Half Of Russia's Airline Fleet",
+            "content": "Bermudian Civil Aviation Authority (BCAA) has provisionally suspended the Certificates of Airworthiness (CoA) of all Russian jets registered within the country."
+        },
+        {
+            "headline": "South Africa Indefinitely Suspends Comair's Air Operator Certificate",
+            "content": "South African airline Comair has had its Air Operator Certificate suspended by the South African Civil Aviation Authority (SACAA) as a precautionary measure."
+        }
+    ],
+    "20220314": [
+        {
+            "headline": "Arajet, New Airline in Caribbean, Orders 20 737 MAX Jets",
+            "content": "SANTO DOMINGO, Dominican Republic, March 14, 2022 /PRNewswire/ -- Boeing [NYSE: BA] and Arajet announced today the new Caribbean airline has ordered 20 737..."
+        },
+        {
+            "headline": "Boeing to convert more 767 jets to freighters for ATSG",
+            "content": "It has reserved four additional production slots with Boeing to convert 767-300 passenger jets into freighters, doubling its existing order with the..."
+        },
+        {
+            "headline": "767F faces production extinction; Boeing ponders 787F, market says",
+            "content": "Boeing's launch of the 777-8F program, with an entry-into-service of 2027, solves part of its freighter challenges. But it still faces the question of what to..."
+        },
+        {
+            "headline": "Caribbean airline Arajet orders 20 Boeing 737 MAXs",
+            "content": "Arajet, a new Caribbean airline, has ordered 20 of the Boeing 737 MAX aircraft and placed options for 15 additional planes, the aviation giant announced..."
+        },
+        {
+            "headline": "New Dominican carrier Arajet orders 20 Boeing 737 MAX jets",
+            "content": "Dominican Republic-based Arajet will expand its fleet by adding 20 Boeing 737 MAX 8 aircraft. In addition, the new ultra-low-cost carrier has options to..."
+        },
+        {
+            "headline": "I flew my first flight on the Boeing 737 MAX, after the Indian DGCA ungrounded them in 2021",
+            "content": "After the ungrounding, however, this past weekend, I was able to fly for the first time on the Boeing 737 MAX aircraft, this time on SpiceJet."
+        },
+        {
+            "headline": "KLM Boeing 787 Pushed Back Onto Runway After Using Wrong Exit In Kuwait",
+            "content": "A KLM Boeing 787-9 Dreamliner arriving in Kuwait from Amsterdam attempted to vacate the runway onto a closed taxiway, stranding passengers on the runway..."
+        },
+        {
+            "headline": "1st upgraded Apaches arrive for US troops overseas",
+            "content": "Two dozen Boeing AH-64E Version 6, or v6, Apache helicopters have been delivered to Camp Humphreys, South Korea, completing the first-ever receipt and fielding..."
+        },
+        {
+            "headline": "DHL Express and Singapore Airlines to deploy five Boeing 777 freighters",
+            "content": "DHL Express and Singapore Airlines to deploy five Boeing 777 freighters - read more about this with Parcel and Postal Technology International."
+        },
+        {
+            "headline": "The Dominican airline Arajet orders 20 Boeing 737 MAX",
+            "content": "Dominican Republic's new low-cost airline Arajet orders 20 Boeing 737 MAX adicionales previo al inicio de sus vuelos."
+        }
+    ],
+    "20220315": [
+        {
+            "headline": "Safran and Boeing Commercial Airplanes sign the renewal of their electrical wiring contracts",
+            "content": "Boeing Commercial Airplanes, a business unit of The Boeing Company, and Safran Electrical & Power, a world leader in aeronautical electrical systems,..."
+        },
+        {
+            "headline": "Boeing: why the Ukraine crisis could help it become the world’s number one aircraft maker again",
+            "content": "After two Boeing 737 Max crashes killed 346 people, the American aerospace giant was criticised for its “slow” and “defensive” handling of the crisis."
+        },
+        {
+            "headline": "Boeing 737 MAX jet headed toward China completion plant - sources",
+            "content": "A Boeing 737 MAX jet that took off from Seattle on Monday is en route to the manufacturer's completion plant in China, twoindustry sources said, in a sign..."
+        },
+        {
+            "headline": "In re Boeing: Revisiting Potential Director Liability Exposures",
+            "content": "The Delaware Court of Chancery most recently permitted claims against the Boeing board to survive a motion to dismiss, in a case that some commentators believe..."
+        },
+        {
+            "headline": "Airbus and Boeing Report February 2022 Commercial Aircraft Orders and Deliveries",
+            "content": "For 2022, Forecast International's analysts currently expect Boeing and Airbus to deliver 455 and 702 commercial jets, respectively. Compared to the 2021 level,..."
+        },
+        {
+            "headline": "Is Boeing Gearing Up To Resume 737 MAX Deliveries In China?",
+            "content": "The manufacturer has sent at least one aircraft meant for Shanghai Airlines to its completion center in Zhoushan."
+        },
+        {
+            "headline": "Boeing’s Millennium Space Systems Ships The USSF’s GEO Wide Field Of View Satellite For Launch",
+            "content": "This satellite was procured by the Space Systems Command to serve as testbed for Wide Field of View technologies in GEO orbit for the missile warning mission..."
+        },
+        {
+            "headline": "Boeing 737 MAX en route to China, first delivery in 3 years since fatal crashes",
+            "content": "The Boeing 737 MAX has been grounded in China for three years after two fatal crashes, but has conducted a number of earlier test flights."
+        },
+        {
+            "headline": "Permits issued for $109 million Boeing facility at Cecil",
+            "content": "The 365,623-square-foot hangar has a construction cost of $101.9 million and the utility plant is $7.08 million. Jacksonville-based Haskell is the contractor..."
+        },
+        {
+            "headline": "Boeing execs still take home big pay after company’s $4.3B loss",
+            "content": "The seven executives listed in Boeing's latest proxy statement had total combined compensation of more than $57 million, despite missing out on..."
+        }
+    ],
+    "20220316": [
+        {
+            "headline": "Boeing’s satellite communications payload for U.S. Space Force passes design review",
+            "content": "A satellite communication payload developed by Boeing for the US Space Force has passed a critical design review, the company announced March 16."
+        },
+        {
+            "headline": "Downfall: The case against Boeing review: Tragedy and broken trust",
+            "content": "Netflix's new film about recent Boeing plane crashes is a damning account of why the disasters happened and who was responsible."
+        },
+        {
+            "headline": "Maturity of Design of Protected Tactical SATCOM Prototype Validated in Review, Boeing Says",
+            "content": "Boeing said on March 16 that U.S. Space Force's Space Systems Command (SSC) recently validated the design maturity of the company's Protected Tactical."
+        },
+        {
+            "headline": "UW Baseball Looks To Tighten Score With WSU In 2022 Boeing Apple Cup Series",
+            "content": "Another installment of the ever-popular Boeing Apple Cup Series hits Husky Ballpark this weekend as the Washington baseball team (9-8) welcomes cross-state..."
+        },
+        {
+            "headline": "Jacksonville Aviation Authority, Boeing, Cecil Airport secure over $100 million in building permits",
+            "content": "A new hangar covering 365,623 square feet will be built at 5868 Approach Road. City building inspection officials approved the permits this month for the..."
+        },
+        {
+            "headline": "Boeing Co. executives still take home big pay after company’s $4.3B loss - Bizwomen",
+            "content": "The seven executives listed in Boeing's latest proxy statement had total combined compensation of more than $57 million, despite missing out on..."
+        },
+        {
+            "headline": "The World's Largest Converted Boeing 767 Operator Orders Even More",
+            "content": "ATSG, the world's largest operator of converted Boeing 767 aircraft, has placed an order to convert four more Boeing 767-300 aircraft into Boeing Converted..."
+        },
+        {
+            "headline": "Cabo Verde Airlines to Receive Boeing 737 from TAAG Angola",
+            "content": "It has been announced by the Ministries of Transport of Angola and Cabo Verde, that a Boeing 737-700 will be delivered from TAAG Angola Airlines to Cabo Verde..."
+        },
+        {
+            "headline": "Egypt receives the latest Boeing's F-15 - the Advanced Eagle",
+            "content": "Egypt will be persuaded and will receive the requested 4th generation F-15 Eagle fighters, BulgarianMilitary.com has learned."
+        },
+        {
+            "headline": "Hyd-based AZAD Engineering delivers aviation parts to Boeing",
+            "content": "Hyderabad, March 16: Hyderabad-based AZAD Engineering on Wednesday announced that it had delivered the first consignment of aviation parts to global..."
+        }
+    ],
+    "20220317": [
+        {
+            "headline": "Fire Department, EPG, Boeing rehearse spacecraft emergency landing",
+            "content": "Department of Emergency Services firefighters participate in emergency landing training for the Boeing CST-100 Starliner spacecraft module March 4 at Libby..."
+        },
+        {
+            "headline": "Boeing completes critical design review for protected satellite communications payload",
+            "content": "Boeing has achieved a key design milestone for a US Space Force satellite communication payload meant to protect against jamming."
+        },
+        {
+            "headline": "Boeing begins assembly of New Zealand’s first P-8A Poseidon",
+            "content": "Boeing has started the first phase of New Zealand's first P-8A Poseidon maritime patrol aircraft assembly. Boeing's P-8A team and Spirit AeroSystems..."
+        },
+        {
+            "headline": "Boeing Begins Build on New Zealand’s First P-8A Aircraft",
+            "content": "Four Boeing P-8A Poseidon maritime patrol aircraft will eventually replace New Zealand's current fleet of six aging P-3K2 Orion aircraft."
+        },
+        {
+            "headline": "Boeing and MT Aerospace expand transatlantic cooperation",
+            "content": "Boeing (NYSE: BA) and MT Aerospace AG, a subsidiary of OHB SE, have signed a further contract to supply structural components for NASA's Space Launch System (..."
+        },
+        {
+            "headline": "Aviation Capital Group delivers Boeing 737-8 Max to Icelandair",
+            "content": "Aviation Capital Group LLC (ACG) announced the delivery of one new Boeing 737-8 MAX aircraft on long-term lease to Icelandair."
+        },
+        {
+            "headline": "THAI engineers reassemble old Boeing engine that can be sold for THB100m",
+            "content": "An enterprising team of Thai Airways International engineers collected engine parts from decommissioned Boeing 747-400 planes and successfully reassembled..."
+        },
+        {
+            "headline": "Boeing to supply P-8A Poseidon training systems hardware to Korean Nav",
+            "content": "Boeing to supply P-8A Poseidon training systems hardware to Korean Navy."
+        },
+        {
+            "headline": "JMC Group wins contract for FLS tasks with Ryanair",
+            "content": "JMC Group has signed an agreement to support nine aircraft through the Boeing 737 Flight Length Sensitive (FLS) inspection programme with low-cost carrier,..."
+        },
+        {
+            "headline": "Opinion: Aerospace’s Titanium Headache",
+            "content": "The Russia titanium saga is the latest for a battered aerospace supply chain that has endured the Boeing 737 MAX grounding and the COVID crisis in recent years."
+        }
+    ],
+    "20220318": [
+        {
+            "headline": "EXCLUSIVE Boeing in talks for landmark Delta MAX order",
+            "content": "Boeing Co (BA.N) is edging towards a landmark order from Delta Air Lines (DAL.N) for up to 100 of its 737 MAX 10 jets."
+        },
+        {
+            "headline": "Delta Might Buy 737 MAX Jets. That Would Be a Big Win for Boeing.",
+            "content": "Reuters reported Friday that Delta Air Lines is consider an order of 100 737 MAX jets from commercial aerospace giant Boeing."
+        },
+        {
+            "headline": "Delta Air Lines close to order for 100 Boeing 737 MAX aircraft?",
+            "content": "Boeing is close to a major order Delta Air Lines for up to 100 Boeing 737 MAX 10 jets, according to sources Reuters reports."
+        },
+        {
+            "headline": "Delta Air Lines Could Be Preparing To Order 100 Boeing 737 MAX 10s",
+            "content": "Delta Air Lines is gearing up for a sizable order for the Boeing 737 MAX. The operator is in discussions for up to 100 units of the MAX 10."
+        },
+        {
+            "headline": "Boeing Jam-Resistant Satellite Payload Passes Design Review",
+            "content": "The PTS is a rapid prototyping effort to develop jam-resistant satellites for highly secure tactical communication focusing on military users in contested areas..."
+        },
+        {
+            "headline": "Former Boeing Test Pilot's Trial Begins On Fraud Charges Over 737 Max",
+            "content": "Mark Forkner went on trial in U.S. district court in Fort Worth on four charges of fraud. He is the only person facing criminal charges in the case,..."
+        },
+        {
+            "headline": "Trial for Former Boeing Test Pilot From Keller Accused in MAX Jet Debacle Begins Today in FTW",
+            "content": "Fort Worth (WBAP/KLIF) – A former Boeing test pilot from Keller accused of misleading federal air-safety regulators about the 737 MAX jets heads to court..."
+        },
+        {
+            "headline": "Boeing to enhance electronic warfare (EW) capabilities for Japan Super Interceptor jet fighter program",
+            "content": "WRIGHT-PATTERSON AFB, Ohio – Jet fighter designers at the Boeing Co. are enhancing electronic warfare (EW) capability to a major upgrade of Japan's F-15..."
+        },
+        {
+            "headline": "Russia's biggest cargo airline to suspend all Boeing flights",
+            "content": "Russia's biggest cargo airline Volga-Dnepr Group has suspended all flights using Boeing aircraft due to Western sanctions, it said on Friday."
+        },
+        {
+            "headline": "Boeing commences construction on New Zealand’s first P-8A aircraft",
+            "content": "The keel beam for New Zealand's first P-8A has been laid by Boeing P-8A team members and Spirit AeroSystems employees. This procedure, known as 'keeling,'"
+        }
+    ],
+    "20220319": [
+        {
+            "headline": "Why NASA's Boeing 747SP Is Currently In Chile",
+            "content": "NASA's Stratospheric Observatory for Infrared Astronomy (SOFIA) landed at the Santiago International Airport in Chile on March 18. The Boeing 747SP will..."
+        },
+        {
+            "headline": "The widebody wars: who were the Boeing 747’s biggest competitors? | Quiz",
+            "content": "The Boeing 747 was one of the most ambitious projects ever undertaken by American aerospace manufacturer, Boeing. Since its entry into service in the early..."
+        },
+        {
+            "headline": "Trip Report: Flying a 46-Year-Old Boeing 727 in Africa",
+            "content": "I traveled on Astral Cargo B727-200 flying from Nairobi, Kenya to Mogadishu, Somalia. The B727 freighter is 46 years old but still going strong."
+        },
+        {
+            "headline": "Additional Boeing 737s for Colombia",
+            "content": "Colombia already operates a fleet of three Boeing 737s. One, FAC0001 for presidential use, was taken on strength in 2005, and FAC1208 Atlas and FAC1209 Cronos,..."
+        },
+        {
+            "headline": "The Renewal Continues: A Look At Icelandair's New Boeing 737 MAX",
+            "content": "Icelandair's Boeing 737-8 MAX aircraft seat 160 passengers – 16 in business class (Saga Class) and 144 in economy, while the larger -9 variant seats 178."
+        },
+        {
+            "headline": "Boeing's Eagle-II fighter may join race for Indian Air Force contract",
+            "content": "Move may result in the US aircraft manufacturer pulling out Super Hornet from MRCA contest; tender value could be $15-20 billion."
+        },
+        {
+            "headline": "AirBridge Cargo Will Stop Flying Its Boeing 747s Over Russia Sanctions",
+            "content": "Two of Volga-Dnepr's subsidiaries have stopped flying."
+        },
+        {
+            "headline": "Unique: You Can Own Part Of A Retired Airbus Super Guppy",
+            "content": "Aviationtag is turning one of Airbus' Super Guppy aircraft into little tags to attach to your keys. Based on the Boeing 377 Stratocruiser."
+        }
+    ],
+    "20220320": [
+        {
+            "headline": "A magical AvGeek experience: Flying on the Lufthansa Boeing 747-8's upper deck",
+            "content": "Entering a Boeing 747 always feels like you're walking into a vast cathedral of modern engineering — it's huge! Not Airbus A380 huge, of course,..."
+        },
+        {
+            "headline": "Boeing's Australian-Produced Uncrewed Aircraft to be Named 'MQ-28A Ghost Bat'",
+            "content": "During 2022, the program will continue to accelerate the development and testing of the MQ-28A Ghost Bat, with a focus on sensor and missionisation capabilities..."
+        },
+        {
+            "headline": "Royal Air Maroc preparing tender for Boeing 737 replacement",
+            "content": "Royal Air Maroc is set to add new aircraft in the future. The airline will launch a tender to find a replacement for its existing 737 fleet."
+        },
+        {
+            "headline": "Boeing's Loyal Wingman drone is now officially the MQ-28A Ghost Bat",
+            "content": "Boeing's Loyal Wingman is officially the \"MQ-28A Ghost Bat.\" The new name marks the move out of experimental phase for the autonomous drone, which is the..."
+        },
+        {
+            "headline": "Wing42 Confirms Boeing 247D Release and Price",
+            "content": "Wing42 Confirms Boeing 247D Release and Price. The classic Boeing airliner will be yours this April for a great price. ... Aircraft developer Wing42 has confirmed..."
+        },
+        {
+            "headline": "11 Years In The Skies: Which Boeing 747-8s Have racked Up The Most Hours & Cycles?",
+            "content": "The largest variant of the \"Queen of the Skies\" is the Boeing 747-8. We'll see which aircraft have the most flight hours and flight cycles."
+        },
+        {
+            "headline": "How SpaceX Saves NASA $100 Million Per Flight",
+            "content": "Eight years ago, the business of space changed. In 2014, NASA tapped SpaceX and Boeing (BA -1.68%) to build two new human-rated spacecraft, the Crew Dragon..."
+        },
+        {
+            "headline": "Boeing To Offer World’s Fastest, Heavy-Duty Fighters To India That Can Outclass Chinese J-16s In Mountain Warfare",
+            "content": "F-15EX For India. The F-15EX is the most recent model of the F-15 air superiority fighter, which initially took to the skies in 1972. Externally, the F-15EX is..."
+        }
+    ],
+    "20220321": [
+        {
+            "headline": "Boeing’s Australian-Produced Uncrewed Aircraft to be Named ‘MQ-28A Ghost Bat’",
+            "content": "Boeing's Australian-Produced Uncrewed Aircraft to be Named 'MQ-28A Ghost Bat' - Australian Government, RAAF unveil official designator and name for the..."
+        },
+        {
+            "headline": "A 737 crashed in China. What we know about the plane",
+            "content": "A Boeing 737 carrying 132 people crashed early Monday in China. Although Boeing's 737 has faced extraordinarily high-profile safety concerns over the past..."
+        },
+        {
+            "headline": "Boeing 737 plane crashes in China with 132 people onboard",
+            "content": "Boeing 737 crashes in China with 132 people on board. There was no immediate word on the cause of the crash or the numbers of any dead or injured. ... A Boeing..."
+        },
+        {
+            "headline": "A Boeing 737-800 crashed in China with 132 passengers. Here's what we know about the aircraft and its safety.",
+            "content": "A Boeing 737-800 crashed in China with 132 passengers. Here's what we know about the aircraft and its safety. · A Boeing 737-800 crashed in China with 132..."
+        },
+        {
+            "headline": "Boeing's worst crashes over the last decade",
+            "content": "A Boeing 737-800 jet operated by China Eastern Airlines crashed in the mountains of southern China on Monday. Media reports said there were no signs of..."
+        },
+        {
+            "headline": "The Boeing 737-800 NG is widely used around the world. (Published 2022)",
+            "content": "The Boeing 737-800 NG is widely used around the world. The model involved in the China crash represents nearly 17 percent of the commercial aircraft in..."
+        },
+        {
+            "headline": "Boeing’s tenuous recovery shaken by latest crash",
+            "content": "Boeing faces a new crisis after a 737-800 jet fell out of the sky in China, extending one of the most turbulent periods in the aviation titan's centurylong..."
+        },
+        {
+            "headline": "China Eastern Airlines Boeing 737 Crashes in China With 132 People Aboard",
+            "content": "Onboard were nine crew members and 123 passengers, the Civil Aviation Administration of China said. If all are confirmed dead, it would mark China's deadliest..."
+        },
+        {
+            "headline": "Boeing’s Australian-Produced Unmanned Aircraft to be Named MQ-28A Ghost Bat",
+            "content": "Australia has selected MQ-28A Ghost Bat as the military designator and name for the first Australian-produced military combat aircraft in over 50 years."
+        },
+        {
+            "headline": "Boeing Technical Pilot’s Trial Under Way",
+            "content": "The trial of Mark Forkner, Boeing's former chief technical pilot on the 737 MAX, got underway in Fort Worth last week with prosecutors claiming he lied to..."
+        }
+    ],
+    "20220322": [
+        {
+            "headline": "China Eastern crash could set back Boeing's China recovery, return of MAX",
+            "content": "The deadly crash of a China Eastern Airlines 737-800 could set back Boeing's efforts to regain ground in the world's biggest aircraft market and deliver..."
+        },
+        {
+            "headline": "What You Should Know About Boeing’s 737-800 Plane After the Model Crashed in China",
+            "content": "The plane that just crashed in China was a Boeing 737-800 — not the same design as the Boeing planes that crashed in recent years. Those were..."
+        },
+        {
+            "headline": "Boeing jets under 'surveillance' after China crash",
+            "content": "Boeing jets under 'surveillance' after China crash ... AirTeamImages.com The China Eastern Airlines Boeing 737-800. ... India's aviation regulator has placed the..."
+        },
+        {
+            "headline": "Air Canada goes Airbus A321XLR in a major blow to Boeing",
+            "content": "Air Canada goes Airbus A321XLR in a major blow to Boeing · Get the latest news and updates straight to your inbox. No spam, no hassle, no..."
+        },
+        {
+            "headline": "No survivors found in crash of Boeing 737 in China",
+            "content": "The crash site is surrounded on three sides by mountains and accessible only by foot and motorcycle on a steep dirt road in the semitropical Guangxi region,..."
+        },
+        {
+            "headline": "No survivors found after China Eastern Airlines plane crashes with 132 on board",
+            "content": "The flight, MU5735, lost contact around 2:15pm local time and was flying at around 30,000 feet before suddenly entering a deep dive, according to data from..."
+        },
+        {
+            "headline": "Boeing Increased 737 MAX Production. That’s Good News for the Stock.",
+            "content": "Analysts project Boeing will generate positive free cash flow of about $2.3 billion in 2022 while delivering more than 470 MAX jets. In 2023, analysts project..."
+        },
+        {
+            "headline": "China Eastern crash adds to Boeing’s woes in Chinese market",
+            "content": "The deadly crash of a Boeing 737-800 in southern China threatens to derail the aircraft maker's efforts to rebuild confidence in the world's biggest market..."
+        },
+        {
+            "headline": "China Plane Crash Update: Pilots Didn’t Answer Calls as Jet Dove",
+            "content": "Investigators are sifting through evidence to understand why the Boeing Co. 737-800 NG plane carrying 132 people crashed in southern China on Monday."
+        },
+        {
+            "headline": "Boeing jet’s nosedive, pilots’ silence baffle crash specialists",
+            "content": "A pilot most likely crashed that plane deliberately, the NTSB concluded. The plane's cockpit and flight-data recorder systems were mysteriously shut off shortly..."
+        }
+    ],
+    "20220323": [
+        {
+            "headline": "Former Boeing test pilot found not guilty of deceiving FAA",
+            "content": "A jury in Texas has found a former Boeing test pilot not guilty of deceiving federal regulators about a key flight-control system on the Boeing 737 Max..."
+        },
+        {
+            "headline": "Jury Finds Former Boeing Pilot Not Guilty of Fraud in 737 Max Case (Published 2022)",
+            "content": "The pilot, Mark Forkner, was the only person to face criminal charges for flaws that resulted in two fatal crashes of one of Boeing's most important planes."
+        },
+        {
+            "headline": "Things to Know about the Boeing 737-800",
+            "content": "The Boeing 737-800 has a good safety record and is widely used throughout the world as a short-haul workhorse."
+        },
+        {
+            "headline": "Boeing 737-800 crashes in China -- is the airplane safe?",
+            "content": "A Boeing 737-800 operated by China Eastern suddenly plunged from an altitude of about 30000 feet on Monday in China's Guangxi region, likely killing all 132..."
+        },
+        {
+            "headline": "PSN orders Indonesia-focused satellite from Boeing for 2023 launch",
+            "content": "Indonesia's Pasifik Satelit Nusantara (PSN) said March 23 it has ordered a high-throughput satellite from Boeing to launch on a SpaceX Falcon 9 in 2023."
+        },
+        {
+            "headline": "U.S. jury finds former Boeing 737 Max pilot not guilty in fraud case",
+            "content": "A jury in Texas on Wednesday found a former chief technical pilot for Boeing accused of deceiving federal regulators evaluating the company's 737 Max jet..."
+        },
+        {
+            "headline": "Former Boeing test pilot Mark Forkner found not guilty of deceiving FAA in 737 Max fraud case",
+            "content": "Former Boeing test pilot Mark Forkner found not guilty of deceiving FAA in 737 Max fraud case ... A former Boeing Co. test pilot was acquitted Wednesday on felony..."
+        },
+        {
+            "headline": "Officials find 'severely damaged' black box recorder at site of China Eastern Airlines plane crash",
+            "content": "A Chinese aviation official said one of the plane's two \"black box\" recorders had been found with its casing in severely damaged condition."
+        },
+        {
+            "headline": "A perfect hop across the Pacific: Qantas 787 business class",
+            "content": "I was excited to book an elusive award in business class aboard Qantas' Boeing 787-9 Dreamliner from Melbourne to Los Angeles at the end of my recent trip."
+        },
+        {
+            "headline": "Boeing's Troubled 737 Max Is Back in the Air, but the Story Is Far From Over",
+            "content": "A 2021 book and a new Netflix documentary trace the deadly Max crashes back to a Boeing that strayed far from its cautious roots."
+        }
+    ],
+    "20220324": [
+        {
+            "headline": "Boeing delivers additional compact multi-spectral tracking systems to US Army",
+            "content": "“CMSTS is an advanced, multi-spectral ATP solution used to identify and score a variety of fast-moving and dynamic targets,” said Laser & Electro-Optical System..."
+        },
+        {
+            "headline": "Ex-Boeing test pilot found not guilty of deceiving FAA over 737 Max jets",
+            "content": "A jury in federal district court in Fort Worth deliberated less than two hours before finding Mark Forkner not guilty on four counts of wire fraud."
+        },
+        {
+            "headline": "U.S. jury finds former Boeing 737 MAX pilot not guilty in fraud case",
+            "content": "A Texas jury on Wednesday found a former chief technical pilot for Boeing not guilty of deceiving federal regulators who approved the company's 737 MAX jet..."
+        },
+        {
+            "headline": "China Eastern Airlines grounds 223 Boeing 737-800 aircraft after crash",
+            "content": "China Eastern Airlines is grounding dozens of aircraft after a deadly crash earlier this week."
+        },
+        {
+            "headline": "Boeing 737-800 crash in China: Is the aircraft safe?",
+            "content": "There are still many unanswered questions after a Boeing 737-800 suddenly plunged Monday, likely killing all on board. The aircraft is part of Boeing's Next..."
+        },
+        {
+            "headline": "Former Boeing test pilot found not guilty of deceiving FAA",
+            "content": "A former Boeing test pilot was acquitted Wednesday on felony charges of deceiving federal regulators about a key flight-control system involving 737 Max..."
+        },
+        {
+            "headline": "How Alaska Air plans to go bigger: new jets, frequent flyer rewards and more",
+            "content": "Alaska Air executives are pushing optimistic growth plans. As the pandemic fades, they aim to expand the fleet by 100 jets and increase annual revenue by..."
+        },
+        {
+            "headline": "Meet ‘Ghost Bat,’ Boeing’s New Fighter-Like Drone",
+            "content": "The drone is the first native Australian combat aircraft in 50 years."
+        },
+        {
+            "headline": "Alaska Airlines to convert 2 more Boeing jets into freighters in bet on air cargo boom",
+            "content": "Air cargo has been a relative bright spot for carriers during the pandemic."
+        },
+        {
+            "headline": "Alaska Airlines goes all-in on Boeing, accelerating plans to retire A320-family aircraft",
+            "content": "Alaska Airlines said it would retire all of its Airbus A320 and A321neo aircraft by 2023, accelerating plans to become an all-Boeing airline."
+        }
+    ],
+    "20220325": [
+        {
+            "headline": "Boeing and Airbus Helicopters sign strategic H-47 Chinook partnership to support Germany’s STH requirements",
+            "content": "Boeing [NYSE: BA] and Airbus Helicopters today signed a Memorandum of Understanding (MOU) to partner on the H-47 Chinook in support of Germany's Schwerer..."
+        },
+        {
+            "headline": "Why Boeing pilot Forkner was acquitted in the 737 MAX prosecution",
+            "content": "The trial of Mark Forkner, the only Boeing employee charged with a crime after the two fatal crashes of the 737 MAX, ended with a swift acquittal."
+        },
+        {
+            "headline": "Mexico's Aeromexico rents nine Boeing planes in deal with Air Lease",
+            "content": "Mexican airline Aeromexico has reached an agreement to rent nine Boeing planes, Air Lease Corporation said on Friday, expanding the carrier's fleet as it..."
+        },
+        {
+            "headline": "Boeing’s (BA) 737 Max 10 Faces Delays That Could Trigger Costly Changes",
+            "content": "Boeing Co.'s program to certify a new version of its 737 Max jet is running behind schedule and may not meet an end-of-year deadline."
+        },
+        {
+            "headline": "Boeing 747 to be centerpiece of new downtown Seattle development",
+            "content": "An iconic Boeing 747 jumbo jet, a symbol of Pacific Northwest innovation and industrial achievement, will soon be the centerpiece of a new development in..."
+        },
+        {
+            "headline": "Alaska is getting rid of all of its Airbus planes in favor of an all-Boeing mainline fleet to simplify maintenance and training",
+            "content": "Alaska is betting on Boeing as it plans to retire all of its Airbus A320 family jets and Q400 turboprops to simplify its fleet and reduce costs."
+        },
+        {
+            "headline": "As Chinese crews search Boeing 737 crash site, FAA chief cites safety of planes",
+            "content": "The 737-800 that crashed in southern China's Guangxi province “is one of the safest aircraft ever produced in commercial operation. It's one of the most widely..."
+        },
+        {
+            "headline": "‘Challenging times’ for Boeing, but 737 MAX key to restoring China confidence",
+            "content": "China Eastern Airlines flight MU5735 which crashed on Monday was a Boeing 737-800, with the US company still trying to regain confidence within the Chinese..."
+        },
+        {
+            "headline": "Boeing needs more planes, pronto. Elizabeth Lund has to make them.",
+            "content": "For the aerospace giant to rebound, she has to churn out 737s and 787s—fast."
+        },
+        {
+            "headline": "Aeromexico Bolsters Fleet With Nine More Boeing 737 MAXs",
+            "content": "Aeromexico and Air Lease Corporation (ALC) have signed a new agreement to lease nine new Boeing 737 MAX aircraft, including two new Boeing 737 MAX 8 and seven..."
+        }
+    ],
+    "20220326": [
+        {
+            "headline": "After Deadly Crash, FAA Chief Defends The Safety Record Of Boeing 737-800 Planes",
+            "content": "A black box of the China Eastern Airlines passenger plane that crashed Monday in south China's Guangxi Zhuang Autonomous Region was recovered on Wednesday..."
+        },
+        {
+            "headline": "Boeing Is Unlikely To Get The 737 MAX 10 Certified This Year",
+            "content": "The Boeing 737 MAX 10 is the longest version of the MAX family, launched in June 2017. Since then, the plane made its maiden flight in June 2021 and has been..."
+        },
+        {
+            "headline": "Boeing, Airbus Partner On Chinook For German STH Program",
+            "content": "Boeing and Airbus Helicopters have signed a memorandum of understanding (MOU) to partner on the H-47 Chinook for Germany's Schwerer Transporthubschrauber..."
+        },
+        {
+            "headline": "'The worst' defense program of all. And it's not the F-35",
+            "content": "Boeing's KC-46 flying fuel tanker was a boondoggle from the start, but now that it's thrown aside human eyesight, it's actually dangerous."
+        },
+        {
+            "headline": "Boeing 737 plane crashes in China, all 132 passengers and crew dead",
+            "content": "According to the local Chinese media reports, the Boeing 737800 plane crash caused a huge fire on the mountains and no survivors have been found."
+        },
+        {
+            "headline": "Five Thai airlines to conduct inspection of Boeing 737-800 after China Eastern crash",
+            "content": "Suttipong Kongpool, director-general of CAAT, stated that an order will be issued to Nok Air, Thai Lion Air, K-Mile Air, Thai Airways International, and Thai..."
+        },
+        {
+            "headline": "How You Can Fly On A Boeing 747 Without Leaving Europe",
+            "content": "The Boeing 747-8 will operate the two hour flight from Frankfurt to Mallorca."
+        },
+        {
+            "headline": "SIA London-Singapore flight turns back shortly after take-off due to 'vibrations' on Boeing 777 engine",
+            "content": "SINGAPORE: A Singapore Airlines flight travelling from London to Singapore turned back shortly after take-off on Friday (Mar 25) due to \"vibrations\" on one..."
+        },
+        {
+            "headline": "China Confirms No Survivors Following China Eastern 737 Crash",
+            "content": "The Civil Aviation Administration of China (CAAC) confirmed that all 132 passengers and crew on a China Eastern Airlines plane that crashed this week have died."
+        },
+        {
+            "headline": "Holiday Jet Horror: The Story Behind British Airtours Flight 328",
+            "content": "It was August 22nd, 1985, and the start of another busy summer day at Manchester Airport (MAN) in the north of England. Passengers were excited about..."
+        }
+    ],
+    "20220327": [
+        {
+            "headline": "Boeing’s problems in China go far beyond the latest grounding",
+            "content": "Another Boeing plane has been grounded after a fatal crash, this time in China. That may be the least of the company's problems in a crucial market."
+        },
+        {
+            "headline": "A GOL Boeing 737 Flight Has 2 Separate Bird Strikes",
+            "content": "GOL Linhas Aereas flight G3-1521 between Fortaleza and São Paulo had to return to the airport after it suffered not once, but two separate bird strikes."
+        },
+        {
+            "headline": "Russian airline Pobeda to cut 40% of its all-Boeing 737 NG fleet: reports",
+            "content": "Russian airline Pobeda is reportedly planning to cut around 40% of its aircraft fleet and keep the remaining 16 Boeing 737-800 aircraft grounded until the..."
+        },
+        {
+            "headline": "Second data recorder of crashed Boeing 737-800 plane is found",
+            "content": "The analysis of its data is underway. According to the configuration of the Boeing B737-800 aircraft, both recorders are installed in the rear of the aircraft."
+        },
+        {
+            "headline": "Elon Musk Says Russian Rocket Engines Are 'Great, to Be Fair'",
+            "content": "Elon Musk says the Russian rocket engines Boeing and Lockheed Martin use are 'great,' amid the country's decision to stop supplying the US."
+        },
+        {
+            "headline": "Video: See a classic F1 car racing a Boeing 777-300ER",
+            "content": "Saudia Arabian Airlines recorded a video of a race between a modern Boeing 777 and a classic Williams Formula 1 car, used in the 1980 championship."
+        },
+        {
+            "headline": "Norwegian Enters Boeing 737 MAX Into Service As Summer Schedule Commences",
+            "content": "Norwegian Enters Boeing 737 MAX Into Service As Summer Schedule Commences ... Norwegian Air Shuttle has welcomed two Boeing 737 MAX 8s into its fleet. The first..."
+        },
+        {
+            "headline": "First Jet: Buffalo Airways Purchases Boeing 737 Freighter",
+            "content": "The Boeing 737-300SF is a passenger aircraft converted into a freighter that can carry nine pallets or up to 42,900 pounds of payload up to 2.950 NM/3.395 mi/..."
+        },
+        {
+            "headline": "Vistara Announces Daily Boeing 787 Flights Between London Heathrow & Delhi",
+            "content": "From May 1, the Indian carrier will launch daily flights between Delhi and the UK."
+        }
+    ],
+    "20220328": [
+        {
+            "headline": "Boeing Defense CEO Retires After Six Turbulent Years",
+            "content": "Caret has kept an unusually low profile the past two and a half years. Boeing's commercial business has been in crisis mode following two crashes of 737 Max..."
+        },
+        {
+            "headline": "Boeing announces new leadership at defense unit",
+            "content": "Ted Colbert will become the new chief executive of Boeing Defense, Space and Security April 1. He will succeed Leanne Caret, who will retire later this year."
+        },
+        {
+            "headline": "Boeing's Ted Colbert to helm defense and space business",
+            "content": "Boeing named Ted Colbert as the head of its defense division, replacing long-time company executive Leanne Caret, effective April 1."
+        },
+        {
+            "headline": "China Confirms 2nd Black Box Found From Crashed Boeing 737",
+            "content": "The second black box of the crashed China Eastern Airlines jet was recovered on Sunday, according to Chinese state media."
+        },
+        {
+            "headline": "How the government failed in criminal case against ex-Boeing chief technical pilot Mark Forkner",
+            "content": "Forkner's acquittal seems to mark the end of legal risk for Boeing and its employees. · Lawyers paint ex-Boeing pilot Mark Forkner as scapegoat in 737 Max..."
+        },
+        {
+            "headline": "Boeing’s Caret To Retire, Will Be Succeeded By Services Chief Colbert",
+            "content": "Boeing on Monday said that Leanne Caret, president and CEO of the company's $26 billion defense business, will retire later this year and be succeed by."
+        },
+        {
+            "headline": "Boeing names Colbert as defense chief in leadership shuffle",
+            "content": "Boeing named Ted Colbert as president and chief executive officer of its $26 billion defense, space and security division as part of a broader leadership..."
+        },
+        {
+            "headline": "Boeing names new leaders for defence, space and global services arms",
+            "content": "Boeing has named a new Defense, Space and Security chief executive, Ted Colbert, who steps into the role having formerly led the Boeing Global Services..."
+        },
+        {
+            "headline": "Airbus Helicopters and Boeing sign H-47 Chinook MoU relating to German heavy-lift helicopter needs",
+            "content": "Airbus Helicopters and Boeing have signed a Memorandum of Understanding (MoU) for their partnership on the Chinook H-47 to support Germany's Schwerer..."
+        },
+        {
+            "headline": "Stephanie Pope appointed new CEO of Boeing Global Services",
+            "content": "Stephanie Pope has been appointed as president and CEO of Boeing Global Services (BGS), headquartered at Legacy West in Plano TX."
+        }
+    ],
+    "20220329": [
+        {
+            "headline": "Ted Colbert to Succeed Leanne Caret as Boeing Defense Chief",
+            "content": "Ted Colbert to Succeed Leanne Caret as Boeing Defense Chief."
+        },
+        {
+            "headline": "Boeing’s Leanne Caret to Retire, Ted Colbert Tapped to Lead Defense, Space and Security",
+            "content": "Boeing on Monday said that Leanne Caret, president and CEO of the company's $26 billion Defense, Space and Security business, will retire later this year."
+        },
+        {
+            "headline": "Former Boeing CIO Will Run The Company’s Biggest Business Unit As CEO",
+            "content": "Boeing's former CIO, Ted Colbert, has been named to lead the company's largest business unit by revenue as president and CEO effective April 1."
+        },
+        {
+            "headline": "China Plane Crash: What to Know About the Boeing 737 Wreck That Killed 132 People",
+            "content": "What caused the plane to crash into the mountains of southern China? We don't know yet why China Eastern Flight 5735 crashed, and it could be some time before..."
+        },
+        {
+            "headline": "Boeing, U.S. officials can travel to China to aid in 737-800 crash probe",
+            "content": "A US government agency said Tuesday that China has granted visas for federal investigators to travel there and aid in the investigation of the deadly China..."
+        },
+        {
+            "headline": "Airbus Joins Boeing for German Heavy-Lift Helicopter Program",
+            "content": "Airbus Helicopters has joined Boeing's H-47 Chinook program to develop the German military's next-generation heavy-lift helicopter."
+        },
+        {
+            "headline": "United Airlines Boeing 767 Diverts To Shannon With Engine Issues",
+            "content": "The aircraft was forced to make an emergency landing after suffering from a \"technical issue\", reportedly to do with the aircraft's engine."
+        },
+        {
+            "headline": "Boeing's defense unit CEO to retire, successor named",
+            "content": "Boeing's Defense, Space and Security (BDS) unit, which employs more than 15000 workers at plants in the St. Louis region, will get a new CEO,..."
+        },
+        {
+            "headline": "Nigeria Air talking to Airbus, Boeing for short-haul fleet",
+            "content": "The Nigerian Federal Government (NFG) has commenced discussions with Airbus and Boeing to acquire the first three narrow-body aircraft for the country's new..."
+        },
+        {
+            "headline": "Stephanie Pope Appointed President and CEO of Boeing Global Services",
+            "content": "Stephanie Pope has been appointed as President and CEO of Boeing Global Services (BGS), succeeding Ted Colbert who has been named as President and CEO of..."
+        }
+    ],
+    "20220330": [
+        {
+            "headline": "Boeing and Airbus partner for Germany’s H-47 Chinook program",
+            "content": "Boeing and Airbus Helicopters have signed a strategic H-47 Chinook partnership to support Germany's Schwerer Transporthubschrauber requirements."
+        },
+        {
+            "headline": "Boeing Scales Up Capacity to Build Small Satellites at Calif. Factory",
+            "content": "Boeing's new small satellite production line incorporates model-based systems engineering, digital design engineering, and other advanced manufacturing..."
+        },
+        {
+            "headline": "Boeing announces senior leadership updates",
+            "content": "Boeing on March 28, 2022, announced Ted Colbert as president and chief executive officer of its Defense, Space and Security business."
+        },
+        {
+            "headline": "Air Tahiti Nui Targets Seattle With Launch Of New Boeing 787 Route",
+            "content": "From October 4th, the French Polynesian island of Tahiti will be connected with Seattle through Air Tahiti Nui with twice-weekly flights."
+        },
+        {
+            "headline": "Argentina Air Force Boeing 737-500 makes an unusual landing at Buenos Aires Jorge Newbery",
+            "content": "Argentina Air Force Boeing 737-500 makes an unusual landing at Buenos Aires Jorge Newbery ... An approach and the subsequent landing of this Argentinian Air Force..."
+        },
+        {
+            "headline": "Saudi Arabia's flynas in talks with Airbus, Boeing",
+            "content": "flynas (XY, Riyadh) is negotiating with both Boeing and its current supplier Airbus to buy an additional 130 aircraft, according to Chief Executive Officer..."
+        },
+        {
+            "headline": "Lessor BOC Aviation repossesses 747-8 cargo plane from Russian operator",
+            "content": "A Boeing 747-8 freighter leased to Russia's AirBridgeCargo has flown to California from Hong Kong, according to FlightRadar24, after a U.S. judge signed an..."
+        },
+        {
+            "headline": "Star Wars: Iconic Boeing 777 with ANA's BB-8 livery will leave the fleet",
+            "content": "ANA has announced that it will soon retire its Boeing 777–300 with the iconic livery inspired by the BB-8 robot from Star Wars..."
+        },
+        {
+            "headline": "Leasing company BOC Aviation repossessed it's Boeing 747-8 Aircraft from the Russian Volga-Dnepr subsidiary 'Air Bridge Cargo' !",
+            "content": "The court has allowed the BOC Aviation to repossess the aircraft and fly it to California, after it found AirBridgeCargo was in breach of the terms of leasing..."
+        },
+        {
+            "headline": "Air New Zealand reveals new Boeing 787-9 business-class seat",
+            "content": "The seat appears similar to the B/E Aerospace Super Diamond seat used by airlines such as Air Canada. While not revolutionary, this seat offers a comfortable..."
+        }
+    ],
+    "20220331": [
+        {
+            "headline": "ASL Orders Up to 20 Additional 737-800 Boeing Converted Freighters to Drive Environmental Sustainability",
+            "content": "ASL Aviation Holdings (ASL) and Boeing [NYSE: BA] today announced an order for up to 20 additional 737-800 Boeing Converted Freighters (BCF)."
+        },
+        {
+            "headline": "Ryanair goads Boeing as jetmaker meets rival easyJet",
+            "content": "The boss of Irish budget carrier Ryanair raised the stakes in a feud with Boeing over jet prices by saying he could do without a long-stalled deal to buy..."
+        },
+        {
+            "headline": "Boeing Opens New Smallsat Factory Powered by Millennium Space Systems",
+            "content": "Boeing is opening a new small satellite production facility to take advantage of capabilities from Boeing and subsidiary Millennium Space Systems. The."
+        },
+        {
+            "headline": "Amazon contractor ASL orders more Boeing 737-800 converted freighters",
+            "content": "ASL Aviation plans to acquire at least 10 737-800s and pay Boeing to turn them into freighters as demand grows from customers such as Amazon, DHL and FedEx..."
+        },
+        {
+            "headline": "Boeing gets out the Velcro to patch over another glitch with the Air Force tanker",
+            "content": "Boeing discovered another glitch on the KC-46 tanker, one that prevents the over-wing emergency exit doors from opening. In-service tankers must be..."
+        },
+        {
+            "headline": "Boeing unveils high-throughput small satellite 3D printing production facility",
+            "content": "Boeing has also begun using 3D printing to ramp up its production of a Wideband Global SATCOM satellite for the US Space Force as part of a $605 million..."
+        },
+        {
+            "headline": "Parker Aerospace Selected by Sikorsky-Boeing for DEFIANT X FLRAA Entrant With Hydraulics and Flight Controls",
+            "content": "Parker Aerospace has been selected by Sikorsky-Boeing for the DEFIANT X® FLRAA entrant with next-generation hydraulics and integrated flight controls."
+        },
+        {
+            "headline": "Boeing-Led Team to Explore E-3 AWACS Replacement Options for NATO",
+            "content": "Boeing will study how to replace NATO's E-3 AWACS system as US Air Force leaders state preference for E-7 Wedgetail flown by allies."
+        },
+        {
+            "headline": "Boeing wins NATO contract to explore capability needs for AWACS replacement",
+            "content": "Boeing has landed a NATO contract to study capabilities that could be included in a future airborne command and control platform."
+        },
+        {
+            "headline": "FLRAA leaves Florida: Sikorsky-Boeing’s prototype assault helo makes longest trip yet",
+            "content": "The Sikorsky-Boeing SB>1 Defiant experimental aircraft left the Sunshine State for the first time, adding long-range endurance flight to its list of..."
+        }
+    ],
     "20220401": [
         {
             "headline": "Boeing slows way down on Chinese 737 Max production",

@@ -1,4 +1,730 @@
 {
+    "20220201": [
+        {
+            "headline": "Celebrating Black History Month",
+            "content": "Throughout February — and every day — we reflect, recognize and appreciate Black Americans' role in shaping the success of our nation, our company and those..."
+        },
+        {
+            "headline": "Sen. Casey: UnitedHealth has reprocessed more than 1.6M claims for COVID-19 vaccines",
+            "content": "UnitedHealthcare has reprocessed more than 1.6 million claims for COVID-19 vaccines, reimbursing providers for underpayments that stirred controversy late last..."
+        },
+        {
+            "headline": "Florida Blue Cross Taps Puerto Rico Market And Beyond With Deal’s Close",
+            "content": "The parent of Blue Cross and Blue Shield of Florida has completed its $900 million purchase of Puerto Rico's Triple-S Management, broadening its reach into..."
+        },
+        {
+            "headline": "KeyCorp hires new chief diversity, equity and inclusion officer",
+            "content": "Helena Haynes-Carter will lead the Cleveland bank's efforts to hire and retain a diverse pool of employees."
+        },
+        {
+            "headline": "Securicy Rebrands to Carbide; Names Three Executives to the Leadership Team",
+            "content": "SYDNEY, Nova Scotia, Feb. 01, 2022 (GLOBE NEWSWIRE) -- Information security and data privacy management platform provider, Securicy, today announced the..."
+        },
+        {
+            "headline": "New York investor buys Gallagher's former Itasca HQ",
+            "content": "The mostly vacant, 27-story property traded for a fraction of its sale price 16 years ago, a reflection of the uncertainty in the suburban Chicago office..."
+        },
+        {
+            "headline": "The 12 Best Vanguard Funds for 2022",
+            "content": "The best Vanguard funds right now span numerous strategies tailor-made for 2022's major market themes: volatility, rising rates and inflation."
+        }
+    ],
+    "20220202": [
+        {
+            "headline": "HHS: Disparities in video telehealth use highlight key barriers to access",
+            "content": "While telehealth use exploded during the pandemic, a new federal study found massive income disparities in video versus audio services."
+        },
+        {
+            "headline": "Humana To Invest $1 Billion In Medicare Advantage Business After Enrollment Comes Up Short",
+            "content": "Humana said it will invest $1 billion in its Medicare Advantage business following a disclosure the health insurer would add fewer seniors to such plans..."
+        },
+        {
+            "headline": "Anthem relies on flexible partner-not-build strategy in shift to value",
+            "content": "Anthem is betting its capital-light strategy is more sustainable and flexible as the payer looks to push deeper into capitation to really bend the cost curve."
+        },
+        {
+            "headline": "Calm app acquires Ripple Health Group and appoints a new co-CEO",
+            "content": "David Ko, CEO and co-founder of Ripple Health Group, will join relaxation app Calm as co-CEO upon the company's acquisition of Ripple."
+        }
+    ],
+    "20220203": [
+        {
+            "headline": "After Seeing Lower Levels In January, Is UnitedHealth Stock Now A Buy?",
+            "content": "The stock price of UnitedHealth Group has seen a fall of 6% over the last month. Much of this decline came in the first week of Jan when its industry peer..."
+        },
+        {
+            "headline": "Ardent Health Services Appoints New Board Member",
+            "content": "Ardent Health Services today announced the appointment of entrepreneur and former UnitedHealth Group executive Rob Webb to its board of directors."
+        },
+        {
+            "headline": "U.S. to cover cost of over-the-counter COVID tests through Medicare",
+            "content": "People enrolled in the U.S. government's Medicare program can get over-the-counter COVID-19 tests for free starting early spring, the Centers for Medicare..."
+        },
+        {
+            "headline": "Sleep Number to Study Impact of Sleep on Cancer",
+            "content": "The Minneapolis-based mattress seller says it will use data collected through its “smart beds” to research how sleep impacts cancer diagnoses."
+        }
+    ],
+    "20220204": [
+        {
+            "headline": "Chutes & Ladders—Cleveland Clinic taps chief digital officer for 'fresh perspective'; Cigna hires Berg to lead MA expansion",
+            "content": "Welcome to this week's Chutes & Ladders, our roundup of hirings, firings and retirings throughout the industry."
+        }
+    ],
+    "20220205": [
+        {
+            "headline": "House Dems’ New Anti-Progressive PAC Is Funded by Corporate Lobbyists and PACs",
+            "content": "The group will spend money to protect incumbent Democrats in safe districts against progressive primary challengers."
+        }
+    ],
+    "20220206": [],
+    "20220207": [],
+    "20220208": [
+        {
+            "headline": "How UnitedHealth Group Improved Disaster Recovery for Machine-to-Machine Authentication",
+            "content": "The UnitedHealth Group (UHG) team needed a solution that would enable them to build and deploy their applications in multiple Regions to achieve higher..."
+        },
+        {
+            "headline": "DTx leader Sidekick announces key C-level hires in move to accelerate U.S. market growth",
+            "content": "Mitchell Mudra joins Sidekick from UnitedHealth Group as Chief Operating Officer (COO), scaling the company's operations and user volumes in close..."
+        },
+        {
+            "headline": "CVS adds Eliquis, other vital drugs to formulary exclusions",
+            "content": "CVS Health's move to drop Eliquis comes as the insurer's pharmacy benefit manager increasingly removes drugs from its formulary, excluding 433 products in..."
+        },
+        {
+            "headline": "As Cypress weighs district voting, anger erupts at city councilwoman",
+            "content": "Acrimonious council meetings and a perceived lack of representation for some neighborhoods draw criticism from the public."
+        },
+        {
+            "headline": "Bain’s Bedrock Beliefs on How to Create Value from M&A",
+            "content": "If you want to be successful at M&A, develop a repeatable model. Do it often, learn from your mistakes, and make it a material part of your business."
+        }
+    ],
+    "20220209": [
+        {
+            "headline": "UnitedHealthcare Dental Launches Digital Resources, Collaboration with quip, to Help Improve Dental Care",
+            "content": "UnitedHealthcare Dental has introduced several enhancements designed to help people improve their oral health and access dental care in a more conveni."
+        },
+        {
+            "headline": "Risk of persistent and new clinical sequelae among adults aged 65 years and older during the post-acute phase of SARS-CoV-2 infection: retrospective cohort study",
+            "content": "The results confirm an excess risk for persistent and new sequelae in adults aged ≥65 years after acute infection with SARS-CoV-2."
+        },
+        {
+            "headline": "In dispute with local pharmacy, McKee Foods asks federal judge to rule on employers' pharmacy benefit plan",
+            "content": "A lawsuit filed by Collegedale-based McKee Foods is asking a federal judge to determine whether a 2021 Tennessee law restricting how employers' third-party..."
+        }
+    ],
+    "20220210": [
+        {
+            "headline": "Why California’s Cowardly Democrats Scurried Away From Single-Payer",
+            "content": "Assembly Bill 1400, a bill that would have cleared a pathway for single-payer, Medicare for All–style health care for the good people of California in the form..."
+        },
+        {
+            "headline": "Home health company names new COO",
+            "content": "Brentwood-based home health and telehealth company Spiras Health has named Ashok Sudarshan chief operating officer, effective at the end of January."
+        },
+        {
+            "headline": "Nadhia Ahmad-Ali appointed to Scottish Ballet board",
+            "content": "Solicitor Nadhia Ahmad-Ali has been appointed as a non-executive director to the board of Scottish Ballet. Ms Ahmad-Ali was recently made head of legal for..."
+        },
+        {
+            "headline": "How Cyber Criminals Got 11,000 SIMs Issued On Fake Aadhar Card Using Document Printing Sites",
+            "content": "All the important documents are now available online but these are being forged by cyber criminals. Hackers are now making documents like Aadhar Card,..."
+        }
+    ],
+    "20220211": [
+        {
+            "headline": "UnitedHealth was 2021's most profitable payer. Here's a look at what its competitors earned",
+            "content": "UnitedHealth Group was the most profitable payer in 2021, bringing in more than double the profit of its next-closest competitor with $17.3 billion in earnings."
+        },
+        {
+            "headline": "Medicaid Managed Care Financial Results for 2021: A Big Year for the Big Five",
+            "content": "the five largest companies in the Medicaid managed care market—CVS Health, Anthem, Centene, Molina, and UnitedHealth Group—did very well..."
+        },
+        {
+            "headline": "Luis Mosquera of Health Network One Addresses Alternative Payment Models Are the Key to Transitioning to Value-based Care",
+            "content": "Briana Contreras, editor of Managed Healthcare Executive spoke with Luis Mosquera, CEO of Health Network One, a provider of specialty benefit management..."
+        },
+        {
+            "headline": "Healthcare Services Global Market Report 2022",
+            "content": "Major companies in the market include UnitedHealth Group Incorporated, Kaiser Permanente, HCA Healthcare, Fresenius Medical Care AG & Co. KGaA, Tenet..."
+        },
+        {
+            "headline": "Assurant Inc. stock outperforms competitors despite losses on the day",
+            "content": "Shares of Assurant Inc. AIZ slumped 0.39% to $161.93 Friday, on what proved to be an all-around dismal trading session for the stock market,..."
+        }
+    ],
+    "20220212": [
+        {
+            "headline": "FMS Delhi achieves 100% placement for 2022 batch, average CTC at Rs 32.4 lakh",
+            "content": "The institute said it achieved its highest-ever average CTC (cost to company) of Rs 32.4 lakh per annum (LPA), a rise of 24 per cent."
+        }
+    ],
+    "20220213": [
+        {
+            "headline": "Considering the Ideal Role for Non-Emergency Medical Transportation in Addressing SDoH in Medicaid and Medicare Populations",
+            "content": "Medicare and Medicaid programs that serve the most-vulnerable Americans facing SDOH barriers can be major facilitators of appropriate non-emergency..."
+        }
+    ],
+    "20220214": [
+        {
+            "headline": "Global Nephrology Solutions Embraces Value-Based Care",
+            "content": "Arizona-based company is beginning its value-based operations in four states—Arizona, California, Florida and Pennsylvania."
+        },
+        {
+            "headline": "Mayo stops scheduling out-of-network Medicare Advantage patients in Minnesota",
+            "content": "Seniors in UnitedHealthcare plans are among those no longer getting clinic appointments due to capacity concerns. But the change also hints at a financial..."
+        },
+        {
+            "headline": "UPSTREAM HEALTHCARE APPOINTS INDUSTRY VETERAN TOM TRAN AS CFO AND BOARD MEMBER; NATIONAL LEADER NICK LOPORCARO ASSUMES ROLE AS BOARD CHAIRMAN; AND ANEESH CHOPRA, FIRST CHIEF TECHNOLOGY OFFICE",
+            "content": "PRNewswire/ -- UpStream Healthcare, the fastest growing full risk primary care organization has appointed Thomas Tran as its chief financial officer,..."
+        },
+        {
+            "headline": "10 Health Care Stocks Warren Buffett Owns That Offer Safety and Dependable Dividends",
+            "content": "We decided to take a look into his Berkshire Hathaway portfolio for companies in the health care sector that not only look poised to do very well this year but..."
+        },
+        {
+            "headline": "Payer Services Global Market Report 2022",
+            "content": "Major players in the payer services market are United Health Group, Anthem, Concentrix Corporation, United Healthcare, Anthem Inc. , Aetna,..."
+        }
+    ],
+    "20220215": [
+        {
+            "headline": "Dr Kenneth Cohen: Low-Value Care Exists Across the Health Care System",
+            "content": "Kenneth Cohen, MD, FACP, executive director of clinical research at UnitedHealth Group Research and Development and senior national medical director at..."
+        },
+        {
+            "headline": "Optum Behavioral Care CEO: Integrated Coverage, Improved Access Are Essential for Next-Gen Payment Models",
+            "content": "Access to behavioral health services is a major issue, as more than a third of Americans live in areas lacking providers. Yet a significant problem."
+        },
+        {
+            "headline": "Evernorth Executive and Healthcare Services Industry Leader Joan Harvey Named to PAVmed Board of Directors",
+            "content": "Ms. Harvey brings a wealth of health care experience, strong track record in strategic and business development, and deep financial acumen to our board."
+        },
+        {
+            "headline": "FinTech PayU Rolls out Credit Payments in Romania",
+            "content": "Online payments solutions provider PayU on Tuesday (Feb. 15) debuted two credit solutions for Romanian shoppers, according to a company announcement."
+        },
+        {
+            "headline": "Pascal Desroches describes his path from Haitian immigrant to CFO at the world's biggest telecom company",
+            "content": "Finance chief at AT&T since April 2021, Desroches has more than 30 years of experience in global and complex organizations."
+        },
+        {
+            "headline": "Mayo Clinic says denying non-contract Medicare Advantage patients access is not about money",
+            "content": "It was recently reported by the Star Tribune that some patients who are covered by Medicare Advantage insurance plans that do not have contracts with Mayo..."
+        }
+    ],
+    "20220216": [
+        {
+            "headline": "New Detroit program offers free blood pressure screenings, medicine",
+            "content": "A new partnership aims to improve the health of Black metro Detroiters by offering free screenings, treatment and medicine to target undiagnosed and..."
+        },
+        {
+            "headline": "Owlet gets back into the baby zzzzz’s market with Dream Sock and Dream Duo–but now not medical devices!",
+            "content": "The Dream Sock, according to Owlet's product page, is all about baby sleep, measuring sleep quality indicators, including wakings, heart rate, and movement."
+        }
+    ],
+    "20220217": [
+        {
+            "headline": "UnitedHealth Appoints Patricia Lewis as Chief Sustainability Officer",
+            "content": "Health care delivery and benefits giant UnitedHealth Group announced today the appointment of Patricia Lewis to the newly created position of Chief..."
+        },
+        {
+            "headline": "Where one of UnitedHealth's first tech start-up acquisitions is today",
+            "content": "Years ago, UnitedHealth acquired Audax Health, a start-up focused on consumer health tools. Audax no longer exists, but it's part of a bigger idea today."
+        },
+        {
+            "headline": "Optum unveils new platform for managing specialty drug costs",
+            "content": "Optum has launched a new solution for specialty drugs that aims to lower costs and improve care management for people with complex conditions."
+        },
+        {
+            "headline": "Florida politicians behind \"Don't Say Gay\" bill backed by corporations that claim to support LGBTQ rights",
+            "content": "A bill advancing rapidly through the Florida legislature would prohibit many of the state's teachers from discussing sexual orientation or gender identity in..."
+        },
+        {
+            "headline": "BPO Customers Want Vendors Who are Flexible and Diversified",
+            "content": "The needs of buyers have changed and vendors need to act fast to capture business. But what do buyers want? Nearshore Americas finds out."
+        },
+        {
+            "headline": "2022 HRO Today Association Awards",
+            "content": "The HRO Today Association Awards is an annual recognition program that exemplifies the essential work that HR professionals do every day."
+        },
+        {
+            "headline": "Zynex: Letter Indicates UnitedHealthcare Is Terminating Contract - An Undisclosed Loss Accounting For 50%+ EBITDA",
+            "content": "We uncover strong evidence that UnitedHealthcare is removing Zynex from its network effective February 15, a seemingly material event undisclosed to..."
+        }
+    ],
+    "20220218": [
+        {
+            "headline": "Chutes & Ladders—Bright HealthCare CEO stepping down; Mass General Brigham names first chief medical officer",
+            "content": "Simeon Schindelman, CEO of Bright HealthCare, will be stepping down from his position March 11, parent company Bright Health Group reported in a Feb. 11..."
+        }
+    ],
+    "20220219": [
+        {
+            "headline": "Top LGBTQ-supporting companies bankroll politicians behind Florida ‘Don’t Say Gay’ bill",
+            "content": "Some of the top companies in the U.S. that show public support for the LGBTQ community have donated thousands of dollars to the politicians behind a piece..."
+        }
+    ],
+    "20220220": [],
+    "20220221": [],
+    "20220222": [
+        {
+            "headline": "Sponsors of ‘Don’t Say Gay’ bill backed by supposedly pro-LGBTQ2S+ corporations",
+            "content": "Companies like Comcast/NBC Universal and AT&T have given hundreds of thousands of dollars to the bill's key supporters."
+        },
+        {
+            "headline": "Vertical integration secures PBMs as ‘arsonists and firefighters’ of drug prices",
+            "content": "The three biggest pharmacy benefit managers have consolidated influence in the US health care marketplace through vertical integration with insurance carriers."
+        }
+    ],
+    "20220223": [
+        {
+            "headline": "Somatus clinches $325M-plus series E to expand its value-based kidney care model",
+            "content": "Somatus has secured over $325 million in a series E funding round led by Wellington Management Company, placing the value-based kidney care company at a..."
+        }
+    ],
+    "20220224": [
+        {
+            "headline": "Justice Dept. Sues to Block $13 Billion Deal by UnitedHealth Group (Published 2022)",
+            "content": "The Justice Department on Thursday sued to block a $13 billion acquisition of a health technology company by a subsidiary of UnitedHealth Group."
+        },
+        {
+            "headline": "DOJ sues to stop UnitedHealth from acquiring Change Healthcare",
+            "content": "The Justice Department joined Minnesota and New York in filing a federal lawsuit to stop UnitedHealth Group from acquiring Change Healthcare, alleging the..."
+        },
+        {
+            "headline": "Justice Department Sues to Block UnitedHealth Group’s Buy of Change Healthcare",
+            "content": "The Justice Department filed a lawsuit on Thursday to block a UnitedHealth Group unit from acquiring health-tech company Change Healthcare."
+        },
+        {
+            "headline": "US sues to stop UnitedHealth’s $13bn purchase of Change Healthcare",
+            "content": "The US Department of Justice has sued to block UnitedHealth's $13bn acquisition of Change Healthcare, in the latest effort by Joe Biden's administration to..."
+        },
+        {
+            "headline": "UnitedHealth unit settles Mass. drug overcharge case for $5.8 mln",
+            "content": "OptumRx, the pharmacy benefit manager unit of UnitedHealth Group Inc, has agreed to pay $5.8 million to resolve allegations by Massachusetts' attorney..."
+        },
+        {
+            "headline": "With War in Europe, Investors Flee Stocks, Seek Refuge in Gold, Bonds",
+            "content": "Russia's invasion of Ukraine threw global markets into turmoil. European stocks plummeted while, in the US, the Dow Jones joined the S&P 500 in a correction."
+        },
+        {
+            "headline": "Why investors are pouring billions into primary care",
+            "content": "Growing investments from large private equity and corporate health companies are driving a surge in primary care ventures."
+        }
+    ],
+    "20220225": [
+        {
+            "headline": "DOJ Lawsuit to Halt UnitedHealth Monopoly Earns AHF’s Praise",
+            "content": "WASHINGTON (February 24, 2022) AIDS Healthcare Foundation (AHF) today praised the United State Department of Justice (DOJ) and the states of New York and..."
+        },
+        {
+            "headline": "How Is the Dow Only Down 8.8% While So Many Stocks Are Crashing?",
+            "content": "The Dow Jones Industrial Average is outperforming the S&P 500 and the Nasdaq Composite in 2022. Healthcare and financial stocks make up 40% of the Dow."
+        },
+        {
+            "headline": "Cyberattack on Nvidia results in data leak, credential theft",
+            "content": "Leading US chipmaker Nvidia said a threat actor attacked its IT network, stealing employee credentials and some proprietary information."
+        },
+        {
+            "headline": "Frederick Jones, the Minnesotan Responsible for Year Round Fruits and Veggies",
+            "content": "From fixing cars to saving lives on the battlefield, Frederick McKinley Jones is a true Legendary Minnesotan."
+        }
+    ],
+    "20220226": [],
+    "20220227": [],
+    "20220228": [
+        {
+            "headline": "Study: Here’s Some Evidence That Switching Among Generic Levothyroxine Products Is OK",
+            "content": "Even prescribers who are completely comfortable with writing scripts for generics or biosimilars may have some reservations about switching patients who are..."
+        },
+        {
+            "headline": "As many as 25% of screening colonoscopies are unnecessary, study finds",
+            "content": "Screening colonoscopies in the US declined considerably in 2020 due to Covid-19. The fact that many people at high risk of colon cancer missed this..."
+        },
+        {
+            "headline": "Mayo Clinic's operating income soared to $1.2B last year",
+            "content": "More patients visited Mayo's clinics in Minnesota, Arizona and Florida in 2021 — and when hospitalized, they stayed longer."
+        }
+    ],
+    "20220301": [
+        {
+            "headline": "Moody's: Failure to close Change deal would diminish UnitedHealth's long-term growth",
+            "content": "If UnitedHealth Group's bid to acquire Change Healthcare is ultimately stopped by the Department of Justice, it would be credit positive for UnitedHealth..."
+        }
+    ],
+    "20220302": [
+        {
+            "headline": "Bob Herman",
+            "content": "Bob Herman is a business of health care reporter at STAT. He covers hospitals, health insurance, and other corners of the industry."
+        },
+        {
+            "headline": "40 Under 40: Sabrina Edens, StoneArch",
+            "content": "After stints most recently at Revo Health and UnitedHealth Group, Sabrina Edens joined StoneArch right before the COVID-19 pandemic."
+        },
+        {
+            "headline": "Covid Expert Joins Exodus Into Business, Where Science Parlays Into Profits",
+            "content": "Like others in academia or government who've served as public health advisers during the pandemic, Dr. Michael Mina traded his university role for a..."
+        },
+        {
+            "headline": "Robert Pohly’s Samlyn Capital Portfolio: 10 Dividend Stock Picks",
+            "content": "In this article, we discuss the 10 dividend stocks in Robert Pohly's portfolio. You can skip our detailed analysis of Samlyn Capital's past performance and..."
+        }
+    ],
+    "20220303": [
+        {
+            "headline": "Viatris is Getting Out of Biosimilars Business… But Not Completely",
+            "content": "The company announced this week that it is selling its biologics unit to Biocon Biologics, but Viatris is also slated to have a stake in the biosimilars entity."
+        },
+        {
+            "headline": "Assurant Inc. stock outperforms market on strong trading day",
+            "content": "Shares of Assurant Inc. AIZ. -1.59%. advanced 1.02% to $170.60 Thursday, on what proved to be an all-around dismal trading session for the stock market,..."
+        }
+    ],
+    "20220304": [
+        {
+            "headline": "UnitedHealthcare, UVM Health Network dispute could leave 2,900 patients searching for care",
+            "content": "Some 2,900 patients covered by UnitedHealthcare may no longer be able to see providers at the University of Vermont Medical Center and its connected..."
+        },
+        {
+            "headline": "Antitrust Law In The Biden Administration: What’s The Deal With That?",
+            "content": "Vinson & Elkins partner Craig Seebald, a top antitrust litigator, analyzes last week's DOJ challenge to a $13 billion deal by UnitedHealth and the future of..."
+        }
+    ],
+    "20220305": [],
+    "20220306": [],
+    "20220307": [
+        {
+            "headline": "Sinclair losses mount as ransomware costs exceed insurance policy",
+            "content": "The group overhauled its internal security policies and named a board-level subcommittee as part of its ongoing attack recovery. Published March 7, 2022."
+        },
+        {
+            "headline": "2022 40 Under 40: Kate Agnew's passion, leadership extends beyond work at Optum",
+            "content": "Kate Agnew, senior director of software engineering at Optum, is a champion of women in STEM careers and active in her community."
+        }
+    ],
+    "20220308": [
+        {
+            "headline": "Break The Bias: Celebrating International Women’s Day",
+            "content": "This year's theme, #BreakTheBias, calls on us to imagine a gender-equal world free of bias, stereotypes and discrimination."
+        }
+    ],
+    "20220309": [
+        {
+            "headline": "UnitedHealth acquires building near its Minnetonka headquarters",
+            "content": "The headquarters of UnitedHealth Group Inc. is pictured. Its subsidiary, United Healthcare Services, Inc., bought a nearby building. Sam Black | MSPBJ."
+        }
+    ],
+    "20220310": [
+        {
+            "headline": "Thousands could lose access to Broward Health hospitals due to UnitedHealthcare contract dispute",
+            "content": "Thousands of United Healthcare health insurance members in Broward County could lose in-network access to Broward Health's hospitals and ambulatory care..."
+        },
+        {
+            "headline": "Health Insurer Anthem To Rebrand Company As ‘Elevance Health’",
+            "content": "Anthem intends to become Elevance Health in a major rebranding designed to focus the health insurance company on “whole health” of customers and patients."
+        },
+        {
+            "headline": "WSJ News Exclusive | Blue Cross Blue Shield Owner Anthem Seeks to Change Name to Elevance Health",
+            "content": "Shareholders must approve move, which aims to signal company's push beyond its core health-insurance business."
+        }
+    ],
+    "20220311": [
+        {
+            "headline": "Cybersecurity",
+            "content": "The digital security of healthcare institutions and data is a growing concern, with an increasing number of cyberattacks each year against healthcare systems."
+        },
+        {
+            "headline": "Pharmacy Benefit Managers: Mystery Middlemen Managing Your Prescription Drugs",
+            "content": "About 40% of Americans struggle to afford prescription medicines. COVID-19 worsened the problem. Rhode Island policymakers must control PBMs - the key cost..."
+        }
+    ],
+    "20220312": [],
+    "20220313": [],
+    "20220314": [
+        {
+            "headline": "Tech, growth stocks lead Wall Street to lower close as investors focus on interest rates",
+            "content": "Major US stock indexes closed mostly lower on Monday, led by a more than 2% drop in Nasdaq, as investors sold tech and big growth names."
+        },
+        {
+            "headline": "Kronos ransomware attack raises questions of vendor liability",
+            "content": "The December ransomware attack against workforce management company Ultimate Kronos Group hindered the ability of its customers to process payrolls."
+        }
+    ],
+    "20220315": [
+        {
+            "headline": "Partnership With HealthNet Expands Access to Care",
+            "content": "The United Health Foundation has launched a partnership with HealthNet, a nonprofit health care provider serving Indiana, to expand access to primary and..."
+        },
+        {
+            "headline": "HealthNet launches mobile health clinic to bring services to Marion, Morgan, Monroe counties",
+            "content": "Indianapolis-based nonprofit HealthNet recently launched a new mobile health clinic with the goal to increase health care access in rural and low-income..."
+        },
+        {
+            "headline": "Cast and Creative Team Announced For DIARY OF A WIMPY KID The Musical",
+            "content": "The popular series by author/illustrator, Jeff Kinney, is the recipient of six Nickelodeon Kids' Choice Awards and is published in 66 languages throughout..."
+        }
+    ],
+    "20220316": [
+        {
+            "headline": "UnitedHealthcare Provides Nearly $170K to the University of Mississippi Medical Center to Support Children’s Health",
+            "content": "UnitedHealthcare Community Plan of Mississippi has allocated $169500 to the University of Mississippi Medical Center to enhance care for children with..."
+        },
+        {
+            "headline": "Five takeaways for consumers and patients from Ohio's consolidated health-care system",
+            "content": "The top takeaway from the prices charged and care delivered at Ohio's biggest medical systems actually is an old adage: Appearances can be deceiving."
+        }
+    ],
+    "20220317": [
+        {
+            "headline": "Minneapolis-based Creative Agency Morsekode Sold to London Firm",
+            "content": "Founded in 2002, Morsekode has worked with a number of high-profile Minnesota clients, including 3M and Ecolab."
+        }
+    ],
+    "20220318": [
+        {
+            "headline": "Compensation",
+            "content": "Salaries for healthcare administrators, physicians and clinicians vary based on geographic location, the size of the institution, education level, work..."
+        },
+        {
+            "headline": "Connection Found Between Oral Health and COVID-19",
+            "content": "While most people are aware of the many risk factors associated with complications from COVID-19, including diabetes and high blood pressure, a surprising..."
+        },
+        {
+            "headline": "How a locally governed health system teamed up with Optum to drive change",
+            "content": "Boulder Community Health Chief Information Officer Michael Jefferies told HIMSS22 attendees about the challenges and triumphs of the partnership,..."
+        },
+        {
+            "headline": "FIR can be quashed at initial stage if it doesn’t mention cognizable offence, says Punjab and Haryana hig",
+            "content": "An FIR can be quashed at the initial stage itself if it does not disclose the essential requirements of the penal provision or the commission of a co."
+        }
+    ],
+    "20220319": [
+        {
+            "headline": "Albert Lea seniors caught in insurance quagmire, with limited access to new clinic",
+            "content": "Albert Lea residents scrambled a few years ago to recruit a new health care provider after Mayo Clinic announced it would start closing many hospital..."
+        }
+    ],
+    "20220320": [],
+    "20220321": [
+        {
+            "headline": "Citizen's Election Forum",
+            "content": "As the May elections draw closer, we aim to call attention to the importance of the private sector and civil society in fostering citizen engagement and..."
+        }
+    ],
+    "20220322": [
+        {
+            "headline": "Telehealth will endure, but providers are managing expectations",
+            "content": "The survey of 240 healthcare providers showed a majority (69%) consider telehealth to be convenient, but another 28% described virtual care as frustrating."
+        },
+        {
+            "headline": "UnitedHealthcare announces Scott Thompson's appointment",
+            "content": "Scott Thompson was named director of sales for UnitedHealthcare's commercial line of business in Indiana and Kentucky in March."
+        },
+        {
+            "headline": "CENTENE APPOINTS SARAH LONDON AS CHIEF EXECUTIVE OFFICER",
+            "content": "Sarah London, Vice Chairman of Centene, has been appointed Chief Executive Officer, effective immediately, succeeding Michael Neidorff."
+        },
+        {
+            "headline": "Centene names new CEO, Neidorff remains on leave",
+            "content": "The announcement of a successor as CEO for Michael Neidorff comes after he took a medical leave of absence."
+        },
+        {
+            "headline": "Centene promotes tech, health services lead to CEO",
+            "content": "Sarah London's appointment comes as more insurers invest in care delivery and healthcare services as a way to grow their revenue beyond insurance premiums."
+        },
+        {
+            "headline": "UCare names new CEO amid growth in Minnesota's public health insurance programs",
+            "content": "Hilary Marden-Resnik is named chief executive as the Minneapolis-based nonprofit reports record enrollment."
+        }
+    ],
+    "20220323": [
+        {
+            "headline": "Change Healthcare reportedly seeking ‘sizable’ breakup fee if UnitedHealth deal falls through",
+            "content": "Change Healthcare is reportedly seeking a “sizable” breakup fee if its proposed acquisition by UnitedHealth Group falls through, according to a report..."
+        },
+        {
+            "headline": "The BrandLab Seeks Applications for 2022 LabFellow Program, Building off Previous Year’s Success",
+            "content": "Today, The BrandLab, a Minneapolis-based non-profit organization working to change the face and voice of the marketing and advertising industry, open."
+        },
+        {
+            "headline": "Centene taps London to succeed Michael Neidorff as CEO",
+            "content": "Centene has named a successor to longtime CEO Michael Neidorff. ((Centene)) Centene Corporation has named Sarah London as its CEO, effective immediately."
+        },
+        {
+            "headline": "Conflict of Interest in Nation’s Largest Special Interest Group: AARP",
+            "content": "The American Association of Retired Persons (AARP) is the largest special interest group in the United States, boasting a membership of 38 million."
+        },
+        {
+            "headline": "Centene Vice Chair Sarah London Adds CEO Title",
+            "content": "Sarah London, vice chairman of the board of directors at Centene (NYSE: CNC), has accepted additional responsibilities as CEO of the St. Louis-based health..."
+        },
+        {
+            "headline": "Centene names Sarah London CEO - Bizwomen",
+            "content": "Jacob Kirn, Managing Editor - St. Louis Business Journal Mar 23, 2022, 6:52am EDT. Centene 2021 003. Dilip Vishwanat | SLBJ. Sarah London has been named CEO..."
+        }
+    ],
+    "20220324": [
+        {
+            "headline": "Scoop: UnitedHealth Group’s Optum buys Refresh Mental Health",
+            "content": "Scoop: Optum buys Refresh Mental Health · By the numbers: The deal's price tag is not clear, but it was only in December 2020 that Kelso agreed to buy Refresh..."
+        },
+        {
+            "headline": "Optum acquires Refresh Mental Health: report",
+            "content": "Optum has quietly acquired Refresh Mental Health from private equity firm Kelso & Company, Axios reported Thursday."
+        },
+        {
+            "headline": "Anthem Inc. stock outperforms competitors on strong trading day",
+            "content": "Shares of Anthem Inc. ANTM rallied 2.50% to $473.73 Thursday, on what proved to be an all-around positive trading session for the stock market,..."
+        },
+        {
+            "headline": "Corporate Political Influence",
+            "content": "Most investor concern about addressing undue corporate political influence has centered on arrangements for formal oversight and disclosure of spending on..."
+        },
+        {
+            "headline": "The mathematical vision of Bangladeshi economist Dr Saim Amir Faisal",
+            "content": "Investing is not gambling; there is no room for emotional vulnerability in investment decisions. It is a measured and calculated quantitative and logic-dri."
+        }
+    ],
+    "20220325": [
+        {
+            "headline": "Healthcare Reimbursement Market Size to Surpass US$ 15.21 Trillion by 2029",
+            "content": "According to Precedence Research, the global healthcare reimbursement market size is predicted to surpass around US$ 15.21 trillion by 2029 and growing at."
+        },
+        {
+            "headline": "Optum reportedly buys Refresh Mental Health",
+            "content": "UnitedHealth Group's Optum unit has bought Refresh Mental Health from a private equity firm, Axios reported March 24 citing sources."
+        },
+        {
+            "headline": "Healthcare Reimbursement Market Size to Hit USD 139.09 Bn by 2034",
+            "content": "The global healthcare reimbursement market size is estimated to hit around USD 139.09 billion by 2034 increasing from USD 25.86 billion in 2024 with a CAGR..."
+        },
+        {
+            "headline": "DeFi ETH announced that it had obtained a strategic investment in Greyscale Investment",
+            "content": "Innovative financial trading platform DeFi ETH announced that it had obtained a strategic investment in Greyscale Investment Trust DeFi ETH Innovative..."
+        }
+    ],
+    "20220326": [
+        {
+            "headline": "Mergers & Acquisitions",
+            "content": "The healthcare industry sees a lot of consolidation between both vendors and healthcare providers this channel tracks mergers and acquisitions between large..."
+        }
+    ],
+    "20220327": [],
+    "20220328": [
+        {
+            "headline": "She was told 'girls don't do that.' Now Margaret-Mary Wilson is a top executive at UnitedHealth Group",
+            "content": "Margaret-Mary Wilson was discouraged from her dreams of becoming a doctor because \"girls don't do that.\" But she persisted."
+        },
+        {
+            "headline": "STYLE: Satrell Beauty Founder Nichole Wright",
+            "content": "As a little girl in Charleston, South Carolina, Nichole Wright loved to watch her mom and aunt stand in front of a mirror and put on makeup."
+        },
+        {
+            "headline": "SEC Proposes Expanded Regulation of Securities Dealers",
+            "content": "The SEC announced, on March 28, 2022, new rules aimed at making more entities subject to regulation as securities dealers."
+        },
+        {
+            "headline": "Dr. Cynthia McCurren from the University of Michigan-Flint Appointed Chair of the AACN Board of Directors | Newswise",
+            "content": "The American Association of Colleges of Nursing (AACN) is pleased to announce that Cynthia McCurren, PhD, RN, dean and professor of nursing at the..."
+        }
+    ],
+    "20220329": [
+        {
+            "headline": "Optum and LHC Group to Combine, Advancing Abilities to Extend Value-Based Care into Patients’ Homes",
+            "content": "The agreement calls for the acquisition of LHC Group's common stock for $170 per share in cash and is expected to close in the second half of 2022."
+        },
+        {
+            "headline": "UnitedHealth to buy LHC Group for $5.4 billion in home healthcare push",
+            "content": "UnitedHealth Group said on Tuesday it would buy LHC Group for about $5.4 billion in cash, as the largest U.S. health insurer expands its home health..."
+        },
+        {
+            "headline": "UnitedHealth to Buy Home-Health Firm LHC Group for $5.4 Billion",
+            "content": "Group Inc. has agreed to buy LHC Group Inc. for about $5.4 billion in cash, in the latest tie-up linking a managed-care company to the home-health business."
+        },
+        {
+            "headline": "[UPDATED] UnitedHealth Group to Acquire LHC Group for $5.5 Billion",
+            "content": "UnitedHealth Group (NYSE: UNH) has agreed to buy LHC Group (NASDAQ: LHCG) for a reported $5.5 billion. The insurance company will integrate LHC Group with."
+        },
+        {
+            "headline": "UnitedHealth Group's Optum to buy LHC group to expand home healthcare presence",
+            "content": "The move is a push by Optum and UHG to advance value-based care and expand into the home healthcare market. ... UnitedHealth Group subsidiary Optum will combine..."
+        },
+        {
+            "headline": "UnitedHealth Group Agrees to Buy LHC Group for Over $5 Billion",
+            "content": "UnitedHealth Group (NYSE: UNH) has agreed to buy LHC Group (Nasdaq: LHCG). The deal is reportedly worth about $5.4 billion. The plan is to pair LHC Group."
+        },
+        {
+            "headline": "UnitedHealth Group paying $5.4B for Louisiana-based home health firm",
+            "content": "UnitedHealth Group is paying $5.4 billion to acquire LHC Group, a Louisiana-based home-care company, in a deal that pushes the Minnetonka-based health care..."
+        },
+        {
+            "headline": "UnitedHealth buys in-home care company for $5.4 billion",
+            "content": "UnitedHealth Group, Minnesota's most valuable company, has announced it is buying an in-home health company in a deal worth $5.4 billion."
+        },
+        {
+            "headline": "UnitedHealth to acquire LHC Group in $5.4 billion deal",
+            "content": "UnitedHealth Group, the nation's largest health insurer, will acquire Lafayette-based LHC Group for $5.4 billion."
+        },
+        {
+            "headline": "UnitedHealth to buy LHC Group, a home health firm for $5.4 billion",
+            "content": "UnitedHealth estimated the deal's total worth to be $6 billion, plus the debt. The transaction is expected to end in the second half of 2022, according to..."
+        }
+    ],
+    "20220330": [
+        {
+            "headline": "UnitedHealth to buy home health business LHC for $5.4B",
+            "content": "UnitedHealth has inked a deal to acquire home health and hospice provider LHC Group for $5.4 billion as payers continue to elbow into home health delivery..."
+        },
+        {
+            "headline": "Optum Combination Marks New Chapter for LHC Group, New Valuation ‘Floor’ for Home Health Industry",
+            "content": "LHC Group Inc. (Nasdaq: LHCG) began in 1994 as a single home health agency, co-founded by husband-and-wife duo Keith and Ginger Myers, the provider's."
+        },
+        {
+            "headline": "UHG’s Optum Acquires Home Health Business LHC Group for $5.4B",
+            "content": "UHG subsidiary Optum acquires LHC Group, a national patient-focused provider of high-quality in-home health care services for $5.4B."
+        },
+        {
+            "headline": "UnitedHealth to buy LHC Group for $5.4 bln in home healthcare push",
+            "content": "UnitedHealth Group said on Tuesday it would buy LHC Group for about $5.4 billion in cash, as the largest U. S. health insurer expands its home health..."
+        },
+        {
+            "headline": "DLMM as a lossless one-shot algorithm for collaborative multi-site distributed linear mixed models",
+            "content": "Linear mixed models are commonly used in healthcare-based association analyses for analyzing multi-site data with heterogeneous site-specific random effects..."
+        },
+        {
+            "headline": "R.I. fines UnitedHealthcare $100,000 over rehab, detox coverage decisions",
+            "content": "Rhode Island's health insurance regulator found that the health insurer did not follow state law when it denied coverage."
+        },
+        {
+            "headline": "Milken, Lerner Back Healthcare Start-up That Leverages AI",
+            "content": "Zephyr AI, a healthcare technology company backed by blue-chip investors including Michael Milken and the Lerner family, has raised $18.5 million in its latest..."
+        }
+    ],
+    "20220331": [
+        {
+            "headline": "Optum-Refresh Blockbuster Blazes a Consolidation Trail for the Next Mental Health Platform",
+            "content": "Mental health platforms now have clear lanes for consolidation moves in outpatient mental health after the Optum-Refresh deal."
+        },
+        {
+            "headline": "LHC Group Is Bought By Minnesota-Based UnitedHealth",
+            "content": "UnitedHealth Corp Inc. has agreed to buy LHC Group Inc., for about $5.4 billion in cash, according to The Wall Street Journal."
+        },
+        {
+            "headline": "3 Top Healthcare ETFs to Buy Now and Hold for the Long Haul",
+            "content": "Three healthcare ETFs that provide long-term investors with diversification, along with growth opportunities to outpace the S&P 500, include Vanguard Health..."
+        },
+        {
+            "headline": "3D mammograms aren’t the solution to false positives in breast cancer screening",
+            "content": "Digital breast tomosynthesis (DBT) is more commonly known as “3D mammogram” because it creates a 3-dimensional image of breast tissue by taking x-rays..."
+        },
+        {
+            "headline": "Amazon, Tesla, Apple: Race is on to reach US$5 trillion dollar figure first",
+            "content": "XTB has predicted which of the world's largest companies could be the first to reach US$5 trillion dollars and when."
+        }
+    ],
     "20220401": [],
     "20220402": [],
     "20220403": [
