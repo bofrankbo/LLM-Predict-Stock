@@ -1,5 +1,5 @@
 import os
-from module.factor_expanding import FactorExpanding
+from module.expand_stock import FactorExpanding
 
 # 儲存的日期是判斷日期，非新聞日期
 # 以判斷日期為準

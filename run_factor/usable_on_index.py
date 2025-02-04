@@ -9,12 +9,11 @@ import os
 import pandas as pd
 from datetime import datetime
 from langchain_openai import ChatOpenAI
-from langchain_openai import OpenAIEmbeddings
 
 from eval import EvalOvernight
 from module import GeneticAlgorithm
 from module import UsableGenerator
-from module import UsableExpanding
+from module import Index_UsableExpanding
 from factor import Factor
 
 class Index_UsableFactorON(Factor):
@@ -42,7 +41,7 @@ class Index_UsableFactorON(Factor):
     def run(self):
         # preprocess
         fac_gen = UsableGenerator(self.env, self.price_his)
-        fac_exp = UsableExpanding(self.env, self.llm, self.price_his)
+        fac_exp = Index_UsableExpanding(self.env, self.llm, self.price_his)
         self.factors = fac_gen.generate_factors()
         self.exp_data = fac_exp.expanding(self.factors)
         
@@ -132,7 +131,7 @@ class Index_UsableFactorON(Factor):
         return list_date, list_bnh_rtn, list_stag_rtn
     
     def show_sig(self):
-        fac_exp = UsableExpanding(self.env, self.llm, self.price_his)
+        fac_exp = Index_UsableExpanding(self.env, self.llm, self.price_his)
         fac_exp.show_sig()
         
     def show_individual(self, mode):

@@ -1,7 +1,7 @@
 import os
 import json
 import random
-from .genetic_algorithm import GeneticAlgorithm
+from .GA import GeneticAlgorithm
 
 class GeneticAlgorithmMOV(GeneticAlgorithm):
     def __init__(self, env, df_price_his, datarange, eval_func, pop_size=20, generations=50, mode=0, pop_len=20):
