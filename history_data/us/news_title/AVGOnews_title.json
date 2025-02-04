@@ -1,4 +1,430 @@
 {
+    "20220201": [
+        {
+            "headline": "Idera acquires Yellowfin BI, adds it to developer tools business",
+            "content": "Idera's portfolio of dev tools has removed another independent BI provider from the market."
+        }
+    ],
+    "20220202": [
+        {
+            "headline": "It’s Time to Up Your Game on App Performance and Security for Today’s Distributed Workforce",
+            "content": "It's not news that the distributed workforce has sparked several technology and workplace trends. The most obvious change has been the transformation of."
+        },
+        {
+            "headline": "National STEM award winner credits IPSF",
+            "content": "When 14-year-old Hailey Van isn't practicing ballet or walking her dogs, she's studying computer coding. Or marine biology. Or computational analysis."
+        }
+    ],
+    "20220203": [
+        {
+            "headline": "Axiado Expands Its Leadership Lineup to Bring the AI-Enhanced Security Processor TCU to Market",
+            "content": "Axiado Corporation, an AI-enhanced hardware security company announced the fortifying of its leadership lineup by adding ten members to its board of strategic..."
+        }
+    ],
+    "20220204": [
+        {
+            "headline": "Apple, Broadcom win new trial in $1.1 bln Caltech patent case",
+            "content": "A U.S. appeals court on Friday threw out a jury verdict ordering Apple Inc and Broadcom Inc to pay $1.1 billion to the California Institute of Technology..."
+        },
+        {
+            "headline": "Celestial AI Raises $56 Million Series A to Disrupt the Artificial Intelligence Chipset Industry with Novel Photonic-Electronic Technology Platform",
+            "content": "Celestial AI, an AI-accelerator company with a proprietary hardware and software platform for machine learning chipsets, today announced a $56 million."
+        },
+        {
+            "headline": "Apple wins a new trial in $1.1-billion Caltech patent case",
+            "content": "Apple Inc. and Broadcom Inc. will get a new trial on damages in an infringement case over Caltech patents on Wi-Fi technology, after a U.S. appeals court..."
+        },
+        {
+            "headline": "Apple Files for a Patent covering a Water-Resistant Sensor Device for iPhone and Apple Watch",
+            "content": "Yesterday Patently Apple posted a report titled \" A Federal Judge Has Dismissed a Proposed Class-Action against Apple over Water Resistance Claims."
+        }
+    ],
+    "20220205": [
+        {
+            "headline": "IndiGo appoints Rahul Bhatia as MD; to focus on airline's int'l presence",
+            "content": "IndiGo seems to be gearing up for the challenge of greater competition in India's skies by appointing its co-founder and promoter -- Rahul Bhatia -- as the..."
+        }
+    ],
+    "20220206": [],
+    "20220207": [
+        {
+            "headline": "VMware Welcomes New Leadership to Help Accelerate Company’s Multi-Cloud Strategy",
+            "content": "Company Appoints Laura Heisman as Chief Marketing Officer and Sylvain Cazard to General Manager, Asia Pacific and Japan Company Also Recently."
+        },
+        {
+            "headline": "VMware pulls physical to virtual conversion tool, adds VM to container conversion tool",
+            "content": "VMware's on-ramp to VMs is the VMware Converter – a tool that automates the process of creating VMware virtual machines from physical machines (P2V)."
+        }
+    ],
+    "20220208": [
+        {
+            "headline": "DevOps Market: Industry Future Developments and Competitive",
+            "content": "Press release - DeepResearchReports - DevOps Market: Industry Future Developments and Competitive Landscape Analysis- Datadog, AWS, BMC Software, Azure,..."
+        }
+    ],
+    "20220209": [
+        {
+            "headline": "Twilio stock soars as Q4 revenue crushes expectations",
+            "content": "Twilio said its dollar-based net expansion rate, a measure of customer retention, declined form 139% to 126% in the quarter."
+        },
+        {
+            "headline": "Your iPhone may have been recording your conversations with Siri",
+            "content": "An iOS 15 bug led to the collection of a large number of Siri recordings in error."
+        },
+        {
+            "headline": "China's ZTE boosts chip capabilities amid Huawei's crackdown woes",
+            "content": "China's No. 2 telecommunications equipment maker ZTE has been quietly boosting its chip design capabilities as a US crackdown continues to hobble its bigger..."
+        }
+    ],
+    "20220210": [
+        {
+            "headline": "Making Chips Abroad and Infringing a U.S. Patent",
+            "content": "by Dennis Crouch. The recent Federal Circuit decision in Caltech v. Broadcom includes an important discussion of extraterritorial damages further extending..."
+        }
+    ],
+    "20220211": [],
+    "20220212": [],
+    "20220213": [
+        {
+            "headline": "GNOME Dynamic Triple Buffering Can 2x The Desktop Performance For Intel Graphics, Raspberry Pi",
+            "content": "For a while now Daniel Van Vugt of Canonical has been working on GNOME triple buffering support that would be dynamically enabled when the GPU rendering..."
+        }
+    ],
+    "20220214": [
+        {
+            "headline": "Prince Sultan University and VMware sign MoU to Launch Innovation Center",
+            "content": "The planned Innovation Center will enable students, researchers, and businesses to experience cloud, modern apps, and security solutions."
+        },
+        {
+            "headline": "5 Top-Performing Semiconductor ETFs",
+            "content": "The best performing semiconductor ETFs for 2022 include SOXX, SMH, PSI, FTXL & XSD. Learn more about expenses, holdings, long and short-term performance,..."
+        }
+    ],
+    "20220215": [
+        {
+            "headline": "Brocade G730 High Density 64G FC Switching Platform Announced",
+            "content": "Broadcom has announced the Gen 7 64G Fibre Channel switch platform, the Brocade G730 Switch. The G730 is a high density, secure, 128-port core switching..."
+        },
+        {
+            "headline": "Intel is betting $5 billion on old semiconductor technology",
+            "content": "Intel's $5.4 billion deal to buy Tower Semiconductor represents a big investment in manufacturing analog chips—a different strategy from US chip giants like..."
+        },
+        {
+            "headline": "ZoomInfo stock drops despite Q4 results, forecast above expectations",
+            "content": "ZoomInfo said its number of customers representing $100000 or more in annual contract value rose to 1452 from 1250 in the prior quarter."
+        },
+        {
+            "headline": "Further Investigating The Raspberry Pi 32-bit vs. 64-bit Performance Review",
+            "content": "The 64-bit Raspberry Pi OS was still coming out ahead -- delivering better performance 86% of the time compared to the 32-bit OS picking up wins rarely."
+        },
+        {
+            "headline": "DIY Raspberry Pi Zero 2 W handheld PC (mostly) makes use of off-the-shelf parts",
+            "content": "The Penkesu Computer is a DIY handheld PC powered by a Raspberry Pi Zero 2 W SBC, and mostly comprised of off-the-shelf parts including a 7.9-inch display."
+        }
+    ],
+    "20220216": [
+        {
+            "headline": "Akamai Gets Cloudy With $900M Linode Buy",
+            "content": "CDN provider Akamai acquired infrastructure-as-a-service (IaaS) provider Linode this week in a deal valued at $900 million."
+        },
+        {
+            "headline": "Intel gets foundry expertise with US$5.4 billion Tower Semiconductor buyout",
+            "content": "The acquisition gets Intel customers and expertise in the foundry business as it seeks to expand beyond producing its own designs."
+        }
+    ],
+    "20220217": [],
+    "20220218": [],
+    "20220219": [],
+    "20220220": [],
+    "20220221": [
+        {
+            "headline": "Hacker Gets PCIe GPU Working on Raspberry Pi Compute Module 4",
+            "content": "The Compute Module's mini-PCIe slot will drive a graphics card, just not a very powerful one."
+        }
+    ],
+    "20220222": [
+        {
+            "headline": "Broadcom Stock: Overvalued Relative to Its Historical Multiples",
+            "content": "AVGO stock looks overvalued here as it trades above its three-year average valuation multiple averages on a forward EV/EBITDA ratio and a forward price-to-..."
+        },
+        {
+            "headline": "Allente launches cross-platform Android TV service",
+            "content": "Nordic pay-TV platform Allente has launched a new cross-platform aggregated TV service using a set-top box for satellite, IPTV and OTT reception."
+        },
+        {
+            "headline": "Allente Launches Next-Gen Android TV Service On Satellite, IPTV And OTT - UK Broadcast News | 22/02/2022",
+            "content": "3 Screen Solutions (3SS) and KAONMEDIA have announced that Nordic pay-TV giant has launched its next-generation super-aggregated TV services for Scandinavi."
+        }
+    ],
+    "20220223": [
+        {
+            "headline": "Broadcom reduces workbench testing time and cost with AWS Lambda and AWS Glue",
+            "content": "In this post we show how we implemented this process on AWS using AWS Lambda, AWS Glue and the help of the Amazon Machine Learning Solutions Lab."
+        },
+        {
+            "headline": "Why Snyk (Probably) Paid Millions for Fugue",
+            "content": "Most vendors see application deployment as the start of the security journey, says Snyk's Guy Podjarny: “We think of code as the beginning.”"
+        },
+        {
+            "headline": "Tonga’s internet finally restored five weeks after volcanic eruption and tsunami",
+            "content": "Tonga's main internet connection to the rest of the world has finally been restored more than five weeks after a huge volcanic eruption and tsunami severed a..."
+        }
+    ],
+    "20220224": [],
+    "20220225": [
+        {
+            "headline": "Broadcom’s Top 5 Most Highly Compensated Executives In 2021",
+            "content": "Broadcom President and CEO Hock E. Tan received total compensation for fiscal year 2021 of $60.7 million."
+        },
+        {
+            "headline": "Synaptics Targets France for Wireless R&D Center",
+            "content": "Wireless chip specialist Synaptics is establishing a research and development center at the Sophia Antipolis campus in southern France."
+        },
+        {
+            "headline": "Saudi Arabia Announces Plans to Open Full 6 GHz Band for Wi-Fi",
+            "content": "The Communications & Information Technology Commission of the Kingdom of Saudi Arabia are going to 6GHz band available for Wifi."
+        }
+    ],
+    "20220226": [],
+    "20220227": [],
+    "20220228": [
+        {
+            "headline": "Millicom (Tigo) Accelerates Its Multi-Cloud Journey with VMware",
+            "content": "Tigo selected VMware Cloud as its common multi-cloud infrastructure across operations and business units. Since implementing VMware Cloud, Tigo has become..."
+        },
+        {
+            "headline": "New Chinese hacking tool found, spurring U.S. warning to allies",
+            "content": "Security researchers with U.S. cybersecurity firm Symantec said they have discovered a “highly sophisticated” Chinese hacking tool that has been able to..."
+        },
+        {
+            "headline": "Researchers Warn of Stealthy Chinese Backdoor Targeting Multiple Foreign Agencies",
+            "content": "A stealthy backdoor program used by China-linked threat actors has targeted government computers at multiple foreign agencies, allowing attackers to retain..."
+        },
+        {
+            "headline": "Eben Upton and Raspberry Pi: a history of equal opportunities",
+            "content": "A topic near and dear to Raspberry Pi co-inventor Eben Upton since childhood. Born in 1978, the Welshman realised early on that equal opportunity starts with..."
+        }
+    ],
+    "20220301": [
+        {
+            "headline": "New 'Highly Sophisticated' Malware Linked to Chinese Cyberattackers",
+            "content": "A leading cybersecurity firm says it has discovered a “highly sophisticated” piece of malware being used by Chinese hacking teams to attack government and..."
+        }
+    ],
+    "20220302": [
+        {
+            "headline": "Broadcom ships one billion Wi-Fi 6 and 6E chips",
+            "content": "Broadcom ships over 1 billion chips of Wi-Fi 6/6E. Connected by Broadcom 6-GHz Wi-Fi, modern wireless devices empower new user experiences and enable new..."
+        },
+        {
+            "headline": "VMware Statement Regarding Ukraine",
+            "content": "Updated April 12, 2022 On March 5, VMware announced its suspension of all business operations in Russia and Belarus, and the Donetsk and Luhansk regions."
+        }
+    ],
+    "20220303": [
+        {
+            "headline": "Broadcom says enterprise spending 'on fire,' forecasts upbeat revenue",
+            "content": "Chip company Broadcom Inc on Thursday forecast second-quarter revenue above Wall Street estimates on the back of strong demand from enterprise and cloud..."
+        },
+        {
+            "headline": "Broadcom (AVGO) Gives Bullish Outlook, Citing Data-Center Chip Demand",
+            "content": "Broadcom Inc. Chief Executive Officer Hock Tan gave an upbeat view of the chip industry Thursday, saying demand from corporate customers is “on fire,”..."
+        }
+    ],
+    "20220304": [
+        {
+            "headline": "Broadcom Stock Jumps After Chipmaker Beats Wall Street's Estimates",
+            "content": "Chipmaker Broadcom late Thursday easily surpassed Wall Street's targets for its fiscal first quarter and guided higher. AVGO stock jumped."
+        },
+        {
+            "headline": "Gap, Broadcom, Splunk Rise Premarket; Smith & Wesson Dives By Investing.com",
+            "content": "Gap, Broadcom, Splunk Rise Premarket; Smith & Wesson Dives."
+        },
+        {
+            "headline": "Free HermeticRansom Ransomware Decryptor Released",
+            "content": "A free decryptor is out to unlock a ransomware found piggybacking on the HermeticWiper data wiper malware that ESET and Broadcom's Symantec discovered."
+        }
+    ],
+    "20220305": [],
+    "20220306": [
+        {
+            "headline": "Broadcom’s 100Gbps VCSEL and 200Gbps EML solutions",
+            "content": "Broadcom's 100G VCSEL and 200G EML solutions are optimized for 800G and 1.6T pluggable optics targeting next generation hyperscale data center and enterprise..."
+        }
+    ],
+    "20220307": [
+        {
+            "headline": "GLOBALFOUNDRIES ANNOUNCES NEXT GENERATION IN SILICON PHOTONICS SOLUTIONS AND COLLABORATES WITH INDUSTRY LEADERS TO ADVANCE A NEW ERA OF MORE IN THE DATA CENTER",
+            "content": "PRNewswire/ -- GlobalFoundries Inc (Nasdaq: GFS) (GF) today announced it is collaborating with industry leaders including Broadcom, Cisco Systems, Inc,..."
+        }
+    ],
+    "20220308": [
+        {
+            "headline": "Broadcom leads in optical PHY",
+            "content": "Broadcom continues to be the market leader in delivering key physical layer connectivity components that cost-effectively deliver speed and help its..."
+        },
+        {
+            "headline": "U.S. appeals court rejects Broadcom's bid for Toyota, Renesas import ban",
+            "content": "Broadcom Corp on Tuesday lost its combined appeals of U.S. rulings for Toyota Motor Corp, Japanese chipmaker Renesas Electronics Corp, and others that it..."
+        },
+        {
+            "headline": "GlobalFoundries' new silicon photonics tech gets big buy-in",
+            "content": "GlobalFoundries believes data traveling at the speed of light is the future, and it's pointing to support from Nvidia, Cisco Systems, and others as evidence..."
+        }
+    ],
+    "20220309": [
+        {
+            "headline": "NVDA: Better Chip Stock: NVIDIA vs. Broadcom",
+            "content": "I am going to analyze and compare NVIDIA Corporation (NVDA - Get Rating) and Broadcom Inc. (AVGO - Get Rating) to determine which chip stock is currently a..."
+        },
+        {
+            "headline": "FIT Introduces QSFP-DD800 Connector / DAC Solutions at OFC 2022",
+            "content": "Foxconn Interconnect Technology (6088.HK) (“FIT”), a leading connective solution provider creating powerful connections for a better world, will joint."
+        },
+        {
+            "headline": "Expert Patent Damages Opinions Hit the Spotlight as Federal Circuit Scuttles Two Patent Infringement Verdicts Worth $1.2 Billion in One Day",
+            "content": "In two recent decisions, both issued on February 4, 2022, the United States Court of Appeals for the Federal Circuit (the “CAFC”) erased two huge patent..."
+        }
+    ],
+    "20220310": [
+        {
+            "headline": "Round Rock ISD students earn awards at Austin Energy Regional Science Festival",
+            "content": "Round Rock ISD students earned specialty awards and top placements at the Austin Energy Regional Science Festival hosted in February."
+        },
+        {
+            "headline": "What Will Google Buy Next to Rival Microsoft After Mandiant?",
+            "content": "As cloud giants fight over cybersecurity, what might be next in Google's security shopping cart after Mandiant?"
+        },
+        {
+            "headline": "Covid Tonga: active cases nearing 1,000 as concerns over Vava'u covid cases increase rate grow",
+            "content": "There are 100 new cases of Omicron in Tonga today, the Ministry of Health reports. The number of total active cases rises to 954."
+        }
+    ],
+    "20220311": [
+        {
+            "headline": "Avoiding Unforced Tech DI Errors at the ITC",
+            "content": "The key to success as a Complainant in the ITC is careful preparation, long before the complaint is filed. Nowhere is this more important than in preparing..."
+        },
+        {
+            "headline": "Happy 10th birthday to Raspberry Pi: A timeline",
+            "content": "The name Raspberry Pi is derived from the fruit pie, raspberry pie. Many companies in the computer neighbourhood where Raspberry Pi was based used fruit..."
+        },
+        {
+            "headline": "TechInsights Video Teardown: Apple iPhone 13 Pro Max",
+            "content": "The Apple iPhone 13 Pro Max contains four cameras and is powered by Apple's proprietary applications processor, the A15, along with a 5G modem from Qualcomm..."
+        }
+    ],
+    "20220312": [
+        {
+            "headline": "SSE Is Just SASE Without the SD-WAN Baggage",
+            "content": "SSE is a fundamental part of secure access service edge (SASE), Gartner Analyst Charlie Winckless told SDxCentral."
+        }
+    ],
+    "20220313": [],
+    "20220314": [],
+    "20220315": [
+        {
+            "headline": "Samueli Academy Celebrates Completion of Capital Campaign and Campus Construction",
+            "content": "Newport Beach philanthropists Susan and Henry Samueli have a long history of supporting nonprofit organizations in Orange County through their Samueli..."
+        }
+    ],
+    "20220316": [
+        {
+            "headline": "Infoniqa expands top management level - Organizer",
+            "content": "After the past company acquisitions, the software company Infoniqa has positioned itself more broadly and expanded the top management level."
+        }
+    ],
+    "20220317": [
+        {
+            "headline": "Advanced Authentication Mainframe (AAM) with ACF2",
+            "content": "AAM takes security to the next level by verifying the identity of users who seek access to z/OS to prevent data breaches and to address compliance..."
+        }
+    ],
+    "20220318": [],
+    "20220319": [
+        {
+            "headline": "Samueli Academy celebrates completion of campus construction",
+            "content": "The campus, which opened in 2013, recently built a new gymnasium and soccer field to complete its capital campaign."
+        }
+    ],
+    "20220320": [],
+    "20220321": [],
+    "20220322": [],
+    "20220323": [],
+    "20220324": [
+        {
+            "headline": "Amid Rising Volume and Pricing, Top 10 IC Design Companies Post 2021 Revenue Topping US$100 Billion",
+            "content": "According to TrendForce research, due to vigorous stocking of various terminal applications causing a shortage of wafers in 2021, the global IC industry was..."
+        },
+        {
+            "headline": "Alibaba Tops Huawei, Tencent in China Cloud Leaderboard",
+            "content": "Market leader Alibaba holds the top spot with 37% market share, though that's a decrease from its share of the market in 2020."
+        },
+        {
+            "headline": "SolarWinds: Security Event Manager Review",
+            "content": "Where does SolarWinds Security Event Manager stand in the SIEM market, including features, use cases, differentiators, and ratings?"
+        }
+    ],
+    "20220325": [
+        {
+            "headline": "Best Test Data Generator Tools for 2022",
+            "content": "Test data generation tools and solutions are critical to the success of your software project. Find your perfect testing solution."
+        },
+        {
+            "headline": "KDDI reminds us that open networking is about more than just the RAN",
+            "content": "Open RAN developments have a high profile in the telecoms worldBut open, multi-vendor efforts are transforming all parts of the network KDDI is leaning..."
+        },
+        {
+            "headline": "Top Ten Fabless 2021",
+            "content": "Nvidia overtook Broadcom to take the second position behind No.1 Qualcomm. Taiwanese companies Novatek and Realtek rose to sixth and eighth place, respectively."
+        },
+        {
+            "headline": "Top 10 IC Design Companies Post 2021 Revenue Topping $100B",
+            "content": "Revenue of the global top 10 IC design companies reached $127.4 billion in 2021, up by 48% YoY, according to TrendForce."
+        }
+    ],
+    "20220326": [],
+    "20220327": [
+        {
+            "headline": "AIC JBOX Review Limitless Potential PCIe Gen4 Box",
+            "content": "We review the AIC JBOX (J5010-02). This is a PCIe switch chassis for GPUs, DPUs, IPUs, FPGAs, SSDs, and more. It has limitless potential."
+        }
+    ],
+    "20220328": [],
+    "20220329": [
+        {
+            "headline": "Bessie Yuan: Leading With Influence",
+            "content": "Bessie Yuan shares her career path to Vice President and General Manager of VMware's Greater China Region."
+        },
+        {
+            "headline": "Newport Coast teen who launched science startup company gets first client",
+            "content": "Ryan Honary, 14, now an eighth-grader at the Pegasus School in Huntington Beach, was a finalist in the prestigious Broadcom MASTERS science competition in fall..."
+        },
+        {
+            "headline": "Here Comes the … Broom? (Published 2022)",
+            "content": "The “bride” and “groom” portmanteau is just one of the terms being used by couples seeking less traditional ways to define their unions."
+        }
+    ],
+    "20220330": [
+        {
+            "headline": "OIF to Provide Update on Electrical Interface Projects at DesignCon 2022",
+            "content": "Industry thought leaders will provide an overview of OIF's lessons learned on CEI 112G and progress on 224G (Gbps) FREMONT, Calif.--(BUSINESS."
+        }
+    ],
+    "20220331": [
+        {
+            "headline": "Time synchronization in data center networks",
+            "content": "Several use cases such as distributed databases, snapshots, telemetry and debugging are driving the adoption of high-precision time synchronization in data..."
+        },
+        {
+            "headline": "AT&T’s DriveNets rollout remains the major DOR event so far",
+            "content": "LightCounting's second annual report provides an update on the emergence of the Disaggregated Open Routers (DOR) market in wireless infrastructure."
+        },
+        {
+            "headline": "FIRST UP on GMW: State Science Fair Winners * CT PTA Reflections Winners * 11U Baseball Tourney Success",
+            "content": "Congratulations to the Wilton students who participated in the 2022 Connecticut Science and Engineering Fair. Several took home prizes and recognition."
+        }
+    ],
     "20220401": [
         {
             "headline": "Spectrum-4 Ethernet Leaps To 800G With Nvidia Circuits",

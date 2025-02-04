@@ -75,7 +75,7 @@ class Index_UsableExpanding(FactorExpanding):
                     news_data = json.load(f)
             
                 if str_news_date not in news_data:
-                    print(f"\tdate {str_news_date} was not fetched, skip {str_sig_date}")
+                    print(f"\t{stock[0]} date {str_news_date} was not fetched, skip {str_sig_date}")
                     continue    
 
                 news_list = news_data[str_news_date]
