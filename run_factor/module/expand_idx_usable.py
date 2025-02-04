@@ -67,6 +67,7 @@ class Index_UsableExpanding(FactorExpanding):
             print(f"Processing for date {str_sig_date}", end="")
 
             text_news = "today's news: \n"
+            hasnews = False
             for stock in env["components"]:
                 
                 path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{stock[2]}/news_title/{stock[0]}news_title.json"
@@ -78,15 +79,22 @@ class Index_UsableExpanding(FactorExpanding):
                     continue    
 
                 news_list = news_data[str_news_date]
+
                 if len(news_list) > 0:
-                    print(f"\t{str_news_date} news found")
+                    # print(f"\t{stock[0]} {str_news_date} news found")
+                    hasnews = True
                     for news in news_list:
                         headline = news.get("headline")
                         # content = news.get("content")
                         # text_news += f"### {headline}\n{content}\n\n"
                         text_news += f"{headline}\n"
-                # print(text_news)
-
+                else:
+                    # print(f"\t{stock[0]} no news found in {str_news_date}")
+                    pass
+                    # print(text_news)
+                
+            if hasnews:
+                print(f"\t{str_news_date} news found")
                 batch = []
                 for factor in value_list:
                     if country == "us":
@@ -149,11 +157,12 @@ class Index_UsableExpanding(FactorExpanding):
                         "sig" : 0,
                         "token": ""
                     }
-            
+        
             output_data[str_sig_date] = {
                 "skeleton": skeleton_res,
             }
         
+            # print(output_data.keys())
         # 排序output_data的資料
         output_data = dict(sorted(output_data.items(), key=lambda x: x[0]))
 
