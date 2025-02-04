@@ -9,8 +9,16 @@ from datetime import datetime
 
 from factor import Factor
 
+from langchain_openai import ChatOpenAI
+from langchain_openai import OpenAIEmbeddings
 
-class FactorEmbd(Factor):
+from eval.eval_overnight import EvalOvernight
+from module import FactorGenerator
+from module import FactorExpanding
+from module import GeneticAlgorithm
+
+
+class FactorEmbdON(Factor):
     '''
         Implement from Factor
         Change the factor generating function from factor
@@ -18,10 +26,58 @@ class FactorEmbd(Factor):
     '''
     def __init__(self, env, count=1):
         self.env = env
-        self.run_count = count
+        self.run_count = env['run_count']
         self.path_folder = "EmbdON"
-        self.get_path()
+        self.env['path_folder'] = self.path_folder
         
+        # output path
+        self.training_path = f"out_stock/Training_result/{self.path_folder}/{str(self.run_count)}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
+        self.similarity_threshold = 0.8
+        
+        # get history data
+        self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"
+        self.price_his = self.get_price_his()
+        
+        # models
+        self.embeddings_model = OpenAIEmbeddings(
+            model="text-embedding-3-small"
+        )
+
+        self.llm4o = ChatOpenAI(
+            openai_api_key = os.getenv('OPENAI_API_KEY'),
+            model='gpt-4o',
+            temperature=1,
+        )
+
+        self.llm = ChatOpenAI(
+            openai_api_key = os.getenv('OPENAI_API_KEY'),
+            model='gpt-4o-mini',
+            temperature=1,
+        )
+        
+    def run(self):
+        # preprocess
+        fac_gen = FactorGenerator(self.env, self.price_his, self.llm4o)
+        fac_exp = FactorExpanding(self.env, self.llm, self.price_his)
+        self.factors = fac_gen.generate_factors()
+        self.exp_data = fac_exp.expanding(self.factors)
+    
+    def training(self, mode, train_datarange, test_datarange):
+        eval_module = EvalOvernight(self.env, self.price_his)
+        ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys()))
+        individual = ga.run()
+        
+        res_train = eval_module.eval(train_datarange, individual)
+        res_test = eval_module.eval(test_datarange, individual)
+        res = {
+            "train": res_train,
+            "test": res_test,
+            "individual": individual,
+        }
+        eval_module.save_result(res, mode)
+
+        return res
+    
     # Step 1: 載入新聞標題 JSON
     def load_news_titles(self):
         data = []
