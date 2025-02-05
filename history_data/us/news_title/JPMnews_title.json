@@ -1,4 +1,994 @@
 {
+    "20220101": [
+        {
+            "headline": "A memo from the boss on apology inflation",
+            "content": "Chris Kempczinski, the boss of McDonald's, apologised in November after a freedom-of-information request revealed the contents of thoughtless text messages."
+        },
+        {
+            "headline": "FBI searching for bank robber in South Florida",
+            "content": "The FBI is searching for a man who robbed a Broward County bank in South Florida on New Year's Eve. The incident was reported at the JPMorgan Chase branch..."
+        }
+    ],
+    "20220102": [
+        {
+            "headline": "Goldman Sachs Follows Wall Street Rivals in Asking Staff to Work From Home (Published 2022)",
+            "content": "In a shift in policy as Covid cases rise, the Wall Street firm urged U.S. employees who can work remotely to do so until Jan. 18."
+        },
+        {
+            "headline": "Goldman Sachs asks U.S. employees to work from home until Jan. 18",
+            "content": "It follows a number of its rivals in altering return-to-office plans as the Omicron variant spreads."
+        }
+    ],
+    "20220103": [
+        {
+            "headline": "JPMorgan Chase Appoints Ben Ratner Executive Director, Sustainability",
+            "content": "In his new role, Ratner will be responsible for supporting JPMorgan Chase's sustainability strategy and helping to further integrate sustainability into the..."
+        },
+        {
+            "headline": "Property of new Chase Bank in Ambler listed for sale for almost $4.5 million",
+            "content": "The property that is home to the new Chase Bank at 90 West Butler Avenue in Ambler has been listed for sale on Crexi.com."
+        },
+        {
+            "headline": "NewVantage Partners Releases 2022 Data And AI Executive Survey",
+            "content": "NewVantage Partners, A Wavestone Company, strategic advisors to Fortune 1000 clients in data-driven business leadership since 2001, has released the r."
+        },
+        {
+            "headline": "Why We Moved to Hilliard: Great Schools and Affordability Make this Suburb Great for Young Families",
+            "content": "Like many young couples, Sonia Mikheeva and Eric DeLozier first considered moving to the suburbs after they started thinking about having a family."
+        },
+        {
+            "headline": "U.S. Bancorp sails haplessly into political storm",
+            "content": "A low-key U.S. bank has found itself at the center of a political storm. U.S. Bancorp's $8 billion purchase of MUFG Union Bank is hanging in the balance as..."
+        },
+        {
+            "headline": "US banks move away from overdraft fees in a win for consumers",
+            "content": "As US shoppers count the cost of their last-minute holiday purchases, there is one thing they have to worry about a little less in 2022: overdraft fees."
+        },
+        {
+            "headline": "TD Bank Names Regional Vice President, Relationship Manager",
+            "content": "TD Bank recently named Scott Sharp as regional vice president for its Carolinas Coastal market, a region that spans from Hilton Head, South Carolina, to..."
+        },
+        {
+            "headline": "Backers Inject More Funds Into iCapital Network",
+            "content": "The rise of groups such as iCapital is part of a trend of wider access to the alternative investments space. iCapital Network recently announced that it has..."
+        }
+    ],
+    "20220104": [
+        {
+            "headline": "Representation Matters: Creating breakthroughs in engineering",
+            "content": "For Ohio University alumna Paige Love, BSISE '16, seeing women in science, technology, engineering and mathematics (STEM) was a catalytic moment in her..."
+        },
+        {
+            "headline": "Why Some Institutions Dropped ‘Bank’ from Their Brand (and Why Most Shouldn’t)",
+            "content": "Is 'bank' now a liability in financial institution marketing? A few institutions think so. But before embarking on a significant rebrand without it,..."
+        },
+        {
+            "headline": "Climate Justice Through Divestment",
+            "content": "The idea is simple: Pull money, talent, and public approval away from banks and financial institutions that invest in fossil fuel extraction."
+        },
+        {
+            "headline": "James Cayne, Who Ran the Ill-Fated Bear Stearns, Dies at 87 (Published 2022)",
+            "content": "James Cayne, who was the chief executive of the investment bank Bear Stearns as it lurched into the global financial crisis, died on Tuesday in Long Branch, NJ."
+        },
+        {
+            "headline": "Wells Fargo's chief risk officer to leave -memo",
+            "content": "Wells Fargo & Co Chief Risk Officer Mandy Norton will retire in June, according to a memo seen by Reuters that said the bank will name a successor in coming..."
+        },
+        {
+            "headline": "C&W: Hampshire sells Metropark office building, adding to buyer’s growing portfolio",
+            "content": "By Joshua Burd. An investment firm has added yet another high-end office building in the Metropark submarket, acquiring a 110,000-square-foot property from..."
+        },
+        {
+            "headline": "Fed Finally Identifies Banks that Received $4.5T in Q4 2019 Repo Program",
+            "content": "Two years later, we now know the recipients of covered transactions worth a staggering $4.5T as part of the Fed's repo program in late 2019."
+        },
+        {
+            "headline": "Private equity firm TPG seeks $9.5 bln valuation in U.S. IPO",
+            "content": "Private equity firm TPG disclosed on Tuesday it is aiming for a $9.5 billion valuation in its U.S. initial public offering (IPO), as it presses on with a..."
+        },
+        {
+            "headline": "Maybank CEO announces exit as corporate appointments abound in new year",
+            "content": "Maybank group president and CEO (GPCEO) Datuk Seri Abdul Farid Alias (picture) announced that he will not be seeking a renewal of his contract that expires on..."
+        },
+        {
+            "headline": "CAT 2021 Topper Bir Anmol Singh's Interview: Know How He Scored 99.94 Percentile",
+            "content": "Shiksha was able to speak with the CAT 2021 topper, know what he has to say about CAT 2021 score, his preparation strategy and more in the article below."
+        }
+    ],
+    "20220105": [
+        {
+            "headline": "A Return to Robo-Signing: JPMorgan Chase Has Unleashed a Lawsuit Blitz on Credit Card Customers",
+            "content": "A Return to Robo-Signing: JPMorgan Chase Has Unleashed a Lawsuit Blitz on Credit Card Customers · After a nearly decade-long pause, Chase has resumed suing..."
+        },
+        {
+            "headline": "Chase Bank shuts dozens of NYC branches due to Omicron",
+            "content": "Chase Bank has shuttered more than three dozen branches in the Big Apple as the mega-bank struggles with staff shortages and vaccine mandates amid a surge..."
+        },
+        {
+            "headline": "SEC’s focus on enforcement actions for record-keeping violations ensnares JP Morgan: Who else will be swamped?",
+            "content": "Securities regulators are looking at how financial service firms are complying with book-keeping & record retention rules as more employees work from home."
+        },
+        {
+            "headline": "The Card Shark: Jimmy Cayne and the Wars of Old Wall Street",
+            "content": "When Bear Stearns ended up in the arms of JPMorgan Chase, on March 15, 2008, after a weekend of furious negotiations, the bank had come within a few hours..."
+        },
+        {
+            "headline": "Vera Whole Health to merge with healthcare navigation company Castlight Health in $370M deal",
+            "content": "Advanced primary care provider Vera Whole Health has agreed to combine with healthcare data company Castlight Health in a $370 million all-cash deal."
+        },
+        {
+            "headline": "Stock Market: Wall Street Loves China More Than Ever Amid Political Turmoil",
+            "content": "As tensions were rising between the U.S. and China last summer, the chief executive officer of JPMorgan Chase & Co. was letting it be known that he wanted..."
+        },
+        {
+            "headline": "Opinion | The Law of Unintended Political Consequences Strikes Again (Published 2022)",
+            "content": "The killing of George Floyd and the nationwide Black Lives Matter protests that followed drove an exceptionally large increase in foundation grants and..."
+        },
+        {
+            "headline": "Fintech Beacon Is Working With Blackstone's Quants, Data Scientists",
+            "content": "Beacon, which builds risk analytics and quant models, raised a $56 million Series C from investors like Blackstone and PImco in October."
+        },
+        {
+            "headline": "VanTrust sells Amazon warehouse for $103.5 million",
+            "content": "LBA Realty bought the 1.1 million-square-foot North Jacksonville Imeson Park center built in 2019-21."
+        },
+        {
+            "headline": "Wells Fargo Chief Risk Officer Amanda Norton announces her exit",
+            "content": "Jan 5, 2022 She joined the bank in 2018 amid a fake accounts scandal and regulatory challenges."
+        }
+    ],
+    "20220106": [
+        {
+            "headline": "Jim Connell",
+            "content": "Share. By Rhys Thomas. CPO Jim Connell on the importance of diverse spend and how to maximise its impact throughout the supply chain. JPMorgan Chase has..."
+        },
+        {
+            "headline": "Senatus AI: Software Development Re-invented",
+            "content": "Senatus AI is a Machine Learning on Code (MLonCode) toolkit developed by the CTO Applied Research team of JP Morgan Chase to supercharge the software..."
+        },
+        {
+            "headline": "BofA appoints MD in Americas Financial Institutions Investment Banking unit",
+            "content": "Bank of America Corp appointed Alice Wong as a managing director in its Americas Financial Institutions Investment Banking unit on Wednesday, according to..."
+        },
+        {
+            "headline": "REPORT: DFW Office Market ends “tumultuous” 2021 with some encouraging trends",
+            "content": "The office market in Dallas/Fort Worth showed signs of life at the end of 2021, although vacancies remained high, according to a Q4 report from CBRE."
+        },
+        {
+            "headline": "Jonathan Wachter has been appointed Chief Revenue Officer and Chief Strategy Officer at Mint House",
+            "content": "Mint House, the leading tech-enabled residential hospitality brand, announced that Jonathan Wachter has joined as Chief Revenue Officer and Chief Strategy..."
+        },
+        {
+            "headline": "Central Bank of Bahrain Successfully Completes JPM Coin Test Run",
+            "content": "The Central Bank of Bahrain declares its test of the JPM Coin system a success. The JPMorgan Chase system was used to test real-time payments to the..."
+        },
+        {
+            "headline": "AT&T To Spin-Merge WarnerMedia With Discovery",
+            "content": "T, $25.64, Market Capitalization: $183.1 billion) announced that the company had received a favorable ruling from the IRS, signaling the deal to combine..."
+        },
+        {
+            "headline": "Wall Street loves China more than ever",
+            "content": "As tensions were rising between the US and China last summer, the chief executive officer of JPMorgan Chase & Co. was letting it be known that he wanted to..."
+        },
+        {
+            "headline": "Corporations Donated Millions to Lawmakers Who Voted to Overturn Election Results (Published 2022)",
+            "content": "One year after the Capitol riot, many businesses resumed corporate donations to lawmakers who voted against certifying the 2020 election."
+        },
+        {
+            "headline": "Young employees are losing out 'on a lot' by not going to the office, business experts say",
+            "content": "Research shows that many younger employees feel less productive than their older colleagues while working from home."
+        }
+    ],
+    "20220107": [
+        {
+            "headline": "Class of 2022 Outcomes: CeAnna Cummings Finds Passion in Finance",
+            "content": "Cummings will be joining JP Morgan Chase and Co. as a markets analyst. She was offered the full time position after interning at JP Morgan Chase and Co."
+        },
+        {
+            "headline": "Marketer All-Star: Tracy-Ann Lim 01/10/2022",
+            "content": "Tracy-Ann Lim's many achievements as the chief media officer of JPMorgan Chase & Co. is the consolidated Media Center of Excellence (COE)."
+        },
+        {
+            "headline": "Reddit taps Morgan Stanley, Goldman Sachs for IPO - source",
+            "content": "Social media platform Reddit Inc, whose message boards became central to meme stock trading frenzy in 2021, is tapping Wall Street banks Morgan Stanley and..."
+        },
+        {
+            "headline": "Future Flight - Engage with CMU",
+            "content": "Imagine flying a small, robotic aircraft from goal post to goal post on an American football field. Now, repeat the flight 470 more times, and you'll match..."
+        },
+        {
+            "headline": "How to Invest in Stocks in 2022: Growth Vs. Value, Large Vs. Small Cap",
+            "content": "Seven top Wall Street firms shared their recommendations on the best investment styles for 2022, from growth versus value stocks to market caps."
+        },
+        {
+            "headline": "Avilla man crashes into semi after falling asleep at the wheel on SR 8 near Garrett",
+            "content": "GARRETT, Ind. (WFFT) -- Multiple people are in the hospital after an Avilla man fell asleep at the wheel and drove into oncoming traffic Friday morning in..."
+        },
+        {
+            "headline": "4 Ways To Determine How Much Your Home Is Worth in 2022",
+            "content": "You can get an estimate of your home's value through a real estate agent, property appraiser, iBuyer, or online valuation tool."
+        },
+        {
+            "headline": "No jab, no job: Citigroup to fire unvaccinated staff this month - memo",
+            "content": "Citigroup Inc staff in the United States who have not been vaccinated against COVID-19 by Jan. 14 will be placed on unpaid leave and fired at the end of the..."
+        },
+        {
+            "headline": "Bachelor: Elizabeth Corrigan's Age, Instagram, Job, Hometown & More",
+            "content": "Elizabeth Corrigan was introduced on Monday as a contestant on Clayton Echard's season of The Bachelor. She is a real estate agent from Colorado."
+        }
+    ],
+    "20220108": [
+        {
+            "headline": "Wall Street banks set to report record profits for 2021",
+            "content": "Wall Street's biggest banks this month are set to report record profits for 2021 thanks to bumper investment banking fees and lower-than-expected losses on..."
+        },
+        {
+            "headline": "What’s Next for the Deal Boom? (Published 2022)",
+            "content": "After a record year of transactions in 2021, deal makers are expecting a slowdown in 2022. Here are three factors that could intensify it."
+        },
+        {
+            "headline": "Rocket Grew Into America’s Biggest Mortgage Lender, but Now Comes the Hard Part",
+            "content": "It is now the biggest mortgage lender in the country, making nearly as many home loans as Wells Fargo & Co. and JPMorgan Chase & Co. combined."
+        }
+    ],
+    "20220109": [
+        {
+            "headline": "Exclusive | Jamie Dimon’s son-in-law caught in $21M dispute between Apollo, oil exec",
+            "content": "Jamie Dimon's son-in-law has been caught up in an ugly dispute with a Texas-based energy executive, who has accused him, along with private-equity giant Apollo..."
+        },
+        {
+            "headline": "Analysts Expect Big Banks to Post Record Profits for ’21",
+            "content": "The biggest Wall Street banks are set to report new record profits in 2021, due to bumper investment banking fees and less-than-expected losses on loans."
+        },
+        {
+            "headline": "Alexandre Liuzzi",
+            "content": "Alexandre started his career in the Financial Markets, working with Fund of Funds and Credit Agencies in 2004. Later, he joined Santander Asset Management..."
+        },
+        {
+            "headline": "The 4 Lowest P/E Stocks Among The Dow 30 Components",
+            "content": "Well, there are 4 stocks with price-earnings ratios of less than 10, an extraordinary achievement of some kind given the fervor for stocks in general..."
+        },
+        {
+            "headline": "No jab, no job: Citigroup to fire unvaccinated staff this month",
+            "content": "Citigroup Inc staff in the United States who have not been vaccinated against COVID-19 by Jan. 14 will be placed on unpaid leave and fired at the end of the..."
+        }
+    ],
+    "20220110": [
+        {
+            "headline": "Health Walk at Run as One Presented by JPMorgan Chase 1.4M",
+            "content": "Take a step back in time at the 1-Mile Health Walk at the NYRR Retro 4-Miler in Central Park on Sunday, April 13, 2025!"
+        },
+        {
+            "headline": "JPM22, Day 1: JPMorgan partners with Vera Whole Health; Humana addresses lower MA enrollment outlook and more",
+            "content": "Get ready for four days of virtual presentations and Zoom meetings. This year's virtual J.P. Morgan Healthcare Conference has officially kicked off."
+        },
+        {
+            "headline": "JPMorgan CEO says 2022 could bring more than four rate hikes",
+            "content": "JPMorgan Chase & Co Chief Executive Officer Jamie Dimon said on Monday the economy is generating so much inflation that the Federal Reserve might have to..."
+        },
+        {
+            "headline": "JP Morgan Chase & Co. is offering internships across various profiles in India",
+            "content": "The American multinational investment bank is hiring interns from several countries including India across various profiles like human resources,..."
+        },
+        {
+            "headline": "JPMorgan to boost Asia private banking headcount by over 100 this year - sources",
+            "content": "JPMorgan Chase & Co plans to boost its private banking business headcount in Asia by more than 100 this year, two people with direct knowledge of the matter..."
+        },
+        {
+            "headline": "Tiny Union Square Chase bank helps customers from branches closed over vax mandate",
+            "content": "Customers have been flocking to the small Chase branch on Union Square West after some of the bank's other nearby branches temporarily closed due to the COVID..."
+        },
+        {
+            "headline": "JPM 2022: Staffing expenses led to an extra $440M in operating costs in 2021 for AdventHealth",
+            "content": "Labor expenses caused by major disruptions added $440 million in operating costs in 2021, executives shared during the annual JP Morgan Healthcare Conference."
+        },
+        {
+            "headline": "Airport Dimenions expands AMBAAR lounge network",
+            "content": "Following the successful opening of the first AMBAAR Club Lounge at Viracopos International Airport at the end of 2021, Airport Dimensions ..."
+        },
+        {
+            "headline": "OIL SKIRMISH FOR DIMON KIN",
+            "content": "Jamie Dimon's son-in-law has been caught up in an ugly dispute with a Texas-based energy executive, who has accused him, along with Apollo Global Management,..."
+        },
+        {
+            "headline": "Canadian online furniture company Article postpones U.S. IPO amid tech stock selloff, source says",
+            "content": "Home furniture retailer Article, one of Canada's most successful online-only merchants, has delayed its plans to go public amid a sharp selloff of tech stocks..."
+        }
+    ],
+    "20220111": [
+        {
+            "headline": "JPMorgan Chase CEO Jamie Dimon on COVID, work from home, bank surveillance",
+            "content": "JPMorgan Chase CEO Jamie Dimon stresses that 'the value to being in the office is very high' and says the bank has been urging, not forcing, people to return."
+        },
+        {
+            "headline": "JPM22, Day 2: One Medical touts membership model, Tenet says it's full steam ahead on ASCs and more",
+            "content": "Welcome to Day 2 of the annual J. P. Morgan Healthcare Conference. Here's your need to know, as primary care enablement company Aledade announces its first..."
+        },
+        {
+            "headline": "Pierre Batton",
+            "content": "JPMorgan Chase welcomes Pierre Batton as Corporate Responsibility Lead for Detroit. He will manage the firm's investment in Detroit to address key drivers of..."
+        },
+        {
+            "headline": "Midsize businesses are ‘thinking big’ for supply chain workarounds: survey",
+            "content": "Nearly two-thirds of midsize businesses have used strategic stockpiling to alleviate recent supply chain disruptions, according to JPMorgan Chase's 2022..."
+        },
+        {
+            "headline": "Egypt’s bond market, already red hot, could get even hotter",
+            "content": "JPMorgan Chase will add Egypt to a group of indexes, poising the market to receive an influx of passive investment cash."
+        },
+        {
+            "headline": "Chase shuts down NYC ATM that gave $100 bills with Nazi symbols",
+            "content": "A New York City ATM was shut down by Chase Bank after a woman making a withdrawal reportedly received cash stamped with a swastika and Nazi iconography."
+        },
+        {
+            "headline": "No more fees for bounced checks at this bank",
+            "content": "Bank of America (BAC) is the latest major financial institution to announce that it is ending fees for insufficient funds. It also plans to cut overdraft fees..."
+        },
+        {
+            "headline": "JPMorgan CEO: Biden overdoing IRS surveillance would be 'terrible'",
+            "content": "JPMorgan Chase CEO Jamie Dimon warned that President Biden's proposal to crack down on wealthy tax evaders by requiring banks to report more customer..."
+        },
+        {
+            "headline": "Russian diamond heiress nabs Trump Tower spread for $1.4 million",
+            "content": "Chagit Leviev-Sofiev, the daughter of diamond-dealing and real estate oligarch Lev Leviev (a pal of Vladimir Putin, Mr. Leviev told the Times he keeps a photo..."
+        }
+    ],
+    "20220112": [
+        {
+            "headline": "JPMorgan Chase's Jamie Dimon says bank won't pay its unvaccinated workers",
+            "content": "CEO Jamie Dimon said employees must be vaccinated to work in JPMorgan Chase's HQ after Citi said it will fire holdouts."
+        },
+        {
+            "headline": "JPM 2022: Morgan Health, Kaiser Permanente partner on health equity",
+            "content": "Beginning this month, JPMorgan Chase's some 8000 California employees will be able to access care through Kaiser Permanente, and the partnership will put a..."
+        },
+        {
+            "headline": "Kingsborough Awarded $175K from JP Morgan Chase to Improve Support for Single Mother Students",
+            "content": "Kingsborough Community College was awarded $175K from JP Morgan Chase to improve support for single mother students."
+        },
+        {
+            "headline": "Wall Street bonuses are about to hit — here's when each of the big banks will tell employees how much they made",
+            "content": "Wall Street bankers are set to reap the rewards of a record-breaking year for M&A. Here's the bonus schedule, from Citi to JPMorgan."
+        },
+        {
+            "headline": "Why Some Workers Are Getting All the Covid Tests They Need (Published 2022)",
+            "content": "In the absence of a national effort to make coronavirus testing widely available, a number of big American companies ramped up their own, making tests..."
+        },
+        {
+            "headline": "Chase planning another Twin Cities suburban branch",
+            "content": "Chase has about a dozen or so branches now open in the Twin Cities after expanding into the market just a few years ago. J.P. Morgan Chase Bank's branch..."
+        },
+        {
+            "headline": "Villanova University Announces the Election of Five New Members to its Board of Trustees",
+            "content": "Villanova University today announced the appointment of five new members to its Board of Trustees. Christopher J. Maguire '89 CLAS, Founder and President of..."
+        },
+        {
+            "headline": "Another bank ends bounced check fees",
+            "content": "Fees for bounced checks or lacking enough money in your account are quickly becoming a thing of the past."
+        },
+        {
+            "headline": "Blackstone Invests $3 Billion in CDPQ-Owned Invenergy Renewables",
+            "content": "Funds managed by Blackstone Inc.'s Blackstone Infrastructure Partners have invested US$3 billion in Invenergy Renewables, the largest private renewable energy..."
+        },
+        {
+            "headline": "Hakimian sells off Andaz Wall Street hotel",
+            "content": "The Hakimian Organization has parted ways with its Financial District hotel, the Andaz Wall Street, months after its lender, Annaly Commercial Real Estate..."
+        }
+    ],
+    "20220113": [
+        {
+            "headline": "Cancel Culture Comes to Banking | Opinion",
+            "content": "This past November, Missouri's conservative Defense of Liberty PAC scheduled a high-profile event featuring a speech by Donald Trump, Jr. On November 9,..."
+        },
+        {
+            "headline": "JPMorgan Names Market Manager for Real Estate Banking",
+            "content": "JPMorgan Chase named Julie Thick as Real Estate Banking (REB) Central Region market manager. The REB business delivers customized debt solutions and treasury..."
+        },
+        {
+            "headline": "How Chicago’s New Chase Community Managers Can Empower Your Financial Journey",
+            "content": "Community Manager of the Chase branch at 6650 S. Stony Island Ave., is tuned in to the South Shore/Woodlawn community's financial wellness needs and ready..."
+        },
+        {
+            "headline": "CrossFirst Bank Names Experienced Banking Executive as Texas Regional President",
+            "content": "CrossFirst Bank, a subsidiary of CrossFirst Bankshares, Inc. (NASDAQ: CFB), announced today that David Felan has been named Texas Regional President,"
+        },
+        {
+            "headline": "Tech Drives Stock Rebound at End of Jittery Week: Markets Wrap",
+            "content": "Technology companies led a rebound in stocks at the end of a very volatile week, with investors recalibrating their strategies amid growing calls from..."
+        },
+        {
+            "headline": "Jan. 6 committee rebuts challenges to its legitimacy, citing Katrina and Benghazi probes",
+            "content": "House Counsel Douglas Letter noted that there is precedent for a select committee operating without a contingent of members appointed by the minority party."
+        },
+        {
+            "headline": "Instagrand's First Foals Born in Kentucky",
+            "content": "Instagrand, Taylor Made Stallions' grade 1-placed, grade 2 winner, sired his first reported foals when a filly out of grade 1 winner Concrete Rose was born."
+        },
+        {
+            "headline": "JP Morgan trader unfairly fired for alleged 'spoofing' market abuse is awarded £1.6million",
+            "content": "Bradley Jones (pictured), a cash equities trader and financial analyst, won an employment tribunal in London against the US financial giant."
+        },
+        {
+            "headline": "MSG Sports extends, expands Mattress Firm partnership",
+            "content": "Madison Square Garden Sports and sister firm MSG Entertainment have announced a multiyear marketing partnership renewal with American mattress retailer..."
+        },
+        {
+            "headline": "StubHub Files for Public Trading Debut Via Direct Listing",
+            "content": "StubHub Holdings, which operates ticket resale platforms StubHub and Viagogo, is exploring going public via a direct listing, according to people with..."
+        }
+    ],
+    "20220114": [
+        {
+            "headline": "Pay on Wall Street will surge after a bumper year. (Published 2022)",
+            "content": "Quarterly profit at JPMorgan Chase was down, but it still earned a record $48.3 billion for the year. Citi's annual profit nearly doubled,..."
+        },
+        {
+            "headline": "JPMorgan Chase appoints real estate banking Central Region Market Manager",
+            "content": "The REB business delivers customized debt solutions and treasury services products to real estate developers, investors, operating companies and investment..."
+        },
+        {
+            "headline": "JPMorgan Chase to continue aggressive Triangle branch roll out in 2022",
+            "content": "As the bank prepares to open more Triangle branches, it is facing challenges in building its North Carolina presence."
+        },
+        {
+            "headline": "JPMorgan Earnings Beat Estimates but Here’s Why the Stock Is Falling",
+            "content": "JPMorgan Chase 's fourth-quarter earnings beat expectations as the biggest US bank benefited from busy capital markets, though it faced higher expenses and..."
+        },
+        {
+            "headline": "JPMorgan shares fall 6% after CFO lowers guidance on 'headwinds’ including wage inflation",
+            "content": "The bank's CFO issued guidance Friday, saying he expected \"headwinds\" of higher expenses and moderating Wall Street revenue to cause returns to dip."
+        },
+        {
+            "headline": "JPMorgan’s profit dips as talent shortage on Wall Street pushes costs higher",
+            "content": "JPMorgan Chase's quarterly profit dropped 14% despite a bonanza of investment-banking fees, as trading revenue dropped and payroll costs surged amid a talent..."
+        },
+        {
+            "headline": "JPMorgan CEO Jamie Dimon: 6 or 7 interest rate hikes possible this year",
+            "content": "JPMorgan CEO Jamie Dimon says he believes there is \"a pretty good chance\" there will be more than 4 interest rate hikes this year, and possibly even 6 or 7."
+        },
+        {
+            "headline": "Genesys picks investment banks for U.S. IPO - source",
+            "content": "Owners Permira Holdings and Hellman & Friedman have tapped JPMorgan Chase & Co, Morgan Stanley and Goldman Sachs Inc among other underwriters for a US listing..."
+        },
+        {
+            "headline": "StubHub considers direct listing to become public company",
+            "content": "StubHub Holdings, the parent of ticket marketplaces StubHub and Viagogo, is considering becoming a public entity through a direct listing, according to a..."
+        },
+        {
+            "headline": "Stock market news live updates: Nasdaq ekes out a higher close to end a volatile week, while Dow drops 200 points, or 0.56%",
+            "content": "Stocks ended mixed on Friday at the end of a volatile week, with investors monitoring a mixed set of bank earnings and a bigger-than-expected drop in U.S...."
+        }
+    ],
+    "20220115": [
+        {
+            "headline": "JPMorgan plots ‘astonishing’ $12bn tech spend to beat fintechs",
+            "content": "JPMorgan Chase, the largest lender on Wall Street, said it planned to dramatically increase spending on technology and talent to fortify its competitive..."
+        },
+        {
+            "headline": "How health care is turning into a consumer product",
+            "content": "TECH AND health care have a fraught relationship. On January 3rd Elizabeth Holmes, founder of Theranos, a startup that once epitomised the promise of..."
+        },
+        {
+            "headline": "4 Indian politicians in the state elections who studied abroad",
+            "content": "Get to know the foreign education of four prominent Indian politicians who are battling it out at the polls beginning next month."
+        }
+    ],
+    "20220116": [
+        {
+            "headline": "Citadel and TCI drive top 20 hedge fund managers to bumper $65bn gains",
+            "content": "Large profits at Ken Griffin's Citadel and Sir Christopher Hohn's TCI helped the 20 best-performing hedge fund managers of all time to their biggest gains in..."
+        },
+        {
+            "headline": "Inflation becomes main global economic worry",
+            "content": "The Bank of Korea jacked up the base rate by 0.25 percentage points on Friday, putting it back to the pre-pandemic level of 1.25 percent."
+        },
+        {
+            "headline": "Day Traders as ‘Dumb Money’? The Pros Are Now Paying Attention",
+            "content": "Many hedge funds and asset managers now track retail-trading message boards for clues about where amateur investors might head next."
+        },
+        {
+            "headline": "Massachusetts real estate transactions for Hampden, Hampshire and Franklin counties Jan. 16, 2022",
+            "content": "Agawam. Anthony D. Saracino and Deborah A. Saracino to Rosemary A. Saccomani, 1080 River Road, $366,250. Chester S. Wojcik Jr., Michele Wojcik and Michele..."
+        }
+    ],
+    "20220117": [
+        {
+            "headline": "Why is JPMorgan spending so much on Tech?",
+            "content": "JPMorgan Chase was the first bulge-bracket bank to release its annul earning results on Friday. While the largest US lender reports record profits,..."
+        },
+        {
+            "headline": "JPMorgan technology spend to hit £12 billion in 2022",
+            "content": "JPMorgan CEO Jamie Dimon said the bank is spending up to $12 billion on technology this year – telling analysts on a strikingly frank earnings call."
+        },
+        {
+            "headline": "Bank Overdraft Fees Fading",
+            "content": "Trogden believes overdraft use has dwindled in part because more banks are participating in the BankOn Arkansas+ program, which offers low-fee checking..."
+        },
+        {
+            "headline": "JP Morgan wealth unit records 46% jump in Q4 income",
+            "content": "JPMorgan asset and wealth management (AWM) unit has reported a 46% jump in the net income for the fourth quarter of 2021."
+        },
+        {
+            "headline": "Deer Creek forever: Real Indiana residents still call these places by their original names",
+            "content": "Here's how popular Indianapolis landmarks got their names and what they used to be called."
+        },
+        {
+            "headline": "Report: StubHub to go public in US$13m direct listing",
+            "content": "Online ticket platform StubHub is considering going public in a direct listing that would value the company at US$13 billion, according to Bloomberg."
+        },
+        {
+            "headline": "Why Did Democratic AG Kill Flint Water RICO Case?",
+            "content": "\"Political corruption poisoned Flint and political corruption shielded the wrongdoers from accountability,\" said one critic following new revelations."
+        },
+        {
+            "headline": "The top banks on Wall Street likely to invest in corporate bonds",
+            "content": "JPMorgan Chase & Co. credit research analysts Kabir Caprihan and Nikita Dyatlov expect that big banks will borrow a total of $24 billion to $32 billion."
+        },
+        {
+            "headline": "Secondary ticketing operator StubHub poised to go public",
+            "content": "StubHub Holdings, which owns controversial secondary ticketing services StubHub and Viagogo, is understood to be preparing to go public via a direct listing."
+        }
+    ],
+    "20220118": [
+        {
+            "headline": "JPMorgan Chase To Spend $12 Billion On Technology...And Why Other Banks Can’t Keep Up",
+            "content": "In JPMorgan Chase's recent earnings call, the $3.76 trillion (in assets) bank announced it plans to increase its annual technology budget to $12 billion,..."
+        },
+        {
+            "headline": "JPMorgan spent $2bn on new data centers in 2021, and plans to spend more",
+            "content": "A total of $12 billion on tech - and the big bank is still moving to the cloud."
+        },
+        {
+            "headline": "Three Takeaways from the J.P. Morgan Health Care Conference",
+            "content": "At last week's J.P. Morgan Health Care Conference, the investment banking giant's health care arm Morgan Health made some of the biggest news amid..."
+        },
+        {
+            "headline": "Wall Street’s Pandemic Bonanza",
+            "content": "John Cassidy writes about how Wall Street and the rich have been making money hand over fist during the coronavirus pandemic, with a lot of help from..."
+        },
+        {
+            "headline": "How to host meaningful family meetings throughout the year",
+            "content": "Despite the challenges of the continued global pandemic, you can plan future family gatherings to sustain healthy connections."
+        },
+        {
+            "headline": "Hawks and Chase talks Generational Wealth at MLK Pregame Panel",
+            "content": "The panel agreed that two of the best ways to acquire wealth that can be passed down is through homeownership and starting a business."
+        },
+        {
+            "headline": "Profit fell 13 percent for Goldman Sachs in 4th quarter as it raised employee pay. (Published 2022)",
+            "content": "For the year, Goldman notched its largest profit ever, $21.6 billion, helped by deal-making by its investment bankers."
+        },
+        {
+            "headline": "Record Year for IPOs Boosted the Big Wall Street Banks",
+            "content": "Initial public offerings had their biggest year ever in 2021, providing a boon to Wall Street banks that worked on the deals."
+        },
+        {
+            "headline": "Insider Insights: For Investment Bankers, Pay Soars Along With Hours",
+            "content": "Salaries are rising for investment bankers, but so are hours worked, according to the Wall Street Oasis 2022 Investment Banking Industry Report."
+        },
+        {
+            "headline": "Goldman Sachs' Earnings Missed Estimates. Why the Stock May Be Near Bottom.",
+            "content": "The investment bank Goldman Sachs failed to earn more than Wall Street expected for the first time in seven quarters. Trading revenue declined."
+        }
+    ],
+    "20220119": [
+        {
+            "headline": "JPMorgan Chase Invests $12 Billion in Security Updates",
+            "content": "JPMorgan Chase will earmark $12 billion for technological updates - including cloud migration, upgrading legacy architecture, data strategy, and emerging."
+        },
+        {
+            "headline": "Stamford business organization gets $300,000 investment from JPMorgan Chase",
+            "content": "“The Women's Business Development Council is a true partner in helping women, specifically women of color, access the resources and support needed to launch and..."
+        },
+        {
+            "headline": "Jamie Dimon Doesn’t Care What The Supreme Court Says About Covid-19 Vaccines",
+            "content": "JP Morgan Chase CEO Jamie Dimon is pushing for his employees to be vaccinated despite the Supreme Court ruling on mandates."
+        },
+        {
+            "headline": "Big U.S. banks see higher expenses from workers' rising wages",
+            "content": "Big US banks will spend more on salaries and benefits this year as inflationary pressures, pandemic risks and the tight labor market force them to raise wages."
+        },
+        {
+            "headline": "JPMorgan Raises Salaries for Junior Bankers for Second Time",
+            "content": "JPMorgan Chase & Co. is raising junior bankers' pay for the second time in seven months."
+        },
+        {
+            "headline": "Top Wall Street banks paid out $142bn in pay and benefits last year",
+            "content": "JPMorgan Chase, Citigroup, Goldman Sachs, Morgan Stanley and Bank of America disclosed in recent days that they had handed out $142bn in pay and benefits in..."
+        },
+        {
+            "headline": "85% of Hedge Funds Now Use JPMorgan’s Tool to Monitor Retail on Social Media",
+            "content": "Hedge funds that were shorting GameStop (GME) and AMC Entertainment Holdings (AME) in 2021 took on huge losses after an army of retail traders gathered..."
+        },
+        {
+            "headline": "Infographic: Highlights of Morgan Stanley (MS) Q4 2021 earnings report",
+            "content": "Banking giant Morgan Stanley (NYSE: MS) on Wednesday reported higher earnings and revenues for the fourth quarter of 2021. The company's stock gained soon..."
+        },
+        {
+            "headline": "Morgan Stanley outperforms rivals with profit beat",
+            "content": "Morgan Stanley reported fourth-quarter profit which beat market expectations, outperforming rivals as its focus on advising wealth clients bore fruit,..."
+        },
+        {
+            "headline": "JPMorgan Plans to Debut an Instacart Credit Card Later This Year",
+            "content": "JPMorgan Chase & Co. will introduce a credit card with Instacart later this year, the first foray into grocery for the country's largest co-brand..."
+        }
+    ],
+    "20220120": [
+        {
+            "headline": "JPMorgan CEO Jamie Dimon Gets $3 Million Raise to $34.5 Million for 2021",
+            "content": "JPMorgan Chase JPM -0.35%decrease; red down pointing triangle & Co. is paying Chief Executive Jamie Dimon $34.5 million for a record-breaking 2021,..."
+        },
+        {
+            "headline": "Goldman, JPMorgan award bumper bonuses to top bankers",
+            "content": "Goldman Sachs and JPMorgan Chase , Wall Street's premier investment banks, this week informed staff of bumper bonuses for 2021, following a record-breaking..."
+        },
+        {
+            "headline": "JPMorgan pays chief Jamie Dimon $34.5m after record profits in 2021",
+            "content": "JPMorgan Chase paid longtime chief executive Jamie Dimon $34.5m for 2021, up $3m from the past two years and his biggest pay packet since 2008."
+        },
+        {
+            "headline": "JPMorgan (JPM) Raises CEO Jamie Dimon’s Pay 10% to $34.5 Million for 2021",
+            "content": "JPMorgan Chase & Co. raised Chief Executive Officer Jamie Dimon's total compensation 10% to $34.5 million for his work in 2021, the firm's most profitable year..."
+        },
+        {
+            "headline": "The Revilla Group Joins J.P. Morgan Wealth Management in Miami",
+            "content": "MIAMI–(BUSINESS WIRE)–J.P. Morgan Wealth Management announced today that Michael Revilla and Manuel Bernárdez have joined as Wealth Advisors in Miami."
+        },
+        {
+            "headline": "American Homes 4 Rent Prices 20M Share Offering",
+            "content": "American Homes 4 Rent priced an unwritten public offering of 20 million Class A common shares, with 10 million offered directly by the company."
+        },
+        {
+            "headline": "JPMorgan board lifts CEO Dimon's pay to $34.5 million",
+            "content": "JPMorgan Chase & Co Chief Executive Officer Jamie Dimon will get a 9.5% raise in annual pay, bringing his total compensation for 2021 to $34.5 million,..."
+        },
+        {
+            "headline": "Billioniare Joe Tsai outed as buyer of $190M penthouse",
+            "content": "The Hong Kong-based Blue Pool Capital, which manages part of the wealth of Alibaba executive vice chairman Joe Tsai, shelled out a stratospheric $188..."
+        },
+        {
+            "headline": "CVC Lines Up Goldman, JPMorgan, Morgan Stanley for IPO",
+            "content": "CVC Capital Partners, one of the oldest and most storied names in European private equity, has lined up banks for a potential initial public offering that..."
+        },
+        {
+            "headline": "Big U.S. banks say spending patterns show consumers are in good shape",
+            "content": "Top executives at the biggest U.S. banks have been optimistic about the nation's economic outlook this earnings season, pointing to healthy consumers who..."
+        }
+    ],
+    "20220121": [
+        {
+            "headline": "Why JPMorgan is spending $12 billion on tech",
+            "content": "The 26% boost in the bank's 2021 tech spending covers not just software development, but investments in data and analytics, artificial intelligence and..."
+        },
+        {
+            "headline": "JPMorgan Chase boosts Dimon’s compensation 9.5%, to $34.5M",
+            "content": "JPMorgan, Bank of America, Citi, Goldman Sachs and Morgan Stanley handed out $142 billion in pay and benefits in 2021, a nearly 15% jump from the previous year."
+        },
+        {
+            "headline": "Breakingviews - Jamie Dimon’s pay is fair, but only if you're him",
+            "content": "JPMorgan's (JPM.N) board awarded read more Chief Executive Jamie Dimon $34.5 million in pay for steering the US bank through 2021, a 10% increase."
+        },
+        {
+            "headline": "Bank investors face a new ‘black box’ quandary",
+            "content": "Jamie Dimon acknowledges it will take time to fully understand the impact of his spending on tech at JPMorgan, which is expected to total $12bn this year."
+        },
+        {
+            "headline": "JPMorgan Latest Lender to Call Staff Back to London Offices",
+            "content": "JPMorgan Chase & Co. has joined a flurry of banks telling staff to get ready for a return to the office as the City of London prepares for a flood of..."
+        },
+        {
+            "headline": "Bοurla, Dimon, and so many others",
+            "content": "The first news item was an interview with Jamie Dimon, chairman and chief executive officer of JPMorgan Chase, the largest investment bank in the world."
+        },
+        {
+            "headline": "Boom times are back on Wall Street as some Goldman partners mint $15 million pay packages",
+            "content": "Goldman Sachs and JPMorgan Chase informed investment bankers and traders of their pay packages this week, part of an annual ritual that can leave workers..."
+        },
+        {
+            "headline": "JPMorgan CEO Jamie Dimon gets 10% pay hike to $46.5 million",
+            "content": "NEW YORK (BLOOMBERG, REUTERS) - JPMorgan Chase & Co has raised chief executive officer Jamie Dimon's total compensation by 10 per cent to US$34.5 million..."
+        },
+        {
+            "headline": "Morgan Stanley board lifts CEO Gorman's pay to $35 million",
+            "content": "Morgan Stanley Chief Executive Officer James Gorman will get a 6% raise in annual pay, bringing his total compensation for 2021 to $35 million,..."
+        },
+        {
+            "headline": "Jardine mulls restaurant business sale",
+            "content": "Jardine Matheson, which operates Kentucky Fried Chicken, Pizza Hut in Hong Kong, and owns stakes in Maxim's Caterers, is considering selling its local food and..."
+        }
+    ],
+    "20220122": [
+        {
+            "headline": "The Next Generation Of Business Leaders Is Redefining Grit. But They Still Might Not Succeed",
+            "content": "Alitzah Stinson had had enough of being a social media influencer. She'd been successful – but decided to take a step into the real world by making customized..."
+        },
+        {
+            "headline": "What’s with Joe Tsai’s latest real estate purchase?",
+            "content": "Back in July, the New York real estate market was shocked by Joe Tsai's purchase of a two-floor condo at 220 Central Park South, so-called \"Billionaires Row..."
+        },
+        {
+            "headline": "The race to dominate the DeFi ecosystem is on",
+            "content": "An intensifying battle for market share is breaking out in this area. Crucially, Ethereum, the leading DeFi platform, seems to be losing its near-monopoly."
+        }
+    ],
+    "20220123": [
+        {
+            "headline": "Magic Diversity Game Changer: Gene Martin",
+            "content": "Gene Martin is the Founder and President of Route 7 Orlando Inc. Route 7 Orlando is a member-based nonprofit organization of men focused on the..."
+        }
+    ],
+    "20220124": [
+        {
+            "headline": "Tesla countersues JPMorgan, claims bank sought 'windfall' after Musk tweet",
+            "content": "Tesla Inc on Monday fought back against JPMorgan Chase & Co over a disputed bond contract, countersuing the bank for seeking a \"windfall\" following Elon..."
+        },
+        {
+            "headline": "Tesla files countersuit against JPMorgan, accuses bank of 'illegitimate machinations'",
+            "content": "Tesla filed a counterclaim against JPMorgan Chase Monday, the latest salvo in an ongoing battle between the electric automaker and the country's biggest..."
+        },
+        {
+            "headline": "J.P. Morgan Announces New Private Equity Team Focused on Sustainable Growth, First Strategy to Target Investments in High Growth Private Climate Companies",
+            "content": "PRNewswire/ -- J.P. Morgan Asset Management today announced a new sustainability-focused growth private equity investment team. The team will launch its..."
+        },
+        {
+            "headline": "Uniswap Founder: JPMorgan Closed My Bank Account Without Notice",
+            "content": "JPMorgan Chase has closed the bank account of the founder of leading decentralized exchange, Uniswap, without offering any reason for the closure."
+        },
+        {
+            "headline": "Greek Media Reports: JPMorgan Considers Buying Into Viva Wallet",
+            "content": "J.P. Morgan Chase could soon acquire almost half of cloud-based Greek payments company Viva Wallet, according to Greek media reports."
+        },
+        {
+            "headline": "Volatility Runs From Stocks to Currencies, Ending FX Market Calm",
+            "content": "Volatility has surged back in the world's currency markets, ending nearly nearly two months of diminishing price swings. JPMorgan Chase & Co."
+        },
+        {
+            "headline": "Institutional Investors Parking Money In Atlanta's Outdoor Storage Market",
+            "content": "Experts say investors are willing to pay up for IOS since there has been little to no new supply growth despite demand."
+        },
+        {
+            "headline": "JPMorgan merges EU operations into single German business",
+            "content": "American banking giant JPMorgan has merged most of its European Union businesses into a single entity in Germany, it said on Monday, seeking to make its..."
+        },
+        {
+            "headline": "JP Morgan invests in Greek neobank Viva Wallet",
+            "content": "The U.S. bank JP Morgan Chase acquires a 47% stake in the Greek cloud-based neobank Viva Wallet, probably raising its valuation to €1.5B."
+        },
+        {
+            "headline": "J.P. Morgan Luxembourg absorbed into one legal entity",
+            "content": "The unit--a subsidiary of J.P. Morgan Chase Bank--is headquartered in Frankfurt, Germany and led by CEO Stefan Behr, who is also a member of the firm's..."
+        }
+    ],
+    "20220125": [
+        {
+            "headline": "School of Education Receives Funding to Close Equity Gap in Early Education Field",
+            "content": "JPMorgan Chase is donating $5 million to AU and partners for three years towards their efforts to make early childhood education more equitable."
+        },
+        {
+            "headline": "JPMorgan buys 49% stake in Greek fintech Viva Wallet",
+            "content": "The U.S.'s largest bank is continuing an acquisition spree it accelerated in 2021, when it made more than 30 deals — many either banking-adjacent or outside..."
+        },
+        {
+            "headline": "Tesla says JPMorgan is suing the car maker because the bank's top executives hate Elon Musk",
+            "content": "Tesla is countersuing JPMorgan Chase in the latest development in the companies' months-long legal feud. The car maker filed a counterclaim against the bank..."
+        },
+        {
+            "headline": "JPMorgan Chase will invest more than $20 million in Baltimore low-cost loans, job training programs",
+            "content": "JPMorgan Chase plans to invest more than $20 million in West Baltimore and elsewhere in the city to boost homeownership and offer job skills and..."
+        },
+        {
+            "headline": "JPMorgan hires Blackstone's former impact chief for new climate strategy",
+            "content": "JPMorgan Chase has hired Tanya Barnes, who previously led Blackstone's defunct impact platform, to help launch a dedicated sustainable investment strategy."
+        },
+        {
+            "headline": "JPMorgan agrees to acquire 49% stake in Greek fintech Viva Wallet",
+            "content": "JPMorgan said on Tuesday it had agreed to acquire an around 49% stake in Athens-based payments fintech Viva Wallet, subject to regulatory approvals."
+        },
+        {
+            "headline": "Knicks, Chase donate $100K to the Earl Monroe New Renaissance Basketball School",
+            "content": "The New York Knicks and JPMorgan Chase announced on Friday that they will be partnering with the Earl Monroe New Renaissance Basketball School, the first."
+        },
+        {
+            "headline": "JPMorgan merges major EU units under one entity",
+            "content": "JPMorgan is consolidating most of its European Union businesses into one legal German entity, known as JP Morgan SE (JPMSE)."
+        },
+        {
+            "headline": "Jes Staley pressed JPMorgan to keep Jeffrey Epstein as client",
+            "content": "Jes Staley pressed JPMorgan Chase to keep Jeffrey Epstein as a client — despite the fact that the disgraced financier had been convicted of prostitution..."
+        },
+        {
+            "headline": "JPMorgan’s Julie Thick sees strong demand for Class A offices in Fulton Market, suburban warehouses",
+            "content": "Julie Thick, the Chicago native named central region market manager this month at JPMorgan, sees strong investor demand for Class A office buildings."
+        }
+    ],
+    "20220126": [
+        {
+            "headline": "JPMorgan Chase: Driving Diversity, Equity, and Inclusion",
+            "content": "JPMorgan Chase is using the power of its supply chain and lowering the barriers to opportunity for Black, Hispanic, and Latino suppliers."
+        },
+        {
+            "headline": "JPMorgan Chase commits $75 million to close racial wealth gap",
+            "content": "JPMorgan Chase commits $75 million to close racial wealth gap. The commitment is focused on providing philanthropic capital and flexible low-cost loans,..."
+        },
+        {
+            "headline": "JPMorgan plans to hire 500 as it takes top spot in Latin America",
+            "content": "JPMorgan Chase & Co plans to hire more than 500 people in the region as it gains market share and builds on its success in acquisition finance."
+        },
+        {
+            "headline": "Ousted Barclays CEO Jes Staley reportedly backed Epstein at JPMorgan",
+            "content": "Ousted Barclays CEO Jes Staley went to bat for convicted sex offender Jeffrey Epstein when he ran the investment banking division at JPMorgan, according to a..."
+        },
+        {
+            "headline": "Empowering Black & Latina Women in West Baltimore",
+            "content": "A new West Baltimore collaborative to empower Black and Latina women to gain wealth-building and entrepreneurial skills thanks to funding from JPMorgan Chase &..."
+        },
+        {
+            "headline": "JP Morgan spent $2bn in 2021 on data centers, driven by edge requirements",
+            "content": "Data sovereignty — a key driver of edge computing — is shaping up to be a big driver of regional infrastructure builds for financial institutions."
+        },
+        {
+            "headline": "Gulfstream (GD) Ramps Up Output on Best Luxury-Jet Orders in a Decade",
+            "content": "General Dynamics Corp. is ramping up private-jet output to keep up with orders that were the strongest in more than a decade during the fourth quarter."
+        },
+        {
+            "headline": "How Kwesi Adofo-Mensah rose through the ranks to the Vikings' GM job",
+            "content": "The team's new general manager had stops in basketball and on Wall Street in his unusual path to an NFL front office."
+        }
+    ],
+    "20220127": [
+        {
+            "headline": "WOTM :sam-sapertein",
+            "content": "Sam Saperstein, Head of Women on the Move, in her opening remarks. “It's reinventing in the face of difficulty and emerging stronger."
+        },
+        {
+            "headline": "Mitsotakis Meets with JP Morgan’s CEO Jamie Dimon",
+            "content": "Prime Minister Kyriakos Mitsotakis on Thursday had a meeting with the president and CEO of JPMorgan Chase & Co Jamie Dimon."
+        },
+        {
+            "headline": "U.S. banks look forward to 'bread-and-butter' growth as economy rebounds",
+            "content": "U.S. banks will enjoy stronger growth this year from their \"bread-and-butter\" business of taking deposits and lending money as the U.S. economy expands and..."
+        },
+        {
+            "headline": "About Stuart Roberts",
+            "content": "Stuart Roberts is the Chief Administrative Officer at JPMorgan Chase & Co. He attended the University of Leeds."
+        },
+        {
+            "headline": "Jamie Dimon Visits Greece to Advance JPMorgan Investments",
+            "content": "CEO of JPMorgan Chase, Jamie Dimon said on Thursday that he intends to expand its office in Greece and to attract high-level staff."
+        },
+        {
+            "headline": "Three steps to becoming a good leader",
+            "content": "Three steps to becoming a good leader · Step 1: Empower your people · Step 2: Do the right thing, no matter what · Step 3: Create the life you want."
+        },
+        {
+            "headline": "Prime Minister Kyriakos Mitsotakis meets the President and CEO of JPMorgan Chase, Jamie Dimon",
+            "content": "More videos on YouTube ... Prime Minister Kyriakos Mitsotakis met today with the President and CEO of JPMorgan Chase, Jamie Dimon. The meeting was held two days..."
+        },
+        {
+            "headline": "The World's Biggest Asset Management Firms in 2021",
+            "content": "Despite the stock market doldrums since the beginning of the year, the pandemic has been generally good to investors. The S&P 500 finished 2020 up over 16%..."
+        },
+        {
+            "headline": "Robo-advisor dream of disrupting Wall Street wealth is not working out exactly as planned",
+            "content": "Wealthfront and Personal Capital were acquired by financial services firms in billion-dollar deals. Not bad exits, but far from the loftiest fintech dreams."
+        },
+        {
+            "headline": "The power of risk taking",
+            "content": "To push past that uncertainty, Rebecca suggests taking risks in small, manageable steps. For example, practice different scenarios with friends, family or..."
+        }
+    ],
+    "20220128": [
+        {
+            "headline": "Wall Street banks are raising pay to record levels yet again. Here's a bank-by-bank rundown of new investment banker salaries, from analysts to MDs.",
+            "content": "First-year analyst base pay has reached $110000 at a number of investment banks. Some are also raising salaries for more senior roles, too."
+        },
+        {
+            "headline": "Goldman Sachs awards its C.E.O. a raise to $35 million after a record year. (Published 2022)",
+            "content": "David M. Solomon is now tied with James Gorman of Morgan Stanley as the highest-paid chief executives at major U.S. banks."
+        },
+        {
+            "headline": "Recent graduates share how a Kennesaw State MBA changed their careers",
+            "content": "When LaRell Reynolds began his graduate education in August 2019, he hoped to supplement his journalism career with insight and expertise in business."
+        },
+        {
+            "headline": "Maverick Natural Resources Acquires Permian Basin Producing Properties",
+            "content": "Maverick has entered into a definitive agreement to acquire Permian assets from ConocoPhillips for $440 million."
+        },
+        {
+            "headline": "Wall Street’s $85 Billion Housing Bet Intensifies U.S. Land Boom",
+            "content": "For the U.S., the housing shortage is a crisis. For Wall Street, it's a land rush. Institutional investors from JPMorgan Chase & Co. and Morgan Stanley to..."
+        },
+        {
+            "headline": "Goldman CEO David Solomon gets 27% pay bump to $35 million",
+            "content": "Goldman Sachs Chief Executive Officer David Solomon will get a 27% raise in annual pay, bringing his total compensation for 2021 to $35 million,..."
+        },
+        {
+            "headline": "Five Star Bank to offer Bitcoin product",
+            "content": "Western NY based Five Star Bank will be offering a Bitcoin product for interested investors. The bank says it will be one of the first financial..."
+        },
+        {
+            "headline": "SoftBank’s COO demanded a $1 billion bonus. Is any exec worth that much?",
+            "content": "Marcelo Claure is preparing to leave his role after founder Masayoshi Son reportedly refused to pay him a $1 billion bonus for good work."
+        },
+        {
+            "headline": "Bitcoin isn't a right-wing plot. It's inclusive by design despite what critics say.",
+            "content": "One could be forgiven for thinking bitcoin is a creature of the political right. But it's not – and politicizing technology is counterproductive."
+        }
+    ],
+    "20220129": [
+        {
+            "headline": "JPMorgan to invest further in Greece",
+            "content": "JPMorgan Chase & Co is willing to expand its office in Greece, invest further in Viva Wallet and attract high-level staff in Greece, its chairman and chief..."
+        },
+        {
+            "headline": "Gregory J. Newman Obituary - Staten Island, NY",
+            "content": "Celebrate the life of Gregory Newman, leave a kind word or memory and get funeral service information care of Harmon Funeral Home."
+        },
+        {
+            "headline": "Commodities traders brace for a war in Ukraine",
+            "content": "Tight markets mean that prices are all too responsive to rising tensions | Finance & economics."
+        },
+        {
+            "headline": "How will Europe cope if Russia cuts off its gas?",
+            "content": "The conventional wisdom used to be that a complete shutdown of piped gas from Russia, which makes up roughly a third of the gas burned in Europe, was..."
+        }
+    ],
+    "20220130": [
+        {
+            "headline": "Q4 2021 Earnings Calendar",
+            "content": "The S&P 500 expected to deliver another robust quarter of earnings growth. The estimate is 22%. That estimate is lower than the actuals for the third quarter."
+        },
+        {
+            "headline": "$738,000 home in Syracuse: See 146 home sales in Onondaga County",
+            "content": "Here are 146 home sales in Onondaga County recorded between January 17 and January 21 at the county clerk's office. The most expensive property was a 6..."
+        },
+        {
+            "headline": "ConocoPhillips to sell Permian Basin assets to another Houston-based co. for $440M",
+            "content": "When ConocoPhillips announced in September it would purchase Royal Dutch Shell's Permian business for $9.5 billion cash, CEO Ryan Lance said his company..."
+        }
+    ],
+    "20220131": [
+        {
+            "headline": "Benchmarking the future of energy",
+            "content": "This global research gives a unique industry insight, across geographies and sub-sectors, delivering an actual benchmark on key treasury components."
+        },
+        {
+            "headline": "JPMorgan Chase CEO: I am optimistic for Greece",
+            "content": "The Greek-American banker is optimistic about Greece as “it has a rational government that makes rational decisions” and he finds it amazing that Greece has its..."
+        },
+        {
+            "headline": "Goldman hikes Solomon’s pay to keep up with the Morgans",
+            "content": "Goldman Sachs gave CEO David Solomon a $35 million compensation package for 2021, according to paperwork the bank filed Friday."
+        },
+        {
+            "headline": "Andrew Clarkson named Vice President of National Mortgage Production at United Federal Credit Union",
+            "content": "United Federal Credit Union (United) in St. Joseph, Michigan has announced the hiring of Andrew Clarkson to fill its newly created position Vice President..."
+        },
+        {
+            "headline": "The opportunity to leapfrog",
+            "content": "In-house banks (IHB) can help energy players leapfrog to a future-proofed Treasury set-up with a centralized liquidity model. Setting up and running a next..."
+        },
+        {
+            "headline": "Wells Fargo’s new North Texas commercial banking head talks tech, interest rates and more",
+            "content": "Todd Burns has been in Dallas-Fort Worth for 50 years and in the banking industry for nearly 30. But he wasn't born here. “I have to admit I was born out of..."
+        },
+        {
+            "headline": "You do not need to be a Stem genius to succeed in finance and tech",
+            "content": "Karina Robinson is the chief executive of Robinson Hambro, a chief executive advisory and search firm. I was the worst Spanish equities analyst in the City..."
+        },
+        {
+            "headline": "Wall Street wants to disrupt private share trading",
+            "content": "Wall Street firms such as Goldman Sachs, JPMorgan and Morgan Stanley are muscling in on the booming market for private share trading – and potentially..."
+        },
+        {
+            "headline": "Year of the Tiger predictions",
+            "content": "Ahead of the Lunar New Year, fortune-tellers have been busy preparing their predictions. The South China Morning Post spoke with Master Joseph,..."
+        },
+        {
+            "headline": "Citigroup is hiring across Gulf, awaits another record IPO year| Gulf Times",
+            "content": "Citigroup Inc is boosting its presence in the Gulf region as it expects activity including initial public offerings to reach a new historic high."
+        }
+    ],
     "20220201": [
         {
             "headline": "J.P. Morgan Wealth Management Advisors Make Financial Planning’s Top 40 Under 40 List",

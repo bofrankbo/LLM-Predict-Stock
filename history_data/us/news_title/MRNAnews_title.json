@@ -1,4 +1,425 @@
 {
+    "20220101": [],
+    "20220102": [],
+    "20220103": [
+        {
+            "headline": "Interval between Moderna COVID-19 vaccine second shot and booster still six months -FDA",
+            "content": "The interval between receiving a second dose of Moderna's COVID-19 vaccine and a booster dose remains unchanged at six months, U.S. Food and Drug..."
+        },
+        {
+            "headline": "mRNA Patent and Competitive Landscape: 2021 Year in Review and 2022 Outlook",
+            "content": "In April of 2021, we provided a three-part series relating to the IP and Competitive Landscape for the mRNA market. In this post we provide a 2021..."
+        }
+    ],
+    "20220104": [
+        {
+            "headline": "Confessions of a ‘human guinea pig’: Why I’m resigning from Moderna vaccine trials",
+            "content": "I volunteered for the trial because I believed that helping Moderna develop a vaccine to help get the world out of the pandemic was worth it."
+        },
+        {
+            "headline": "Pfizer-BioNTech And Moderna mRNA Vaccines Are Not Gene Therapies",
+            "content": "Vaccines have saved lives and prevented severe disease, with comparatively few adverse events. But, anti-vaccine groups persistently refer to mRNA vaccines..."
+        },
+        {
+            "headline": "How can scientists update coronavirus vaccines for omicron?",
+            "content": "A microbiologist answers 5 questions about how Moderna and Pfizer could rapidly adjust mRNA vaccines."
+        },
+        {
+            "headline": "Coronavirus: Vaccines & Variants with Kizzmekia S. Corbett, PhD",
+            "content": "Kizzmekia S. Corbett, PhD led the National Institutes of Health team that developed the Moderna COVID-19 vaccine. Currently an assistant professor at..."
+        }
+    ],
+    "20220105": [
+        {
+            "headline": "Moderna COVID-19 Vaccine May Trigger AAV-Linked Kidney Damage",
+            "content": "To date, two reports of PR3-ANCA-related kidney inflammation following the Moderna vaccine had been described. Now, researchers in Lebanon, Pakistan, and the..."
+        },
+        {
+            "headline": "mRNA vaccine makers set sights on shingles and the Epstein-Barr virus",
+            "content": "More advances on the mRNA vaccine front this week as Pfizer and Moderna move forward on new viral targets for future vaccines. Pfizer is turning its focus..."
+        },
+        {
+            "headline": "PDHD drive thru COVID-19 vaccine, testing schedule for Jan.",
+            "content": "PADUCAH, Ky. (KFVS) -..."
+        }
+    ],
+    "20220106": [
+        {
+            "headline": "Moderna CEO Warns People May Need Fourth Covid Shot as Efficacy of Boosters Likely to Decline Over Time",
+            "content": "Moderna CEO Stephane Bancel said the efficacy of boosters against Covid-19 will likely decline over time, and some people may need a fourth shot by the fall..."
+        },
+        {
+            "headline": "newsGP - TGA releases updated COVID booster safety data",
+            "content": "Data suggest swollen lymph nodes will occur more frequently after Pfizer and Moderna boosters than after either the first or second doses."
+        },
+        {
+            "headline": "Covid vaccine makers face investor pressure over global access",
+            "content": "Drugmakers need to prioritise global access to Covid-19 vaccines and tie management pay to equitable distribution, a group of top international investors has..."
+        },
+        {
+            "headline": "Posts Falsely Claim Vaccines Increase Omicron Infection Rate",
+            "content": "Social media users have circulated posts claiming a study has shown that the vaccine effectiveness of Pfizer & Moderna against Omicron goes negative after..."
+        }
+    ],
+    "20220107": [
+        {
+            "headline": "FDA shortens the wait time between Moderna vaccine and booster to 5 months",
+            "content": "Now, both the Pfizer and the Moderna booster shots can be given five months after the second dose of vaccine — down from six months."
+        },
+        {
+            "headline": "FDA shortens timing of Moderna booster to 5 months",
+            "content": "U.S. regulators are shortening the time that people who received Moderna's COVID-19 vaccine have to wait for a booster — to five months rather than six."
+        },
+        {
+            "headline": "‘I could not ask for more’",
+            "content": "Moderna may have been a little-known biotech company before the COVID-19 pandemic, but its name is now a household word. ASBMB Today asked Hardik Jani,..."
+        },
+        {
+            "headline": "9 Things to Know About COVID-19 Booster Shots",
+            "content": "Millions of Americans can now get Pfizer, Moderna and Johnson & Johnson booster shots. Here's what you need to know about the extra dose."
+        }
+    ],
+    "20220108": [],
+    "20220109": [
+        {
+            "headline": "Why has my child’s vaccination been cancelled? We’re reliant on overseas supply and a complex logistics network",
+            "content": "Reports of GPs cancelling or postponing COVID vaccine appointments for 5-11 year olds are piling up, with desperate parents expressing anger and fear."
+        }
+    ],
+    "20220110": [
+        {
+            "headline": "Moderna and Carisma Establish Collaboration to Develop in vivo Engineered Chimeric Antigen Receptor Monocytes (CAR-M) for Oncology",
+            "content": "The two companies have entered into a strategic collaboration agreement to discover, develop and commercialize in vivo engineered chimeric antigen receptor..."
+        },
+        {
+            "headline": "JPM 2022: Moderna finds Carisma's macrophage tech compelling enough for $45M cancer research deal",
+            "content": "Carisma will receive the $45 million upfront and an investment from Moderna worth $35 million. The biotech will also be eligible for development, regulatory and..."
+        },
+        {
+            "headline": "What Causes COVID Arm?",
+            "content": "COVID-19 vaccines can cause redness, swelling and rashes at the injection site, a side effect known as \"COVID arm.\" But don't let it stop you from getting..."
+        },
+        {
+            "headline": "Milwaukee Health Department to Offer Extended Use of Pfizer and Moderna COVID-19 Vaccines",
+            "content": "The Milwaukee Health Department will expand the administration of the booster dose of the Pfizer-BioNTech and Moderna COVID-19 vaccines at all COVID-19 clinics..."
+        },
+        {
+            "headline": "Singapore ranks COVID vaccines by death rate—and Moderna comes out on top",
+            "content": "Singapore found 11 deaths per 100,000 among people who received Sinovac shots and 7.8 deaths among those with Sinopharm. This number fell to 6.2 deaths for..."
+        },
+        {
+            "headline": "Moderna working on COVID-19 booster that targets omicron variant, says CEO",
+            "content": "An omicron-specific booster shot could be ready by the fall, Moderna CEO Stephane Bancel said Monday. The pharmaceutical company is working on a targeted..."
+        },
+        {
+            "headline": "Covid-19 Vaccines for Teachers Arrive in Mexico with Transportation Support from Direct Relief",
+            "content": "2.7 million doses of Covid-19 vaccine, donated and manufactured by Moderna, arrived in Toluca, Mexico, to support the country's vaccination efforts."
+        },
+        {
+            "headline": "A universal flu vaccine may be the next big mRNA breakthrough for Moderna, Pfizer",
+            "content": "Pfizer and Moderna are utilizing the same mRNA technology found in Covid-19 vaccines to try to develop a one-time universal flu cure."
+        },
+        {
+            "headline": "The Promise of mRNA",
+            "content": "How Philanthropic Gifts Can Keep Fueling Hope for the Future. Drew Weissman, MD, PhD, and Katalin Kariko, PhD The key discoveries that led to the powerful..."
+        }
+    ],
+    "20220111": [
+        {
+            "headline": "Phase I clinical trial of Moderna mRNA vaccine for Epstein-Barr virus starting at UMass Chan",
+            "content": "UMass Chan Medical School researchers are embarking on a clinical trial of an mRNA vaccine by Moderna against the Epstein-Barr virus (EBV), a common cause..."
+        }
+    ],
+    "20220112": [
+        {
+            "headline": "​​Moderna (MRNA) stock forecast: a shot away from soaring stocks?",
+            "content": "According to an algorithmic-based application, Wallet Investor, the share price for MRNA could go as high as $570.661 as of January 2025."
+        },
+        {
+            "headline": "The Top 10 Best-Performing Stocks of 2021",
+            "content": "2021 was an incredibly interesting year, particularly when it came to the best-performing stocks. That's as high-growth stocks were annihilated."
+        },
+        {
+            "headline": "Moderna eyes USD 22 billion from COVID vaccine, booster sales in 2022",
+            "content": "New Delhi: Moderna Inc said on Monday it expected to record sales of about $18.5 billion in 2022 from contracts for its COVID-19 vaccine, and about $3.5..."
+        }
+    ],
+    "20220113": [
+        {
+            "headline": "Moderna expects COVID-19 vaccine trial data for children aged 2-5 in March",
+            "content": "(Reuters) - Moderna Inc said on Wednesday it expects to report data from its COVID-19 vaccine trial in children aged between 2 to 5 years in […]"
+        }
+    ],
+    "20220114": [
+        {
+            "headline": "Moderna Starts Human Trials Of mRNA Vaccine For Virus That Likely Causes Multiple Sclerosis",
+            "content": "The Moderna trial comes at the same time Harvard researchers linked infection with the common virus to MS, a neurological condition affecting some 1 million..."
+        },
+        {
+            "headline": "Manufacturing the COVID-19 Vaccine",
+            "content": "Tejaswini Ramakrishna Hegde is working at her dream job at Moderna as part of the team that manufactures and distributes the COVID-19 vaccine worldwide."
+        },
+        {
+            "headline": "News - COVID-19 Vaccine Spikevax – Shelf Life Extended",
+            "content": "A new shelf life for frozen vials of the Moderna mRNA vaccine Spikevax was approved in the EU on 8 December 2021. The shelf life of vials stored between -25..."
+        }
+    ],
+    "20220115": [
+        {
+            "headline": "Delayed Skin Reaction To Covid-19 Coronavirus Vaccine May Occur Over A Week Later",
+            "content": "It may not be super common. But you can have a skin reaction that only appears eight days or more post-vaccination. And it doesn't have anything to do with 5G..."
+        },
+        {
+            "headline": "Halting Progress and Happy Accidents: How mRNA Vaccines Were Made (Published 2022)",
+            "content": "The stunning Covid vaccines manufactured by Pfizer-BioNTech and Moderna drew upon long-buried discoveries made in the hopes of ending past epidemics."
+        }
+    ],
+    "20220116": [
+        {
+            "headline": "Why are my lymph nodes swollen and sore after a Pfizer or Moderna COVID booster vaccine?",
+            "content": "Key points: · Swollen or painful lymph nodes are the most commonly reported adverse event following a COVID booster · It's a normal response caused by immune..."
+        },
+        {
+            "headline": "Omicron-specific vaccine likely to come too late to help in this wave: Sharma",
+            "content": "Pfizer and Moderna are working on new versions of their vaccines that specifically target the Omicron variant."
+        }
+    ],
+    "20220117": [
+        {
+            "headline": "Moderna aims to launch single Covid and flu booster jab within two years",
+            "content": "This month, Darius Hughes, the UK chief executive of Moderna, said it would be a “stretch” for a combined flu and Covid vaccine to be available by winter 2023."
+        },
+        {
+            "headline": "Study evaluates acute and long-term adverse events following immunization with COVID-19 Moderna vaccine",
+            "content": "A team of researchers conducted a case-control study at a mass vaccination center in Japan to evaluate acute and long-term adverse events following..."
+        },
+        {
+            "headline": "Is Moderna Stock Too Expensive in 2022?",
+            "content": "Moderna (NASDAQ: MRNA) stock has soared for the past two years thanks to its leadership in the coronavirus vaccine market. It's gained 1200% over that time..."
+        },
+        {
+            "headline": "Supporting Tajikistan with equitable access to COVID-19 vaccines",
+            "content": "On January 17th this year a plane carrying 650,400 doses of Moderna vaccines touched down in Dushanbe, Tajikistan. This delivery was organized by UNICEF..."
+        },
+        {
+            "headline": "GAM - Galleria Civica d’Arte Moderna e Contemporanea Torino",
+            "content": "Around the collection of 45000 works from the nineteenth century to today, including paintings, sculptures, works on paper, installations,..."
+        }
+    ],
+    "20220118": [
+        {
+            "headline": "Moderna eyes combined Covid-19, flu booster by 2023",
+            "content": "Moderna is aiming to market a Covid-19 and influenza booster vaccine combo within the next two years, CEO Stéphane Bancel has said."
+        },
+        {
+            "headline": "Top Moderna Shareholders Must Dump Stock",
+            "content": "AHF sent letters to the top investors of Moderna, Inc. this week, urging them to divest from the vaccine maker in the interest of corporate social..."
+        },
+        {
+            "headline": "Moderna booster clinic at Ithaca Mall vaccine site, plus youth clinics, says TCHD",
+            "content": "Booster doses of the Moderna Coronavirus vaccine are available at a vaccination clinic this Saturday for all eligible adults age 18 and up, at the county's..."
+        },
+        {
+            "headline": "mRNA vaccines offer lasting protection against severe COVID-19",
+            "content": "The Pfizer, Moderna, and Johnson & Johnson vaccines gained authorization between December 2020 and February 2021 based on short-term efficacy data from..."
+        },
+        {
+            "headline": "Should I mix or match my booster? Your COVID-19 vaccine questions answered",
+            "content": "Booster vaccines are available to everyone aged 18 years and over who received their primary course of COVID-19 vaccines — dose one and two — at least three or..."
+        },
+        {
+            "headline": "Pandemic Winners: The 10 Best Performing U.S. Companies",
+            "content": "Moderna, one of the vaccine pioneers tops the list of companies whose stock price grew the most since January 13, 2020."
+        }
+    ],
+    "20220119": [
+        {
+            "headline": "Small Roof Fire at Moderna Plant in Norwood",
+            "content": "A small fire broke out at a Moderna plant Wednesday morning on Upland Road in Norwood, Massachusetts."
+        },
+        {
+            "headline": "Happy Birthday, Dolly! Country music star, philanthropist, mother of Moderna vaccine turns 76",
+            "content": "Dolly Parton, international country music star, actress, philanthropist, and much more, turned 76 years old Wednesday, Jan. 19."
+        },
+        {
+            "headline": "What is Dolly Parton’s net worth and how much did she donate to fund the Moderna Covid vaccine?...",
+            "content": "Since her rise to fame in the late 70s, she accumulated a net worth of $600 million, according to Celebrity Net Worth."
+        }
+    ],
+    "20220120": [
+        {
+            "headline": "One chart shows people vaccinated with Moderna had the best protection against COVID-19 in 2021",
+            "content": "Moderna's COVID-19 vaccine provided the most robust protection against Delta infections, Pfizer's came in second best, and Johnson & Johnson's trailed both of..."
+        },
+        {
+            "headline": "Can the Booster Make You Test Positive for COVID?",
+            "content": "Uncertainty about the COVID-19 vaccines has been common since they were first introduced. Our infectious disease specialist answers the latest viral topic..."
+        },
+        {
+            "headline": "Hayley Woo 'underestimated' Moderna side effects, lands in hospital after jab, Entertainment News",
+            "content": "Local actress Hayley Woo posted an alarming photo to her Instagram Story yesterday (Jan 19), which showed her lying on a hospital bed getting an IV drip."
+        }
+    ],
+    "20220121": [
+        {
+            "headline": "Moderna Stock Crash Intensifies: Losses Top $130 Billion",
+            "content": "Key Facts. Moderna stock fell 4.4% Friday to an eight-month low of $160, pushing shares down more than 20% over the past week amid growing research suggesting..."
+        },
+        {
+            "headline": "Japan has never had a Covid vaccine mandate – but warns of ‘rare’ heart inflammation side effect from Moderna vaccine, among young men",
+            "content": "Japan's government has warned that myocarditis and pericarditis, treatable inflammatory heart conditions, may be rare side effects, mainly of the Moderna..."
+        },
+        {
+            "headline": "From the vault: What's in a COVID vaccine?",
+            "content": "We examine every single one of the COVID vaccine ingredients, looking at the Novavax, AstraZeneca, Moderna and Pfizer vaccines."
+        }
+    ],
+    "20220122": [],
+    "20220123": [
+        {
+            "headline": "Haiti - NOTICE : Allowed interchangeability of vaccines against Covid-19",
+            "content": "The General Directorate of the Ministry of Public Health informs that according to the recommendations of the World Health Organization,..."
+        }
+    ],
+    "20220124": [
+        {
+            "headline": "How mRNA and DNA vaccines could soon treat cancers, HIV, autoimmune disorders and genetic diseases",
+            "content": "The two most successful coronavirus vaccines developed in the U.S. – the Pfizer and Moderna vaccines – are both mRNA vaccines. The idea of using genetic..."
+        },
+        {
+            "headline": "Slovenia donates 42,000 doses of Moderna COVID-19 vaccine to Montenegro",
+            "content": "The Republic of Slovenia donated 42 thousand doses of Moderna COVID-19 vaccine to Montenegro. The donation is worth over a million euros."
+        }
+    ],
+    "20220125": [
+        {
+            "headline": "Hunting for the Next Moderna",
+            "content": "In search of an answer, we dug deep for innovations with the potential to transform lives (and wallets). Here are the 10 that impressed us most."
+        },
+        {
+            "headline": "Moderna, Nike and TSMC among pandemic-era outperformers in patent portfolio strength",
+            "content": "In the medium range, Nike and Deere & Co stand out as brands that have not always been associated with high-tech wares but have built patent portfolios with..."
+        },
+        {
+            "headline": "World Bank-financed Moderna vaccines arrive in Nepal to protect children and youth from COVID-19",
+            "content": "1.66 million of the four million doses of Moderna vaccines financed by the World Bank arrived in Nepal yesterday. The remaining doses will be delivered shortly."
+        }
+    ],
+    "20220126": [
+        {
+            "headline": "Moderna vaccinates first participant in phase 2 trial of Omicron-specific booster",
+            "content": "Moderna announced Wednesday that the first participant has been dosed in the company's Phase 2 clinical trial of a coronavirus vaccine booster shot that is..."
+        },
+        {
+            "headline": "Omicron Antibodies Persist 6 Months after Moderna Vaccine Boost But Are 6 Times Lower",
+            "content": "DURHAM, N.C. – A booster dose of Moderna's COVID-19 vaccine showed signs of waning antibody levels against the Omicron variant after six months,..."
+        },
+        {
+            "headline": "Study finds fewer breakthrough COVID-19 infections, lower risk of hospitalization in those who received Moderna vaccine compared to Pfizer–BioNTech",
+            "content": "A new study by researchers at Case Western Reserve University School of Medicine finds those who received the Moderna COVID-19 mRNA vaccine are less likely to..."
+        },
+        {
+            "headline": "Moderna starts clinical trial of booster shot targeting omicron Covid variant",
+            "content": "Moderna starts clinical trial of booster shot targeting omicron Covid variant · The first participant in the trial has already received a dose of the omicron-..."
+        },
+        {
+            "headline": "Pfizer, Moderna shots safe during in vitro fertilization; healthy gut bacteria may help prevent long COVID",
+            "content": "Pfizer, Moderna shots safe during in vitro fertilization; healthy gut bacteria may help prevent long COVID ... Jan 26 (Reuters) - The following is a summary of..."
+        },
+        {
+            "headline": "Lonza Can Meet Targets Without Covid Vaccine Deal, CEO Says",
+            "content": "Lonza Group AG said it can meet its mid-term sales growth targets even excluding contracts to produce Covid-19 vaccines for Moderna Inc."
+        },
+        {
+            "headline": "Chile to purchase 2 million Moderna COVID-19 vaccine doses",
+            "content": "Listen to this article: FILE PHOTO: A vial labelled “Moderna COVID-19 Vaccine” is seen in this illustration taken January 16, 2022. REUTERS/Dado Ruvic."
+        }
+    ],
+    "20220127": [
+        {
+            "headline": "Moderna starts trial for Omicron-specific booster shot",
+            "content": "Moderna Inc said on Wednesday it had started a mid-stage study, testing a booster dose of its COVID-19 vaccine specifically designed to target the Omicron..."
+        },
+        {
+            "headline": "Moderna, Excision each enter HIV battle with mRNA and CRISPR tech",
+            "content": "Meanwhile, Excision BioTherapeutics has boldly claimed its CRISPR gene editing-based therapy could be a \"one-time curative treatment option\" for the confounding..."
+        },
+        {
+            "headline": "Can HIV infection be prevented? First mRNA vaccine study for HIV in San Antonio’s history is getting underway.",
+            "content": "The University of Texas Health Science Center at San Antonio and clinical partner University Health soon will begin a Phase 1 clinical research study of an..."
+        },
+        {
+            "headline": "Moderna to make mRNA HIV vaccine in partnership with AIDS initiative",
+            "content": "WASHINGTON D. C. (TND) — Biotechnology company Moderna is partnering with theInternational AIDS Vaccine Initiative (IAVI) to create an experimental vaccine..."
+        },
+        {
+            "headline": "Moderna official speaks on shot's efficacy, possible future COVID variants",
+            "content": "WRTV sat down with Moderna Chief Medical Officer Paul Burton to speak about the efficacy of Moderna's COVID-19 vaccine and the possibility of future..."
+        },
+        {
+            "headline": "COVID-19: What you need to know about the coronavirus pandemic on 27 January",
+            "content": "Top COVID-19 news stories: Moderna announces trial of Omicron-specific COVID-19 vaccine; Record cases around Europe and the Americas."
+        }
+    ],
+    "20220128": [
+        {
+            "headline": "Moderna Launches Clinical Trial of Its mRNA HIV Vaccine",
+            "content": "Moderna and International AIDS Vaccine Initiative have lauched their clinical trial for HIV vaccine using mRNA technology. Moderna and the International AIDS..."
+        },
+        {
+            "headline": "Moderna starts clinical trials for HIV vaccine",
+            "content": "Moderna began clinical trials for an HIV vaccine and like the Covid-19 vaccine, it uses mRNA technology to teach cells how to fight the virus."
+        }
+    ],
+    "20220129": [],
+    "20220130": [
+        {
+            "headline": "Inside Moderna’s plan to battle Omicron and develop a booster that works against any future variants",
+            "content": "Scientists inside Moderna are racing to develop new vaccines that might someday outflank the virus."
+        }
+    ],
+    "20220131": [
+        {
+            "headline": "FDA grants full approval to Moderna COVID-19 vaccine",
+            "content": "The Food and Drug Administration granted full approval to the Moderna COVID-19 vaccine for individuals age 18 and older."
+        },
+        {
+            "headline": "FDA gives Moderna COVID-19 vaccine full approval for use in ages 18 and older",
+            "content": "FDA gives Moderna COVID-19 vaccine full approval for use in ages 18 and older · FDA Approval for Moderna · Moderna joins the Pfizer-BioNTech vaccine, which..."
+        },
+        {
+            "headline": "U.S. gives full approval to Moderna’s COVID-19 vaccine",
+            "content": "Full approval means FDA has completed the same rigorous, time-consuming review for Moderna's shot as dozens of other long-established vaccines."
+        },
+        {
+            "headline": "First patients vaccinated in clinical trial of HIV vaccine that uses Moderna’s mRNA technology",
+            "content": "The first participants have been vaccinated in a Phase 1 clinical trial of an experimental HIV vaccine that utilizes Moderna's mRNA technology, the company..."
+        },
+        {
+            "headline": "FDA fully approves Moderna COVID vaccine, Spikevax",
+            "content": "The US Food and Drug Administration (FDA) granted full approval to the mRNA COVID-19 vaccine made by Moderna, which will now be known as Spikevax."
+        },
+        {
+            "headline": "A Double Dose of Growth",
+            "content": "As deputy general counsel, Shaun Ryan ('01) helped Massachusetts-based Moderna quickly grow from an early-stage biotech firm to a manufacturer of millions of..."
+        },
+        {
+            "headline": "FDA Grants Full Approval for Moderna COVID-19 Vaccine Spikevax",
+            "content": "FDA Grants Full Approval for Moderna COVID-19 Vaccine Spikevax ... The FDA granted full approval for the Moderna COVID-19 messenger RNA (mRNA) vaccine (Spikevax)..."
+        },
+        {
+            "headline": "Moderna or Pfizer: Which vaccine is a better booster? Experts weigh in",
+            "content": "Both Pfizer's and Moderna's COVID-19 vaccines offer significant protection against breakthrough infections and hospitalizations but new research shows..."
+        },
+        {
+            "headline": "Moderna's COVID-19 Vaccine, Spikevax, Receives FDA Approval",
+            "content": "Moderna's COVID-19 vaccine, now called Spikevax, is the second to receive FDA approval, following the approval of the Pfizer vaccine in August 2021."
+        },
+        {
+            "headline": "Moderna announces full US approval for its COVID-19 vaccine",
+            "content": "WASHINGTON (AP) — Moderna announced Monday that U.S. health regulators granted full approval to its COVID-19 vaccine, a shot that's been given to tens of..."
+        }
+    ],
     "20220201": [
         {
             "headline": "Yes, Spikevax and the Moderna COVID-19 vaccine are the same",

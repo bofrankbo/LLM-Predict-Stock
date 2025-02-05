@@ -1,4 +1,1174 @@
 {
+    "20220101": [
+        {
+            "headline": "I wish Microsoft had been brave enough not to release Windows 11",
+            "content": "\"Windows 10 is the last version of Windows,\" says Microsoft's Jerry Nixon just ahead of the launch of the then-new operating system. It was..."
+        },
+        {
+            "headline": "Microsoft Exchange year 2022 bug in FIP-FS breaks email delivery",
+            "content": "According to numerous reports from Microsoft Exchange admins worldwide, a bug in the FIP-FS engine is blocking email delivery with on-premise servers starting..."
+        },
+        {
+            "headline": "How to Disable Telemetry on Windows 10 and 11",
+            "content": "Not a fan of sending usage data to Microsoft? Here's how to disable telemetry on Windows 10 and 11."
+        },
+        {
+            "headline": "Y2K22 bug: Microsoft rings in the new year by breaking Exchange servers all around the world",
+            "content": "Microsoft Exchange servers have not been able to properly process the new date, and therefore, can't process mail."
+        },
+        {
+            "headline": "How To Use Xbox Game Pass For PC",
+            "content": "Microsoft's Game Pass has become an enticing way to explore the ever-growing library of Xbox consoles and play a wealth of games on the cheap."
+        },
+        {
+            "headline": "How to Fix the Photos App Not Working in Windows 11",
+            "content": "Begin by restarting the Photos app. Next, update the app to the latest version, run the app troubleshooter, or reset the app. As a last resort, use Microsoft..."
+        },
+        {
+            "headline": "Making India Look Cool",
+            "content": "Microsoft started its India journey in 1990 with just one office in Hyderabad. Since then, the iconic IT company has changed with time — from being known as..."
+        }
+    ],
+    "20220102": [
+        {
+            "headline": "Microsoft releases emergency fix for Exchange year 2022 bug",
+            "content": "Lawrence Abrams ... Microsoft has released an emergency fix for a year 2022 bug that is breaking email delivery on on-premise Microsoft Exchange servers. As the..."
+        },
+        {
+            "headline": "Microsoft issues a fix for Exchange Y2K22 bug that shut down company emails",
+            "content": "Microsoft has released an official fix for the Exchange server bug that cropped up at midnight on January 1st, 2022. The issue trapped emails in queues,..."
+        },
+        {
+            "headline": "Watch a young Bill Gates discuss Microsoft and Apple's rises in a 1994 employee orientation video",
+            "content": "A 15-minute video, restored and posted online, features a 39-year-old Bill Gates discussing the founding of Microsoft and collaborations with future rival..."
+        },
+        {
+            "headline": "Remember the Y2K bug? Microsoft confirms new Y2K22 issue",
+            "content": "Remember the Y2K bug? Microsoft confirms new Y2K22 issue. As digital calendars around the world changed to 01.01.2022, Microsoft customers found their Exchange..."
+        },
+        {
+            "headline": "The Millennium bug is BACK: Microsoft is 'working around the clock' to fix 'Y2K22' glitch",
+            "content": "The computer programming flaw known as the Millennium bug which plagued PCs in 2000 is back, with Microsoft Exchange users reporting problems since the..."
+        },
+        {
+            "headline": "How to Join a Microsoft Teams Meeting",
+            "content": "You can join from the Chat section or a Channel if that's where the meeting is being held. Select \"Chat,\" choose the meeting, and tap \"Join\" at the top."
+        },
+        {
+            "headline": "This Ultimate Microsoft Excel Certification Training Bundle is discounted by 96%",
+            "content": "With today's highlighted deal save over $900 off the cost off this Microsoft Excel Certification Training Bundle. The 33 hour path to Excel wizardry and..."
+        },
+        {
+            "headline": "Microsoft Teams Now Puts Raised Hands In Chronological Order",
+            "content": "Microsoft has rolled out a new update for Microsoft Teams that significantly improves the Raise Hand feature by assigning numbers."
+        },
+        {
+            "headline": "Microsoft Flight Simulator Gets... a Boat; FlyByWire Releases New A32NX Airbus A320 Experimental Version",
+            "content": "Microsoft Flight Simulator is a... flight simulator, but what if it was a boat simulator? A new release answers exactly that question."
+        }
+    ],
+    "20220103": [
+        {
+            "headline": "Microsoft Cloud for Manufacturing: Partnering to manufacture a more resilient and sustainable future",
+            "content": "Use the Microsoft Cloud for Manufacturing to empower your ecosystem. The Microsoft Cloud for Manufacturing brings the best outcome-driven solutions and..."
+        },
+        {
+            "headline": "Relativity hires Microsoft’s Scott Van Vliet to boost its Factory Operating System for 3D-printed rockets",
+            "content": "Scott Van Vliet, who headed up the team behind the Microsoft Teams collaboration platform as a corporate vice president, will oversee more than 150 of..."
+        },
+        {
+            "headline": "Relativity Space Taps Microsoft VP for New Software Engineering Role",
+            "content": "Relativity Space has hired its first vice president of Software Engineering, bringing on Scott Van Vliet, former Microsoft corporate vice president for the..."
+        },
+        {
+            "headline": "Microsoft fixes harebrained Y2K22 Exchange bug that disrupted email worldwide",
+            "content": "The mass disruption stemmed from a date check failure in Exchange Server 2016 and 2019 that made it impossible for servers to accommodate the year 2022,..."
+        },
+        {
+            "headline": "Microsoft’s making Windows 11 faster – and getting inspiration from Vista",
+            "content": "Microsoft appears to be making some much-needed changes to Windows 11 to help its new operating system run faster."
+        },
+        {
+            "headline": "Y2K redux? 2022 Microsoft bug glitches email program",
+            "content": "A technological hiccup caused by the turning over of the calender year has been cheekily compared to the Y2K bug that panicked many at the start of the..."
+        },
+        {
+            "headline": "Microsoft co-founder Paul Allen’s prized Enchanted Hill sells at deep discount",
+            "content": "On top of a ridge in the Santa Monica Mountains, a 120-acre estate owned by late Microsoft co-founder Paul Allen has sold for $65 million — a deep discount..."
+        },
+        {
+            "headline": "Microsoft: This Is Why Emails Were Stuck For On-Premise Exchange Servers",
+            "content": "According to Microsoft, emails were stuck in transport queues of on-premises Exchange Server 2016 and 2019 due to a date check failure with the change of the..."
+        },
+        {
+            "headline": "Become a Microsoft Excel power user with this intensive training for under $35",
+            "content": "This training goes deeper than simple spreadsheets, offering a full exploration of Excel's most potent abilities."
+        },
+        {
+            "headline": "Microsoft Is Adding Games to the Edge Browser",
+            "content": "Microsoft is adding games to the Edge browser. When activated, it adds game shortcuts to the address bar, which is surely what everyone has been wanting from a..."
+        }
+    ],
+    "20220104": [
+        {
+            "headline": "Improving the cloud for telcos: Updates of Microsoft’s acquisition of AT&T’s Network Cloud",
+            "content": "In June 2021, Microsoft and AT&T reached a major milestone when we announced an industry-first collaboration to adopt Microsoft cloud technology for AT&T's..."
+        },
+        {
+            "headline": "AT&T Welcomes the Microsoft Surface Go 3",
+            "content": "What's the news? AT&T* is adding the Microsoft Surface Go 3, the portable Surface touchscreen 2-in-1 from Microsoft Surface, to our Connected Laptop line-up..."
+        },
+        {
+            "headline": "Microsoft Is Trying to Force You to Use Its Software Like It’s 1998 All Over Again",
+            "content": "The problem is that Microsoft's current push to get people to use its software has very serious 1998 vibes."
+        },
+        {
+            "headline": "Tekion Expands Cloud Hosting Options with Microsoft Azure",
+            "content": "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new."
+        },
+        {
+            "headline": "Breakingviews - Microsoft and Satya Nadella to be tech standouts",
+            "content": "Microsoft is the oldest of the current crop of technology Goliaths. Yet despite roots in the bell-bottom days of 1975, the $2.5 trillion software maker has..."
+        },
+        {
+            "headline": "How to use the whiteboard in Microsoft Teams",
+            "content": "The whiteboard in Microsoft Teams is a convenient way to create and share text, drawings, symbols and other types of objects to convey specific messages."
+        },
+        {
+            "headline": "Coming to a laptop near you: A new type of security chip from Microsoft",
+            "content": "Pluton is evolving to secure PCs against malicious physical hacks designed to install malware or steal cryptographic keys or other sensitive secrets."
+        },
+        {
+            "headline": "Is Outlook for Android and iOS free?",
+            "content": "Outlook is Microsoft's mobile email app for Android and iOS platform devices. It allows you to access both personal email accounts (Outlook.com, Hotmail.com..."
+        },
+        {
+            "headline": "First Microsoft Pluton-powered Windows 11 PCs to start rolling out this year",
+            "content": "The coming ThinkPad Z series laptops will begin shipping in May 2022. Thanks to Pluton, these devices will be able to receive updated firmware using Windows..."
+        },
+        {
+            "headline": "Microsoft Sees Rampant Log4j Exploit Attempts, Testing",
+            "content": "The new attack vector presented by Log4Shell is vast, severe and has ample potential for widespread exploitation. The flaw, which is uber-easy to exploit, is..."
+        }
+    ],
+    "20220105": [
+        {
+            "headline": "Mid-Continent Instruments and Avionics boosts business continuity and prepares for the future with Dynamics 365",
+            "content": "To strengthen business continuity for its operations and customers, Mid-Continent Instruments and Avionics moved its on-premises Microsoft Dynamics AX..."
+        },
+        {
+            "headline": "Mitigation of Supply Chain Risks in Microsoft 365",
+            "content": "Mitigation of Supply Chain Risks in Microsoft 365 ... In this blog we review five attack techniques exploited to compromise MS 365 tenants. Qualys SaaS Detection..."
+        },
+        {
+            "headline": "Snowflake Announces New Integration With Microsoft Azure Purview",
+            "content": "Snowflake is now integrated with Microsoft Azure Purview (preview), allowing the automatic scan of Snowflake assets into Purview's data map."
+        },
+        {
+            "headline": "What is Microsoft Teams? How it works, tips and tricks, and more",
+            "content": "The service allows users to communicate via text chat, voice or video call and also benefits from tie-ins with various other Microsoft 365 services, such as..."
+        },
+        {
+            "headline": "Can You Trust a File’s Digital Signature? New Zloader Campaign exploits Microsoft’s Signature Verification putting users at risk",
+            "content": "Zloader, a banking malware designed to steal user credentials and private information, is back with a simple yet sophisticated infection chain."
+        },
+        {
+            "headline": "New Zloader Banking Malware Campaign Exploiting Microsoft Signature Verification",
+            "content": "Zloader Banking Trojan exploits Microsoft Signature Verification in order to steal users' credentials."
+        },
+        {
+            "headline": "Multi-Factor Authentication Now Required for Drake Systems",
+            "content": "Multi-factor authentication (MFA) is now required when logging in to web-based versions of Microsoft Office 365 (includes myDrake, Outlook, Teams, OneDrive,..."
+        },
+        {
+            "headline": "Microsoft releases IndexNow plugin for WordPress",
+            "content": "Microsoft Bing has released a plugin for WordPress to let you easily integrate the IndexNow protocol on your WordPress site."
+        },
+        {
+            "headline": "XPENG Integrates Text-to-Speech Service From Microsoft in P7 Smart Sedan",
+            "content": "XPENG has upgraded its auto-grade voice assistant using Microsoft custom neural voice capability, based on Neural Text-to-Speech (TTS), a feature of A."
+        },
+        {
+            "headline": "Hackers Are Exploiting a Flaw Microsoft Fixed 9 Years Ago",
+            "content": "Hackers have long used a variety of tactics to sneak Zloader past malware detection tools. In this case, according to researchers at security firm Check Point,..."
+        }
+    ],
+    "20220106": [
+        {
+            "headline": "Build your practice using Plays-in-a-Box for SMB as your guide",
+            "content": "Struggling on where to find resources to start a practice? Whether you're a new or an existing partner, Plays-in-a-Box (PiBs) for SMB create a path to help..."
+        },
+        {
+            "headline": "Game on: An interview with Microsoft’s head of gaming ecosystem",
+            "content": "As a game developer, when you launch something, it doesn't end. You're constantly updating it, adapting it, integrating things into it. At Microsoft, that helps..."
+        },
+        {
+            "headline": "Microsoft opens up about AT&T's 5G core",
+            "content": "Microsoft is taking AT&T's core and cloud technology, 'building it into Microsoft's standard hybrid cloud product, and then delivering a carrier-grade..."
+        },
+        {
+            "headline": "Microsoft: This Is Why Exchange Emails Were Stuck To Start 2022",
+            "content": "1. Stop the Microsoft Filtering Management service. When prompted to also stop the Microsoft Exchange Transport service, click Yes. 2. Use Task Manager to..."
+        },
+        {
+            "headline": "Microsoft: KB5008212 Windows security update breaks Outlook search",
+            "content": "Microsoft has acknowledged an issue triggered by a Windows 10, version 21H2 security update released during the December 2021 Patch Tuesday that causes..."
+        },
+        {
+            "headline": "Asus ROG Flow Z13: A beefed-up Microsoft Surface competitor",
+            "content": "Launched at CES 2022, the Flow Z13 crams a powerful CPU and discrete GPU into a 13-inch design. And it works with Asus' eGPU dock when you need a graphics..."
+        },
+        {
+            "headline": "Microsoft Xbox Wireless Headset review",
+            "content": "The Xbox Wireless Headset is one of the best official platform gaming headsets, but compared to the best on the market, it's got some catching up to do."
+        },
+        {
+            "headline": "How to Get Free Microsoft Office for Students",
+            "content": "Microsoft has made it incredibly easy for students to sign up for a free Office student subscription. All you have to do is to enter your valid school email..."
+        },
+        {
+            "headline": "Daher’s Kodiak 100 aircraft goes “virtual” in the Microsoft Flight Simulator with humanitarian and other mission configurations",
+            "content": "Daher's Kodiak 100 has been added to the Microsoft Flight Simulator, generating high praise from users for its authentic flight characteristics when..."
+        },
+        {
+            "headline": "Microsoft tests updated ALT+TAB interface in latest Windows 11 preview build",
+            "content": "Microsoft has released the first Windows 11 Dev Channel build for 2022, and it's packing a handful of notable new changes and enhancements."
+        }
+    ],
+    "20220107": [
+        {
+            "headline": "Nuclear energy innovator breaks through digital transformation barriers with Microsoft technology and services",
+            "content": "Westinghouse Electric Company, one of the world's leading nuclear-energy innovators, wanted to accelerate solutions to these challenges by modernizing its..."
+        },
+        {
+            "headline": "How A Former Microsoft Exec Mastered The Perfect Slice—Using Science",
+            "content": "Nathan Mhyrvold, author of “Modernist Pizza,” made over 12000 pies to investigate the physics and chemistry of the perfect slice."
+        },
+        {
+            "headline": "How Apple gets to $4 trillion; how Microsoft gets to $3 trillion",
+            "content": "Apple Inc. became the first company this week to hit the $3 trillion market cap milestone, but the best stock days are yet to come for the iPhone maker,..."
+        },
+        {
+            "headline": "Microsoft Is Testing a Windows 7-Like Alt+Tab for Windows 11",
+            "content": "Microsoft Is Testing a Windows 7-Like Alt+Tab for Windows 11 ... Microsoft announced a new build for the Windows 11 Dev channel, and the company is testing a new..."
+        },
+        {
+            "headline": "How to fix unintended line spacing in your Microsoft Outlook emails",
+            "content": "Outlook adds unwanted line spacing to messages due to formatting issues when you receive a reply from a web-based email program."
+        },
+        {
+            "headline": "Microsoft Edge 97 rolls out with new Citations feature and more",
+            "content": "This update includes a handful of new features, including Citations, which Microsoft started testing with Edge Insiders two months ago."
+        },
+        {
+            "headline": "How to fix screen sharing in Microsoft Teams on a Mac",
+            "content": "The problem is likely that your Mac's Privacy settings aren't set up to allow Teams screen sharing. 1. Quit Teams 2. Open System Preferences on the Mac."
+        },
+        {
+            "headline": "How to Update Microsoft Teams",
+            "content": "We'll show you how to update Teams on your Windows, Mac, Linux, iPhone, iPad, and Android devices."
+        }
+    ],
+    "20220108": [
+        {
+            "headline": "How 5,000 frustrated customers forced Microsoft to make a big change",
+            "content": "Thousands of Teams users expressed their wild unhappiness. So Microsoft is actually doing something about it."
+        },
+        {
+            "headline": "Microsoft Edge for Windows 11 is getting Dynamic Refresh Rate to boost performance and reduce power consumption",
+            "content": "In Edge 99, Microsoft has added a new setting that can be configured to use higher refresh rates only when scrolling. This not only means that scrolling looks..."
+        },
+        {
+            "headline": "How to Protect Your Child Online With Microsoft Family Safety",
+            "content": "How to Set Up Microsoft Family Safety for Your Windows PC · Press Win + I to open Settings. Alternatively, you can click Start > Settings. · In the Settings..."
+        },
+        {
+            "headline": "Microsoft CEO Satya Nadella joins Groww as investor, advisor",
+            "content": "Tiger Global-backed Groww said Microsoft chief executive officer Satya Nadella has joined the company as an investor and advisor."
+        },
+        {
+            "headline": "Microsoft CEO Satya Nadella invests in fintech Groww, to also advise the company",
+            "content": "Microsoft CEO Satya Nadella invests in fintech Groww, to also advise the company · This comes a few months after Groww raised $251 million in a Series E funding..."
+        },
+        {
+            "headline": "Groww brings on board Microsoft chief Satya Nadella as an investor, advisor",
+            "content": "Groww gets one of the best CEOs in the world as an investor and advisor. Glad to see @satyanadella joining us in our mission to make financial services..."
+        },
+        {
+            "headline": "Japan high schooler shines as Microsoft Excel champion in global student competition",
+            "content": "KITAKYUSHU -- A high-schooler in southwest Japan won the global title in the Microsoft Excel section of the 2021 Microsoft Office Specialist (MOS) Wor."
+        },
+        {
+            "headline": "Microsoft CEO Satya Nadella Invests In Indian Fintech Unicorn Groww",
+            "content": "Satya Nadella, the chief executive officer of Microsoft, has joined as an investor and advisor in wealth management startup Groww."
+        }
+    ],
+    "20220109": [
+        {
+            "headline": "Microsoft CEO Satya Nadella invests in Groww, will be adviser too",
+            "content": "India Business News: BENGALURU: Microsoft CEO Satya Nadella has invested in Indian investment platform Groww."
+        },
+        {
+            "headline": "CentrePal takes world-first Microsoft Teams native contact centre solution to UK following APAC success",
+            "content": "“Because CentrePal is access agnostic, it really is a plug-and-play solution that allows Teams to become a full-blown contact centre solution within the..."
+        },
+        {
+            "headline": "How to Reset or Repair Microsoft Store apps via Windows Settings",
+            "content": "1] Press Win + I keys to launch the Settings app. 2] In the Settings app, select Apps from the left pane and then click on the Apps & features tab on the right..."
+        }
+    ],
+    "20220110": [
+        {
+            "headline": "Johnson & Johnson Medical Devices Companies: Reimagining the patient journey in a digital era",
+            "content": "Johnson & Johnson Medical Devices Companies is developing an Azure-based unified cloud platform to assist surgeons and improve patient care."
+        },
+        {
+            "headline": "Perry’s experience at CEAT helped him become GM for Microsoft",
+            "content": "Perry's experience at CEAT helped him become GM for Microsoft ... Dr. Matt Perry is an Oklahoma State University alumnus with three degrees in electrical..."
+        },
+        {
+            "headline": "Microsoft’s Surface Laptop SE Teardown Video Is a Major Win for Right to Repair",
+            "content": "Pressured by shareholders, Microsoft is ramping up its right to repair efforts starting with a teardown video."
+        },
+        {
+            "headline": "JPM 2022: Johnson & Johnson links up with Microsoft to cloud-connect its digital surgery programs",
+            "content": "Johnson & Johnson has tapped Microsoft to help build a cloud-connected software ecosystem around its digital surgery efforts."
+        },
+        {
+            "headline": "Microsoft: macOS 'Powerdir' Flaw Could Enable Access to User Data",
+            "content": "The vulnerability could allow an attacker to bypass the macOS Transparency, Consent, and Control measures to access a user's protected data."
+        },
+        {
+            "headline": "Microsoft loses HoloLens team members to Meta and rival metaverse companies",
+            "content": "What you need to know · Members of the approximately 1,500-person strong Microsoft HoloLens team have been leaving. · Many of them have transitioned to rival..."
+        },
+        {
+            "headline": "Microsoft posts its own teardown and repair video for the Surface Laptop SE",
+            "content": "Microsoft's Surface YouTube channel posted its own teardown video for the cheap, education-focused Surface Laptop SE."
+        },
+        {
+            "headline": "Will Microsoft (MSFT) Stock Deliver Growth in 2022?",
+            "content": "The software giant's stock price has been on a roll. It rose by 55% in 2021 and has witnessed an even more astounding price increase of 441% in the past five..."
+        },
+        {
+            "headline": "Microsoft acquires more land in Georgia",
+            "content": "Redmond company buys another 17 acres of land in Fulton County for $2.1m."
+        },
+        {
+            "headline": "How to Put a Border Around Text in Microsoft Word",
+            "content": "Put a Border Around Certain Text. Select the text you want to surround with a border and go to the Home tab. Click the drop-down arrow next to Borders and..."
+        }
+    ],
+    "20220111": [
+        {
+            "headline": "How a community in Southern Virginia is helping locals develop digital skills – On the Issues",
+            "content": "“Most people don't think of 'South Boston, Virginia,' when it comes to technology, but it's there,” says Darryl Kent. Kent is a native of South Boston, Va.,..."
+        },
+        {
+            "headline": "Upcoming Change to Microsoft Multi-Factor Authentication App: Number Verification",
+            "content": "Multi-factor authentication (MFA) is currently enabled for all students, faculty and staff accessing SUMail, Office365, MySlice, Blackboard and many other w..."
+        },
+        {
+            "headline": "Why Microsoft Surged by 51.2% in 2021",
+            "content": "What happened. Shares of Microsoft (MSFT 0.02%) surged by 51.2% in 2021, according to data provided by S&P Global Market Intelligence. For context, the Nasdaq..."
+        },
+        {
+            "headline": "Recordings from Microsoft Teams automatically deleted after 60 days",
+            "content": "Recordings of Microsoft Teams conversations will now be automatically deleted after 60 days. Microsoft added the functionality in the December update."
+        },
+        {
+            "headline": "AVer Boasts Multiple Microsoft Teams Certified Cameras for Video Collaboration",
+            "content": "The company has three video conference cameras Certified for Microsoft Teams including the VB130 enterprise-grade USB video bar, the CAM520 Pro2 an enterprise-..."
+        },
+        {
+            "headline": "5 of the Biggest Windows 11 Issues Microsoft Needs to Fix",
+            "content": "It appears that Microsoft has rushed out Windows 11. A lot of features are either half-baked or straight-up absent. There is also the issue of bloatware."
+        },
+        {
+            "headline": "Microsoft discontinues 3D tool Maquette for VR creation",
+            "content": "Microsoft discontinues 3D tool Maquette for VR creation ... Microsoft won't develop its Maquette VR 3D tool, which launched in 2018. This adds the app to the list..."
+        },
+        {
+            "headline": "Microsoft Creates Rare Teardown and Repair Video for Surface Laptop SE",
+            "content": "Microsoft posted a 7-minute teardown video for the Surface Laptop SE, a notebook the company is now selling to elementary and middle schools."
+        },
+        {
+            "headline": "Microsoft Flight Simulator 2022 roadmap teases new World Updates and Local Legends",
+            "content": "The newly updated Microsoft Flight Simulator development roadmap outlines several minor and larger updates due to arrive by the end of March."
+        },
+        {
+            "headline": "Microsoft starts selling Surface Pro 8 tablets with 4G LTE connectivity",
+            "content": "The 4G connectivity comes from a Snapdragon X20 modem, which supports Cat. 14 speeds (1.2 Gbps downlink). This means no 5G, which is available on some recent..."
+        }
+    ],
+    "20220112": [
+        {
+            "headline": "Technology Can Help Unlock a New Future for Frontline Workers",
+            "content": "Technology Can Help Unlock a New Future for Frontline Workers · New data shows that now is the time to empower the frontline with the right digital tools."
+        },
+        {
+            "headline": "3 ways technology can help rebuild your frontline workforce",
+            "content": "Microsoft builds solutions to empower frontline workers to communicate, schedule shifts, execute tasks, and much more."
+        },
+        {
+            "headline": "Critical, “Wormable” Microsoft Vulnerability Could Lead to Cyberattacks",
+            "content": "The Microsoft HTTP Protocol Stack RCE vulnerability is “wormable,” meaning no human interaction is required for the cyberattack to spread."
+        },
+        {
+            "headline": "Microsoft, Johnson & Johnson Medical Device Companies team up on digital surgery ecosystem",
+            "content": "Microsoft, Johnson & Johnson Medical Device Companies team up on digital surgery ecosystem. The new collaboration would lead to a new surgical-monitoring..."
+        },
+        {
+            "headline": "Microsoft Operator Connect: We answer your most frequently asked questions",
+            "content": "Microsoft Operator Connect enables organizations to choose their own Teams PSTN carrier, from the selected operators, partnering with Microsoft."
+        },
+        {
+            "headline": "Why Are the Office Web Apps Free?",
+            "content": "To try to peel back this mystery, taking a look at the history of Microsoft's free online Web apps can help provide insight."
+        },
+        {
+            "headline": "How to use Microsoft Word for free",
+            "content": "How to use Microsoft Word for free · 1. In your browser, head to the Microsoft Office homepage and sign in — you'll need to create a Microsoft account if you..."
+        },
+        {
+            "headline": "Microsoft Office vs. iWork: Which Is Better?",
+            "content": "Both offer fully featured word processing, spreadsheet, and presentation software. iWork is better if you create lots of charts, while Office creates splashier..."
+        },
+        {
+            "headline": "Microsoft touts first PCs to ship natively with secure Pluton chip",
+            "content": "Microsoft announced that Lenovo and chipmaker AMD have launched the first laptops — the ThinkPad Z13 and ThankPad Z16 — that come natively with the Pluton..."
+        },
+        {
+            "headline": "Sa.global Acquires Microsoft Partner Dynamic Consulting -",
+            "content": "Belgian Microsoft Dynamics partner sa.global acquires fellow Microsoft partner Dynamic Consulting in the United States."
+        }
+    ],
+    "20220113": [
+        {
+            "headline": "Learn about 4 approaches to comprehensive security that help leaders be fearless",
+            "content": "we're embracing the new reality of hybrid work by providing comprehensive security with best-in-breed coverage—driven by AI and simplified for easy management..."
+        },
+        {
+            "headline": "Microsoft opens a review of its sexual harassment policies. (Published 2022)",
+            "content": "“Microsoft is under intense public scrutiny due to numerous claims of sexual harassment and an alleged failure to address them adequately and transparently,”..."
+        },
+        {
+            "headline": "Microsoft ends production of the Xbox One as focus turns to new consoles",
+            "content": "The Xbox One, left, is officially out of production, as Microsoft focuses on its newest consoles, right. (Photo: Thomas Wilde) Microsoft has discontinued."
+        },
+        {
+            "headline": "Microsoft stops making Xbox One consoles",
+            "content": "Microsoft Corp said on Thursday it has stopped manufacturing all Xbox One consoles to focus on producing its next-generation consoles."
+        },
+        {
+            "headline": "Microsoft Defender weakness lets hackers bypass malware detection",
+            "content": "Threat actors can take advantage of a weakness that affects Microsoft Defender antivirus on Windows to learn locations excluded from scanning and plant..."
+        },
+        {
+            "headline": "Microsoft stops making Xbox One consoles",
+            "content": "Microsoft ended all production of the Xbox One platform in 2020, and says that making Xbox Series X and S consoles is its main focus to meet demand."
+        },
+        {
+            "headline": "Got a Meta Offer: Microsoft Staff Defect to Rival to Help Build Metaverse",
+            "content": "Around 40 Microsoft employees who were working on the company's HoloLens augmented-reality headsets have defected to Facebook, according to reports. These..."
+        },
+        {
+            "headline": "Microsoft has discontinued all Xbox One consoles",
+            "content": "Microsoft quietly discontinued its Xbox One consoles at the end of 2020. Xbox Series X / S consoles were the main focus for 2021."
+        },
+        {
+            "headline": "Microsoft pledges to make public investigation into claims of sexual harassment, including those against Bill Gates",
+            "content": "After pressure from shareholders, Microsoft announced it would review its policies related to sexual harassment and gender discrimination."
+        },
+        {
+            "headline": "Microsoft to conduct review of sexual harassment policy after shareholders push for oversight",
+            "content": "Microsoft to conduct review of sexual harassment policy after shareholders push for oversight ... Microsoft has hired a law firm to conduct a review of its sexual..."
+        }
+    ],
+    "20220114": [
+        {
+            "headline": "Building Footprints | Data Imaging with Bing Maps API",
+            "content": "Read about how the Microsoft Maps team has been investing in AI, location data, and computer vision to produce high quality, global building footprint data."
+        },
+        {
+            "headline": "The 10 best new Microsoft Teams meeting features",
+            "content": "Microsoft has added a host of new capabilities to Teams, its chat and videoconferencing hub, focused on improving video meetings with co-workers and other..."
+        },
+        {
+            "headline": "Microsoft resumes rollout of January Windows Server updates",
+            "content": "The January 2022 Windows Server cumulative updates are once again available via Windows Update after being pulled yesterday without an official reason from..."
+        },
+        {
+            "headline": "How to Create an SQL Table with Microsoft Access",
+            "content": "To create a table with SQL, you must enter the same information that you'd enter if you created the table with a RAD tool."
+        },
+        {
+            "headline": "Microsoft Office’s ‘Woke’ Spellchecker Is Perfectly Fine and Will Cause Nobody to Freak Out",
+            "content": "Microsoft Office has a “wokeness” editor that will flag your writing if it contains insensitive phrases."
+        },
+        {
+            "headline": "Microsoft Orders Sexual Harassment Review, Including Bill Gates Claims",
+            "content": "Microsoft hires external lawyers to review its sexual harassment policies, including the handling of allegations against Bill Gates."
+        },
+        {
+            "headline": "Council Post: The Impact Of Remote Work On Productivity And Creativity",
+            "content": "Co-CEO at Ramp. Businessman on video call from home office. getty. Microsoft recently conducted an extensive study that looked at data from more than 60,000..."
+        },
+        {
+            "headline": "How to Update Microsoft Word on Windows and Mac",
+            "content": "On Windows 10 or 11, open the Microsoft Store app, then click \"Library\" in the sidebar. In your list of apps, locate Word. If there's an update available, you'..."
+        },
+        {
+            "headline": "Microsoft Starting to Confirm January Patch Problems Affecting Windows Server",
+            "content": "Microsoft Starting to Confirm January Patch Problems Affecting Windows Server ... Microsoft's January security patches, released on Tuesday, reportedly are..."
+        },
+        {
+            "headline": "Windows 11 Build 22533 video: Microsoft finally updates the volume UI",
+            "content": "The latest Insider build of Windows 11 updates the UI for controlling volume and brightness with physical keys. You can check the new look of the controls..."
+        }
+    ],
+    "20220115": [
+        {
+            "headline": "Destructive malware targeting Ukrainian organizations",
+            "content": "On January 13, Microsoft identified intrusion activity originating from Ukraine that appeared to be possible Master Boot Records (MBR) Wiper activity. During..."
+        },
+        {
+            "headline": "Microsoft Word's Wokeness checker is asleep on the job",
+            "content": "Word will scan your writing for age and cultural bias, ethnic slurs, gender bias, gender-neutral pronouns, gender-specific language, racial bias, sexual..."
+        },
+        {
+            "headline": "Google, Amazon, Meta and Microsoft Weave a Fiber-Optic Web of Power",
+            "content": "Google, Amazon, Meta and Microsoft Weave a Fiber-Optic Web of Power · The four tech giants increasingly dominate the internet's critical cable infrastructure."
+        },
+        {
+            "headline": "Malware attacks targeting Ukraine government - Microsoft On the Issues",
+            "content": "Today, Microsoft is sharing that we've observed destructive malware in systems belonging to several Ukrainian government agencies and organizations that..."
+        },
+        {
+            "headline": "How to Remove Image Fill or Backgrounds in Microsoft Word",
+            "content": "This article explains how to remove the background of an image in Microsoft Word without any other graphic editing programs."
+        },
+        {
+            "headline": "How to Get Microsoft Excel to Speak Your Data Aloud",
+            "content": "With Speak Cells, you can have Excel read out loud the data in a cell, row, or column. In this article, you'll learn how to set up and use Speak Cells to read..."
+        },
+        {
+            "headline": "Fix Outlook and Office 365 problems with a click with Microsoft Support and Recovery Assistant",
+            "content": "Use Microsoft Support and Recovery Assistant for Outlook & Office 365 to fix Outlook and Office 365 problems and to resolve their issues easily."
+        }
+    ],
+    "20220116": [
+        {
+            "headline": "ACM/IEEE Fellow Dr. Lili Qiu joins Microsoft Research Asia as Assistant Managing Director",
+            "content": "Dr. Lili Qiu, a world-leading expert in the field of Internet and mobile wireless networks, has officially joined Microsoft Research Asia as Assistant Managing..."
+        },
+        {
+            "headline": "Microsoft Azure review",
+            "content": "Microsoft Azure is an integrated collection of cloud platforms for building, managing and supporting applications and services."
+        },
+        {
+            "headline": "Microsoft Discloses Malware Attack on Ukraine Government Networks",
+            "content": "Microsoft says dozens of computer systems at an unspecified number of Ukrainian government agencies have been infected."
+        },
+        {
+            "headline": "Microsoft finds ‘destructive’ malware in Ukraine",
+            "content": "Destructive malware capable of wiping data has appeared on dozens of computer systems at Ukrainian organizations, including government agencies, non-profits..."
+        },
+        {
+            "headline": "Microsoft Says Destructive Malware Seen In Ukraine Government Agency Systems",
+            "content": "Microsoft's declaration comes after a massive cyberattack splashed on Ukraine's government websites on Thursday night, warning Ukrainians to \"be afraid and..."
+        },
+        {
+            "headline": "Microsoft Surface Go 3 review: Sturdy & compact performer",
+            "content": "The specifications are good enough for most users' day-to-day activities such as browsing, attending video calls and document editing. Under heavy-duty tasks,..."
+        },
+        {
+            "headline": "Magniber ransomware being spread in the guise of a legit Microsoft Edge and Google Chrome update",
+            "content": "Analysts have now discovered that attackers behind the Magniber ransomware, who have been exploiting IE-based vulnerabilities so far, are now targeting PCs..."
+        },
+        {
+            "headline": "How to Disable Microsoft Defender Antivirus in Windows 11",
+            "content": "To disable Windows Defender Antivirus permanently, you need to use the Group Policy Editor or the corresponding Registry setting."
+        },
+        {
+            "headline": "Microsoft Office Activation Troubleshooters for Office 2021 & Office 365",
+            "content": "These Microsoft Office Activation Troubleshooters will help you resolve license issues. It works for Office 365, Office 2021, Office 2019, Office 2106 and..."
+        },
+        {
+            "headline": "How to add Radio button in a Microsoft Word document",
+            "content": "Click the Legacy button in the Controls group, then select the Radio button or Options button from the menu. The radio button is inserted into the document."
+        }
+    ],
+    "20220117": [
+        {
+            "headline": "Sabiha Shaik: Growing with Microsoft Word",
+            "content": "Sabiha Shaik's love of storytelling and using Microsoft Word to draft childhood tales helped her find her place in the world of technology."
+        },
+        {
+            "headline": "Microsoft: Edge will mitigate 'unforeseen active' zero day bugs",
+            "content": "Microsoft Edge has added a new feature to the Beta channel that will be able to mitigate future in-the-wild exploitation of unknown zero-day..."
+        },
+        {
+            "headline": "Autonomous driving start-up Wayve bags $200 million from Microsoft, Virgin and Baillie Gifford",
+            "content": "UK autonomous driving start-up Wayve has been backed by a host of big name investors including Microsoft, Virgin and Baillie Gifford in a $200 million funding..."
+        },
+        {
+            "headline": "DHL Replaces Microsoft as Most Imitated Brand in Phishing Attempts in Q4 2021",
+            "content": "In Q4, global logistics and distribution company DHL ended Microsoft's long-standing reign as the brand most frequently imitated by cybercriminals."
+        },
+        {
+            "headline": "How To Change Your Background In Zoom And Microsoft Teams--A Comprehensive Guide",
+            "content": "This guide will tackle almost everything you need to learn, whether you're on a laptop, desktop, or mobile."
+        },
+        {
+            "headline": "20 years after Gates’ call for trustworthy computing, we’re still not there",
+            "content": "Then-Microsoft CEO Bill Gates spelled out what his company needed to do to build in better security two decades ago. And yet…."
+        },
+        {
+            "headline": "Shadow Warrior 3 will release in March, according to Microsoft",
+            "content": "Shadow Warrior 3 will release on March 1, according to its listing on the Microsoft Store. You could write it off as placeholder text."
+        },
+        {
+            "headline": "Zisis Bliatkas’ work seeks to redefine the “obsolete” Microsoft Paint",
+            "content": "With “neo-tropical” themes and noughties computer game influences, the artist has built a feverish world of absurd happenings."
+        },
+        {
+            "headline": "Microsoft unveils accelerator for startups that use technology to help the planet",
+            "content": "Category. Sustainability · Microsoft is looking for UK startups that are tackling environmental challenges to join its new accelerator programme, which has been..."
+        },
+        {
+            "headline": "Microsoft releases emergency fixes for Windows Server, VPN bugs",
+            "content": "Microsoft has released emergency out-of-band (OOB) updates to address multiple issues caused by Windows Updates issued during the January 2022 Patch..."
+        }
+    ],
+    "20220118": [
+        {
+            "headline": "Microsoft to acquire Activision Blizzard to bring the joy and community of gaming to everyone, across every device",
+            "content": "Microsoft will acquire Activision Blizzard for $95.00 per share, in an all-cash transaction valued at $68.7 billion, inclusive of Activision Blizzard's net cash..."
+        },
+        {
+            "headline": "Microsoft will buy Activision Blizzard, betting $70 billion on the future of games. (Published 2022)",
+            "content": "With the deal, the largest in the software maker's history, Microsoft will acquire Activision's huge pool of users and access to some of the world's most..."
+        },
+        {
+            "headline": "Microsoft to Buy Activision Blizzard in All-Cash Deal Valued at $75 Billion",
+            "content": "The deal is valued at $68.7 billion after adjusting for Activision's net cash, Microsoft said. An acquisition also would mark the latest and..."
+        },
+        {
+            "headline": "Delivering the connected shopping experience: How Microsoft and Avanade are reimagining retail",
+            "content": "We recently collaborated with Avanade to create a modular solution called Avanade Intelligent Store that helps retailers overcome these hurdles."
+        },
+        {
+            "headline": "Here’s why Microsoft is buying Activision Blizzard",
+            "content": "Microsoft is buying Activision Blizzard, a video game maker and creator of Call of Duty, for nearly $70 billion — its largest acquisition ever."
+        },
+        {
+            "headline": "Empowering schools with Windows 11, Surface Laptop SE and more",
+            "content": "Surface Laptop SE is our most affordable device yet, a slim and sleek classic laptop with a new edition of Windows 11 streamlined for students in primary and..."
+        },
+        {
+            "headline": "LinkedIn, Candy Crush and Minecraft: Microsoft’s empire goes far beyond Windows and Word",
+            "content": "It now owns household-name companies in a variety of fields, from social media to gaming to vital tools used by computer programmers all over the world."
+        },
+        {
+            "headline": "Microsoft to buy Activision Blizzard for $68.7 billion",
+            "content": "The company has agreed to be acquired by Microsoft in a $68.7 billion all-cash deal, inclusive of the company's net cash."
+        },
+        {
+            "headline": "Microsoft to gobble up Activision in $69 billion metaverse bet",
+            "content": "Microsoft Corp (MSFT.O) is buying \"Call of Duty\" maker Activision Blizzard (ATVI.O) for $68.7 billion in the biggest gaming industry deal in history."
+        },
+        {
+            "headline": "Here’s how Microsoft will expand its SoCal office footprint with Activision",
+            "content": "Microsoft currently has one office in Los Angeles, and another in Irvine. In 2013, the firm moved into around 25,000 square feet of space at 13031 West..."
+        }
+    ],
+    "20220119": [
+        {
+            "headline": "Elastic and Microsoft Azure: Unified Observability for Spring Boot applications",
+            "content": "Elastic can now seamlessly ingest logs and metrics from Microsoft Azure Spring Cloud so that DevOps and SREs can monitor their Spring Boot applications—whether..."
+        },
+        {
+            "headline": "Microsoft’s metaverse plans are getting clearer with its $68.7 billion Activision acquisition",
+            "content": "Microsoft's planned $68.7 billion acquisition of gaming company Activision Blizzard is just the latest signal of how CEO Satya Nadella aims to dominate the..."
+        },
+        {
+            "headline": "It’s Not Complicated. Microsoft Wants Activision for Its Games. (Published 2022)",
+            "content": "Activision has a lot of popular games that fit into Microsoft's plans to build a vast library of titles that can be played on all sorts of devices."
+        },
+        {
+            "headline": "What Microsoft's plans to buy Activision Blizzard means for the next version of the internet",
+            "content": "The company announced plans on Tuesday to buy video-game developer and publisher Activision Blizzard in a deal valued at about $75 billion, and framed it as a..."
+        },
+        {
+            "headline": "Is Microsoft building a gaming monopoly?",
+            "content": "Microsoft announced plans to acquire Activision Blizzard, publisher of games ranging from the Call of Duty series to Candy Crush Saga, for $68.7 billion."
+        },
+        {
+            "headline": "Just Asking Questions: Could Microsoft Buy Destiny 2’s Bungie?",
+            "content": "If Microsoft is willing to pay $70 billion for Activision Blizzard, a potential Bungie deal would be a fraction of that."
+        },
+        {
+            "headline": "Microsoft Makes a $69 Billion Down Payment on the Metaverse",
+            "content": "Microsoft makes a $69 billion down payment on the metaverse. Its deal for Activision Blizzard heats up the land grab for what Big Tech sees as its next..."
+        },
+        {
+            "headline": "Activision Blizzard wanted to sell, so it approached Microsoft",
+            "content": "And in an industry where talent is in high demand, Activision struggled to attract the people that actually make the games. The company needed a reset, and that..."
+        },
+        {
+            "headline": "Microsoft’s Activision plan shows gaming will be at heart of metaverse",
+            "content": "Gaming, Metaverse or not, is a $180bn global market already, according to research firm Newzoo. Microsoft owns the Xbox gaming platform and Activision's games..."
+        },
+        {
+            "headline": "Activision's Kotick Set to Get $400 Million From Microsoft Acquisition",
+            "content": "Bobby Kotick will receive at least $390 million after the deal is completed. Most of his payout will be from the 3.95 million company shares he holds."
+        }
+    ],
+    "20220120": [
+        {
+            "headline": "Microsoft’s origin in the Bay Area is rooted in innovation and talent",
+            "content": "From small engineering and sales site to a global development center, today Microsoft in the Bay Area is a hub for innovation with talent that can change the..."
+        },
+        {
+            "headline": "Microsoft faces challenge cleaning up Activision Blizzard’s culture",
+            "content": "The success of Microsoft's (MSFT.O) biggest deal ever rides on rehabilitating Activision (ATVI.O) Blizzard's culture, Microsoft CEO Satya Nadella declared."
+        },
+        {
+            "headline": "Microsoft’s Biggest Acquisition Ever Is A $69 Billion Bet On The Future Of Video Games",
+            "content": "Microsoft is buying Activision Blizzard, the publisher of famous franchises like \"Call of Duty\" and \"World of Warcraft,\" marking the biggest takeover in..."
+        },
+        {
+            "headline": "Activision Blizzard deal positions Microsoft for the metaverse",
+            "content": "Microsoft's acquisition of game maker Activision Blizzard would bring knowledge and technology for building virtual worlds that could evolve into the..."
+        },
+        {
+            "headline": "Xbox CEO Phil Spencer on reviving old Activision games as Microsoft positions itself as tech’s gaming company",
+            "content": "Phil Spencer sees as core to Microsoft's strategy for consumer acquisition: a slew of video games and long-abandoned franchises."
+        },
+        {
+            "headline": "Microsoft vets reveal first game from new blockchain startup backed by Andreessen Horowitz",
+            "content": "(Irreverent Labs Photos) The news: Irreverent Labs, a new Seattle startup led by Microsoft veterans that recently raised a $5 million seed round, just."
+        },
+        {
+            "headline": "Hands-on with Microsoft's simple -- yet effective -- Surface Adaptive Kit",
+            "content": "The Adaptive Kit adds optional functionality for everyone. And, best of all, it's affordable. COVID-19 Testing"
+        },
+        {
+            "headline": "Diligent Boards Integrates with Microsoft Teams to Drive Secure and Strategic Collaboration in Board Meetings",
+            "content": "Easily and securely collaborate on critical business topics by annotating and creating shared or private notes, and through signature-based voting; Improve..."
+        },
+        {
+            "headline": "Sony ‘expects’ Microsoft to keep Activision games multiplatform",
+            "content": "The Call of Duty franchise remains the biggest question for the future, as Microsoft acquires Activision Blizzard. Sony expects the company to keep those..."
+        },
+        {
+            "headline": "How Activision Blizzard could help Microsoft gain gaming credibility and bigger marketing budgets",
+            "content": "Activision can also fit into Microsoft's portfolio of advertising tools. Microsoft's acquisition of programmatic exchange Xandr, for instance, could help brands..."
+        }
+    ],
+    "20220121": [
+        {
+            "headline": "Celebrating 20 Years of Trustworthy Computing",
+            "content": "The initiative was intended to put customer security, and ultimately customer trust, at the forefront for all Microsoft employees. Gates' memo called upon teams..."
+        },
+        {
+            "headline": "Microsoft’s Activision Blizzard Deal Poses Sustainability Challenge",
+            "content": "Activision published its first ESG report last year and didn't disclose any environmental metrics. “At this time, we are unable to collect data related to the..."
+        },
+        {
+            "headline": "The Metaverse Set Off A Battle Between Tech Giants Google, Apple, Microsoft And Meta To Build Virtual And Augmented Reality Headsets",
+            "content": "Google, Apple, Microsoft and Meta are in a heated race to get their VR/AR headsets to market at an affordable price point for widespread consumer adoption."
+        },
+        {
+            "headline": "Teams Fireside Chat a new monthly Microsoft Teams community get together",
+            "content": "I would love to get all the great people in the community around for a chat more often, that's the simple goal of Teams Fireside Chat."
+        },
+        {
+            "headline": "Why Activision Deal Gives Microsoft's Stock 20% Upside: Analysts",
+            "content": "5 analysts share their thoughts on Microsoft's stock after its move to buy Activision Blizzard — and explain the metaverse opportunity at the heart of the deal."
+        },
+        {
+            "headline": "Leak reveals Microsoft’s canceled Windows OS for dual-screen phones",
+            "content": "Microsoft was working on Andromeda OS years ago, a successor to Windows Phone for dual-screen devices. A leak has provided a rare look at Microsoft's..."
+        },
+        {
+            "headline": "POV: Microsoft Buys Activision Blizzard",
+            "content": "Microsoft announced this week that it plans to buy Activision Blizzard, the publisher of the popular Call of Duty and World of Warcraft games franchises."
+        },
+        {
+            "headline": "Microsoft promises culture change at Activision Blizzard. Here's how",
+            "content": "The tech giant pointed to the litany of abuse and harassment allegations at its latest acquisition target, game maker Activision Blizzard, and promised that..."
+        },
+        {
+            "headline": "Esports owners, executives react to Microsoft’s Activision deal: ‘We are definitely surprised’",
+            "content": "Esports executives invested in Activision Blizzard esports see Microsoft's pending acquisition as a ringing endorsement for the future of the competitive..."
+        },
+        {
+            "headline": "Why Microsoft Shouldn't Have Bought Activision Blizzard",
+            "content": "Microsoft plans to buy Activision for $68.7 billion. The deal could widen its moat against Sony, but it will also inherit Activision's ongoing problems."
+        }
+    ],
+    "20220122": [
+        {
+            "headline": "Hardcore Software: When Microsoft Office Went Enterprise",
+            "content": "This post includes parts from entries 55-57, shedding light on the transition of Microsoft Office from an end user–focused product to an enterprise product."
+        },
+        {
+            "headline": "Why Microsoft is splashing $69bn on video games",
+            "content": "$69bn is a lot of money. On January 18th the firm said it would pay that sum—in cash—for Activision Blizzard, a video-game developer..."
+        },
+        {
+            "headline": "For My Next Presentation: The Entrepreneur Who Quit Microsoft To Develop A Powerpoint Rival",
+            "content": "Having sold his previous company to Microsoft, Berlin-based entrepreneur, Christian Reber has launched a competitor to Powerpoint and Slides."
+        },
+        {
+            "headline": "Microsoft’s Acquisition of Activision Blizzard Opens the Door for Big Crossovers",
+            "content": "The acquisition of Activision Blizzard is a massive move by Microsoft that is likely to lead to crossovers involving some of gaming's largest IPs."
+        },
+        {
+            "headline": "Microsoft's Candy Crush: Madrona's Hope Cochran, former King CFO, on $68.7B Activision deal",
+            "content": "But she also has direct insights into one component of the deal from a past role: Cochran was previously the chief financial officer of King Digital, the maker..."
+        },
+        {
+            "headline": "Spotlight: Microsoft's US$317mn Chilean data...",
+            "content": "Microsoft submitted a US$317mn datacenter project for the Quilicura municipality, in capital Santiago."
+        },
+        {
+            "headline": "Nintendo recap: More Pokémon leaks and what Microsoft's acquisition means for Switch",
+            "content": "Pokemon Legends: Arceus leaks online, Castlevania NFTs sell for a ton of money, and, oh yeah, Microsoft bought Activision Blizzard. There's even more to..."
+        },
+        {
+            "headline": "Microsoft force installs Windows 10 version 21H2 on 20H2 devices",
+            "content": "Windows 10 version 20H2 devices will be upgraded automatically to Windows 10 version 21H2 according to the tweet. Microsoft uses the rollout for machine..."
+        },
+        {
+            "headline": "How to Import and Export Favorites in Microsoft Edge",
+            "content": "Click the three-dot menu to select the “Export favorites” option. This will help you save the bookmarks as an HTML file."
+        },
+        {
+            "headline": "Microsoft Wants Activision Blizzard to Work on a Variety of Franchises",
+            "content": "The news that Microsoft wants Activision Blizzard working on stuff other than Call of Duty comes via interviews with Microsoft head of gaming Phil Spencer."
+        }
+    ],
+    "20220123": [
+        {
+            "headline": "Microsoft buys Activision Blizzard: with the video game industry under new management, what’s going to change?",
+            "content": "The company that is now Activision Blizzard has been bought by one of the major platform owners in the industry, Microsoft, for a blistering US$68.7 billion..."
+        },
+        {
+            "headline": "The Inside Story Of How Bill Gates And Microsoft Earned A 400% Return On Comcast",
+            "content": "Thankfully Gates is as far away from Wall Street as possible and was happy to invest $1 billion in Comcast without any demands for board seats or the inclusion..."
+        },
+        {
+            "headline": "Microsoft tests a new \"Rejuvenated\" Windows 11 Task Manager, how to enable",
+            "content": "Microsoft is testing a new hidden feature in the latest Windows 11 preview build that rejuvenates the user interface for Task Manager with a new design and..."
+        },
+        {
+            "headline": "The 6 Best Medical Apps for Windows 10 on the Microsoft Store",
+            "content": "We have listed below the top medical applications for your Windows 10 on Microsoft Store. 1. Offline Medical Dictionary"
+        },
+        {
+            "headline": "Microsoft's Surface Pro 8 finally arrives on our shores, pricing and availability details inside",
+            "content": "Pre-orders for the Surface Pro 8 will start on 20 January 2022 and it will be available in retail on 15 February 2022. Prices start at S$1,649."
+        },
+        {
+            "headline": "Gig Guide: Microsoft chief to lead NSW skills board",
+            "content": "Microsoft Australia chief Steven Worrall will advise the New South Wales government on the state's talent needs after being named chair of the NSW Skills Board."
+        },
+        {
+            "headline": "Microsoft’s Activision Blizzard buyout is finally a ray of hope for StarCraft fans",
+            "content": "Microsoft's Activision Blizzard buyout is finally a ray of hope for StarCraft fans ... Microsoft's acquisition of Activision Blizzard is a massive step in the..."
+        }
+    ],
+    "20220124": [
+        {
+            "headline": "FedEx and Microsoft announce new cross-platform logistics solution for e-commerce",
+            "content": "FedEx Surround, the first FedEx customer-facing solution built using Microsoft Azure cloud technology, is a testament to the collaboration's innovative..."
+        },
+        {
+            "headline": "Microsoft's earnings will test strength of cloud business, and impact of supply chain constraints",
+            "content": "Looking to broaden its appeal to businesses, Microsoft on Monday announced the latest phase in a partnership with FedEx, saying they will offer “logistics as a..."
+        },
+        {
+            "headline": "Microsoft marches toward its 'One Outlook' rollout",
+            "content": "Microsoft could take the wraps off its 'Project Monarch'/One Outlook project this spring, after months of internal testing."
+        },
+        {
+            "headline": "FedEx extends Microsoft partnership to build “logistics as a service” product",
+            "content": "FedEx will combine its package network intelligence with Redmond, Washington-based Microsoft's Microsoft Dynamics 365 product."
+        },
+        {
+            "headline": "Microsoft Modern Headsets review: Teams conferencing made easy",
+            "content": "The Microsoft Modern Bluetooth and USB-C headsets are great, affordable ways into enhancing your conferencing gear, with dedicated Teams buttons and easy to..."
+        },
+        {
+            "headline": "Sony’s Videogame Strategy Challenged by Microsoft’s Deal for Activision",
+            "content": "Sony faces decisions on how to beef up its own software lineup, whether to continue stressing hardware and what to do about the metaverse."
+        },
+        {
+            "headline": "FedEx, Microsoft Unveil ‘Logistics-as-a-Service’ to Meet Better Shopping and Shipping Demand",
+            "content": "Collaboration between FedEx and Microsoft marks the latest effort to harness technology to bring much-needed efficiencies to the burgeoning eCommerce..."
+        },
+        {
+            "headline": "Here's everything that's happened since Microsoft acquired Activision Blizzard",
+            "content": "Microsoft surprised the world with the announcement that it will acquire Activision Blizzard for a whopping $68.7 billion."
+        },
+        {
+            "headline": "Microsoft Surface Neo: everything we know so far",
+            "content": "The Microsoft Surface Neo is a completely new Surface device, with two tablets, connected by a hinge, basically folding open like a book for a two-screen setup."
+        },
+        {
+            "headline": "Why Microsoft Won't Buy Nintendo Next",
+            "content": "Microsoft's purchase of Activision Blizzard has led to speculation that it could purchase Nintendo next, but that would be highly unlikely."
+        }
+    ],
+    "20220125": [
+        {
+            "headline": "Azure DDoS Protection—2021 Q3 and Q4 DDoS attack trends",
+            "content": "In this review, we share trends and insights into DDoS attacks we observed and mitigated throughout the second half of 2021."
+        },
+        {
+            "headline": "Is Google adding more Files app integration with Microsoft Office documents on Chromebooks?",
+            "content": "A new code change in Chrome OS signals greater integration between the Files app and Microsoft Office documents on Chromebooks."
+        },
+        {
+            "headline": "Microsoft beats expectations with $51.7B in revenue, $18.8B profit; stock down 5% after hours",
+            "content": "Microsoft posted revenue of $51.7 billion in the December quarter, up 20% from the same quarter last year, and profits of $18.8 billion, an increase of 21%,..."
+        },
+        {
+            "headline": "Microsoft warns about this phishing attack that wants to read your emails",
+            "content": "\"The phishing messages mislead users into granting the app permissions that could allow attackers to create inbox rules, read and write emails and calendar..."
+        },
+        {
+            "headline": "Microsoft (MSFT) Slides Ahead of Earnings",
+            "content": "The share price of Microsoft Corporation (MSFT) has recently broken out to the downside ahead of the company's fiscal second quarter earnings results."
+        },
+        {
+            "headline": "The Developer Microsoft Should Buy For Xbox Next Doesn’t Need To Cost Billions",
+            "content": "Microsoft is still hovering over the city-sized crater it created when it dropped the bomb of a $70 billion purchase of Activision Blizzard,..."
+        },
+        {
+            "headline": "Prioritizing and remediating vulnerabilities in the wake of Log4J and Microsoft’s Patch Tuesday blunder",
+            "content": "Prioritizing and remediating vulnerabilities in the wake of Log4J and Microsoft's Patch Tuesday blunder · Vulnerability disclosures often come in bunches, and..."
+        },
+        {
+            "headline": "Microsoft to Acquire Activision Blizzard for $68.7B, Becoming Third Largest Gaming Company",
+            "content": "The reverse triangular deal is expected to close in fiscal year 2023, pending customary closing conditions and regulatory approval; the deal has already been..."
+        },
+        {
+            "headline": "Microsoft Project vs. Visio: Which Is Right for My Business?",
+            "content": "Microsoft Project and Visio are created with different goals in mind and it's up to you as to which goal better suits your business."
+        },
+        {
+            "headline": "Microsoft Modern Webcam review: This $55 webcam makes you look good, but you'll need a better mic",
+            "content": "The Microsoft Modern Webcam is an excellent choice for anyone looking for a 1080p webcam for video conferencing on a budget."
+        }
+    ],
+    "20220126": [
+        {
+            "headline": "Save big by using your on-premises licenses on Azure",
+            "content": "Azure Hybrid Benefit allows you to use your existing licenses covered by Software Assurance (SA) or other subscriptions in Azure."
+        },
+        {
+            "headline": "FedEx, Microsoft extend partnership to offer ‘logistics as a service’",
+            "content": "FedEx has made adjustments such as adding more automated facilities to its network and announced its partnership with Microsoft to help shippers have more..."
+        },
+        {
+            "headline": "CCEE’s In-Ho Cho and ECpE researchers receive U.S. Patent for Microsoft Robotic Device Gentle Enough to Lift Human Egg",
+            "content": "This tentacle has the rare ability to gently pick up microscopic objects without causing any harm. The tentacle has already handled fish eggs and a live ant."
+        },
+        {
+            "headline": "24 software stocks, including Microsoft, expected to rise by double digits over the next year",
+            "content": "The software sector has suffered a sharp pullback this year in the stock market. For the expected rebound, the most rapid sales growers may fit the bill."
+        },
+        {
+            "headline": "Microsoft Teams 270 million monthly active users, Teams Rooms Systems double",
+            "content": "270 million monthly active users, Teams Rooms Systems double. Published by Tom Arbuthnot on January 26, 2022."
+        },
+        {
+            "headline": "Microsoft's new heyday: PC 'renaissance' and cloud boom drive record revenue and employment",
+            "content": "Microsoft surpassed $50 billion in quarterly revenue for the first time, with profits of $18.8 billion, up 22%, in its financial results posted Tuesday."
+        },
+        {
+            "headline": "Three ways for Sony to avoid getting left behind by Microsoft",
+            "content": "Here are three suggestions: 1. Buy Google Stadia. Sony's biggest threat from Microsoft is actually Xbox Game Pass, a Netflix-like subscription."
+        },
+        {
+            "headline": "Become a Microsoft Word power user",
+            "content": "Word has a built-in calculator that can quickly solve equations in your document. To insert the calculator feature, go to File > Options > Quick Access Toolbar."
+        },
+        {
+            "headline": "Will Microsoft and Activision play nice once they're part of the same company? That hinges on leadership's attitude.",
+            "content": "Anticipate Activision employees' career concerns. Even beyond addressing the misconduct allegations at Activision, Microsoft faces a critical challenge."
+        },
+        {
+            "headline": "Microsoft Tips Windows 11 Rollout for Remaining Eligible PCs",
+            "content": "More Windows 10 users will soon have the option to upgrade to Windows 11, Microsoft says. “Today, we're excited to share that the upgrade offer to Windows..."
+        }
+    ],
+    "20220127": [
+        {
+            "headline": "What Does ‘Flexible Work’ Really Mean?",
+            "content": "An openness to working anytime, anywhere must be part of any competitive strategy: there is no longer any one way to work, making flexibility key."
+        },
+        {
+            "headline": "Microsoft makes a big bet that it can fix Activision Blizzard’s troubled culture",
+            "content": "Microsoft is “supportive” of the work Activision Blizzard is doing, Nadella said, while also noting that once the deal is closed, Microsoft will have “..."
+        },
+        {
+            "headline": "Microsoft avoided the latest round of Big Tech antitrust scrutiny. Then it bought a company for $69 billion.",
+            "content": "Microsoft avoided the latest round of Big Tech antitrust scrutiny. Then it bought a company for $69 billion. How Microsoft's 20-year-old antitrust battle..."
+        },
+        {
+            "headline": "Announcing Windows 11 Insider Preview Build 22543",
+            "content": "We're introducing more natural voices for Narrator. More natural voices enable Narrator users to enjoy scenarios like browsing the web, reading, and authoring..."
+        },
+        {
+            "headline": "Microsoft wins plea to remove thousands of trees for data center",
+            "content": "Microsoft received approval to remove 2642 trees from a tract of land in San Antonio where the company plans to build a large data center."
+        },
+        {
+            "headline": "Microsoft CEO Nadella’s Brilliant Depiction Of The Digital Age",
+            "content": "Nadella's presentation showed that digital is not just “Big Tech”. It is infiltrating and transforming every aspect of our lives, our work and play, our..."
+        },
+        {
+            "headline": "Microsoft helps JPL with Deep Space Network scheduling",
+            "content": "Microsoft is working with the Jet Propulsion Laboratory to speed up the process for scheduling communications with distant spacecraft through NASA's Deep Space..."
+        },
+        {
+            "headline": "Microsoft’s ad revenue hit $10B, and it’s investing — is it a sleeping giant about to wake?",
+            "content": "Microsoft reported more than $10 billion in advertising revenue last year with its news and search offerings seeing a 32% annual upswing in spend during the..."
+        },
+        {
+            "headline": "Microsoft warns of multi-stage phishing campaign leveraging Azure AD",
+            "content": "Microsoft's threat analysts have uncovered a large-scale, multi-phase phishing campaign that uses stolen credentials to register devices onto the target's..."
+        },
+        {
+            "headline": "Johnson & Johnson partners with Microsoft to further digital surgery solutions",
+            "content": "The Microsoft Cloud will help JJMDC drive innovation that advances skills, improves workflow, and enhances surgical decision making."
+        }
+    ],
+    "20220128": [
+        {
+            "headline": "Microsoft’s Experimentation Platform: How We Build a World Class Product",
+            "content": "Microsoft's Experimentation Platform: How We Build a World Class Product ... Microsoft's Experimentation Platform (ExP) provides a platform used by product teams..."
+        },
+        {
+            "headline": "Microsoft Has Quietly Become The Next Ad-Tech Giant—Marketers, Ignore Its Reach At Your Peril",
+            "content": "Microsoft has assembled a most formidable ad-tech empire, quietly. Until the Activision deal, no one was really looking. Neither its now and future..."
+        },
+        {
+            "headline": "Microsoft Mitigated Record-Breaking 3.47 Tbps DDoS Attack on Azure Customers",
+            "content": "Microsoft Mitigated Record-Breaking 3.47 Tbps DDoS Attack on Azure Customers ... Microsoft this week revealed that it had fended off a record number of..."
+        },
+        {
+            "headline": "Surface Duo 2 review: Microsoft’s dual-screen Android needs work",
+            "content": "Verdict. The Surface Duo 2 is an improvement on its predecessor, but is still a very odd proposition that's neither a good phone nor a good tablet. The..."
+        },
+        {
+            "headline": "Microsoft launch Microsoft Teams global device trade in program with Network-Value",
+            "content": "Microsoft is partnering with Network-Value, a US-based company specialising in device trade-in programmes to offer a global device trade in program."
+        },
+        {
+            "headline": "Dynamics 365 ERP CVP Muhammad Alam announces departure from Microsoft",
+            "content": "Microsoft corporate vice president for Dynamics 365 Muhammad Alam will be leaving the company, he announced recently."
+        },
+        {
+            "headline": "Microsoft fends off record-breaking 3.47Tbps DDoS attack",
+            "content": "It fended off what industry experts say is likely the biggest distributed denial-of-service attack ever: a torrent of junk data with a throughput of 3.47..."
+        },
+        {
+            "headline": "Microsoft Outlook RCE zero-day exploits now selling for $400,000",
+            "content": "Exploit broker Zerodium has announced a pay jump to 400000 for zero-day vulnerabilities that allow remote code execution (RCE) in Microsoft Outlook email..."
+        },
+        {
+            "headline": "Azure stops biggest DDoS attack ever, according to Microsoft",
+            "content": "Microsoft mitigated a DDoS attack with a throughput of 3.47 Tbps in November 2021. The company believes it to be the largest DDoS attack in history. The attack..."
+        },
+        {
+            "headline": "Manage Windows Devices with Microsoft Endpoint Manager (Intune)",
+            "content": "What you need to get started using Intune · Create and configure your Azure AD / Intune tenant. Create a Custom Domain to assist user sign-in (optional, but..."
+        }
+    ],
+    "20220129": [
+        {
+            "headline": "At Microsoft, Stakeholder Capitalism Generates Astonishing Growth",
+            "content": "Stakeholder capitalism, what its opponents refer to as “woke capitalism”, is actually an engine for astonishing profits, rewarding both employees and..."
+        },
+        {
+            "headline": "Microsoft: Windows needs at least 8 hours online to update reliably",
+            "content": "Microsoft says that Windows devices need to be online for at least eight hours to get the latest updates and have them correctly installed after they're..."
+        },
+        {
+            "headline": "The 7 Best Microsoft Office Alternatives for Linux Users",
+            "content": "The 7 Best Microsoft Office Alternatives for Linux Users · 1. LibreOffice · 2. WPS Office · 3. OnlyOffice · 4. SoftMaker Office · 5. Calligra Office · 6. Zoho..."
+        }
+    ],
+    "20220130": [
+        {
+            "headline": "How to change your Microsoft Teams password or reset it",
+            "content": "First, visit the Teams login page - whether you use the web client or a desktop app. Then, when asked for your credentials, select “Forgot password?”..."
+        },
+        {
+            "headline": "Microsoft Should Tie World of Warcraft Subscriptions With Xbox Game Pass",
+            "content": "World of Warcraft is one of PC's best-known franchises, and adding it to the powerhouse Xbox Game Pass could reinvigorate its success. Xbox Game Pass..."
+        },
+        {
+            "headline": "Microsoft’s quest for gaming world domination",
+            "content": "Microsoft made global headlines on January 18 when it announced its $68.7 billion acquisition of Activision Blizzard, one of the world's leading gaming..."
+        },
+        {
+            "headline": "If You're Not Able to See WordPerfect Reveal Codes in MS Word, Read This",
+            "content": "This article explains two ways to reveal the formatting marks and codes in a Microsoft Word document. It also includes information on the Reveal Formatting..."
+        },
+        {
+            "headline": "How to Create a Countdown Timer in Microsoft PowerPoint",
+            "content": "Get a Ready-Made Timer Using an Add-in. To insert a countdown timer using an add-in, open the PowerPoint presentation, navigate to the \"Insert\" tab, and then..."
+        }
+    ],
+    "20220131": [
+        {
+            "headline": "Project SEEKER: Using artificial intelligence for good",
+            "content": "Project SEEKER: Using artificial intelligence for good ... Project SEEKER is pioneering multi-species artificial intelligence (AI) models built using Microsoft..."
+        },
+        {
+            "headline": "Microsoft Adding ‘Building Blocks’ for Metaverse in Acquiring Activision Blizzard for $68.7B",
+            "content": "Microsoft Adding 'Building Blocks' for Metaverse in Acquiring Activision Blizzard for $68.7B · REDMOND, Wash. · Microsoft expects the planned acquisition will..."
+        },
+        {
+            "headline": "Microsoft: Here's how we stopped the biggest ever DDoS attack",
+            "content": "Microsoft has revealed that it stopped what it described as the largest distributed denial of service (DDoS) attack ever reported in history in November, which..."
+        },
+        {
+            "headline": "FTC to review Microsoft's $68.7 billion deal for Activision - Bloomberg News",
+            "content": "The U.S. antitrust review of Microsoft Corp's $68.7 billion proposed acquisition of \"Call of Duty\" maker Activision Blizzard Inc will be handled by the..."
+        },
+        {
+            "headline": "Microsoft Priva is Now Generally Available for Enterprise Customers",
+            "content": "Microsoft Priva is now generally available for enterprise customers. Last Update: Sep 04, 2024 | Published: Jan 31, 2022"
+        },
+        {
+            "headline": "New study shows 4-day working week to be a success",
+            "content": "The results of a global study point to the positive impact of trials that have been taking place across the globe."
+        },
+        {
+            "headline": "West Side subdivision reaches agreement with Microsoft over removal of thousands of trees",
+            "content": "SAN ANTONIO -A west side neighborhood is at the center of a compromise with one of the world's largest tech companies. Microsoft is building a new data..."
+        },
+        {
+            "headline": "Sony to buy Bungie, former Microsoft studio, for $3.6B in latest blockbuster video-game deal",
+            "content": "Sony to buy Bungie, former Microsoft studio, for $3.6B in latest blockbuster video-game deal ... Bungie, the Bellevue, Wash.-based game developer..."
+        },
+        {
+            "headline": "Microsoft Office 365 to add better protection for priority accounts",
+            "content": "Microsoft is working on updating Microsoft Defender for Office 365 with differentiated protection for enterprise accounts tagged as critical for an..."
+        },
+        {
+            "headline": "Microsoft still working on 3D emoji for Windows 11",
+            "content": "Microsoft is still working on bringing 3D emoji to Windows 11. The software giant reverted to 2D emoji after revealing 3D designs last year."
+        }
+    ],
     "20220201": [
         {
             "headline": "Now available: Seat-based offers in the new commerce experience",
