@@ -97,6 +97,11 @@ class GeneticAlgorithm:
 
     def run(self):
         if self.current_generation >= self.generations:
+            with open(self.results_file, 'r') as f:
+                for line in f:
+                    result = json.loads(line)
+                    if result['generation'] == self.generations:
+                        return result['best_individual']
             return max(self.current_population, key=lambda ind: self.fitness(ind))
 
         self.save_state({'generation': self.current_generation, 'population': self.current_population, 'individual_score': self.individual_score})
