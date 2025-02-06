@@ -119,6 +119,8 @@ class GeneratorEmbd(FactorGenerator):
             os.makedirs(os.path.dirname(self.path_factors), exist_ok=True)
             with open(self.path_factors, 'w', encoding='utf-8') as f:
                 json.dump(json_data, f, ensure_ascii=False, indent=4)
+                
+        return json_data
             
             
     

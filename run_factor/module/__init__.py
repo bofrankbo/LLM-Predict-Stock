@@ -1,6 +1,7 @@
 from .embed import Embedding
 from .GA import GeneticAlgorithm
 from .GA_MOV import GeneticAlgorithmMOV
+from .GA_Volatility import GeneticAlgorithmVIX
 
 from .generator import FactorGenerator
 from .generator_usable import UsableGenerator
