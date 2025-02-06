@@ -1,4 +1,1282 @@
 {
+    "20211201": [
+        {
+            "headline": "CHAdeMO compatible with 2021 Model Y?",
+            "content": "The page does not explicitly say that it works with Model Y. I called Tesla sales and they said it does not work with 3 or Y. But folks here on this forum have..."
+        },
+        {
+            "headline": "Tesla officially moves headquarters from California to Texas",
+            "content": "Tesla says it has officially moved its corporate headquarters from Silicon Valley to a large factory under construction outside of Austin, Texas."
+        },
+        {
+            "headline": "Full Self-Driving Diary: A longtime Tesla driver’s perspective on FSD beta",
+            "content": "The experience with the FSD Beta over the last seven days has made a few things clear: it's very much a beta, but it's very, very impressive when it works."
+        },
+        {
+            "headline": "Tesla Makes It Official, Marking Headquarters Move to Texas",
+            "content": "Tesla Inc. has officially said goodbye to California and howdy to Texas, saying in a U.S. Securities and Exchange Commission filing Wednesday that the..."
+        },
+        {
+            "headline": "Tesla officially moves headquarters to site of new Austin factory",
+            "content": "The company has formally relocated its corporate headquarters to the same site as the $1.1 billion manufacturing facility it is currently building in..."
+        },
+        {
+            "headline": "It’s like driving the future: My brand spanking new red Tesla Model 3",
+            "content": "One drive and constant encouragement from her son, James, was all it took to get this fiercely brand loyal Subaru driver into a Tesla Model 3."
+        },
+        {
+            "headline": "Tesla officially moves corporate headquarters to new Austin Gigafactory",
+            "content": "Telsa has officially moved its headquarters to Austin. The electric vehicle company filed an 8-K form on Wednesday with the US Securities and Exchange..."
+        },
+        {
+            "headline": "Tesla’s $50 “Cyberwhistle” Sells Out as Elon Jokes About Whistleblowers",
+            "content": "Tesla Cyberwhistle toys sold out immediately after being promoted by CEO Elon Musk on Twitter. This, despite their inflated price and what they appear to..."
+        },
+        {
+            "headline": "Tesla's obsession with making everything in-house is inspiring copycats — and just drove a $170 million deal",
+            "content": "The Tesla-like tactic of vertical integration is driving a $170 million tie-up among three lesser known global companies rushing to join the EV race."
+        },
+        {
+            "headline": "Tesla's stock is still cheap, says manager of new ETF who made Musk's EV company its No. 1 holding",
+            "content": "Gary Black of the Future Fund Active ETF expects Tesla to maintain its market share, which could mean a surge in profits and share price."
+        }
+    ],
+    "20211202": [
+        {
+            "headline": "Model Y taking water into trunk on boat launch.",
+            "content": "After launching a jetski via my neighborhood boat ramp, I noticed that a ton of water had leaked into my back trunk."
+        },
+        {
+            "headline": "Tesla Officially Moves Headquarters From California to Texas",
+            "content": "Tesla says it has officially moved its corporate headquarters from Silicon Valley to a large factory under construction outside of Austin, Texas."
+        },
+        {
+            "headline": "Why Tesla (TSLA) Skyrocketed During the Pandemic",
+            "content": "Tesla's stock traversed the distance to a $1 trillion market cap in less than a year, reaching that milestone on Oct. 25, 2021."
+        },
+        {
+            "headline": "San Jose Teen Fails Driving Test Due To Tesla Regenerative Braking System",
+            "content": "The California Department of Motor Vehicles has instructed its staff to treat electric vehicles in the same manner as conventional gas-powered vehicles,..."
+        },
+        {
+            "headline": "Electrify America has now deployed Tesla Powerpacks at over 140 charging stations",
+            "content": "Electrify America has now deployed Tesla Powerpacks at over 140 charging stations ... Electrify America announced that it has now deployed over 30 MW of battery..."
+        },
+        {
+            "headline": "Tesla launches electric quad bike in U.S. for kids",
+            "content": "Tesla Inc has launched an electric quad bike for kids in the United States for $1900, two years after the electric-car maker introduced the all-terrain..."
+        },
+        {
+            "headline": "Tesla Introduces $1,900 Cyberquad For Kids With 15-Mile Range",
+            "content": "Priced at $1,900, the Cyberquad for Kids features a full steel frame, adjustable suspension, rear disk braking, LED light bars, and a cushioned seat. The ATV is..."
+        },
+        {
+            "headline": "Tesla officially moves its headquarters to Austin, Texas",
+            "content": "Tesla officially moves its headquarters to Austin, Texas ... Elon Musk's electric car company Tesla has officially moved its headquarters from Palo Alto,..."
+        },
+        {
+            "headline": "Radio Flyer Expands Partnership with Tesla to Launch Cyberquad for Kids",
+            "content": "The Cyberquad for Kids is a high-performance electric ATV that offers faster speed, better handling and a longer run time for kids eight years and older."
+        },
+        {
+            "headline": "Tesla launches \"Cyberquad for Kids\" with 36V battery, 15-mile range, and 10 mph max speed",
+            "content": "Fresh of the release of its Cybertruck-inspired Cyberwhistle, Tesla has launched the next product in its “Cyber” line of merchandise — the Cyberquad for..."
+        }
+    ],
+    "20211203": [
+        {
+            "headline": "Kwik Fit Mobile Fitting - Unable to Jack Car",
+            "content": "Trouble is, once the pucks were installed in the car neither of his jacks could get low enough to raise the car! How frustrating."
+        },
+        {
+            "headline": "Why Biden won’t talk about Tesla",
+            "content": "President Biden rarely mentions Tesla Inc. and Elon Musk — an omission that is revealing about the administration's plans for electric vehicles, analysts say."
+        },
+        {
+            "headline": "Tesla is integrating car sharing in its app, hinting at ‘Tesla Network’",
+            "content": "For years now, Tesla has been talking about launching the “Tesla Network,” an Uber-like ride-hailing app that also enables you to share your car with friends..."
+        },
+        {
+            "headline": "Surprise...The Top Electric Pickup Truck Isn’t A Tesla Or Rivian",
+            "content": "Chevy's promised Silverado Electric (set to debut on Jan. 5, 2022) came in second with 26 percent, then Tesla's Cybertruck with 20 percent, GMC's Hummer EV SUT..."
+        },
+        {
+            "headline": "Tesla Cybertruck Will Have Quad-Motor Option, Rear Steering",
+            "content": "The Tesla Cybertruck will now offer a previously undisclosed quad-motor variant, rear steering, and a crabwalk function, CEO Elon Musk revealed on Twitter today..."
+        },
+        {
+            "headline": "Musk says Tesla's Cybertruck will have four-motor variant",
+            "content": "Tesla Inc (TSLA.O) boss Elon Musk said on Friday the electric-car maker's much-anticipated Cybertruck would come with a high- end four-motor variant."
+        },
+        {
+            "headline": "Tesla’s four-wheeler for kids is already sold out",
+            "content": "On Thursday, Tesla and Radio Flyer announced a bite-sized version of the Cyberquad marketed as a ride-on toy for kids whose parents can't wait for their own."
+        },
+        {
+            "headline": "Tesla shows off its $1900 Cyberquad ATV for kids",
+            "content": "Tesla has offered a child-sized version, made by Radio Flyer, of the so-called \"Cyberquad for kids\" ages 8 and up."
+        },
+        {
+            "headline": "Tesla Unveils a Pint-Sized Cyberquad ATV Just for Kids",
+            "content": "Tesla is releasing a children's version of the Cyberquad, two years after. the ATV was first announced. It can be purchased now for $1900."
+        },
+        {
+            "headline": "Unplugged Performance Tesla Model S Plaid Is Outrageously Expensive",
+            "content": "For $123,740, you buy a car that can do the 0-60 mph (97 kph) in 1.99 seconds, easily the quickest accelerating car in production today. The three high-..."
+        }
+    ],
+    "20211204": [
+        {
+            "headline": "App not waking car",
+            "content": "If car is awake but still inaccessible, it may be that it is offline, has a fault, or not yet connected to Tesla servers for you. A car may be offline if it..."
+        },
+        {
+            "headline": "Tesla Model 3, Model Y Got New Battery Chemistry, and Here's What It Means",
+            "content": "The new pack not only uses a different chemistry known as lithium-iron-phosphate (or LiFP), but the cells themselves were prismatic—meaning the contents of the..."
+        },
+        {
+            "headline": "Elon Musk Needs China. China Needs Him. The Relationship Is Complicated.",
+            "content": "To attract Tesla, the government rewrote its rules for foreign auto businesses, but now, the company is entering bumpier terrain."
+        },
+        {
+            "headline": "Tesla officially brings closure to the Model Y’s forgotten variant",
+            "content": "Tesla officially brings closure to the Model Y's forgotten variant ... Tesla has officially eliminated the possibility of the Model Y Long Range Rear-Wheel Drive..."
+        },
+        {
+            "headline": "How Much Quicker Is A Tesla With Three Jet Engines Strapped To It?",
+            "content": "This is somewhat of an unofficial preview of the upcoming Tesla Roadster that is supposed to feature rockets for extra boost."
+        },
+        {
+            "headline": "Tesla Announces Major Changes To Cybertruck's Powertrain",
+            "content": "The Tesla CEO stated that initial production of the Cybertruck would be of the four-motor variant, at least in the beginning."
+        },
+        {
+            "headline": "Tesla Cybertruck will have four-motor version with ‘crab mode’, says Elon Musk",
+            "content": "Tesla's fully-electric pick-up truck Cybertruck, first announced in 2019, is made of stainless steel used in rockets. The production is expected to begin..."
+        }
+    ],
+    "20211205": [
+        {
+            "headline": "Wall connector won’t release charge handle",
+            "content": "Have you tried lifting the handle before pulling it out? There's nothing holding it in besides gravity. Otherwise you might have some sort of defect that caused..."
+        },
+        {
+            "headline": "Polestar 2 Vs Tesla Model 3: Devastating Efficiency Difference",
+            "content": "The Polestar 2 has a quarter lower range, at 249 miles (401 km). It's also a proof of a vast difference in efficiency of both cars that were supposed to be..."
+        },
+        {
+            "headline": "Chinese Auto Part Maker Says Products Involved in Tesla Recall",
+            "content": "Ningbo Tuopu Group Co. said it was the supplier of parts that prompted recent recalls of Tesla Inc. Model Y cars in China and the U.S.."
+        },
+        {
+            "headline": "How Elon Musk sold 10 million Tesla shares and increased his Tesla holdings",
+            "content": "Tesla CEO Elon Musk sold a massive stake in his company over the past several weeks. And yet he owns 564000 more shares than he did at the start of the..."
+        },
+        {
+            "headline": "Tesla Cybertruck Will Have This Crazy Hummer EV Feature",
+            "content": "Elon Musk has confirmed rumors that the Tesla Cybertruck will get the Hummer EV's 'CrabWalk' feature, which will enable it to move diagonally."
+        },
+        {
+            "headline": "Tesla Cyberquad, children's version of Cybertruck pick-up, sold out in one day",
+            "content": "Tesla has launched Cyberquad, a four-wheel electric car inspired by Cybertruck, for children at a price of $ 1,900."
+        },
+        {
+            "headline": "Tesla Plaid Vs Bugatti, McLaren, Porsche: Surprising Results",
+            "content": "The Tesla Model S Plaid is quicker to 60 mph than all rivals, but these gas cars have high speed and endurance. It's interesting to see how the races turn..."
+        },
+        {
+            "headline": "Epic Tesla Model 3 Two-Year Ownership Review",
+            "content": "SpawnPoiint has been happy with the Model 3 overall thanks to its unique and attractive design, excellent performance, impressive range, ease of charging."
+        },
+        {
+            "headline": "See Mercedes-Benz EQS Beat Tesla Model 3 In Turning Circle Test",
+            "content": "The recent Bjørn Nyland test reveals that the EQS wins - but this time, the secret weapon is the rear-wheel steering, which improves the turning circle to 10.9..."
+        }
+    ],
+    "20211206": [
+        {
+            "headline": "Driver Seat Options (Add-Ons) for Back Pain",
+            "content": "Member ... Falcon73 said: The lumbar support seems to have 4 positions but only the rear most reduces any settings. The manual was of no help. ... I've found..."
+        },
+        {
+            "headline": "Exclusive: SEC probes Tesla over whistleblower claims on solar panel defects",
+            "content": "The U.S. securities regulator has opened an investigation into Tesla Inc over a whistleblower complaint that the company failed to properly notify its..."
+        },
+        {
+            "headline": "Tesla Insurance directs certified repair shops to begin using Audatex for claims",
+            "content": "Tesla Insurance directs certified repair shops to begin using Audatex for claims ... Tesla Insurance has told members of its certified collision repair network..."
+        },
+        {
+            "headline": "How Do Tesla’s Deliveries Compare With Audi, BMW & Mercedes?",
+            "content": "Tesla stock's market cap recently crossed the $1.1 trillion mark, valuing the company at about four times German luxury car players BMW, Daimler,..."
+        },
+        {
+            "headline": "V8-Powered Tesla Model S Hits The Road And Confusion Ensues",
+            "content": "A Tesla Model S has been converted into a combustion-powered car thanks to an LS3 V8 from a Chevy Camaro SS."
+        },
+        {
+            "headline": "Tesla Cybertruck range-topper with 4 motors, crab mode promised",
+            "content": "Tesla plans to offer a new range-topping version of the Cybertruck sporting four individually controlled electric motors, and four-wheel steering."
+        },
+        {
+            "headline": "Feds investigating Tesla over claims related to solar panel fire risks",
+            "content": "Feds investigating Tesla over claims related to solar panel fire risks ... Federal regulators have opened an investigation into Tesla after a former employee..."
+        },
+        {
+            "headline": "Four suits now pending against Lipseys over Tesla crash into Maroon Creek",
+            "content": "Two more negligence lawsuits have been filed against members of a former Aspen family over a Tesla crash involving five high school students in November..."
+        },
+        {
+            "headline": "The First Tesla Cybertruck Will Have a Quad-Motor Powertrain, Elon Musk Says",
+            "content": "Elon Musk revealed that the top-of-the-line Tesla Cybertruck will now have a four-motor powertrain and be able to drive diagonally."
+        },
+        {
+            "headline": "Tesla is replacing faulty Autopilot cameras in some cars, internal documents say",
+            "content": "Internal communications said that the repeater cameras on some Model S, X and 3 vehicles made by Tesla in the U.S. have faulty PCBs, or printed circuit boards,..."
+        }
+    ],
+    "20211207": [
+        {
+            "headline": "Connecting to gen 3 chargers after set up",
+            "content": "To have the Wall Connector broadcast the SSID again, hold the button on the charging handle for 5 seconds or turn the circuit breaker off, then on again."
+        },
+        {
+            "headline": "Inside Tesla as Elon Musk Pushed an Unflinching Vision for Self-Driving Cars (Published 2021)",
+            "content": "The automaker may have undermined safety in designing its Autopilot driver-assistance system to fit its chief executive's vision, former employees say."
+        },
+        {
+            "headline": "What's Driving You Crazy?: Tesla drivers not having a front license plate",
+            "content": "No, Frank, drivers of Teslas and Audis and Cadillacs and Lamborghinis and every other car in Colorado — fancy or not — are not exempt from the state requirement..."
+        },
+        {
+            "headline": "SEC probe of Tesla over solar roof fires could have limited impact, analyst says",
+            "content": "Molchanov said in an email that Tesla's focus on its automotive business had come at the expense of the SolarCity arm. That, he said, could limit the impact of..."
+        },
+        {
+            "headline": "Man donates Tesla patrol car to Ohio police department",
+            "content": "The man said he wanted to donate a “gently used” 2019 Tesla Model S, according to WKYC. He also volunteered to pay for all the start-up equipment costs, like..."
+        },
+        {
+            "headline": "Tesla's Musk says Biden's electric vehicle bill should not pass Congress",
+            "content": "Tesla Inc Chief Executive Officer Elon Musk said on Monday that Congress should not approve the Biden administration's bill to boost subsidies for electric..."
+        },
+        {
+            "headline": "Tesla Is Racing Ahead, But Is It Worth 17x BMW?",
+            "content": "Since our last update comparing Tesla (NASDAQ: TSLA) and BMW in October 2020, Tesla stock has rallied by almost 2.5x, with its market cap crossing the $1..."
+        },
+        {
+            "headline": "Tesla Model 3 vs. Model S: Different in Size, But What Else?",
+            "content": "The Model 3 offers the lower range, providing a highly capable electric car in the price bracket most new car buyers shop in. The Model S is higher-end,..."
+        },
+        {
+            "headline": "Cybertruck to be Tesla’s best product to date; key updates to be revealed in January",
+            "content": "The Tesla Cybertruck may be coming later than initially intended, but the wait for the product would be well worth it. This was according to CEO Elon Musk..."
+        },
+        {
+            "headline": "Elon Musk: CEO is a 'made-up title,' so he's Tesla's 'Technoking' instead",
+            "content": "Tesla and SpaceX chief executive Elon Musk says \"CEO\" is just a made-up title — and that at Tesla, he prefers the title \"technoking.\" Here's why."
+        }
+    ],
+    "20211208": [
+        {
+            "headline": "2018 Model 3 Performance - No Autopilot?",
+            "content": "The answer is \"Everyone, who didnt buy Enhanced autopilot for 5k at that time\". You will not find very many 2018 teslas with \"Autopilot\"."
+        },
+        {
+            "headline": "A New Tesla Safety Concern: Drivers Can Play Video Games in Moving Cars (Published 2021)",
+            "content": "three video games that can be played on the large touch screen mounted in front of the dashboard — while driving down the road. “I thought surely..."
+        },
+        {
+            "headline": "Tesla Model S Plaid Can't Go 200 MPH. And, Trust Us, You Wouldn't Want to Even If It Could",
+            "content": "The real reason Tesla hasn't yet unleashed the Plaid's 200-mph capability is to avoid overtaxing the brakes."
+        },
+        {
+            "headline": "Tesla China wholesale sales in Nov were 52,859 units, up 145% year-on-year",
+            "content": "Tesla China exported 21127 units in November, meaning it sold 31732 units in China itself."
+        },
+        {
+            "headline": "Rich Rebuilds' Chevy-V-8–Powered Tesla Lives, Is Fully Functional",
+            "content": "The car has a full interior, working electronics, and a level of gas-engine integration that's nearly factory."
+        },
+        {
+            "headline": "Tesla Model 3 Is A Competent Police Car, UK Trial Reveals",
+            "content": "Tesla UK has shared interesting findings after several custom-built Model 3 patrol cars completed nine months of initial trials with the police."
+        },
+        {
+            "headline": "A Closer Look At Tesla’s Leasing Business",
+            "content": "Leases help to bring down the upfront cost of owning a vehicle and come with tax benefits. Monthly lease payments are also typically lower than loan payments."
+        },
+        {
+            "headline": "Tesla Model 3 and Model Y new features and changes leak through test program",
+            "content": "There's also something called “Superhorn” that combines the horn, alarm, and external speaker. Last year, Tesla let you play pre-recorded sounds..."
+        },
+        {
+            "headline": "2021 Model S Plaid Is Tesla Closest to Its EPA Range in Our Test",
+            "content": "The 1020-hp Plaid achieved 80 percent of its EPA-estimated range in our 75-mph highway test, traveling 280 miles on a single charge."
+        },
+        {
+            "headline": "Safety agency says it is looking into Tesla video games that can be played while moving. (Published 2021)",
+            "content": "It had begun looking into a new feature in Tesla cars allowing drivers to play video games on a large touch-screen while the vehicles are moving."
+        }
+    ],
+    "20211209": [
+        {
+            "headline": "Tesla Wall Charger Wait Time?",
+            "content": "Along the same lines as Stokes. Ordered last Saturday, experienced a shipping delay by FedEx, but should be receiving it on Monday. Price changed a week or 2..."
+        },
+        {
+            "headline": "2021 Tesla Model X Review, Pricing, and Specs",
+            "content": "The 2021 Tesla Model X SUV wows with its top-hinged rear doors and impresses with its long-range battery capacity."
+        },
+        {
+            "headline": "Mercedes Beats Tesla to Hands-Free Driving on the Autobahn",
+            "content": "Daimler AG's Mercedes-Benz won regulatory approval to deploy a hands-free driving system in Germany ahead of Tesla Inc., gaining an edge in the race to..."
+        },
+        {
+            "headline": "How Elon Musk saved big on taxes by giving away a ton of his Tesla stock",
+            "content": "Musk donated $5.7 billion in Tesla shares to one or more charities in late 2021, according to paperwork filed with the Securities and Exchange Commission."
+        },
+        {
+            "headline": "A Tesla Cofounder’s New Focus: Rock-Tunneling Robots To Protect The Grid",
+            "content": "A Tesla Cofounder's New Focus: Rock-Tunneling Robots To Protect The Grid · Petra's high-powered thermal drill Swifty prepares to bore a 20-foot tunnel into..."
+        },
+        {
+            "headline": "GM CEO Barra talks Tesla, more EVs and Michigan's shot at a new factory",
+            "content": "General Motors CEO Mary Barra on Thursday took on topics ranging from Tesla CEO Elon Musk to the possibility of a new factory in Michigan."
+        },
+        {
+            "headline": "The US government is asking Tesla why it lets people play video games while driving",
+            "content": "The National Highway Traffic Safety Administration wants to know why Tesla lets owners of its cars play solitaire while driving."
+        },
+        {
+            "headline": "Drivers playing video games? U.S. is looking into Tesla case",
+            "content": "Safety agency NHTSA is investigating a complaint that Tesla drivers can play video games on their touch-screen dashboard while the vehicle is moving."
+        },
+        {
+            "headline": "Contractor Lien on Tesla’s ‘Gigafactory Texas’ Is Just the Latest Manufacturing Hiccup",
+            "content": "The $239,740 claim is for industrial construction labor and materials furnished from April 16, 2021, to August 22, 2021. Polk Mechanical's lien lists Dürr..."
+        },
+        {
+            "headline": "Tesla rolls out a Cybertruck-inspired ATV for kids",
+            "content": "Its styling is inspired by the Cybertruck, but unlike the pickup — which isn't expected to enter volume production until 2023 — the Cyberquad for Kids will ship..."
+        }
+    ],
+    "20211210": [
+        {
+            "headline": "Tpms sensor problem",
+            "content": "Active Member ... @Gmoneyy , TSC should have sold you the bluetooth TPMS sensors that are required on 2021+ Model 3s. Sometimes it does take a bit of driving..."
+        },
+        {
+            "headline": "Why You Should Never Buy a Tesla If You Live In Idaho",
+            "content": "With more snow and dropping temperatures, that means slippery road conditions and more accidents. That's why it's important when you live in Idaho to only..."
+        },
+        {
+            "headline": "Daily driving comparison: Kia Sorento PHEV vs Tesla Model 3",
+            "content": "The Kia is more comfortable and convenient for the whole family on longer trips with a load of stuff, the Tesla more fun and engaging, no matter how long the..."
+        },
+        {
+            "headline": "Tesla's Elon Musk says he is 'thinking of quitting' his jobs",
+            "content": "Tesla Inc Chief Executive Officer Elon Musk is \"thinking of\" leaving his jobs and becoming an influencer, the world's richest man tweeted on Thursday."
+        },
+        {
+            "headline": "Tesla leak reveals all-in-one “Superhorn” for Model 3 and Y",
+            "content": "Tesla is coming out with a new all-in-one loudspeaker, horn, and alarm combo called “Superhorn” for the 2022 Model 3 and Model Y. The information comes from..."
+        },
+        {
+            "headline": "Tesla Model 3 police vehicle is blowing minds nine months into its initial trials",
+            "content": "The Tesla Model 3 is a very capable police car. Toozs-Hobson noted that it is possible to perform over 200 miles of Blue Light advance driving with the all-..."
+        },
+        {
+            "headline": "Tesla Model 3 and Model Y Upgrades Leak From Test Program in Europe, Will Come to U.S. Too",
+            "content": "Tesla Model 3 and Model Y upgrades have leaked from a test program in Europe, but the new features will eventually get to the U.S. rather soon."
+        },
+        {
+            "headline": "Tesla Cybertruck Spied On Test Track Looking Closer To Production",
+            "content": "A video showing a flyover of the Tesla's facility in Fremont, California, offers the best glimpse yet at the nearly production-spec Tesla Cybertruck."
+        },
+        {
+            "headline": "Will Tesla CEO Elon Musk join the Great Resignation?",
+            "content": "Elon Musk paired another disclosure that he's disposed more Tesla Inc. stock with a joke tweet about quitting his jobs."
+        },
+        {
+            "headline": "Gaming while driving: Tesla allows it, Mercedes does recall",
+            "content": "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+        }
+    ],
+    "20211211": [
+        {
+            "headline": "Connection Failed, an unknown error occurred",
+            "content": "When I try to enter \"Service\" in the App, I get the failure \"Connection failed, ...\". The guy from the Service Center yesterday didn't have an idea to solve it."
+        },
+        {
+            "headline": "Driving A Model Y Makes My Life So Much Easier",
+            "content": "I'm a new Tesla (co)owner. I've been driving the shiny new white Model Y for two weeks, and, while I do have much to learn about the multitude of settings..."
+        },
+        {
+            "headline": "Elon Musk: ‘Tesla Cybertruck can come in any color as long as it’s nothing’",
+            "content": "Elon Musk: 'Tesla Cybertruck can come in any color as long as it's nothing' ... Elon Musk has confirmed that Tesla doesn't plan to offer any color or wrap for the..."
+        },
+        {
+            "headline": "Do Jet Engines Make The Tesla Model S Even Quicker?",
+            "content": "This Tesla Model S Model S P85D is pretty fast in stock form, so how does this improve acceleration?"
+        },
+        {
+            "headline": "Tesla Owner Puts Jet Engines on the Back and Times It",
+            "content": "We've found an owner of a Tesla Model S who recently put 3 jet engines on the back of it and tested it using the jet engines and not using the jet engines."
+        },
+        {
+            "headline": "Tesla Cybertruck nears production, caught testing with a giant wiper",
+            "content": "Tesla Cybertruck nears production, caught testing with a giant wiper ... Tesla has been forced to push the back the production of its fully-electric pickup..."
+        },
+        {
+            "headline": "Elon Musk Hints At Laser Windshield Wiper For The Tesla Cybertruck, Confirms Giant Wiper Is A Placeholder",
+            "content": "Tesla CEO Elon Musk has confirmed the giant windshield wiper recently spotted on the new Cybertruck will not make it to production."
+        },
+        {
+            "headline": "Tesla Model Y review: New £55,000 electric SUV delivers more room and 315miles on a full charge...",
+            "content": "A highly capable, cheap-to-run family SUV. The 854-litre boot, plus 114-litre “frunk”, means it beats all its rivals in terms of space."
+        },
+        {
+            "headline": "Elon Musk To Announce A Quad-Motor Tesla Cybertruck That Can Do 0-60mph In 1.99 sec Next Month",
+            "content": "According to rumors circulating around Tesla Twitter, the EV maker's new quad-motor Cybertruck will have 0 to 60 time less than 1.99 seconds."
+        }
+    ],
+    "20211212": [
+        {
+            "headline": "Tire chain alternatives to tesla",
+            "content": "Model Y Snow Chains. I tried on chains to confirm fit. These are aftermarket Martian 20x8.5 wheels with 245-45-20 Michelin CrossClimate SUV tires so I went with..."
+        },
+        {
+            "headline": "Tesla stops taking Model S/X orders outside North America",
+            "content": "Tesla stops taking Model S/X orders outside North America ... Tesla, in an email to customers, announced it was not taking Model S and Model X orders outside..."
+        },
+        {
+            "headline": "Your Tesla can now detect your tire wear and tread depth – here’s how",
+            "content": "Your Tesla can now tell you if your tires are wearing unevenly and if your tread depth is too low."
+        },
+        {
+            "headline": "Tesla Semi burns rubber and shows off turning circle in new Giga Nevada sighting",
+            "content": "The Semi's new video, which was shared on YouTube by Tesla advocate Sawyer Merritt, was shot last Friday near Gigafactory Nevada."
+        },
+        {
+            "headline": "Can’t wait for the Tesla Cybertruck to arrive? Make your own…",
+            "content": "Can't wait for the Tesla Cybertruck to arrive? Make your own… ... “Expected to go on sale late in 2021”, we said when the Tesla Cybertruck first graced this funny..."
+        },
+        {
+            "headline": "Used-car prices have been climbing for months. These 15 models are now worth more used than new.",
+            "content": "More than a dozen models now cost more to buy lightly used than new, according to a November study from automotive research site iSeeCars."
+        },
+        {
+            "headline": "World's First V8 Tesla Is On The Road",
+            "content": "The automotive world is going electric whether you like it or not, but thanks to manufacturers like Tesla, with its incredibly rapid Model S, and Rimac with..."
+        },
+        {
+            "headline": "Elon Musk: That Is Not The Tesla Cybertruck's Production Wiper Blade",
+            "content": "According to Elon Musk, the windshield wiper is not a production solution. He would like something different - \"Deployable wiper that stows in the front trunk,\"..."
+        },
+        {
+            "headline": "The Tesla Cybertruck Is Getting Uglier",
+            "content": "New drone footage shows the latest revision of Tesla's Cybertruck on a test track in California, equipped with a cartoonishly large wiper blade and two mousey..."
+        },
+        {
+            "headline": "The Truth About the Mysterious Tesla Tower in Texas",
+            "content": "The mysterious \"tesla tower\" in Milford, Texas is bringing the technology of the future to Texas with its electromagnetic wave technology,..."
+        }
+    ],
+    "20211213": [
+        {
+            "headline": "Does Tesla Shop Customer Support Even Exist?",
+            "content": "I've followed all the Tesla instructions--I've written to Tesla at their email (onlineorders@tesla.com), I've started a \"return item\" process on the shop page.."
+        },
+        {
+            "headline": "Tesla’s great year came without paid advertising, but plenty of buzz",
+            "content": "Tesla's great year came without paid advertising, but plenty of buzz. Tesla ranks No. 3 on Ad Age's 2021 Marketers of the Year list."
+        },
+        {
+            "headline": "Elon Musk, CEO of Tesla and SpaceX, is Time's Person of the Year",
+            "content": "Elon Musk, the CEO of Tesla and SpaceX, has been named Time magazine's Person of the Year."
+        },
+        {
+            "headline": "Is Tesla charging up for an Africa push?",
+            "content": "Most Tesla Superchargers can now recharge up to 200 miles of range in just 15 mins, and by establishing networks in the economic centres of Casablanca and..."
+        },
+        {
+            "headline": "Elon Musk Named Person of the Year. Tesla Stock Is Dropping.",
+            "content": "Elon Musk, CEO of Tesla and SpaceX, is Time 's 2021 “Person of the Year.” That hasn't helped Tesla stock, which has dropped more than 5% on Monday."
+        },
+        {
+            "headline": "See How A 2015 Tesla Model S 70D Holds Up After 424,000 Miles",
+            "content": "This 2015 Tesla Model S 70D has 424000 miles under its belt mostly from Uber duty, but you wouldn't realize that if you looked at it and took it for a..."
+        },
+        {
+            "headline": "Mercedes Gets Approval For Traffic Jam Pilot, Where Is Tesla?",
+            "content": "Daimler Mercedez-Benz has announced approval of their “Drive Pilot” system, in Germany, which does fully autonomous operation in highway traffic jam situations."
+        },
+        {
+            "headline": "Teslas can now detect uneven tire wear",
+            "content": "The message on the screen will read “Uneven tire wear - Rear tire tread depth too low. Schedule service for tire inspection and rotation.” It's..."
+        },
+        {
+            "headline": "Time Person of the Year: Elon Musk, CEO of Tesla and SpaceX, named most influential of 2021",
+            "content": "Time magazine has named CEO of Tesla and SpaceX Elon Musk as Person of the Year."
+        },
+        {
+            "headline": "Tesla Owners Can Now Play Games While Driving, NHTSA Is Looking Into It",
+            "content": "Tesla's Arcade Mode is available to passengers but can be easily used by drivers."
+        }
+    ],
+    "20211214": [
+        {
+            "headline": "Hole Under Car from Object in Road",
+            "content": "The good news is that it's just a plastic cover. It can be easily, quickly, and fairly cheaply replaced. Not a major repair by any means; just a question of..."
+        },
+        {
+            "headline": "Six Tesla workers file additional lawsuits alleging sexual harassment",
+            "content": "The women brought their suits after Jessica Barraza sued Tesla in November alleging \"nightmarish conditions\" and \"rampant sexual harassment\" at its factory."
+        },
+        {
+            "headline": "Don't Do This With Your Dog",
+            "content": "A dog appears to be 'driving a Tesla down a public road. And now, I'm left with a lot of questions and some theories as to what's actually happening."
+        },
+        {
+            "headline": "Tesla to accept dogecoin as payment for merchandise, says Musk",
+            "content": "Tesla Inc chief Elon Musk said on Tuesday the electric carmaker will accept dogecoin as payment for merchandise on a test basis, sending the meme-based..."
+        },
+        {
+            "headline": "Guess What Happened When I Played Tesla’s Video Games While Driving",
+            "content": "I spent the 20-minute test session trying to drive while playing three games that come with the car: Solitaire, Sky Force Reloaded, and the Battle of Polytopia."
+        },
+        {
+            "headline": "Lucid Motors CEO blasts Elon Musk for Tesla \"revisionism\"",
+            "content": "Lucid Motors CEO blasts Elon Musk for Tesla \"revisionism\" ... Former top Tesla engineer Peter Rawlinson — now CEO of rival Lucid Motors — tells \"Axios on HBO\"..."
+        },
+        {
+            "headline": "Your Tesla Will Now Tell You If Your Tires Are Worn",
+            "content": "The new feature shows if your tires are worn and the tread depth is too low. More interestingly, however, the system also detects if the tires are wearing..."
+        },
+        {
+            "headline": "Paris taxi firm suspends use of Tesla Model 3 cars after fatal crash",
+            "content": "A driver lost control of his Tesla on Saturday night in the south-eastern 13th district of Paris, killing one person and injuring 20, leaving three people in..."
+        },
+        {
+            "headline": "Tesla Crashes into Back of Bus in California",
+            "content": "A Tesla has crashed into the back of a bus in Newport Beach over the weekend, in the latest in a curious series of crashes into slow or stationary vehicles."
+        },
+        {
+            "headline": "Tesla Stock Is Meaningfully Overvalued. Here’s Why",
+            "content": "We remain negative on Tesla stock at its current valuation. With a market cap of about $1 trillion, Tesla trades at a relatively lofty 120x projected 2022..."
+        }
+    ],
+    "20211215": [
+        {
+            "headline": "Can you relocate the vent button on the app?",
+            "content": "No, just the shortcuts on the front screen. But, if it helps, you can put the defrost button in the front shortcuts so less need to go near the vent button."
+        },
+        {
+            "headline": "Completing a co-op at Tesla | Paul M. Rady Mechanical Engineering",
+            "content": "Completing a co-op at Tesla ... Ahmed Ashmaig is an undergraduate student in mechanical engineering co-president of the National Society of Black Engineers..."
+        },
+        {
+            "headline": "Texas 130 sign directs Austin drivers to Tesla Road — but there is no Tesla Road yet",
+            "content": "A highway sign on Texas 130 in southwestern Travis County directs drivers to exit onto Tesla. The Commissioners Court voted this week to hold a Dec..."
+        },
+        {
+            "headline": "EV Maker Polestar Boasts Tesla Beating Range.",
+            "content": "Electric vehicle startup Polestar released some range data for its new Polestar 2 crossover vehicle. The 2 beats a Tesla Model Y. That's impressive,..."
+        },
+        {
+            "headline": "Tesla Model 3 Is the Edmunds Top Rated EV for 2022",
+            "content": "Edmunds says. Look, we get a kick out of the Model 3's flashy tricks and features as much as anyone. But Tesla got the basics right, too, and as a result, the..."
+        },
+        {
+            "headline": "Tesla employee accused of fatally shooting a co-worker outside Fremont, California factory",
+            "content": "A Tesla employee is accused of fatally shooting one of his coworkers outside of the company's manufacturing plant in Fremont, California, authorities said..."
+        },
+        {
+            "headline": "Paris taxi firm suspends use of Tesla cars after fatal accident",
+            "content": "Leading Paris taxi company G7 has suspended the use of Tesla Model 3 cars in its fleet after a fatal accident involving one of the vehicles over the..."
+        },
+        {
+            "headline": "Tesla Model 3: Paris' largest taxi firm suspends cars after fatal crash",
+            "content": "One person died and 20 were hurt after a cabbie lost control of their Tesla Model 3 last weekend."
+        },
+        {
+            "headline": "Speeding Tesla caught on camera before deadly Paris crash",
+            "content": "Video from inside a Paris restaurant shows the out-of-control Tesla taxi passing at very high speed, and the shocked reaction of diners as it crashes..."
+        },
+        {
+            "headline": "Tesla's Latest Electric Vehicle Is Just For Kids!",
+            "content": "The sleek vehicle — a collaboration between the Tesla Design Studio and Radio Flyer — is identical to the concept Cyberquad ATV Musk showcased in 2019. It..."
+        }
+    ],
+    "20211216": [
+        {
+            "headline": "Active Road Noise Cancellation",
+            "content": "Your vehicle now has the ability to actively reduce low-frequency road noise while driving on rough surfaces. To accomplish this, the system uses the seat..."
+        },
+        {
+            "headline": "Tesla told France there was no sign of technical fault in Paris crash",
+            "content": "Tesla Inc has told the French government there is no indication that a fatal accident in Paris involving a Tesla Model 3 taxi was caused by a technical..."
+        },
+        {
+            "headline": "Cary Police add 2 Teslas to traffic unit",
+            "content": "The Cary Police Department's two newest cars are Teslas. They're being used in the traffic unit."
+        },
+        {
+            "headline": "Man Accused of Killing Co-Worker at Fremont Tesla Factory Charged With Murder",
+            "content": "The man accused of killing a Tesla co-worker in the parking lot of the company's Fremont factory faced a judge Thursday and was charged with murder."
+        },
+        {
+            "headline": "2021 Tesla Model Y Review, Pricing, and Specs",
+            "content": "The 2021 Tesla Model Y adds additional cargo space, an optional third row of seats, and SUV styling to the more affordable end of the brand's offerings."
+        },
+        {
+            "headline": "Yes, that’s a Tesla. Cary’s first electric police patrol cars make their debut",
+            "content": "The Cary Police Department has two Tesla Model Y patrol cars in its traffic unit, as the town gradually converts its fleet for cost and environmental..."
+        },
+        {
+            "headline": "Tesla factory shooting: Suspect accused of killing co-worker in Fremont plant's parking lot charged with murder",
+            "content": "New details have emerged about a deadly shooting involving two Tesla workers in the parking lot of the plant in Fremont."
+        },
+        {
+            "headline": "Nurses Call This Newborn the 'Tesla Baby' After Mom Gave Birth While the Car Was in Autopilot",
+            "content": "Yiran Sherry gave birth in the Tesla while Keating Sherry put the vehicle in auto-drive to help his wife."
+        },
+        {
+            "headline": "Tesla Model 3 being considered for NYPD fleet",
+            "content": "Tesla Model 3 being considered for NYPD fleet ... The New York Police Department (NYPD) is currently looking to acquire as many as 250 Model 3 sedans from Tesla."
+        },
+        {
+            "headline": "California Tesla plant: Police investigate suspicious death",
+            "content": "A co-worker shot and killed an employee at a California Tesla plant Monday after an argument earlier in the day, police said."
+        }
+    ],
+    "20211217": [
+        {
+            "headline": "Can I share my app/account with my wife please?",
+            "content": "If you share your account with your wife, she'll have access to both cars via the app. If she has her own account and you add her as a driver to her car, that's..."
+        },
+        {
+            "headline": "Prosecutors say Tesla employee waited for coworker to get off before shooting him in head",
+            "content": "A Tesla employee allegedly waited for his coworker to get off work, before fatally shooting him in the head in the factory's parking lot, prosecutors said."
+        },
+        {
+            "headline": "Grid locked: Many Tesla owners ‘home charge’ via living room windows",
+            "content": "As battery-powered vehicle adoption rapidly accelerates, Israel's new car owners embrace creative solutions to power up while waiting for the infrastructure to..."
+        },
+        {
+            "headline": "Tesla Model S Plaid Kicked Off Track For Going Too Fast",
+            "content": "His Tesla Model S Plaid was kicked out of a drag racing competition for being “too fast”. With a 0-60 mph time of around 2 seconds, the range-topping high-..."
+        },
+        {
+            "headline": "What we know so far about the fatal Tesla crash in Paris",
+            "content": "What we know so far about the fatal Tesla crash in Paris. French authorities are currently investigating the accident in which a Tesla vehicle hit a cyclist and..."
+        },
+        {
+            "headline": "New Audi RS3 Takes On Tesla Model 3 In Gas Vs Electric Drag Race",
+            "content": "A new video by Carwow puts against each other the newest RS3 and the Tesla Model 3. It's a classic gasoline-versus-electric drag race, and these are probably..."
+        },
+        {
+            "headline": "Don’t mess with Tesla? New Texas belt buckle hits shelves, sells out",
+            "content": "The new Tesla belt buckle is inscribed with the words \"Don't Mess With\" below a prominent, center-aligned Texas Lone Star emblazoned with the Tesla logo."
+        },
+        {
+            "headline": "New Lexus EV Supercar Will Be Faster Than Tesla Model S Plaid",
+            "content": "The Lexus Electrified Sport Concept is reported to sprint from zero to 60 mph in 2.0 seconds making it quicker than the Tesla Model S Plaid."
+        },
+        {
+            "headline": "Family mourns the loss of Tesla homicide victim",
+            "content": "A family is mourning the loss of the Tesla employee who was shot and killed at work on Monday."
+        },
+        {
+            "headline": "'Tesla Road' signs go up ahead of hearings to discuss name change",
+            "content": "Technically, Tesla Road doesn't exist just yet. The road is still named Harold Green Road and has been for years."
+        }
+    ],
+    "20211218": [
+        {
+            "headline": "Made in New Zealand - Model Y",
+            "content": "All vehicles with the VIN country of origin were manufactured in Australia or New Zealand, respectively."
+        },
+        {
+            "headline": "Tesla Owner Saved By Glass Roof When Car Crushed With 2000 Pound Tree",
+            "content": "Tesla Owner Saved By Glass Roof When Car Crushed With 2000 Pound Tree ... Sam Fursey shared his story on YouTube this week about how the glass roof of his Tesla..."
+        },
+        {
+            "headline": "Elon Musk’s Fortune Tumbles $20 Billion In A Week As Tesla Stock Falls",
+            "content": "The Tesla CEO's net worth has sunk since its November peak of $318 billion, but Musk remains the world's richest person."
+        },
+        {
+            "headline": "Family mourns the loss of Tesla worker who was killed in factory’s parking lot",
+            "content": "A family is mourning the loss of 42-year-old Lee Brasier, a Tesla employee who was shot and killed at work on Monday. His co-worker was charged with murder."
+        },
+        {
+            "headline": "NIO Debuts New ET5 Electric Sedan Rival To Tesla Model 3 With Up To 1,000 km Range",
+            "content": "The new ET5 joins the ET7 as Nio's more compact and affordable electric sedan that starts from $51500 in China."
+        },
+        {
+            "headline": "Tesla Introduces Active Road Noise Reduction For New Model S, X",
+            "content": "The new microphones can pick up all the road noise that makes its way into the cabin and then anti-noise, as Tesla calls it in the release notes for the latest..."
+        },
+        {
+            "headline": "Nio ET5 EV Debuts, Goes Head-To-Head With Tesla Model 3",
+            "content": "Nio has just premiered their sixth production model. Dubbed the ET5, it aims for mass-market appeal and Tesla Model 3 sales."
+        },
+        {
+            "headline": "A Brief History of Electric Trucks in America",
+            "content": "The idea of electric trucks is not new. About a century ago, when passenger cars were gaining prominence, electric vehicles were a common sight in major cities."
+        },
+        {
+            "headline": "GM pokes fun at Tesla Cybertruck in strange Hummer EV Easter egg",
+            "content": "GM pokes fun at Tesla Cybertruck in strange Hummer EV Easter egg ... GM has decided to poke fun at the Tesla Cybertruck with a strange Easter egg in the newly..."
+        },
+        {
+            "headline": "GMC Hummer EV custom icons include cheeky Tesla Cybertruck easter egg",
+            "content": "An illustration of the Hummer EV seemingly running over and crushing what appears to be the Tesla Cybertruck."
+        }
+    ],
+    "20211219": [
+        {
+            "headline": "Model S 75 Phone as a key",
+            "content": "The phone key feature is available on all Model 3 and Y cars and on refreshed 2021+ Model S and X cars. Older S/X cars only get the key fob."
+        },
+        {
+            "headline": "Baby driver: Philadelphia woman gives birth in front seat of Tesla on autopilot",
+            "content": "Yiran Sherry's waters broke while the family was stuck in traffic, leading to what is believed to be the world's first 'Tesla baby'"
+        },
+        {
+            "headline": "Which Tesla Should You Buy In 2022? Is There A Wrong Answer?",
+            "content": "Our friend Andy Slye provides plenty of advice and insight on his YouTube channel. He's clearly a Tesla fan, but rather than spending his time touting Tesla..."
+        },
+        {
+            "headline": "A woman gave birth in her Tesla. It handled most of the driving.",
+            "content": "Yiran Sherry was in labor in the passenger seat, and her husband, Keating, was helping from behind the wheel of their Tesla. The car did the rest."
+        },
+        {
+            "headline": "NIO launches mid-size car in China with eye on Tesla’s Model 3",
+            "content": "Chinese smart electric vehicle maker NIO has launched a new mid-size car featuring a “digital cockpit” that is squarely aimed at Tesla's popular Model 3."
+        },
+        {
+            "headline": "Tesla Model Y Costs You 50% More Than Hyundai IONIQ 5",
+            "content": "The Model Y costs 50% more than the IONIQ 5 ($20K is 50% of $40K). Or, you can say that the IONIQ 5 is 33% less expensive than the Model Y. ($20K is a third of..."
+        },
+        {
+            "headline": "Blowing Up Your Tesla Model S With 66 Lbs of Dynamite Is a Strange Form of Protest",
+            "content": "A Finnish owner was quoted €20000 for a battery pack replacement, so he decided to take his 2013 Tesla and blow it up instead."
+        },
+        {
+            "headline": "Elon Musk: Tesla Doesn't Get 'Rewarded' for Lives Saved by Autopilot",
+            "content": "Elon Musk says Tesla doesn't get 'rewarded' for the people its Autopilot technology saves, but instead gets 'blamed' for the people it doesn't."
+        },
+        {
+            "headline": "Family mourns the loss of Tesla worker who was killed in factory’s parking lot",
+            "content": "A family is mourning the loss of 42-year-old Lee Brasier, a Tesla employee who was shot and killed at work on Monday. His co-worker was charged with murder."
+        },
+        {
+            "headline": "Tesla Announces Free Supercharging for the Holidays",
+            "content": "The free charging will be available before 10 am and after 7 pm local time from Dec. 23 to Dec. 26. The relevant Superchargers are sprinkled throughout 11..."
+        }
+    ],
+    "20211220": [
+        {
+            "headline": "Distance shown in miles in the App",
+            "content": "The distance in the app is shown in miles - odometer and charging limit. The car is running currently on 2021.40.6 and it is set in metrics in the infotainment."
+        },
+        {
+            "headline": "Editorial: Slam the brakes on Tesla’s self-driving madness",
+            "content": "While the fine print on Tesla's website says “Full Self-Driving” is “intended for use with a fully attentive driver who has their hands on the wheel,” the..."
+        },
+        {
+            "headline": "2021 Tesla Model 3 Review, Pricing, and Specs",
+            "content": "The base model offers up to 263 miles of driving range according to the EPA, and the more expensive Long Range model can go up to 353 per charge."
+        },
+        {
+            "headline": "Tree falls on a Tesla Model 3 glass roof, occupants walk away without injury (video)",
+            "content": "Tree falls on a Tesla Model 3 glass roof, occupants walk away without injury (video)."
+        },
+        {
+            "headline": "New York City orders hundreds of Tesla Model 3s for municipal fleet",
+            "content": "New York City orders hundreds of Tesla Model 3s for municipal fleet. Posted December 20, 2021 by Charles Morris & filed under Fleets and Infrastructure,..."
+        },
+        {
+            "headline": "Tesla removes new Roadster pricing, appears to have sold out $250,000 Founders series",
+            "content": "Tesla removes new Roadster pricing, appears to have sold out $250,000 Founders series ... Tesla has removed pricing information for the new Roadster and stopped..."
+        },
+        {
+            "headline": "Tesla announces free holiday Supercharging",
+            "content": "Between Thursday, Dec. 23 and Sunday, Dec. 26, owners motoring along select travel routes in the US can receive free charging at specific stations between the..."
+        },
+        {
+            "headline": "Lucid Air Vs Tesla Model S Plaid: Musk-See Fast Charging Analysis",
+            "content": "Lucid Air delivers a significant range replenishing advantage over Tesla Model S Plaid, which wins in a few metrics too."
+        },
+        {
+            "headline": "2022 Nio ET5: Chinese Tesla Model 3 rival makes debut",
+            "content": "Meet the new ET5 from Nio, the Chinese electric vehicle brand's smallest model to date. It's a small hatchback measuring 185 inches in length."
+        },
+        {
+            "headline": "Tesla loses all the gains from 35% rally stoked by Hertz EV deal",
+            "content": "Tesla Inc.'s stock went on a tear after an October deal with Hertz Global Holdings Inc. signaled broader mainstream adoption of its electric cars."
+        }
+    ],
+    "20211221": [
+        {
+            "headline": "Best Online Aftermarket Tesla Store?",
+            "content": "Nearly every aftermarket site like abstract ocean, rpmtesla, etc, is really just getting all of their products straight from china as well."
+        },
+        {
+            "headline": "Elon Musk says Tesla’s new Austin factory will drive $10 billion in total investment",
+            "content": "Until that tweet appeared, Tesla — the Austin-based electric vehicle maker headed by Musk — had indicated it would invest $1.1 billion in the plant and would..."
+        },
+        {
+            "headline": "Tesla Model 3 Most Expensive Vehicle in U.S. to Insure",
+            "content": "The Model Y isn't far behind at $2,658. “Insurance for the Model 3 and other Tesla vehicles is so expensive because as a luxury car, Teslas are more expensive..."
+        },
+        {
+            "headline": "Group says Tesla Model Y 'Top Safety Pick'",
+            "content": "The Insurance Institute for Highway Safety (IIHS) said on Tuesday the 2021-22 Tesla Model Y received its Top Safety Pick+ designation."
+        },
+        {
+            "headline": "Take a tip from Tesla and drive fast into the future - I by IMD",
+            "content": "“We were able to substitute alternative chips, and then write the firmware in a matter of weeks,” said Tesla founder and CEO Elon Musk said. “It's not just a..."
+        },
+        {
+            "headline": "Tesla test drivers believe they’re on a mission to make driving safer for everyone. Skeptics say they’re a safety hazard.",
+            "content": "Tesla beta testers say they're quickly identifying flaws with its \"Full Self-Driving\" software. They choose to drive anyway — believing they are on a mission to..."
+        },
+        {
+            "headline": "Tesla Model Y achieves highest possible IIHS safety rating",
+            "content": "Tesla Model Y achieves highest possible IIHS safety rating ... The Insurance Institute for Highway Safety (IIHS), the main independent organization that conducts..."
+        },
+        {
+            "headline": "Tesla Semi order announced by sustainable foodservice product company",
+            "content": "Karat Packaging Inc., a manufacturer of environmentally friendly, disposable foodservice products, which recently announced that it had ordered 10 Tesla Semis..."
+        },
+        {
+            "headline": "Tesla Model Y earns top-tier IIHS safety rating",
+            "content": "Tesla Model Y earns top-tier IIHS safety rating ... The Insurance Institute for Highway Safety on Tuesday gave the Tesla Model Y its best safety distinction,..."
+        },
+        {
+            "headline": "Tesla Releases the 2021 Holiday Update with update 2021.44.25",
+            "content": "The Holiday Update was expected to be released to the first individuals on Tuesday, and just a few hours before, we're now seeing many of the new features."
+        }
+    ],
+    "20211222": [
+        {
+            "headline": "Windows freezing and not being able to get in and out of our Model Y",
+            "content": "We had one day or so where weather lead to windows freezing to the seal so they were unable to open (which means we could not get in or out of the car)."
+        },
+        {
+            "headline": "Tesla is under investigation over the potential for drivers to play video games",
+            "content": "The U.S. is looking into whether Tesla drivers can play video games on a center touch screen. According to the NHTSA, drivers have been able to play while..."
+        },
+        {
+            "headline": "U.S. Is Investigating Tesla Feature That Lets Drivers Play Video Games (Published 2021)",
+            "content": "The federal government's main auto safety regulator said on Wednesday that it had opened an investigation into a feature in Teslas that allows drivers to play..."
+        },
+        {
+            "headline": "Australia's Syrah Resources soars on graphite supply deal with Tesla",
+            "content": "Syrah Resources Ltd said on Thursday it had signed a four-year deal to supply graphite anode materials to electric carmaker Tesla from its plant in the U.S...."
+        },
+        {
+            "headline": "Model Y Is the Second Tesla to Score IIHS Top Safety Pick+ Award",
+            "content": "The crossover got top marks in Insurance Institute for Highway Safety crash tests and high ratings for its headlights and crash prevention, too."
+        },
+        {
+            "headline": "CWU Police adds Tesla to lineup of patrol cars",
+            "content": "ELLENSBURG, WA. — In order to improve sustainability at the institution, the police department at Central Washington University will be adding a Tesla to..."
+        },
+        {
+            "headline": "NHTSA investigating Tesla's front-seat video game feature in 580,000 vehicles",
+            "content": "The NHTSA has opened a formal investigation into a new Tesla feature that allows video games to be played in view of the driver while a vehicle is in..."
+        },
+        {
+            "headline": "2022 Tesla Model S Gets Official EPA Range/Efficiency Numbers",
+            "content": "2022 Tesla Model S Long Range AWD 19\". The 2022 Tesla Model S with 19\" wheels has an EPA Combined range of 405 miles (652 km). The EPA Highway range is 387.7..."
+        },
+        {
+            "headline": "Do Tesla’s Direct Marketing Advertisements Feel Odd To You?",
+            "content": "Yet, Tesla does still market its products. It simply does so more wisely than most companies. One way Tesla advertises is through direct-outreach email. At the..."
+        },
+        {
+            "headline": "The government is investigating why Tesla drivers can play solitaire at the wheel",
+            "content": "The government is investigating why Tesla drivers can play solitaire at the wheel. Here's why the National Highway Traffic Safety Administration is looking..."
+        }
+    ],
+    "20211223": [
+        {
+            "headline": "Discussing Nikola Tesla And Bitcoin",
+            "content": "It was Tesla's essay on the problem of increasing human energy. He's saying the same stuff as Tesla. And so I looked it up, reread the essay, and I was..."
+        },
+        {
+            "headline": "Cable hanging under the bonnet",
+            "content": "These cables indicate that they have had to boost the battery to be able to move the car. It is also the side effect that as it has been sit so long then the..."
+        },
+        {
+            "headline": "Facing NHTSA probe, Tesla agrees to halt games on infotainment screens in moving cars",
+            "content": "Under pressure from U.S. auto safety regulators, Tesla has agreed to stop allowing video games to be played on center touch screens while its vehicles are..."
+        },
+        {
+            "headline": "Tesla, Mercedes Have Both Moved to Stop Touchscreen Video Games in Moving Cars",
+            "content": "Tesla is issuing an over-the-air software update to lock the \"Passenger Play\" function of its touchscreens while the vehicle is in motion."
+        },
+        {
+            "headline": "Tesla agrees to stop letting drivers play video games in moving cars. (Published 2021)",
+            "content": "While the video game feature is not directly linked to the Autopilot issues, the safety agency on Wednesday suggested it was worried that Tesla drivers could..."
+        },
+        {
+            "headline": "Elon Musk: I'm almost done with Tesla stock sales",
+            "content": "Tesla Inc Chief Executive Elon Musk, who has sold more than $15 billion worth of shares in the company since early November, said on Wednesday that he was..."
+        },
+        {
+            "headline": "NHTSA investigating video game feature on Tesla vehicles",
+            "content": "Federal regulators are looking into Tesla's Passenger Play feature, which allegedly allows occupants to play video games while the car is in motion."
+        },
+        {
+            "headline": "This Tesla-Swapped Mustang With AEM Kit Runs An 11-Second Quarter Mile",
+            "content": "This EV Mustang is AEM's monster. The concept is to buy a crashed Tesla, harvest the cradle, motor, inverter, and suspension, then bolt the parts into the back..."
+        },
+        {
+            "headline": "Tesla, bowing to pressure, stops allowing drivers to play video games while driving",
+            "content": "Tesla, bowing to pressure, stops allowing drivers to play video games while driving ... Under pressure from US auto safety regulators, Tesla has agreed to stop..."
+        },
+        {
+            "headline": "Tesla shuts down 'passenger play' that allows users to play video games on center screen while driving",
+            "content": "Tesla shuts down 'passenger play' that allows users to play video games on center screen while driving ... Tesla confirmed that it will shut down “passenger play,..."
+        }
+    ],
+    "20211224": [
+        {
+            "headline": "Where did USB music go in Software 11?",
+            "content": "It's actually in the “USB” icon, it opens up a file browser type interface and you can play your tracks from there."
+        },
+        {
+            "headline": "Tesla disables video games on center touch screens in moving cars",
+            "content": "Under pressure from US auto safety regulators, Tesla has agreed to stop allowing video games to be played on center touch screens while its vehicles are moving."
+        },
+        {
+            "headline": "Tesla disables gaming while driving feature",
+            "content": "Tesla disables gaming while driving feature ... Tesla has agreed to make changes to its Passenger Play feature that allowed games to be played on its touchscreen..."
+        },
+        {
+            "headline": "Tesla's megaphone update lets drivers shout whatever they want at passersby",
+            "content": "As part of its holiday update, Tesla added a \"megaphone\" feature that turns Teslas into a megaphone on wheels using speakers originally designed for a..."
+        },
+        {
+            "headline": "Man explodes Tesla after mechanics charge $23K for a new battery",
+            "content": "Finnish man Tuomas Katainen bought his Tesla in 2013, but when mechanics told him it would cost $23000 to fix the battery, he decided to blow it up instead."
+        },
+        {
+            "headline": "IIHS recognizes effectiveness of Tesla’s camera-only crash-avoidance system",
+            "content": "IIHS recognizes effectiveness of Tesla's camera-only crash-avoidance system ... A “superior” rating for its camera-only front collision prevention technology has..."
+        },
+        {
+            "headline": "Finnish Man Passes on Paying $22,600 to Replace His Tesla's Battery, Blows Up Car Instead",
+            "content": "A Tesla repair shop told a Model S owner that replacing the battery would cost more than $22600. He decided to stick 66 pounds of dynamite on the car."
+        },
+        {
+            "headline": "Tesla update lets drivers turn their cars into megaphones",
+            "content": "Tesla's annual holiday software update includes a new feature that lets drivers turn their cars into megaphones. External speakers meant to play sounds to..."
+        },
+        {
+            "headline": "Tesla lets drivers turn their cars into megaphones with new software update",
+            "content": "Tesla lets drivers turn their cars into megaphones with new software update ... Tesla has released a new software update that lets drivers use their Tesla..."
+        },
+        {
+            "headline": "Tesla to disable Passenger Play feature when cars in motion",
+            "content": "Tesla will send out an over-the-air update that will stop passengers having the ability to play video games while its cars are in motion."
+        }
+    ],
+    "20211225": [
+        {
+            "headline": "2021 model 3 LR heat blowing cold. Error",
+            "content": "The vents just start blowing super cold and an error comes on shortly after saying “cabin climate control system requires services”"
+        },
+        {
+            "headline": "Why are some car controls so hard to use? Blame Tesla, for starters",
+            "content": "Automakers continue to introduce frustrating controls on new vehicles, spurning a century's evidence that dials and buttons simply work better for some..."
+        },
+        {
+            "headline": "Can A Tesla Model 3 Beat A Nissan GT-R In A Drag Race?",
+            "content": "The R35 Nissan GT-R shocked the supercar world with its advanced drivetrain and ability to beat just about any supercar in a drag race."
+        },
+        {
+            "headline": "Sky Force Reloaded added to Tesla Arcade with update 2021.12.25",
+            "content": "Sky Force Reloaded is the latest game to be added to Tesla vehicles as part of the 2021.12.25.6 software update. All vehicles that have MCU 2 or above will..."
+        },
+        {
+            "headline": "Tesla's holiday update includes design-your-own Light Show open to all",
+            "content": "Tesla opened up the capability to support XLights, an open-source, free software that allows users to create their own vehicular light show on a computer."
+        },
+        {
+            "headline": "Tesla “emissions” bug causes Model 3 to fart aggressively when doors are opened",
+            "content": "Despite emissions testing mode being disabled completely, the Model 3 stubbornly insisted on passing gas every time its doors were opened."
+        },
+        {
+            "headline": "Introducing Tesla's S3XY Light Show, a Special Treat Introduced With Software V11.0",
+            "content": "Tesla Motors has published a video of its current model lineup, the S, E, X, and Y, performing the new celebration light show. It can be done with just one..."
+        },
+        {
+            "headline": "Honda Made a Tesla Cybertruck Clone, and It Looks Better Than the Real Thing",
+            "content": "Honda managed to make an angular car that still feels futuristic, with gorgeous headlights, stunning wheels, and a front end that looks like it actually..."
+        },
+        {
+            "headline": "Musk reflects on 'tough year' that 2008 was for Tesla in a reply to engineer",
+            "content": "Tesla CEO Elon Musk responded to an Indian engineer on Saturday who remembered how the company neared bankruptcy on Christmas eve during the 2008 financial..."
+        },
+        {
+            "headline": "Christmas show: This Tesla Model X acts DJ for these dancing kids",
+            "content": "A video has emerged online showing some kids dancing to the tune of the Trans-Siberian Orchestra playing at a Tesla Model X's entertainment system."
+        }
+    ],
+    "20211226": [
+        {
+            "headline": "Dangerously bad windshield wiper performance in snow/icy conditions",
+            "content": "We've had constant issues with our windshield wipers. When it rains, they don't clear the windshield. And the \"rain-sensing\" modes, where it's supposed to..."
+        },
+        {
+            "headline": "Goodyear targets road noise with replacement tire for Tesla, other EVs",
+            "content": "Tires designed for EV's aren't going to make much of a difference on the overpriced Tesla Model 3 and Y. They'll never be anywhere near as quiet as my Lexus ES,..."
+        },
+        {
+            "headline": "Tesla's New Light Show Leaves a Couple of Owners With Non-Functioning Headlights",
+            "content": "The pair - one owning a Model Y and the other, a Model 3 - claims that one of their headlights stopped working after running the show, and the classic \"switch..."
+        },
+        {
+            "headline": "Tesla’s Gift to the World Allows Anyone to Turn Their Car Into a Light Show Machine",
+            "content": "Tesla debuted “Tesla Light Show,” which allows users to create their own light shows to any music of their choice."
+        },
+        {
+            "headline": "Tesla's Sentry Mode Catches UK Woman Keying Model 3, Video Used As Evidence In Precedent Case",
+            "content": "A Tesla Model 3 in the UK, which caught a woman purposefully leaving a 4-inch scratch down the side of the car's door with her key."
+        },
+        {
+            "headline": "After PepsiCo, this company intends to add 10 Tesla Semi trucks to its fleet",
+            "content": "Tesla Semi electric truck claims to be capable of running 805 kilometres on a single charge and will be able to tow 80000 lbs."
+        },
+        {
+            "headline": "Finnish Man Decides To Blow Up His Tesla Car Instead Of Spending Rs 17 Lakh To Replace Battery",
+            "content": "The Tesla owner decided that it was not worth it to spend so much money on replacing the battery so he decided to collaborate with a YouTuber to blow up his..."
+        },
+        {
+            "headline": "Tesla Model 3 Near-Miss With Moose Shows Brakes Are Good, Automatic High Beams Not",
+            "content": "The driver of a Tesla Model 3 in Sweden nearly ran into a moose on a dark road. Moments before the near-miss, the high beams were turned off."
+        },
+        {
+            "headline": "Tesla went almost bankrupt on Christmas eve 2008, reveals Indian engineer",
+            "content": "Tesla faced bankruptcy several times, the latest being during the development of Model 3 sedan that missed production deadline several times."
+        }
+    ],
+    "20211227": [
+        {
+            "headline": "How do you save dashcam clips in the latest update?",
+            "content": "Like EVRider-FL said, it's the 4th icon shown in my car. However, that icon wasn't there by default; I moved it there. If you want to access it, click the 3..."
+        },
+        {
+            "headline": "Is It OK to Buy a Tesla and Resent Elon Musk?",
+            "content": "It's perfectly OK to eschew a product or company for personal, ethical reasons. And it's also a valid and proven tactic of social change."
+        },
+        {
+            "headline": "Tesla's Simple Selection Of Vehicle Options Are A Huge Advantage",
+            "content": "Tesla has a small selection of vehicles you can order: Model 3, Model Y, Model S, and Model X. There's also upcoming options for the Cybertruck, Semi,..."
+        },
+        {
+            "headline": "Aggrieved Tesla Owner Obliterates Model S With Dynamite",
+            "content": "an owner choosing to protest Tesla's suggested repair in pyrotechnic fashion—and blowing up Elon Musk in effigy, to boot..."
+        },
+        {
+            "headline": "Watch a Tesla owner blow up his Model S with 66 pounds of dynamite instead of paying $22,000 to repair it",
+            "content": "The car was not covered by a warranty but still required permission from Tesla to repair — so Tuomas Katainen decided to do something different."
+        },
+        {
+            "headline": "Tesla, Apple, Google, Netflix, Amazon: Which Stocks Should You Own?",
+            "content": "The blessed septet are Alphabet GOOGL +1.6% (GOOGL, formerly Google GOOG +1.5% ), Amazon.com AMZN +1.3% , Apple AAPL -0.7% , Meta Platforms (FB, formerly..."
+        },
+        {
+            "headline": "Tesla Giga Shanghai shows off its Model 3 production efficiency in recent video",
+            "content": "For perspective, during Giga Berlin's Giga Fest, a photo inside the factory revealed that Tesla aims to produce one Model Y body every 45 seconds. Given Giga..."
+        },
+        {
+            "headline": "Video of Tesla Owner Blowing Up Model S Viewed 4.4M Times",
+            "content": "Tuomas Katainen decided to give his 2013 Model S an explosive sendoff after the electric car company told him that it would cost €20,000, or just under US..."
+        },
+        {
+            "headline": "Central Washington University Police Adding Tesla as Patrol Vehicle",
+            "content": "The Central Washington University (CWU) Police Department is adding an energy-efficient Tesla to its fleet of patrol cars. According to the university, the."
+        },
+        {
+            "headline": "Video of Tesla-driving dog was staged",
+            "content": "Doggone in 60 seconds. A viral video of a motorist encountering a pooch driving a Tesla has been revealed to be a giant con."
+        }
+    ],
+    "20211228": [
+        {
+            "headline": "2015 Model S Nav Map SD Card Swap?",
+            "content": "You can get away with the fix by just removing the right hand side trim pieces. Cutting the plastic housing a bit to make that USB slot in the back upper right..."
+        },
+        {
+            "headline": "Why Tesla Stock Is in a 'Clear Position of Strength' Heading Into 2022",
+            "content": "Analysts at Wedbush point to three catalysts, including China demand, that could drive Tesla stock higher in 2022."
+        },
+        {
+            "headline": "Tesla's Cybertruck could finally hit streets in 2022 — here's what we know about Elon Musk's 6 future vehicles",
+            "content": "Tesla's Cybertruck could finally hit streets in 2022 — here's what we know about Elon Musk's 6 future vehicles ... Tesla Roadster. ... It's the end of 2021 and..."
+        },
+        {
+            "headline": "Tesla Model Y outperforms Model 3 in IIHS crash safety tests",
+            "content": "The Model Y electric SUV has proven to be even safer than the Model 3. This is because Tesla practices continuous improvement methodology both on the factory..."
+        },
+        {
+            "headline": "Tesla launches new AMD chip and 12v Li-ion battery in 2022 Model 3 Model Y vehicles",
+            "content": "Tesla launches new AMD chip and 12v Li-ion battery in 2022 Model 3 Model Y vehicles ... Tesla has introduced the new AMD Ryzen chip and 12v Li-ion battery in 2022..."
+        },
+        {
+            "headline": "Elon Musk sells another $1 billion in Tesla shares, nearing 10% target",
+            "content": "Elon Musk sells another $1 billion in Tesla shares, nearing 10% target · Tesla and SpaceX CEO Elon Musk has sold another 934,090 shares, or about $1.02 billion..."
+        },
+        {
+            "headline": "Production Pace Is Insanely Fast For Model 3, Model Y At Giga Shanghai",
+            "content": "The Tesla Giga Shanghai plant in China currently is the biggest electric car plant in the world, considering the production volume."
+        },
+        {
+            "headline": "Tesla 2021 report card — the best and worst of the year",
+            "content": "2021 was the year Tesla launched the Model S Plaid, a version of the Model S that was significantly upgraded."
+        },
+        {
+            "headline": "Here’s How a Tesla Model S Holds Up After 424,000 Miles",
+            "content": "The black-on-black electric sedan was recently purchased from its original owner who used the car for Uber service since it was brand new. During the past six..."
+        },
+        {
+            "headline": "Why Facebook, Fisher-Price, Jeopardy! And Tesla Are Now New Members Of The Crisis Management Hall Of Shame",
+            "content": "This was another record-setting year for companies and people who had a self-inflicted crisis. But Facebook, Fisher-Price, Jeopardy! and Tesla merit special..."
+        }
+    ],
+    "20211229": [
+        {
+            "headline": "Man blows up his Tesla rather than paying $22K to repair it",
+            "content": "What would make a driver mad enough to dynamite his own Tesla? How about a $22600 repair bill. CNN's Jeanne Moos has the explosive report."
+        },
+        {
+            "headline": "Tesla owner blows up his 2013 Model S after seeing repair bill",
+            "content": "Tesla owner blows up his 2013 Model S after seeing repair bill ... A Tesla Model S rigged..."
+        },
+        {
+            "headline": "City Moves Ahead with Plan to Buy 250 Tesla Squad Cars — And Just Bought 184 Electric Ford Mustangs!",
+            "content": "Under the $12.4-million contract, the city does not have to buy the Teslas, but can buy any number, up to 250, as it needs on an as-needed basis, the DCAS..."
+        },
+        {
+            "headline": "Elon Musk Finished Selling His Tesla Stock. But He Could Sell Again Soon.",
+            "content": "Elon Musk has finally finished exercising expiring management stock options and selling Tesla stock. {Dramatic music.} Or has he?"
+        },
+        {
+            "headline": "How to Share Your Tesla Car Key by Adding Driver to Tesla App",
+            "content": "Follow these steps to share your car key by adding a driver using the Tesla app: Step 1: Launch the Tesla app on your smartphone."
+        },
+        {
+            "headline": "Tesla Model 3 On Track To Become Europe's Best-Selling EV In 2021",
+            "content": "When it comes to brands, Schmidt forecasts that Tesla will be the No. 1 selling EV marque in western Europe this year, with sales of about 170,000 units. The..."
+        },
+        {
+            "headline": "Tesla’s Potent AMD Ryzen Upgrade Arrives Stateside for Model 3, Model Y",
+            "content": "The first Model 3 and Y vehicles with MCU3 (Infotainment Computer with AMD Ryzen) are now being produced and delivered in North America!"
+        },
+        {
+            "headline": "Ford Mustang Mach-E, Tesla Model 3 to join NYPD, NYC agencies for Gov’t use",
+            "content": "It will order 184 Ford Mustang Mach-E vehicles and 250 Tesla Model 3s to join the City's law enforcement and emergency response teams for regular use."
+        },
+        {
+            "headline": "Tesla Model X Plaid Already Being Delivered To Owners",
+            "content": "The Tesla Model X received the same set of updates as the Model S Plaid, and the first units are already being quietly delivered to customers in the US."
+        },
+        {
+            "headline": "Tesla Model 3s coming out of Fremont with MCU 3 and high-end GPU",
+            "content": "Tesla is now delivering some Model 3s from Fremont with MCU 3 as well. This is the first known Model 3 to have MCU 3 in North America."
+        }
+    ],
+    "20211230": [
+        {
+            "headline": "Tesla Recalls Vehicles Over Camera, Front Hood Faults",
+            "content": "Tesla Inc. TSLA 0.76%increase; green up pointing triangle is recalling nearly half a million cars it has produced in recent years because of potential..."
+        },
+        {
+            "headline": "Tesla undertakes its largest-ever voluntary vehicle recall",
+            "content": "Tesla has undertaken its biggest-ever voluntary recall to fix problems in about 475,000 Model 3 and Model S vehicles, bringing a black mark to a company..."
+        },
+        {
+            "headline": "Tesla Model 3 Recalled Because Trunk Can Cause Backup Camera to Fail",
+            "content": "Tesla Model 3 Recalled Because Trunk Can Cause Backup Camera to Fail. In 2017–2020 Model 3 cars, the backup camera's wiring harness might become damaged after..."
+        },
+        {
+            "headline": "Tesla Owner Decides to Blow Up His Car with Dynamite When Faced with $22,000 Repair Bill",
+            "content": "Tuomas Katainen blew up his 2013 Tesla Model S when he learned it would cost him around $22000 to repair."
+        },
+        {
+            "headline": "Tesla Recalls Some Sedans Over Two Safety Defects (Published 2021)",
+            "content": "Tesla Recalls Some Sedans Over Two Safety Defects. The recalls, which Tesla initiated on Dec. 21, affect about 350,000 Model 3s and 120,000 Model S cars."
+        },
+        {
+            "headline": "Tesla recalls more than 475,000 US cars on technical issues",
+            "content": "SEC investigating Tesla over whistleblower solar panel claims ... Tesla is also recalling as many as 119,009 Model S cars assembled from 2014 because of a faulty..."
+        },
+        {
+            "headline": "Tesla recalls nearly half a million cars over possible safety issues",
+            "content": "Defects in some models leading to problems with the rearview camera and front hood, which could lead to serious accidents, triggered two separate recalls of..."
+        },
+        {
+            "headline": "Tesla recalls 475,000 vehicles due to camera and front trunk issues",
+            "content": "Over 475000 Tesla Inc (TSLA) cars have been recalled due to technical defects that may increase the risk of accidents. Two separate recalls are in place,..."
+        },
+        {
+            "headline": "Tesla recalls nearly half a million Model 3 and Model S cars",
+            "content": "For the Model 3, Tesla believes the opening and closing of the trunk could damage the cable harness attaching the rearview camera, causing the camera to..."
+        },
+        {
+            "headline": "Tesla's Musk exercises all of his stock options expiring next year",
+            "content": "Tesla Inc Chief Executive Elon Musk has exercised all of his options expiring next year, signaling an end to his stock sales which triggered a fall in the..."
+        }
+    ],
+    "20211231": [
+        {
+            "headline": "Tesla recalls almost half a million electric cars over safety issues",
+            "content": "Tesla Inc is recalling more than 475000 of its Model 3 and Model S electric cars to address rearview camera and trunk issues that increase the risk of..."
+        },
+        {
+            "headline": "Can a Tiny Territory in the South Pacific Power Tesla’s Ambitions? (Published 2021)",
+            "content": "By securing nickel in places like New Caledonia or Australia, then sending the mineral directly to its own battery-making facilities, Tesla would be able to..."
+        },
+        {
+            "headline": "Best Reviews 2021: The 2021 Tesla Model Y Is The Universal Daily Driver",
+            "content": "There isn't a better daily back-and-forth commuter car than the Tesla Model Y Dual Motor Long Range. The Model Y achieves things that no other car can."
+        },
+        {
+            "headline": "Tesla recalls some Model S & Model 3 vehicles",
+            "content": "NHTSA specifies the 2015 Model S 70D but Tesla is recalling 119,009 2014-2021 Model S vehicles manufactured between Sept. 16, 2014 and Dec. 23, 2020. The reason..."
+        },
+        {
+            "headline": "Tesla Recalls 675,000 Cars in US, China",
+            "content": "Tesla has recalled 675,000 cars in the United States and China over issues with the trunk and front hood of two models, raising new questions about the..."
+        },
+        {
+            "headline": "Report: Several Tesla Model Y Spotted Leaving Giga Berlin Plant",
+            "content": "Tesla Giga Berlin must be pretty well advanced in its preparations to start series production, as the first cars were seen leaving the plant."
+        },
+        {
+            "headline": "Tesla Model Y Performance Cars Spotted Leaving Gigafactory Berlin on a Trailer",
+            "content": "Trailers carrying several Tesla Model Y cars in Performance trim were spotted leaving the Gigafactory in Grünheide, near Berlin."
+        },
+        {
+            "headline": "Giga Texas to begin production next week: Rumour",
+            "content": "With just hours left before the end of the year, it looks like Tesla won't meet their goal of starting production at Giga Texas in 2021."
+        },
+        {
+            "headline": "Tesla is leasing new land as part of its California expansion — for $1 per year",
+            "content": "Tesla has leased nine acres of land to support its operations in Lathrop — all for a very reasonable price of $1 per year. As noted in a..."
+        },
+        {
+            "headline": "Tesla recalls 2017-2020 Model 3s due to rear camera cable [photos]",
+            "content": "Tesla is recalling about 356000 Model 3s because of a kink in the backup camera cable when the trunk is closed. It applies to Model 3 sedans manufactured..."
+        }
+    ],
     "20220101": [
         {
             "headline": "Video: BMW i4 M50 vs Tesla Model 3 Performance Drag Race",
