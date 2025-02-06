@@ -1,4 +1,633 @@
 {
+    "20211001": [],
+    "20211002": [],
+    "20211003": [
+        {
+            "headline": "Dell S5232F-ON Hands-on A Vastly Improved 32-port 100GbE Switch",
+            "content": "This switch is built around the X7 3.2Tbps switch chip. We can also see two 10GbE management ports that align with a feature we saw on the front of the switch."
+        }
+    ],
+    "20211004": [
+        {
+            "headline": "VMware Appoints John Sabino as Chief Customer Experience Officer",
+            "content": "As VMware focuses on delivering the trusted foundation to accelerate our customers' innovation, we continue to hire the best talent in the industry."
+        },
+        {
+            "headline": "VMware to kill SD cards and USB drives as vSphere boot options",
+            "content": "VMware has warned users it will end support for non-persistent removable storage as a boot medium for its flagship vSphere VM-wrangler."
+        },
+        {
+            "headline": "Chipmaker GlobalFoundries files to go public on US Nasdaq exchange",
+            "content": "Semiconductor maker GlobalFoundries Inc. today confirmed it's heading for an initial public offering of stock. The company said in a filing with the U.S...."
+        },
+        {
+            "headline": "NetApp acquires cloud optimization platform CloudChekr",
+            "content": "Software company NetApp announced on Monday that it had acquired cloud optimization platform CloudCheckr as it expands into the FinOps space."
+        }
+    ],
+    "20211005": [
+        {
+            "headline": "VMware Charts Course for Customers to Seize Opportunity at the Edge",
+            "content": "VMware Edge, a product portfolio that will enable organizations to run, manage and better secure edge-native apps across multiple clouds, anywhere."
+        }
+    ],
+    "20211006": [
+        {
+            "headline": "Embedded insecurity: Broadcom SDK vulnerabilities create lingering risk for router manufacturers",
+            "content": "The rediscovery of vulnerabilities in wireless chip firmware technology from Broadcom has revealed how inherited security flaws can get baked into networking..."
+        },
+        {
+            "headline": "If Your People Can't Stay Home, Can They Stay Safe?",
+            "content": "Deloitte helped Broadcom keep their onsite workforce safe and maintained the trust of Broadcom employees and contractors."
+        },
+        {
+            "headline": "Bay briefs: Clear Lake student named ‘top innovator’ in national science contest",
+            "content": "Clear Lake High School freshman Melina Kumar has been recognized as a top 300 innovator in the 10th annual Broadcom Masters."
+        }
+    ],
+    "20211007": [
+        {
+            "headline": "The Value of Perseverance: Interview with Dr. Moogega Cooper",
+            "content": "Dr. Moogega Cooper, planetary protection engineer for the Mars 2020 Mission, gives her take on what it means to fail. And it's a lesson worth remembering."
+        }
+    ],
+    "20211008": [],
+    "20211009": [],
+    "20211010": [],
+    "20211011": [
+        {
+            "headline": "Which Raspberry Pi Should I Buy?",
+            "content": "We recommend the best Raspberry Pi model for every use case."
+        }
+    ],
+    "20211012": [
+        {
+            "headline": "Broadcom named to World's Best Employers list",
+            "content": "Broadcom was named to the World's Best Employers 2021 list, based on on a survey of 150000 employees worldwide. Broadcom ranked #444."
+        },
+        {
+            "headline": "New chapter awaits empty CA headquarters after note sale",
+            "content": "Once one of Long Island's largest and most vibrant corporate headquarters, the former CA Technologies property in Islandia is now completely vacant."
+        },
+        {
+            "headline": "Apple Set to Cut iPhone Production Goals Due to Chip Crunch",
+            "content": "Apple Inc. is likely to slash its projected iPhone 13 production targets for 2021 by as many as 10 million units as prolonged chip shortages hit its..."
+        },
+        {
+            "headline": "Apple shares drop on iPhone 13 production fears",
+            "content": "Reports suggest the firm could produce up to 10 million fewer iPhones due to the chip shortage."
+        },
+        {
+            "headline": "Apple likely to cut iPhone 13 production due to chip crunch -Bloomberg News",
+            "content": "Apple Inc is likely to slash production of its iPhone 13 by as many as 10 million units due to the global chip shortage, Bloomberg News reported on Tuesday,..."
+        },
+        {
+            "headline": "Netgear Updates Orbi Lineup with RBKE960 Wi-Fi 6E Quad-Band Mesh System",
+            "content": "Mesh networking kits / Wi-Fi systems have become quite popular over the last few years. Despite competition from startups such as eero (now part of Amazon)..."
+        },
+        {
+            "headline": "Bloomberg: Apple is cutting iPhone 13 production due to chip shortage",
+            "content": "According to a new report from Bloomberg, Apple could cut iPhone 13 production as much as 10 million units in 2021."
+        }
+    ],
+    "20211013": [
+        {
+            "headline": "Semiconductors Market in Vietnam to grow by USD 1.65 billion| Broadcom Inc. and Hitachi Ltd. among Key Vendors|Technavio",
+            "content": "PRNewswire/ -- The semiconductors market in Vietnam is expected to grow by USD 1.65 billion and accelerate at a CAGR of 6.52% from 2021 to 2025."
+        },
+        {
+            "headline": "Report: Apple short of 10 million iPhone 13s this year due to ongoing chip shortage",
+            "content": "Apple may be short of hitting its annual iPhone 13 handset production target by ten million units due to current global chip shortages."
+        },
+        {
+            "headline": "Apple to cut iPhone 13 production goal for last quarter amid chip shortage",
+            "content": "Apple said it could miss its target of 90 million iPhone 13 models by as many as 10 million units as the chip shortage hits suppliers Broadcom and Texas..."
+        },
+        {
+            "headline": "Apple likely to slash iPhone 13 production citing chip crunch, says Bloomberg report",
+            "content": "Apple Inc. is likely to cut down production of its iPhone 13 by as many as 10 million units due to the global chip shortage, Bloomberg News reported on Tuesday."
+        }
+    ],
+    "20211014": [
+        {
+            "headline": "Time synchronization in end-to-end 5G networks",
+            "content": "This blog reviews the synchronization challenges faced in 5G networks and discusses Broadcom's solutions to address the challenges."
+        },
+        {
+            "headline": "Apple May Cut iPhone 13 Production Goals Due to Chip Crunch",
+            "content": "Apple is likely to slash its projected iPhone 13 production targets for 2021 by as many as 10 million units."
+        },
+        {
+            "headline": "iPhone 13 series sees production cuts due to chip shortage",
+            "content": "Apple is apparently set to cut production on the iPhone 13 series by 10 million units in 2021, due to the chip shortages, according to a report by Bloomberg."
+        },
+        {
+            "headline": "Apple shares drop on iPhone 13 production fears",
+            "content": "Apple's shares dropped on Tuesday following reports it could slash its iPhone 13 production targets due to the ongoing global computer chip shortage."
+        },
+        {
+            "headline": "Apple may cut production of iPhone 13 due to chip shortage",
+            "content": "US tech giant Apple Inc. may decide to reduce the production of its iPhone 13 by as many as 10 million units amid the chip shortage hounding different sectors."
+        }
+    ],
+    "20211015": [
+        {
+            "headline": "Third-Generation L1/L5 Chip from Broadcom for Mobiles, Wearables Has Multipath Mitigation",
+            "content": "Broadcom has its new third-generation low-power L1/L5 GNSS receiver chip, the BCM4778, available for sampling to early-access partners and customers."
+        }
+    ],
+    "20211016": [],
+    "20211017": [],
+    "20211018": [
+        {
+            "headline": "VMware Cyber Head Tom Kellermann Joins Attivo Advisory Board",
+            "content": "Tom Kellermann, head of cybersecurity strategy for VMware (NYSE: VMW), has joined the advisory board of identity detection and response company Attivo Networks."
+        },
+        {
+            "headline": "Patent assignment activity of major semiconductor vendors remains robust",
+            "content": "Co-published - IP transfers in the sector happen for many reasons but one of the primary ones is to create additional value from the assets concerned."
+        }
+    ],
+    "20211019": [
+        {
+            "headline": "VMware Announces Record Date for Conditional Special Dividend",
+            "content": "Record Date for $11.5B conditional special dividend is October 29, 2021. PALO ALTO, Calif. – Oct. 19, 2021 –VMware Inc. (NYSE:VMW) (“VMware”),..."
+        },
+        {
+            "headline": "Dell S5296F-ON Review 96x 25GbE and 8x 100GbE Switch",
+            "content": "We take a look at a 96-port 25GbE plus 8-port 100GbE Dell S5296F-ON switch to see what this 2U Broadcom-based open network switch offers."
+        },
+        {
+            "headline": "NFC Chips Market is Set To Fly High in Years to Come with NXP Semiconductors, Broadcom, Qualcomm",
+            "content": "Press release - HTF Market Intelligence Consulting Pvt. Ltd. - NFC Chips Market is Set To Fly High in Years to Come with NXP Semiconductors, Broadcom,..."
+        },
+        {
+            "headline": "Aruba Drops DPU-Accelerated Switches, Pushes Zero Trust to Edge",
+            "content": "Aruba Networks taps Pensando to offer the distributed services switch that combines data center layer 2-3 switches with a programmable DPU."
+        }
+    ],
+    "20211020": [
+        {
+            "headline": "Tomahawk 3 performance vs. Tolly's Commodity switch",
+            "content": "In a typical incast scenario, traffic arrives from multiple input ports. It was reported by Tolly that the commodity switch showed a minimal buffer for burst..."
+        },
+        {
+            "headline": "Virgin Media O2 UK Officially Launches HUB 5 Broadband Router UPDATE3",
+            "content": "Broadband ISP Virgin Media UK (VMO2) has today followed yesterday's information leak by officially unveiling their new Hub 5 router, which features faster."
+        }
+    ],
+    "20211021": [
+        {
+            "headline": "Behind the scenes with the top 30 Broadcom MASTERS finalists",
+            "content": "This year, the Broadcom MASTERS middle school competition is being held virtually. Despite continued obstacles brought on by the pandemic, the top 30..."
+        },
+        {
+            "headline": "The Best Single-Board Computer for Media Center",
+            "content": "Single-board computers are ideal devices to use as your living room streaming set-top box. Here are our top picks for the best single-board computers to use..."
+        },
+        {
+            "headline": "Broadband ISP Plusnet UK Launch Familiar New Hub Two Router UPDATE",
+            "content": "Internet provider Plusnet has quietly introduced a new broadband router called the 'Hub Two', which may be familiar to some as it looks to be a re-brand."
+        }
+    ],
+    "20211022": [
+        {
+            "headline": "BrainChip AKD1000 SNN AI SoC gets Raspberry Pi and x86 development kits",
+            "content": "BrainChip has introduced two development kits for its Akida AKD1000 neuromorphic processor based on Raspberry Pi and an Intel (x86) mini PC in order to."
+        }
+    ],
+    "20211023": [],
+    "20211024": [],
+    "20211025": [
+        {
+            "headline": "Cover Story: SkyeChip reaches for the stars",
+            "content": "Nearly 10 years ago, S K Fong, who was then the senior vice-president of research and development at Altera, spoke about the need for Malaysian companies in..."
+        }
+    ],
+    "20211026": [
+        {
+            "headline": "Automotive Ethernet — a decade in the rearview mirror",
+            "content": "Automotive Ethernet is one of the fastest growing In-Vehicle Networking technologies driving new applications such as ADAS, Infotainment, Telematics, Gateways,..."
+        }
+    ],
+    "20211027": [
+        {
+            "headline": "Informatica raises $841 million in IPO",
+            "content": "After six years as a private company, Informatica's return to Wall Street marks its transformation to a cloud-first business, CEO Amit Walia said to ZDNet."
+        }
+    ],
+    "20211028": [
+        {
+            "headline": "14-year-old mathematician discovers a new way to accelerate calculations and computing using ‘antiprime’ numbers; Wins $25,000 top award at the Broadcom MASTERS",
+            "content": "Broadcom Foundation and Society for Science today announced that Akilan Sankaran, 14, from Albuquerque, New Mexico, won the coveted $25000 Samueli..."
+        },
+        {
+            "headline": "Packet fronthaul: Linchpin of the ORAN 5G network",
+            "content": "This paper reviews three fronthaul options and develops a cost model that compares the CAPEX outlays for point-to-point fiber, WDM, and packet fronthaul..."
+        },
+        {
+            "headline": "Raspberry Pi Zero 2 W Launched With Broadcom BCM2710A1 SoC",
+            "content": "Similar to the launch version of Raspberry Pi 3, Raspberry Pi Zero 2 W also packs the Broadcom BCM2710A1 SoC. The wireless Zero W board features a 1GHz CPU that..."
+        },
+        {
+            "headline": "$15 Raspberry Pi Zero 2 W launched with quad-core CPU, 512MB RAM",
+            "content": "Raspberry Pi Zero 2 W is the first quad-core SBC from the Raspberry Pi Foundation with the Raspberry Pi Zero form factor. Based on the RP3A0."
+        },
+        {
+            "headline": "Raspberry Pi Zero 2 W arrives with more power and design improvements",
+            "content": "The Raspberry Pi Project has unveiled the next generation of the Raspberry Pi Zero 2W board, combining compact dimensions ..."
+        }
+    ],
+    "20211029": [
+        {
+            "headline": "Ask the experts: How to create a top-notch science fair project",
+            "content": "Five finalists in the Broadcom MASTERS middle-school competition reveal how they created nationally competitive projects."
+        },
+        {
+            "headline": "AT&T Honors Masergy, GTT, Top Reseller Partners, Says Goodbye to VP",
+            "content": "AT&T Partner Exchange named GTT, Sonic and AireSpring as its platinum elite members and recognized 12 other reseller partners."
+        },
+        {
+            "headline": "UCLA, Amazon Team Up For Science Research Center",
+            "content": "UCLA and Amazon have partnered to institute a forward-thinking research hub, centered around the study of artificial intelligence and how it can help with..."
+        }
+    ],
+    "20211030": [
+        {
+            "headline": "Indian-origin 14 year old discovers a new way to accelerate calculations: Wins a whopping $25000 prize",
+            "content": "Broadcom Foundation and Society for Science announced that Akilan Sankaran a 14-year-old, from Albuquerque, New Mexico, won the coveted $25,000 Samueli..."
+        },
+        {
+            "headline": "Indian-origin kid wins top prize in US science contest for middle schoolers",
+            "content": "Indian-origin Akilan..."
+        }
+    ],
+    "20211031": [
+        {
+            "headline": "Indian American Teen is First Student With a Math Project to Win Broadcom MASTERS’ Samueli Foundation Prize",
+            "content": "Indian American Teen is First Student With a Math Project to Win Broadcom MASTERS' Samueli Foundation Prize."
+        }
+    ],
+    "20211101": [
+        {
+            "headline": "The Start of a New Era for VMware",
+            "content": "Raghu Raghuram, CEO, VMware Today is a landmark day for VMware. We are a standalone company once again. In a filing with."
+        },
+        {
+            "headline": "Indian American student wins $25,000 top award in science competition",
+            "content": "14-year-oldÂ kid from Albuquerque, New Mexico, discovers new way to accelerate calculations using â€˜antiprimeâ€™ numbers. Akilan Sankaran, a 14-year-old..."
+        },
+        {
+            "headline": "A New Chapter for VMware: Spin-Off from Dell Technologies Completed",
+            "content": "VMware Gains Operational and Financial Flexibility while Maintaining Strategic Partnership with Dell Technologies Company Poised to Lead in."
+        },
+        {
+            "headline": "4 Indian-origin children grab awards in US science competition",
+            "content": "Four kids of Indian origin were among the five winners at a major science and engineering competition for middle-school students in the US."
+        },
+        {
+            "headline": "Raspberry Pi Zero 2 W vs Radxa Zero – Features and benchmarks comparison",
+            "content": "The Radxa Zero is equivalent or superior in almost every way, except for people wanting to use the Raspberry Pi camera."
+        }
+    ],
+    "20211102": [
+        {
+            "headline": "A 14-year-old won a prestigious award for his discoveries on 'antiprime' numbers",
+            "content": "Akilan Sankaran took home the top award in the 2021 Broadcom MASTERS, a middle school science and engineering competition."
+        },
+        {
+            "headline": "Dell Technologies Completes Spinoff of Majority Stake in VMware; Michael Dell Quoted",
+            "content": "Dell Technologies (NYSE: DELL) has finished spinning off 81 percent of its equity ownership interest in VMware in a transaction aimed at establishing two..."
+        }
+    ],
+    "20211103": [],
+    "20211104": [],
+    "20211105": [
+        {
+            "headline": "Broadcom 802.11n Network Adapter Not Working on Windows [Solved]",
+            "content": "Here are 4 fixes for you to try. You may not have to try them all; just work your way down until you find the one works for you."
+        }
+    ],
+    "20211106": [],
+    "20211107": [
+        {
+            "headline": "Broadcom switches in the converged infrastructure",
+            "content": "Broadcom Ethernet switches have enabled high-performance converged networks that provide elastic scalability with advanced analytics at the lowest cost."
+        },
+        {
+            "headline": "Cisco Report: IT Pros Pursue NaaS to Offload Complexity",
+            "content": "46% of the IT professionals Cisco surveyed viewed NaaS as a way to offload the IT burden, according to the vendor's latest report."
+        },
+        {
+            "headline": "Radxa CM3 – A drop-in Raspberry Pi CM4 alternative",
+            "content": "Radxa CM3 is a system-on-module that offers an alternative to the Raspberry Pi CM4, with the same form factor allowing it to become a drop-in replacement,"
+        }
+    ],
+    "20211108": [
+        {
+            "headline": "FTC approves Broadcom agreement to end modem chip monopolization ...",
+            "content": "The US Federal Trade Commission has approved a final order to settle charges that Broadcom Inc. used various practices to illegally monopolize the market..."
+        },
+        {
+            "headline": "Teenager from Santa Barbara County wins first place in national science competition",
+            "content": "14-year-old Eamon Gordon, who lives in Goleta, was selected from a pool of nearly 2,000 students nationwide who participated in a rigorous competition that..."
+        },
+        {
+            "headline": "McAfee considers US$10b sale to private equity firms Advent, Permira",
+            "content": "McAfee is reportedly nearing a deal to be sold to private equity firms Advent International and Permira just a year after returning to the public markets."
+        },
+        {
+            "headline": "Dell Technologies HCI Solutions Expanded at Microsoft Ignite",
+            "content": "The latest Dell Technologies HCI updates include 3rd Gen Intel Xeon Scalable Processors, which offer up to 36% more cores."
+        }
+    ],
+    "20211109": [
+        {
+            "headline": "OCP Summit 2021: Open networking hardware lays the groundwork for the metaverse",
+            "content": "Meta is sharing our next-generation, open network hardware. And we've migrated our data center network hardware to the Open Compute Project (OCP) Switch..."
+        },
+        {
+            "headline": "OCP: Meta updates Facebook's data center switches, moves to SAI open source API",
+            "content": "Meta's data centers have new network hardware built by new OEMs according to open source interfaces published by OCP, the open source hardware body."
+        },
+        {
+            "headline": "Meta outlines open compute networking advances",
+            "content": "Meta collaborated with Broadcom and Cisco to deploy two top-of-rack switches called Wedge 400 and 400C as it built out its data centers."
+        },
+        {
+            "headline": "Meta Rolls Out New Network Tech for Building its Facebook Metaverse",
+            "content": "As Meta begins building a digital metaverse to house a future version of the Facebook social network, it is rolling out new networking hardware and software..."
+        },
+        {
+            "headline": "Shryne Group Names Cary Berger as Chief Legal Officer",
+            "content": "Cary Berger has been named Chief Legal Officer for Shryne Group, Inc. reporting into CEO Jon Avidor. Berger will lead the legal function and advise th."
+        }
+    ],
+    "20211110": [],
+    "20211111": [
+        {
+            "headline": "Getting Meta: Abstracting And Multisourcing The Network Like An FBOSS",
+            "content": "The Face Book Open Switching System, or FBOSS, that has run the company's networks for more than a decade can now be more easily ported to new hardware."
+        },
+        {
+            "headline": "Vodafone Selects VMware Telco Cloud Platform",
+            "content": "PALO ALTO, Calif. -- As service providers continue to virtualize and containerize network functions, they require a consistent, cloud-native platform for..."
+        }
+    ],
+    "20211112": [],
+    "20211113": [],
+    "20211114": [
+        {
+            "headline": "Gain the Most Profit by Investing in These Top Tech Stocks Today",
+            "content": "The following are the top tech stocks that can be bought today on 15th November 2021. Broadcom Current Price: US$504.92 Market Capital: US$207.83 billion"
+        }
+    ],
+    "20211115": [
+        {
+            "headline": "Data analysis: essentiality report on Wi-Fi 6 patents 2021",
+            "content": "Yuji Orita and Toshihiro Nakane of NGB Corporation analyse the patent landscape for the latest Wi-Fi 6 standard, IEEE802.11ax."
+        }
+    ],
+    "20211116": [
+        {
+            "headline": "Citrix Layoffs 2021: Staff Cuts, Restructuring Amid Potential Software Company Sale -",
+            "content": "Citrix layoffs are part of $130 million to $240 million restructuring plan. Chief Product Officer PJ Hough exits. Will Citrix be sold?"
+        }
+    ],
+    "20211117": [
+        {
+            "headline": "Broadcom’s 6-GHz Wi-Fi accelerates the future of connectivity",
+            "content": "The solutions are optimized for performance, cost, and form factor, also accompanied by a single multi-platform software making it easy for OEMs to build and..."
+        }
+    ],
+    "20211118": [
+        {
+            "headline": "New Report Finds Value Stream Management Increases the Effectiveness of Digital Transformation Initiatives",
+            "content": "New research finds a growing correlation between the use of value stream management (VSM) and improved digital transformation initiatives."
+        },
+        {
+            "headline": "SAS has offered early retirement buyouts to hundreds of senior employees. Here’s why",
+            "content": "The company said earlier this year that it was planning a potential initial public offering in 2024, however a spokeswoman for the company said the..."
+        },
+        {
+            "headline": "Qualcomm x Nuvia: Silicon Sampling in Late 2022, Products in 2023",
+            "content": "Qualcomm CEO Cristiano Amon made it crystal clear when Nuvia was acquired that they were going after the high-performance ultraportable laptop market."
+        }
+    ],
+    "20211119": [
+        {
+            "headline": "Middle School Students Win Science Fair Prizes",
+            "content": "On October 28, the Broadcom Foundation and the Society for Science awarded $100,000 in prizes in the Broadcom MASTERS science competition."
+        }
+    ],
+    "20211120": [
+        {
+            "headline": "Fabs, Fabless and Indian Semiconductor Industry",
+            "content": "India has seen exponential growth in semiconductor design activity during the last two decades but zero presence in the semiconductor fabrication space."
+        }
+    ],
+    "20211121": [],
+    "20211122": [
+        {
+            "headline": "Your Wi-Fi experience is about to level up. Again.",
+            "content": "This software will be the core of operational AFC systems to enable standard power Wi-Fi in the 6 GHz band. Our goal is to create a widely available AFC..."
+        }
+    ],
+    "20211123": [
+        {
+            "headline": "Giving thanks to our volunteers and judges",
+            "content": "As we head into the Thanksgiving holiday this week, this one may feel particularly poignant. Many of us will take a moment to consider the loved ones and..."
+        },
+        {
+            "headline": "Best Buy Q3 better than expected, but gross margins under pressure",
+            "content": "Best Buy CEO Corie Barry said the company's strategy to leverage is store and digital footprint is paying off."
+        },
+        {
+            "headline": "A Roundup of GNSS Receivers Bringing Pinpoint Positioning",
+            "content": "Vehicles and wearables alike require increasingly precise positioning technology—and this innovation is often fine-tuned starting with GNSS receivers."
+        },
+        {
+            "headline": "HP reports strong Q4 results, ups Q1 outlook",
+            "content": "CEO Enrique Lores said HP saw strong demand in the fourth quarter and is well positioned with its portfolio of hardware, software, and subscriptions."
+        }
+    ],
+    "20211124": [],
+    "20211125": [],
+    "20211126": [],
+    "20211127": [
+        {
+            "headline": "Three young Fair Lawn inventors rank high in national competition",
+            "content": "A bicycle for blind riders and a disinfecting robot caught the attention of judges of the Broadcom MASTERS science competition."
+        }
+    ],
+    "20211128": [],
+    "20211129": [
+        {
+            "headline": "Robyn Babcock: Guiding Labor Law for Broadcom",
+            "content": "Robyn Babcock: Guiding Labor Law for Broadcom ... Robyn Babcock, associate general counsel at semiconductor giant Broadcom Inc., has come a long way from a small..."
+        }
+    ],
+    "20211130": [
+        {
+            "headline": "Fair Lawn Students Win Big At Prestigious STEM Competition",
+            "content": "Two Thomas Jefferson Middle School students were STEM first-place award winners and top 30 finalists in the 11th Annual Broadcom MASTERS, a STEM middle school..."
+        },
+        {
+            "headline": "Paul Danner Obituary - Thornton, CO",
+            "content": "Paul Stuart Danner was born on the 31st of May in 1958 in Missouri. Patricia and Richard Danner adopted Paul as an infant and brought him to Canton, Illinois..."
+        }
+    ],
+    "20211201": [
+        {
+            "headline": "Shrewsbury student’s science fair project earns national recognition",
+            "content": "Oak Middle School student Angad Singh Pannu turned curiosity about COVID-19 and immunity into an innovative science experiment earlier this year."
+        }
+    ],
+    "20211202": [
+        {
+            "headline": "How an Intel failure sparked a 5G boom for Marvell",
+            "content": "The silicon specialist is counting on a bigger share of business with Nokia and predicting a surge in 5G sales."
+        }
+    ],
+    "20211203": [
+        {
+            "headline": "VMware expands its regional HQ in Dubai to support national transformation plans",
+            "content": "DUBAI, UAE. March 03, 2021: HE Saeed Mohammed Al Tayer, MD & CEO of Dubai Electricity and Water Authority (DEWA), has inaugurated the newly expanded..."
+        }
+    ],
+    "20211204": [],
+    "20211205": [],
+    "20211206": [],
+    "20211207": [
+        {
+            "headline": "Broadcom Acquires AppNeta Network Performance Monitoring Software -",
+            "content": "Broadcom Acquires AppNeta Network Performance Monitoring Software ... Broadcom has acquired AppNeta, an application and network performance monitoring software..."
+        },
+        {
+            "headline": "AppNeta Acquired by Broadcom in Order to Bring Its Award-Winning Visibility Platform to the World's Largest Enterprises",
+            "content": "AppNeta, the leading network performance monitoring solution for the distributed enterprise, today announces that it will be acquired by Broadcom, Inc. (NASDAQ..."
+        },
+        {
+            "headline": "Success Stories For Packetized Scan Data",
+            "content": "Some new design-for-test (DFT) technologies are difficult, expensive, or risky to implement but offer significant benefits. Other technologies are easy to..."
+        },
+        {
+            "headline": "Genesys Secures $580 Million in Funding from Salesforce, Zoom, More",
+            "content": "Cloud contact center provider Genesys has secured $580 million in funding from Salesforce Ventures, Zoom and others, at a company valuation of $21 billion."
+        }
+    ],
+    "20211208": [
+        {
+            "headline": "Lenovo launches the ThinkEdge SE450 for AI workloads at the edge",
+            "content": "Lenovo launches the ThinkEdge SE450. An emphasis on CPU power, compact design and connectivity to the cloud make the server suitable for running AI."
+        }
+    ],
+    "20211209": [],
+    "20211210": [],
+    "20211211": [
+        {
+            "headline": "Supermicro Storage SuperServer Review (36-Bay, 3rd Gen Xeon)",
+            "content": "The Supermicro Storage SuperServer is a 36-bay mainstream storage server powered by Intel's latest 3rd Gen Scalable CPU."
+        }
+    ],
+    "20211212": [],
+    "20211213": [
+        {
+            "headline": "10 Technology Vendors Affected By The Log4j Vulnerability",
+            "content": "Vulnerable log4j code can be found in products from some of the most prominent technology vendors like Cisco, IBM, and VMware, and as well as one serving..."
+        }
+    ],
+    "20211214": [
+        {
+            "headline": "Micro Focus now offers Operations Bridge AIOps as SaaS",
+            "content": "Micro Focus launches a SaaS variant of its full-stack AIOps solution Operations Bridge. The service was designed to provide visibility of complete IT."
+        },
+        {
+            "headline": "General Counsel of the Year: Qualcomm's Donald Rosenberg",
+            "content": "During his 14 years with Qualcomm, Rosenberg helped guide the chipmaker through major legal disputes with rival tech giants and the FTC and also helped..."
+        },
+        {
+            "headline": "Apple’s nightmare before Christmas: supply chain crisis delays gift deliveries",
+            "content": "Two years of lockdowns, chip shortages and energy cuts have finally caught up with the iPhone maker."
+        },
+        {
+            "headline": "Attack methods are developed to steal passwords and data by using Wi-Fi chips and Bluetooth chips installed in billions of smartphones as a trigger.",
+            "content": "Research teams at the University of Darmstadt in Germany and the University of Brescia in Italy have revealed a method that enables password extraction and..."
+        },
+        {
+            "headline": "Top 18 DevOps Companies in the World",
+            "content": "The global DevOps market has several major players including International Business Machines (IBM) Corporation, Microsoft Corporation, Oracle Corporation, CA..."
+        }
+    ],
+    "20211215": [
+        {
+            "headline": "TSMC's top ten customers have been revealed with Apple coming in at number one and accounting for a Quarter of their Revenue",
+            "content": "A new report has exposed TSMC's top 10 revenue contributors with Apple shown as their number one customer by a wide margin."
+        }
+    ],
+    "20211216": [],
+    "20211217": [
+        {
+            "headline": "In the room where it happens: Ex-Qualcomm attorney Don Rosenberg talks legal battles in big tech",
+            "content": "After a 45-year career as the top corporate lawyer at IBM, Apple and Qualcomm, Don Rosenberg has plenty of stories to tell about the legal battles in big..."
+        }
+    ],
+    "20211218": [],
+    "20211219": [],
+    "20211220": [
+        {
+            "headline": "Cybersecurity company ZeroFox acquires IDX, merges with L&F to create $1.4 billion entity",
+            "content": "SaaS cybersecurity company ZeroFox said on Monday that it has completed a deal to acquire digital privacy protection platform IDX and merge with special..."
+        }
+    ],
+    "20211221": [
+        {
+            "headline": "Wi-Fi 6/6E chips crunch may ease with 16nm process node",
+            "content": "Delivery lead times for Wi-Fi 6/6E core chips still last six months to one year although such chips are given shipment priority at vendors amid tight..."
+        },
+        {
+            "headline": "4x400G MSA targets 1.6 Tbps via OSFP-XD",
+            "content": "Arista Networks, Broadcom, Intel, Molex, and AOI have announced formation of the 4x400G Multi-Source Agreement (MSA). The group plans to develop..."
+        }
+    ],
+    "20211222": [
+        {
+            "headline": "Is Broadcom Stock A Buy As It Reaches All-Time Highs? (NASDAQ:AVGO)",
+            "content": "Third, the company trades for 19.5x 2022 earnings, which is far cheaper than most other fast-growing tech companies. Bucking convention has paid off for..."
+        },
+        {
+            "headline": "Detecting Counterfeit ICs",
+            "content": "“Fake” chips present a huge issue for manufacturing companies trying to source ICs from non-traditional channels. One tool helps simplify the detection process."
+        }
+    ],
+    "20211223": [
+        {
+            "headline": "Raspberry Pi Maker Builds Time Machine Radio For His Dad And It's The Coolest Gift Ever",
+            "content": "Check out this old-timey radio built around a Raspberry Pi Zero W 2, which a modder plans to gift to his dad for Christmas."
+        }
+    ],
+    "20211224": [],
+    "20211225": [],
+    "20211226": [],
+    "20211227": [],
+    "20211228": [
+        {
+            "headline": "Intel X710-T2L A better Dual Port 10Gbase-T NIC Review",
+            "content": "In our Intel X710-T2L review, we see how this dual-port 10Gbase-T NIC lowers power consumption and adds 2.5GbE and 5GbE support."
+        }
+    ],
+    "20211229": [],
+    "20211230": [
+        {
+            "headline": "IPValue Management Subsidiary Future Link Systems Files ITC Patent Infringement Complaint",
+            "content": "IPValue Management Inc. (“IPValue”) announced today that its wholly owned subsidiary Future Link Systems, LLC (“FLS”) has filed a patent infringement."
+        },
+        {
+            "headline": "The biggest enterprise technology M&A deals of 2021",
+            "content": "This year has seen multiple billion-dollar-plus acquisitions in hardware, software, and services, as well as plenty of smaller, strategic merger activity in..."
+        }
+    ],
+    "20211231": [],
     "20220101": [],
     "20220102": [],
     "20220103": [],

@@ -1,4 +1,2238 @@
 {
+    "20211001": [
+        {
+            "headline": "How to Deploy AWS Config Conformance Packs Using Terraform",
+            "content": "by Jegan Sundarapandian and Chloe Goldstein on 01 OCT 2021 in Advanced (300), AWS Config, Configuration, compliance, and auditing, Management & Governance,..."
+        },
+        {
+            "headline": "Rivian details $1 billion loss, Amazon deal in IPO filing",
+            "content": "Rivian Automotive Inc., the maker of electric pickups backed by Amazon.com Inc., disclosed a net loss of almost $1 billion in the first half of the year."
+        },
+        {
+            "headline": "Is Amazon Stepping Into The Mortgage Industry? – NMP",
+            "content": "Currently, lenders find it daunting when trying to develop technologies that deliver great customer service and usability. Tech firms, on the other hand,..."
+        },
+        {
+            "headline": "Vandalia-Butler Schools asking for compensation in Amazon, Union property tax exemption",
+            "content": "UNION, Ohio (WKEF) -- The Vandalia-Butler City School District (VBCSD) is calling on the City of Union and Amazon for compensation due to a property tax..."
+        },
+        {
+            "headline": "Rivian Details $1 Billion Loss, Amazon Deal in IPO Filing",
+            "content": "Rivian Automotive Inc., the maker of electric pickups backed by Amazon.com Inc., disclosed a net loss of almost $1 billion in the first half of the year in..."
+        },
+        {
+            "headline": "Apple and Disney among companies backing groups against US climate bill",
+            "content": "Amazon and Microsoft also supporting lobby groups fighting legislation despite promises to combat climate crisis, analysis finds."
+        },
+        {
+            "headline": "8 of the best Halloween costumes from your favorite TV shows and movies",
+            "content": "Costume designing in Hollywood has only gotten bigger and better in recent years, with buzzy shows such as “Bridgerton” and “Gossip Girl” to blockbuster..."
+        },
+        {
+            "headline": "Want Amazon’s New $999 Invitation-Only Astro Robot? Here’s How to Request an Invite",
+            "content": "Amazon just announced its new Amazon Astro household robot, for sale at an introductory price of $999.99. But it's not for sale to just anyone — purchase of..."
+        },
+        {
+            "headline": "S.Korea broadband firm sues Netflix after traffic surge from 'Squid Game'",
+            "content": "South Korean Internet service provider SK Broadband has sued Netflix to pay for costs from increased network traffic and maintenance work because of a surge..."
+        },
+        {
+            "headline": "Running Adobe ColdFusion applications on Amazon ECS with blue/green deployments",
+            "content": "In this post, we will demonstrate how you can run your Adobe ColdFusion applications on Amazon Elastic Container Service (Amazon ECS) with AWS Fargate."
+        }
+    ],
+    "20211002": [
+        {
+            "headline": "Building A Security Culture With AWS",
+            "content": "In this spotlight, we focus on security, specifically developing a positive security culture within your business. We will also pull back the curtain to..."
+        },
+        {
+            "headline": "Amazon service great, except for with gift cards",
+            "content": "Dear Jeff Bezos: Here's what Amazon emailed me after a relatively small matter developed into a giant headache: “Your feedback is helping us build Earth's..."
+        },
+        {
+            "headline": "47 Products Any Homebody Will Probably Love",
+            "content": "1. A backrest pillow filled with memory foam that will support you more than when Netflix asks if you're still watching."
+        },
+        {
+            "headline": "Amazon: A case of mistaken identity",
+            "content": "Amazon.com Inc.'s India unit has been a victim of mistaken identity, drawing unflattering attention to its business and forcing the e-commerce giant to clarify."
+        },
+        {
+            "headline": "AWS Artist Series: Optimizing the environment with foliage",
+            "content": "The goal of this project was to create an industry-caliber film with heavy data sets to simulate how our customers work when creating feature films."
+        },
+        {
+            "headline": "EV truck maker Rivian plans in-house battery cell manufacturing",
+            "content": "Rivian Automotive: The startup, backed by Amazon.com Inc and Ford Motor Co, said in the filing that its own battery cells would \"complement third-party cell..."
+        },
+        {
+            "headline": "Jeff Bezos Praises Amazon Games for Its First Success with New World",
+            "content": "Jeff Bezos himself took to Twitter to praise the Amazon Games division for its first success with New World, the MMORPG launched on September 28th for PC (..."
+        },
+        {
+            "headline": "Super Retail Group Enhances the Customer Experience by Moving SAP to the AWS Cloud",
+            "content": "SRG successfully migrated and upgraded its 21 SAP applications to the AWS Cloud to simplify and automate its operations for business agility."
+        },
+        {
+            "headline": "33 Products To Organize The Chaotic Mess That Is Your Bedroom",
+            "content": "1. A set of six over-the-door shelves perfect for storing random accessories that are currently scattered all over your room."
+        },
+        {
+            "headline": "45 Tips & Tricks That'll Make Your Car Look Brand-New",
+            "content": "1. Revive your ghosted-over headlights with a headlight restoration kit so you won't have to shell out $100 at the local shop to pass inspection."
+        }
+    ],
+    "20211003": [
+        {
+            "headline": "Amazon’s New $10 Delivery Fee Comes With 1 Major Perk. But Very Few Know of It",
+            "content": "Amazon is changing a new $10 delivery fee for Whole Foods groceries, but it isn't actually changing what you pay. It's changing how you shop."
+        },
+        {
+            "headline": "Give Amazon and Facebook a seat at the United Nations",
+            "content": "Given the scope of their ambitions and our dependence on them, behemoth brands should be treated, and held to account, for what they really are: commercial..."
+        },
+        {
+            "headline": "Netflix star is gamblers' favorite to become the first Black 007",
+            "content": "Rege-Jean Page, the star of Netflix Inc.'s \"Bridgerton,\" is gamblers' current favorite to be the next James Bond, which would give the franchise its first..."
+        },
+        {
+            "headline": "10 TV Shows Like Amazon Prime's Modern Love",
+            "content": "Heartwarming, tear jerking, and charming are some of the adjectives viewers would use to describe the anthology series Modern Love."
+        },
+        {
+            "headline": "Can St. Joseph sell a house? Skip burying statue, priests say",
+            "content": "St. Joseph has long been understood as a patron of the home, but some priests say that you shouldn't bury his statue when trying to sell a house."
+        },
+        {
+            "headline": "26 Basic Pairs Of Boots You Can Hypothetically Wear Forever And Ever",
+            "content": "1. Chelsea boots that, despite having a generous heel, are comfortable enough to walk around in all darn day."
+        },
+        {
+            "headline": "Will you buy the Amazon Kindle Paperwhite 5?",
+            "content": "Amazon is going to be releasing two new Kindle models, the Kindle Paperwhite 5 in late October and the Kindle Paperwhite 5 Signature Edition in early..."
+        }
+    ],
+    "20211004": [
+        {
+            "headline": "Amazon team wins—and donates—$10,000 for designing new face mask",
+            "content": "Engineers and designers from around the world teamed up to create the Amazon PerfectFit Mask, a more effective and comfortable protective face mask in..."
+        },
+        {
+            "headline": "Simplifying B2B integrations with AWS Step Functions Workflow Studio | AWS Compute Blog",
+            "content": "This post introduces a customizable serverless architecture for B2B integrations. It explains how the solution works and how it can save you time in building B..."
+        },
+        {
+            "headline": "Amazon Rival Noon to Draw $2 Billion From PIF, Other Backers",
+            "content": "Amazon.com Inc's Middle Eastern rival Noon.com is set to draw as much as $2 billion in financing from investors including Saudi Arabia's sovereign wealth..."
+        },
+        {
+            "headline": "Amazon proposes new Loudoun warehouse, replacing an indoor sports facility",
+            "content": "While the applicant is listed as Amazon Data Services Inc., this is not a data center."
+        },
+        {
+            "headline": "Amazon has more Black and Hispanic employees than ever, but most people in top jobs are still white and male",
+            "content": "The top jobs at Amazon, the nation's second-largest employer, continue to go disproportionately to people who are white and male despite the company's pledges."
+        },
+        {
+            "headline": "Amazon’s new mobile shopping feature makes gifting convenient",
+            "content": "Amazon just launched a new feature that allows Prime members to instantly send gifts from their mobile devices, simply by providing the recipient's email or..."
+        },
+        {
+            "headline": "Prime Video gets into marketplace mode to grab a larger share of OTT pie",
+            "content": "Prime Video, the over-the-top (OTT) arm of Amazon Inc, is replicating the marketplace model that is the mainstay in its e-commerce business."
+        },
+        {
+            "headline": "Alexa Guard helped protect a family when smoke filled their home",
+            "content": "Rhett received an alert from Alexa Guard notifying him of a potential smoke alarm. He checked every camera in the house—and all he could see was smoke..."
+        }
+    ],
+    "20211005": [
+        {
+            "headline": "Visual monitoring of applications with Amazon CloudWatch Synthetics",
+            "content": "Monitoring application endpoints is a reliable way to measure availability. This best practice can be extended by adding synthetic monitoring to your..."
+        },
+        {
+            "headline": "Amazon CEO Says Video Games Could Become the Largest Entertainment Business",
+            "content": "Amazon.com Inc. had long struggled to make a good video game. Now that it finally has a hit release, the company is predicting a bright future for that..."
+        },
+        {
+            "headline": "Amazon Wants To Legalize Marijuana",
+            "content": "WASHINGTON — Amazon Inc., the Seattle, Wash., and Arlington, Va.-headquartered e-commerce giant, announced that it would support the national efforts to..."
+        },
+        {
+            "headline": "Amazon’s Holiday Rom-Com Series ‘With Love’ Sets Premiere Date",
+            "content": "The five, hour-long episode series will follow siblings Lily (Emeraude Toubia, Shadowhunters) and Jorge (Mark Indelicato, Ugly Betty) as they search for love..."
+        },
+        {
+            "headline": "Amazon Is Building a Smart Fridge That Monitors Your Buying Patterns",
+            "content": "An Amazon smart fridge would represent the company's continued expansion into consumers' homes with its own hardware."
+        },
+        {
+            "headline": "Digital secret Santa? Amazon launches new option for gift giving this holiday season",
+            "content": "Just in time for the holidays, Amazon Prime members who shop on the Amazon app can begin sending gifts, without the recipient's address."
+        },
+        {
+            "headline": "30 Beauty Products You Might Not Know You've Been Missing Out On",
+            "content": "Your new beauty obsession is just a click away..."
+        },
+        {
+            "headline": "Is the stock market open at 3 a.m.? This startup says it should be",
+            "content": "A startup trading platform is seeking approval from the Securities and Exchange Commission to launch the first U.S. stock exchange that would operate around..."
+        },
+        {
+            "headline": "Razer Basilisk V3 Review",
+            "content": "The Razer Basilisk V3 is an excellent mouse for FPS gaming. It feels well-built and has a right-handed shape suitable for all grip types and most hand sizes."
+        },
+        {
+            "headline": "35 Things You'll Probably Want If Cozy Home Vibes Are Your Love Language",
+            "content": "Gifts and hugs are nice, but fairy lights, the softest duvet cover, and a cottagecore night stand ="
+        }
+    ],
+    "20211006": [
+        {
+            "headline": "Amazon sued by warehouse workers over COVID-19 screening pay",
+            "content": "Amazon.com Inc has been accused of violating Colorado state law by failing to pay warehouse workers for time spent undergoing COVID-19 screenings before..."
+        },
+        {
+            "headline": "SunPower Deal Shows Why There's No Amazon.com of Solar Energy",
+            "content": "SunPower is narrowing its focus to selling and leasing solar power systems to the residential market. The company is buying privately held Blue Raven Solar,..."
+        },
+        {
+            "headline": "Hack of Amazon’s Twitch shows top gamers rake in six-figure payouts",
+            "content": "An anonymous hacker attacked Amazon.com's video game streaming platform Twitch and leaked a trove of data including Twitch's source code and a spreadsheet..."
+        },
+        {
+            "headline": "Rivian’s Electric Truck Gets All the Attention, But Its Fate Is Tied to Amazon",
+            "content": "For founder R.J. Scaringe, a 2019 endorsement from Jeff Bezos opened doors that even Elon Musk couldn't in the early days of Tesla."
+        },
+        {
+            "headline": "Amazon all in on back-to-the office",
+            "content": "Had the pandemic not upended the global economy, Shopify Inc. workers at a 70,000-square-foot downtown Vancouver office tower might have been prepping for a..."
+        },
+        {
+            "headline": "Twitch Hack Reveals How Much Revenue the Platform’s Biggest Streamers Make",
+            "content": "Amazon.com Inc.-owned Twitch Interactive, the videogame streaming platform, said Wednesday it suffered a data breach, with information leaked on the online..."
+        },
+        {
+            "headline": "Chuggington Toys, My Squishy Littles, & More New Product",
+            "content": "An all-new toy line featuring the star characters of the popular international preschool series Chuggington: Tales From the Rails in stores for Holiday 2021..."
+        },
+        {
+            "headline": "EU lawmaker says U.S. tech giants should be regulated where they are based",
+            "content": "U.S. tech giants such as Apple , Google, Facebook and Amazon should be regulated by the EU country where they are based under proposed EU rules,..."
+        },
+        {
+            "headline": "Amazon bets on Black Friday deals in early holiday shopping push",
+            "content": "Amazon.com Inc (AMZN.O) on Monday became the latest online retailer hoping to entice consumers to shop early for the holidays, announcing discounts similar..."
+        }
+    ],
+    "20211007": [
+        {
+            "headline": "Field Notes: How to Build an AWS Glue Workflow using the AWS Cloud Development Kit",
+            "content": "In this blog post, you will learn how to build an AWS Glue workflow using Amazon Simple Storage Service (Amazon S3), various components of AWS Glue, AWS..."
+        },
+        {
+            "headline": "Amazon's Twitch blames configuration error for data breach",
+            "content": "Twitch, a live streaming e-sports platform owned by Amazon.com Inc , on Wednesday blamed \"an error\" in server configuration change that might have allowed..."
+        },
+        {
+            "headline": "Amazon building massive robotics fulfillment center and delivery station in Elkhart County",
+            "content": "After months of speculation, Amazon announced it's building a new delivery center along the Toll Road in Elkhart County. It will include a robotic Amazon..."
+        },
+        {
+            "headline": "Amazon Delivery Partners Rage Against the Machines: ‘We Were Treated Like Robots’",
+            "content": "Small delivery firms lured by the prospect of making $300000 a year say Amazon's algorithms make it hard to survive—let alone prosper."
+        },
+        {
+            "headline": "Rivian’s Electric Truck Gets All the Attention, but Fate Is Tied to Amazon",
+            "content": "On Oct. 1, Rivian shared new details of the Amazon deal in a filing with the U.S. Securities and Exchange Commission, revealing how closely its fate is tied..."
+        },
+        {
+            "headline": "Amazon to open new fulfillment center at former Sears location in Grove",
+            "content": "Amazon is working to open its new fulfillment center at the former Sears location near East 18th Street and South Broadway Street."
+        },
+        {
+            "headline": "The 1 Word That Explains Why People Trust Google More than Amazon, Apple, or Microsoft",
+            "content": "The company viewed favorably by the largest number of people is Google. It's probably worth mentioning that the next brand on the list is YouTube, which is..."
+        },
+        {
+            "headline": "5 Things To Know About 'No Time To Die' Star Lashana Lynch, The First Black And Female 007",
+            "content": "The 25th James Bond movie “No Time To Die” will be the last movie in the franchise to star Daniel Craig. The movie is also setting a few firsts thanks to..."
+        },
+        {
+            "headline": "Keeping Australian data safe and secure",
+            "content": "Amazon Web Services (AWS) is delighted to share we have achieved Strategic Hosting Provider certification under the Australian Government's Hosting..."
+        },
+        {
+            "headline": "Amazon sued by warehouse workers over COVID-19 screening pay",
+            "content": "Amazon.com Inc has been accused of violating Colorado state law by failing to pay warehouse workers for time spent undergoing COVID-19 screenings before..."
+        }
+    ],
+    "20211008": [
+        {
+            "headline": "We Also Make Games: AWS’ First Internal O3DE Game is Now Available! | Amazon Web Services",
+            "content": "Author(s): Starr Shaw, Technical Artist for O3DE / John Kennedy, Head of Product for Amazon Lumberyard and O3DE. Developers like code."
+        },
+        {
+            "headline": "You Can Now Order a Hyundai on Amazon",
+            "content": "Amazon.com/Hyundai. No, we're not kidding. You can now order a Hyundai on Amazon. If you have Prime, it will show up at your doorstep within 24 hours in a..."
+        },
+        {
+            "headline": "Amazon CEO Andy Jassy Says These 7 Words From a Foo Fighters Song Are the Secret to Success",
+            "content": "\"You need blind faith/no false hope.\" These two lines from the Foo Fighters song \"Congregation\" describe how to launch a successful company."
+        },
+        {
+            "headline": "Critical Role’s ‘Legend of Vox Machina’ Series Premiere Date Set on Amazon Prime Video",
+            "content": "Gear up for some boozin' and brawlin' animated adventuring, Critters: “The Legend of Vox Machina” series from Critical Role will storm onto Amazon Prime..."
+        },
+        {
+            "headline": "Amazon, Apple, HBO hit Culver City in streaming war",
+            "content": "The Los Angeles area now has the third-biggest high-tech workforce on the West Coast, behind the San Francisco Bay Area and Seattle, according to a report..."
+        },
+        {
+            "headline": "Running GPU-based container applications with Amazon ECS Anywhere",
+            "content": "Tens of thousands of customers have already migrated their on-premises workloads to the cloud for the past decade, however we've also seen a number of..."
+        },
+        {
+            "headline": "KISS' Paul Stanley – 'This Whole Cancel Culture Is So Dangerous'",
+            "content": "Simmons and Stanley offered their thoughts during a fan Q&A."
+        },
+        {
+            "headline": "25 Whimsical Gifts For the Majestic Unicorn-Lovers in Your Life",
+            "content": "We rounded up the most magical unicorn-themed gifts on the market. Let them channel their inner unicorn awesomeness with cute unicorn-inspired beauty and..."
+        },
+        {
+            "headline": "Paul Marshall and Ian Wace’s Stock Picks: Biogen Inc (BIIB), Apple Inc (AAPL) and More",
+            "content": "In this article, we discuss Paul Marshall and Ian Wace's 10 stock picks: Biogen Inc (BIIB), Apple Inc (AAPL) and More based on Q2 holdings of the fund."
+        },
+        {
+            "headline": "Scale Cloud Adoption on AWS | AXA Video",
+            "content": "AXA turned to Amazon Web Services (AWS) to overcome this challenge by implementing a custom global landing zone using AWS services and best practices."
+        }
+    ],
+    "20211009": [
+        {
+            "headline": "Amazon Customer Admits $290K Returns Scam, Faces 20 Years in Jail",
+            "content": "Hudson Hamrick, of North Carolina, pleaded guilty to buying Amazon products and then returning cheaper ones over a period of several years."
+        },
+        {
+            "headline": "37 Ways To Hide All The Eyesores In Your Home",
+            "content": "1. Pour your off-brand liquor into a glass decanter because nobody needs to know you get your whiskey at Costco. Amazon. Get it from Amazon for $16.99."
+        },
+        {
+            "headline": "Amazon Fire TV Stick 4K Max Vs. Stick 4K: Should You Spend $55 Or $50?",
+            "content": "The Fire TV Stick 4K Max and Stick 4K are almost identical — but the former has a few key upgrades that are really difficult to overlook."
+        },
+        {
+            "headline": "Boeing joins Kraken, Climate Pledge Arena in environmental efforts",
+            "content": "Boeing said the initiative expands on the more than $10 million the company has contributed to environmental efforts and education in the last five years."
+        },
+        {
+            "headline": "50 Things You Probably Won't Regret Buying",
+            "content": "There's a super soft pair of joggers in here you'll likely want for snuggle season."
+        },
+        {
+            "headline": "39 Products People Say Are Basically “Witchcraft”",
+            "content": "Now, I can't guarantee that no spells, potions, or enchantments were used in the making of this post..."
+        }
+    ],
+    "20211010": [
+        {
+            "headline": "Immediate steps that Asia-Pacific governments can take to decarbonize via the cloud",
+            "content": "Here are four overarching lessons for APAC policymakers: 1. Adopting cloud-first policies and promoting cloud migration has immediate decarbonization benefits."
+        },
+        {
+            "headline": "Some Tijuana locals say they're hopeful about a new Amazon warehouse that social media users called dystopian",
+            "content": "Amazon's newest fulfillment center in Tijuana, Mexico made headlines after it opened in September and put the neighboring community of Nueva Esperanza in the..."
+        },
+        {
+            "headline": "33 Affordable Products Reviewers Say Are \"Unbelievable\"",
+            "content": "The Squatty Potty, a carpet spot cleaner, and more wow-worthy products that impressed reviewers."
+        },
+        {
+            "headline": "AWS Introduces Static IP Addresses for Application Load Balancer",
+            "content": "Amazon recently announced that the Application Load Balancer supports AWS PrivateLink and static IP addresses by direct integration with the Network Load..."
+        },
+        {
+            "headline": "Samsung, SK Hynix to pay corporate taxes to foreign countries",
+            "content": "South Korea's chipmaking giants Samsung Electronics Co. and SK Hynix are set to pay hundreds of millions of dollars in corporate taxes to foreign countri."
+        },
+        {
+            "headline": "The First 10 Things You Should Always Buy For Your New Car",
+            "content": "You should never leave the dealership without a plan for these 10 things your new car will need."
+        },
+        {
+            "headline": "24 Car Products That Must've Been Designed By Geniuses",
+            "content": "Accessories for the sun, snow, car cargo, and more."
+        },
+        {
+            "headline": "28 Fall Shoes That Really Were Made For Walking",
+            "content": "1. Floral-print sneakers if you're tired of wearing your chunky white kicks for everything. This low-profile style goes great with dresses, jeans, and..."
+        },
+        {
+            "headline": "20 Beauty Products That People Say Work Just As Well As Their Pricier Counterparts",
+            "content": "1. Stila eyeliner with a precise tip that helps you line your eyes with smudgeproof perfection (versus the slightly more dynamic design of the double-tipped..."
+        },
+        {
+            "headline": "32 Products Reviewers Say Actually Helped Clear Up Their Hyperpigmentation",
+            "content": "These gels, creams, serums, and scrubs will lighten dark spots on your face, chest, legs, armpits, and more."
+        }
+    ],
+    "20211011": [
+        {
+            "headline": "Work with an AWS Partner | AWS Partner Network",
+            "content": "Learn more about the benefits of the AWS Partner Network and working with AWS Partners in your cloud adoption journey."
+        },
+        {
+            "headline": "Amazon offering teams more flexibility as we return to office",
+            "content": "Today, CEO Andy Jassy sent the following message to Amazon's employees:"
+        },
+        {
+            "headline": "How Ring's Founder Created A Doorbell Worth $1 Billion To Amazon",
+            "content": "Before Jamie Siminoff sold his Ring doorbell company to Amazon.com , he hustled. And he's still thinking like an entrepreneur."
+        },
+        {
+            "headline": "Jeff Bezos's Viral Tweet Is Only 38 Words, but It Teaches a Master Class in How to Handle Criticism",
+            "content": "The Amazon founder's tweet shows how to deal with criticism, using an emotionally intelligent approach."
+        },
+        {
+            "headline": "Jeff Bezos Reflects on 'Amazon.bomb'",
+            "content": "Barron's published the cover story on May 31, 1999, laying out the case that Amazon stock would struggle as investors clamored for profits amid rising..."
+        },
+        {
+            "headline": "How to use domain with Amazon SES in multiple accounts or regions",
+            "content": "Sometimes customers want to use their email domain with Amazon Simples Email Service (Amazon SES) across multiple accounts, or the same account but across..."
+        },
+        {
+            "headline": "Elon Musk Is the World’s Richest Person. He Likes to Brag to Jeff Bezos About It, Too.",
+            "content": "Mr. Musk replied to Amazon founder on Twitter with a silver medal emoji, an apparent reference to their wealth."
+        },
+        {
+            "headline": "With Just 8 Words, Elon Musk Exposed a Brutal Truth About Jeff Bezos’s Space Ambitions",
+            "content": "Elon Musk responded to a lawsuit filed by fellow billionaire Jeff Bezos's Blue Origin, telling Kara Swisher that \"you cannot sue your way to the moon.\""
+        },
+        {
+            "headline": "Game On! Baazi Games Builds Enhanced Cyber Defenses with AWS Security Services",
+            "content": "Baazi Games turned to Amazon Web Services (AWS) to bolster its security defense and make its IT infrastructure more resilient."
+        },
+        {
+            "headline": "Build, tune, and deploy an end-to-end churn prediction model using Amazon SageMaker Pipelines",
+            "content": "This post discusses how you can orchestrate an end-to-end churn prediction model across each step: data preparation, experimenting with a baseline model and..."
+        }
+    ],
+    "20211012": [
+        {
+            "headline": "Secure content using CloudFront Functions",
+            "content": "In this post, we take you through the steps to build a custom security workflow using CloudFront Functions to prevent video content from unauthorized external..."
+        },
+        {
+            "headline": "Many Amazon corporate employees may stay 'mostly remote'",
+            "content": "Amazon CEO Andy Jassy told the company's office workers in a memo that decisions about returning to the office would vary from team to team. Amazon.com Inc."
+        },
+        {
+            "headline": "Big Tech Could Emerge From Coronavirus Crisis Stronger Than Ever (Published 2020)",
+            "content": "Amazon is hiring aggressively to meet customer demand. Traffic has soared on Facebook and YouTube. And cloud computing has become essential to home workers."
+        },
+        {
+            "headline": "We are Google and Amazon workers. We condemn Project Nimbus",
+            "content": "We cannot support our employer's decision to supply the Israeli military and government technology that is used to harm Palestinians."
+        },
+        {
+            "headline": "How Alexa makes the Emerald Forest even more enchanting",
+            "content": "For guests staying at Scott Harlan's treehouse or visiting his \"climb-in\" theater in Washington state, Alexa-enabled devices light a path through the woods,..."
+        },
+        {
+            "headline": "Amazon and Walmart brace for crucial Diwali showdown",
+            "content": "E-commerce: The rivalry between Amazon and Flipkart peaks during Diwali, with both offering steep discounts on everything from smartphones and sports..."
+        },
+        {
+            "headline": "Simplify data integration pipeline development using AWS Glue custom blueprints | AWS Big Data Blog",
+            "content": "June 2023: This post was reviewed and updated for accuracy. August 2021: AWS Glue custom blueprints are now generally available."
+        },
+        {
+            "headline": "How Big Tech Won the Pandemic (Published 2021)",
+            "content": "A year ago even the tech giants were anxious. Now they have so much money it's awkward."
+        }
+    ],
+    "20211013": [
+        {
+            "headline": "Amazon India rolls out ‘Delivering Smiles’ initiative to enable access of digital devices for disadvantaged students",
+            "content": "Contributes 20,000 new devices to impact over 100,000 students. Calls upon customers and employees to join hands, contribute to reduce the digital divide in..."
+        },
+        {
+            "headline": "Amazon copied products and rigged search results to promote its own brands, documents show",
+            "content": "Amazon.com Inc has been repeatedly accused of knocking off products it sells on its website and of exploiting its vast trove of internal data to promote its..."
+        },
+        {
+            "headline": "Amazon Seeks Used Long-Range Cargo Jets",
+            "content": "Amazon .com Inc. is shopping for used long-range Boeing Co. and Airbus SE cargo planes, according to people familiar with the matter, the latest evidence of..."
+        },
+        {
+            "headline": "Amazon Seeks Used Long-Range Cargo Jets Able to Fly From China",
+            "content": "Amazon.com Inc. is shopping for used long-range Boeing Co. and Airbus SE cargo planes, according to people familiar with the matter, the latest evidence of..."
+        },
+        {
+            "headline": "Former Amazon exec Anna Fabrega named Freshly CEO - Bizwomen",
+            "content": "I-Chun Chen, Staff Reporter Oct 13, 2021, 6:04am PDT. Freshly 2. Freshly. Freshly is a healthy meal delivery service known for nutrient-packed dishes."
+        },
+        {
+            "headline": "Amazon Fresh store pops up in North Seattle",
+            "content": "Amazon.com Inc. (Nasdaq: AMZN) is opening another Amazon Fresh store in Seattle, its third in the Puget Sound region. The store, still being finished but..."
+        },
+        {
+            "headline": "Officials confirm Woodbury's 'Project Belle' is an Amazon distribution center",
+            "content": "A rendering shows the 517,000-square-foot office and warehouse facility Ryan Cos. US, Inc. is planning for Woodbury for Amazon. Ryan Cos. US, Inc."
+        }
+    ],
+    "20211014": [
+        {
+            "headline": "SmartNews Case Study - Amazon Web Services (AWS)",
+            "content": "SmartNews Inc., operates “SmartNews”- a news app developed in Japan, and its services are now available in more than 150 countries around the world."
+        },
+        {
+            "headline": "Amazon confirms massive distribution plans for Pasco",
+            "content": "Amazon Inc. confirmed Sept. 16 that it will open two distribution centers, each more than 1 million square feet, on South Road 40 East, north of Sacajawea..."
+        },
+        {
+            "headline": "“Ready, Set, Play” Amazon’s Holiday Kids Gift Book is here!",
+            "content": "Get a jump on joy with Amazon's 2021 Holiday Kids Gift Book, packed with over 90 colorful pages of gifts and activities for kids—including an interactive..."
+        },
+        {
+            "headline": "Catrice Cosmetics ending ULTA partnership to focus on DTC & Amazon in 2022",
+            "content": "European color cosmetics brand Catrice Cosmetics has announced a shake-up to its retail strategy for 2022, with the company focusing on making it products..."
+        },
+        {
+            "headline": "Real estate record reveals Amazon closes on buying former Eastland Mall site in North Versailles",
+            "content": "Transaction record shows what may be Amazon's first direct real estate buy of a property for a new distribution center in the region after working with..."
+        },
+        {
+            "headline": "Create and reuse governed datasets in Amazon QuickSight with new Dataset-as-a-Source feature",
+            "content": "This post walks through an example of how QuickSight makes it easy to create datasets that are reusable and easy to govern, with Dataset-as-a-source."
+        },
+        {
+            "headline": "Why The Rolling Stones Nixed ‘Brown Sugar’ From Set List After 50 Years",
+            "content": "In a new interview with the LA Times, Keith Richards and Mick Jagger explain why they removed it from their set list after nearly 50 years."
+        },
+        {
+            "headline": "The Milestone Achievement of Amazon in Reinstating the Status Quo of Party Autonomy in Domestic and International Commercial Arbitrations",
+            "content": "The dispute before the Supreme Court of India between Amazon.Com NV Investment Holdings LLC (Amazon) and Future Retail Ltd. (FRL) stemmed from Amazon's move..."
+        },
+        {
+            "headline": "Oklahoma, What Kind of Weird Porn Are You Looking Up?",
+            "content": "An interesting map of the most common searches on Pornhub by state. Now 90% of these are pretty typical. Nothing shocking whatsoever."
+        }
+    ],
+    "20211015": [
+        {
+            "headline": "Amazon Scholars and Amazon Visiting Academics use AWS to accelerate research",
+            "content": "Amazon Scholars and Amazon Visiting Academics come from all around the globe to innovate in research areas including, using cloud services like machine..."
+        },
+        {
+            "headline": "Amazon Challenges Record $865 Million EU Data-Protection Fine",
+            "content": "Amazon.com Inc. appealed a record 746 million-euro ($865 million) penalty for allegedly violating the European Union's tough data-protection rules."
+        },
+        {
+            "headline": "LaserShip names Mike Roth, top Amazon logistics executive, interim CEO: Source",
+            "content": "LaserShip, which is poised to acquire fellow regional carrier OnTrac for about $1.3 billion, has named Mike Roth, a longtime Amazon.com Inc. operations..."
+        },
+        {
+            "headline": "Comedian Steve Treviño to perform in El Paso this weekend",
+            "content": "Comedian Steve Treviño will perform in El Paso this weekend at the El Paso Comic Strip. Steve Treviño is fast becoming one of the country's hottest comics..."
+        },
+        {
+            "headline": "Real estate record reveals Amazon closes on buying former Eastland Mall site in North Versailles",
+            "content": "What's been an open secret for months now is fully confirmed with a public record: Amazon.com is now the full deed owner of the former Eastland Mall..."
+        },
+        {
+            "headline": "Amazon copied products, rigged search results to promote its own brands: Report",
+            "content": "The documents reveal how Amazon's private-brands team in India secretly exploited internal data from Amazon.in to copy products sold by other companies."
+        },
+        {
+            "headline": "Amazon’s Ring Camera Has an Eavesdropping Problem",
+            "content": "Up until two years ago, a British scientist named Dr. Mary Fairhurst lived in a brick house at the end of a quaint road of connected homes in Oxfordshire,..."
+        },
+        {
+            "headline": "The best way to buy Amazon shares has a Canadian twist. Plus, why caution is necessary with oil stocks",
+            "content": "You'll hardly recognize the version of Amazon.com Inc. shares that trade on Canada's NEO Exchange. Only about 30,863 shares changed hands one day earlier..."
+        },
+        {
+            "headline": "Building Australia’s future in the cloud",
+            "content": "Alliance SI has developed a reputation for quality in network and electrical engineering, which saw it become a supplier of choice for data centre services..."
+        }
+    ],
+    "20211016": [
+        {
+            "headline": "40 Random But Useful Products That Are Actually Worth Buying",
+            "content": "Heel caps to prevent shoes from sinking into grass, bikini line sheet masks, and more things you won't want to pass up on."
+        },
+        {
+            "headline": "Your Go-To List of Gluten-Free Candy",
+            "content": "Look to this list of gluten-free candy, such as M&Ms, Snickers bars, Skittles, and more that is safe for people with celiac disease or sensitivities."
+        },
+        {
+            "headline": "31 Pieces Of Fall Clothing You Can Wear Into Winter",
+            "content": "1. A ribbed knit tunic that screams fall and winter aesthetics thanks to an oversized, ultra-comfortable style — one that can be worn as a minidress with..."
+        }
+    ],
+    "20211017": [
+        {
+            "headline": "A blueprint for private and public sector partnership to stop counterfeiters",
+            "content": "The Amazon Counterfeit Crimes Unit highlights successes and outlines how government and business can work together to hold counterfeiters accountable."
+        },
+        {
+            "headline": "The fragile internet is a threat to the economy",
+            "content": "It has been a rough few months for the internet. In June, Fastly Inc.'s content delivery network failure forced some of the world's biggest e-commerce and..."
+        },
+        {
+            "headline": "24 Low-Maintenance Pet Costumes Your Fur Baby *Might* Not Hate",
+            "content": "1. An Ewok-esque costume to easily slip over your pup so they join in on the Star Wars-themed festivities you have planned for this Halloween."
+        },
+        {
+            "headline": "35 Dresses That Are Just So Darn Cute They Deserve A Trophy",
+            "content": "Someone's gotta win the Dress Olympics, and these are all going for the gold."
+        },
+        {
+            "headline": "19 Accessories To Help You Make A Halloween Costume From Your Own Clothing",
+            "content": "1. A deer antler headband that'll turn you into a cute forest animal in seconds. Pair it with a brown outfit, maybe some faux fur, and voilà!"
+        }
+    ],
+    "20211018": [
+        {
+            "headline": "Setting up Amazon Managed Grafana cross-account data source using customer managed IAM roles",
+            "content": "In this blog post, we explain how to set up Amazon Managed Grafana to retrieve metrics from Amazon Managed Service for Prometheus and Amazon CloudWatch from..."
+        },
+        {
+            "headline": "Amazon Hiring for 150,000 Seasonal Jobs to Help Deliver Great Holiday Experiences",
+            "content": "Amazon continues to provide diverse employment opportunities for people of all backgrounds and skill levels, announcing today 150000 seasonal jobs ar."
+        },
+        {
+            "headline": "As it embarks on nationwide hiring spree, Amazon opens huge shipping facility in Austin area",
+            "content": "E-commerce giant Amazon.com Inc. has completed its 3.8-million-square-foot fulfillment center in the Austin suburb of Pflugerville."
+        },
+        {
+            "headline": "Amazon is hiring for 150,000 seasonal jobs across the U.S.",
+            "content": "Seasonal roles offer an average starting pay of $18 per hour, sign-on bonus up to $3000, and an additional $3 per hour depending on shifts in many locations..."
+        },
+        {
+            "headline": "Amazon Dangles $3,000 Bonus In Battle To Hire Holiday Help",
+            "content": "Amazon is ramping up its holiday hiring, looking to bring on 150,000 seasonal employees to help it handle a surge in online orders heading into the..."
+        },
+        {
+            "headline": "U.S. bill would stop Big Tech favoring its own products",
+            "content": "About a dozen U.S. senators from both parties on Monday formally introduced a bill that would bar Big Tech platforms, like Amazon and Alphabet's Google,..."
+        },
+        {
+            "headline": "Amazon’s Zoox Expands Testing to Seattle for the Rain and Talent",
+            "content": "Amazon.com Inc.'s self-driving unit Zoox will start testing autonomous cars in Seattle, bringing the robotaxi maker closer to its parent company."
+        },
+        {
+            "headline": "Amazon plans to hire 150,000 temporary workers for the holidays",
+            "content": "Amazon plans to add 150000 temporary workers in the United States for the holiday shopping rush, a 50% increase from the company's holiday hiring push a..."
+        },
+        {
+            "headline": "Apple to Expand Culver City Presence, Add Jobs",
+            "content": "Cupertino-based tech giant Apple Inc. has plans to grow its presence in Los Angeles with new office space that will serve as the company's regional."
+        },
+        {
+            "headline": "Fragile internet is threat to economy",
+            "content": "By Tae Kim It has been a rough few months for the internet. In June, Fastly Inc.'s content delivery network failure forced some of the world's biggest..."
+        }
+    ],
+    "20211019": [
+        {
+            "headline": "Economic impact for small businesses, powered by partnership with Amazon",
+            "content": "Amazon made a bet two decades ago to embrace third-party sellers—and the bet is paying off for both customers and small businesses, according to Amazon's..."
+        },
+        {
+            "headline": "New – AWS Data Exchange for Amazon Redshift",
+            "content": "We are making it even easier for you to find, subscribe to, and use third-party data with the introduction of AWS Data Exchange for Amazon Redshift."
+        },
+        {
+            "headline": "Five U.S. lawmakers accuse Amazon of possibly lying to Congress following Reuters report",
+            "content": "Five members of the U.S. House Judiciary committee wrote to Amazon.com Inc's chief executive Sunday, and accused the company's top executives,..."
+        },
+        {
+            "headline": "Judge Dismisses Amazon Class Action Lawsuit Over Video Ownership",
+            "content": "A California judge has dismissed a class action lawsuit against Amazon, saying the plaintiff lacks standing to sue, according to the dismissal."
+        },
+        {
+            "headline": "360 Reality Audio Now Available on Amazon Music Unlimited with Any Headphones",
+            "content": "Sony Electronics Inc. today announced it will expand 360 Reality Audio distribution, content, and compatible devices, including support from Amazon Music..."
+        },
+        {
+            "headline": "Inside 'Wheel of Time,' Amazon’s Huge Gamble on the Next 'Game of Thrones'",
+            "content": "As legend has it, a few years back, Jeff Bezos demanded that his team at Amazon Studios create a fantasy epic that would put 'Game of Thrones' to shame."
+        },
+        {
+            "headline": "Amazon to hire 500 employees for its soon-to-open Fife warehouse",
+            "content": "The Puyallup Tribe of Indians, which owns the land, green-lit the project, citing the tech giant's commitment to the environment. Amazon.com Inc. is looking..."
+        },
+        {
+            "headline": "How to log out of the Amazon app or website on any device",
+            "content": "You can log into Amazon on all sorts of devices, from phones to computers to tablets. But there are multiple ways to log in, that also means that there's..."
+        },
+        {
+            "headline": "Amazon plans to hire 150,000 for holiday, 50% more than in 2020",
+            "content": "Amazon.com Inc. plans to hire 150000 seasonal staffers, about 50% more than last year as the company seeks a cushion of workers to help it meet demand..."
+        },
+        {
+            "headline": "AWS Pricing Calculator now supports Amazon CloudFront",
+            "content": "Amazon CloudFront is now supported by the AWS Pricing Calculator. Estimate the cost of CloudFront workloads, which primarily includes costs associated with..."
+        }
+    ],
+    "20211020": [
+        {
+            "headline": "How Amazon Achieves Near-Real-Time Renewable Energy Plant Monitoring to Optimize Performance Using AWS",
+            "content": "As part of the goal to reach net-zero carbon emissions by 2040, Amazon is on a path to powering its operations with 100 percent renewable energy by..."
+        },
+        {
+            "headline": "Announcing the AWS Partner Network’s Regional 2021 Partners of the Year",
+            "content": "We honor members of the AWS Partner Network (APN) who are leaders in the channel and play key roles in helping customers drive innovation and build solutions..."
+        },
+        {
+            "headline": "How automated reasoning helps Amazon S3 innovate at scale",
+            "content": "One of the biggest lessons we've learned as S3 has grown is the power of building tools that help our engineers write correct software up front and to catch..."
+        },
+        {
+            "headline": "Amazon EC2 Auto Scaling will no longer add support for new EC2 features to Launch Configurations",
+            "content": "This post is written by Scott Horsfield, Principal Solutions Architect, EC2 Scalability and Surabhi Agarwal, Sr. Product Manager, EC2."
+        },
+        {
+            "headline": "Computer Vision at the Edge with AWS Panorama",
+            "content": "Today, the AWS Panorama Appliance is generally available to all of you. The AWS Panorama Appliance is a computer vision (CV) appliance designed to be..."
+        },
+        {
+            "headline": "Amazon's Zoox expanding self-driving car testing operations",
+            "content": "Amazon announced its plans to expand its self-driving car operations to Seattle by 2022, according to Tech Crunch. Zoox said the company will open an..."
+        },
+        {
+            "headline": "Amazon Stock: Step-By-Step Valuation (NASDAQ:AMZN)",
+            "content": "Anybody with average knowledge is able to judge the investment attractiveness of a particular company. See my step-by-step process with AMZN as an example."
+        },
+        {
+            "headline": "Amazon Australia reveals its top 100 holiday toys of 2021 and a limited-edition holiday colouring book",
+            "content": "In partnership with Starlight Children's Foundation, Amazon Australia has released its annual top 100 Holiday Toy List, along with a limited edition Holiday..."
+        },
+        {
+            "headline": "Investing in Microsoft Stock (MSFT)",
+            "content": "Microsoft Corp. (MSFT), one of the world's biggest tech companies, sells personal computing devices, cloud systems and services, and software."
+        },
+        {
+            "headline": "San Antonio edition of Monopoly to soon hit the shelves",
+            "content": "SAN ANTONIO -- Move over Boardwalk and Marvin Gardens, and say hello to the Alamo and Japanese Tea Garden. San Antonio now has its own version of Monopoly..."
+        }
+    ],
+    "20211021": [
+        {
+            "headline": "Amazon says US marketplace sellers sold 3.8 billion products in past 12 months",
+            "content": "Amazon marketplace sellers saw average sales rise 16.6% from a year earlier, according to the 2021 Amazon Small Business Empowerment Report."
+        },
+        {
+            "headline": "Investing in mentorship and community for Black-owned businesses",
+            "content": "Newest benefit for Amazon's Black Business Accelerator will help connect Black-owned businesses with a dedicated network of peers, mentors, and thought..."
+        },
+        {
+            "headline": "92-year-old Arlington Community High School will get a permanent home at Amazon's HQ2",
+            "content": "Amazon is planning to create a permanent home for Arlington Community High School in its next phase of HQ2 construction, slated to be built in Pentagon City..."
+        },
+        {
+            "headline": "New book details life of The Carpenters",
+            "content": "A new book about the duo, The Carpenters, shares things not heard before. Mike Cidoni Lennox, a former 13WHAM reporter, wrote it, and it's different from..."
+        },
+        {
+            "headline": "How to write and edit Amazon reviews, and find or delete your reviews",
+            "content": "You can review products you've bought on the desktop or mobile version of Amazon. Once published, you can go back in and edit, if needed."
+        },
+        {
+            "headline": "Former Amazon HR Worker Awarded More Than $300,000 in Wrongful Firing Case",
+            "content": "A Santa Ana woman who said her hopes to have a long career in human resources at Amazon.com Inc. were stymied when she was targeted for disparate treatment..."
+        },
+        {
+            "headline": "Police: Man disguised himself as woman to record girls in restroom",
+            "content": "WRENTHAM, Mass. (WJAR) — A man donned a blonde wig and dressed as a woman so he could secretly record girls and women in a Massachusetts mall's restroom,..."
+        },
+        {
+            "headline": "How Amazon changed shopping forever (and what’s coming next)",
+            "content": "From two-day shipping to check-out free stores, Amazon keeps resetting customer expectations--and changing the game for all retail."
+        },
+        {
+            "headline": "36 Products With Review Photos That Are Somewhat Disgusting But Totally Satisfying",
+            "content": "1. A hand cream that'll make your skin so smooth you'll forget you once had hands as dry as your humor. Severely cracked, dry hands from eczema."
+        },
+        {
+            "headline": "How this farmer's Amazon career helps him feed his community",
+            "content": "\"One family, one piece of land, and one big dream to make this place a better place\" is the vision for Amazon area manager Juwan Page of Lamar, Mississippi."
+        }
+    ],
+    "20211022": [
+        {
+            "headline": "Seattle’s Climate Pledge Arena makes history",
+            "content": "The venue is expected to be the first net-zero carbon certified arena in the world."
+        },
+        {
+            "headline": "Getting started with healthcare data lakes: A deeper dive on Amazon Cognito",
+            "content": "In this blog post, I focus on improving our security posture by incorporating the relatively new Attribute Based Access Control (ABAC) feature of Amazon..."
+        },
+        {
+            "headline": "Climate Pledge Arena holds ribbon cutting ceremony ahead of opening weekend",
+            "content": "SEATTLE - Friday night is officially opening night at the Climate Pledge Arena. The arena is the new home of the NHL Seattle Kraken and the WNBA Seattle..."
+        },
+        {
+            "headline": "2022 Rivian Amazon Prime Van Model Names and Trims Revealed",
+            "content": "A VIN document post to a Rivian forum reveals additional details on the futuristic Rivian Amazon Prime all-electric delivery van."
+        },
+        {
+            "headline": "Coupang Stock: A Deeper Dive Into The Amazon Comparison (NYSE:CPNG)",
+            "content": "Coupang is often compared to Amazon due to its massive end-to-end e-commerce operation that utilizes a network of fulfillment centers. Read more here."
+        },
+        {
+            "headline": "Is a big Whole Foods distribution center on its way to the Austin suburbs?",
+            "content": "Whole Foods Market Inc., one of Austin's largest and most prominent local companies, appears to be on the verge of building a massive distribution center in..."
+        },
+        {
+            "headline": "DC Comics Introduces First Trans Amazon In 'Wonder Woman' Series",
+            "content": "Bia, a Black trans woman, was introduced in the first issue of the DC Comics series Nubia & The Amazons, out this week."
+        },
+        {
+            "headline": "Improve your data science workflow with a multi-branch training MLOps pipeline using AWS",
+            "content": "by Bruno Klein on 22 OCT 2021 in Amazon SageMaker, AWS CodeBuild, AWS CodeCommit, AWS CodePipeline, AWS Service Catalog, Technical How-to Permalink Comments..."
+        },
+        {
+            "headline": "22 Movies On Amazon Prime All Romantics Need To See",
+            "content": "Whatever kind of romance fan you are, these movies on Amazon Prime will definitely have you swooning."
+        },
+        {
+            "headline": "Sennheiser CX Plus True Wireless Review",
+            "content": "The Sennheiser CX Plus True Wireless are good for commute and travel. They're portable, well-built, and have a breathable as well as a fairly comfortable fit."
+        }
+    ],
+    "20211023": [
+        {
+            "headline": "New vaccination hub opens in Downtown Seattle at Amazon Meeting Center, more sites to come",
+            "content": "The new vaccine clinic inside the Amazon Meeting Center at 2031 7th Avenue will be open Saturdays and Sundays from 9:30 am to 3:30 pm for the next eight..."
+        },
+        {
+            "headline": "Inside Amazon's largest warehouse - where you'll find 10 robots for every human",
+            "content": "Amazon's biggest, newest warehouse, with more robots than ever, brings America closer to an automated future when machines do all the work of moving everything."
+        },
+        {
+            "headline": "What Walgreens isn’t saying: Store closures show a strategic shift to survive in the age of Amazon",
+            "content": "Crime is one reason for Walgreens to close S.F. stores. But e-commerce, Amazon, labor and..."
+        },
+        {
+            "headline": "First Trans Amazon introduced by DC Comics In ‘Wonder Woman’",
+            "content": "DC Comics-Warner Brothers became more LGBTQ+ inclusive with the introduction of the character of Bia, a Black trans woman."
+        },
+        {
+            "headline": "How to See Your Product Viewing History on Amazon",
+            "content": "Ever been shopping on Amazon and decided you wanted a second look at an item you found earlier? Amazon remembers all the products you've viewed so you don't..."
+        },
+        {
+            "headline": "24 Problem-Solving Products If Pet Fur Is Your Arch Nemesis",
+            "content": "1. A grooming rake that'll loosen fur, lighten your dog's undercoat, and prevent future mats. This brush is specifically designed for pooches with thick, dense..."
+        }
+    ],
+    "20211024": [
+        {
+            "headline": "36 Products That’ll Make Old Things Look New Again",
+            "content": "Time to breathe new life into your scratched-up wooden dresser or your favorite shirt with that huge stain on it."
+        },
+        {
+            "headline": "Here Are The Coolest Mods For Your Ford Focus ST",
+            "content": "A Focus ST is a fun, affordable, quick hatchback with plenty of room for modifications, and these are the best of them!"
+        },
+        {
+            "headline": "46 Problem-Solving Products That'll Make You Think \"Oh That's Genius\"",
+            "content": "Not you feeling like a legit wizard with this electric lighter and wine headache-preventing drops."
+        }
+    ],
+    "20211025": [
+        {
+            "headline": "Amazon’s plan to serve customers this holiday season",
+            "content": "Amazon is investing across its supply chain to deliver for customers this holiday season. An Amazon delivery driver stands for a photo in front of his delivery..."
+        },
+        {
+            "headline": "Why moving to the cloud should be part of your sustainability strategy | Amazon Web Services",
+            "content": "Moving enterprise and public sector IT workloads from on-premises data centers to the cloud can reduce energy consumption and associated carbon emissions by..."
+        },
+        {
+            "headline": "Amazon accidentally makes a case for its own regulation",
+            "content": "Amazon is facing proposed regulation in Congress from an unusual bipartisan group concerned about its size and market power."
+        },
+        {
+            "headline": "Amazon Brings Alexa to Senior Living Communities and Healthcare Systems with Alexa Smart Properties",
+            "content": "Amazon announced new Alexa Smart Properties solutions to enable senior living and healthcare providers to integrate Alexa into their properties."
+        },
+        {
+            "headline": "A Hard-Hitting Investigative Report Into Amazon Shows That Workers’ Needs Were Neglected In Favor Of Getting Goods Delivered Quickly",
+            "content": "A New York Times investigative report delved into allegations that Amazon has been systematically shortchanging workers on their paychecks."
+        },
+        {
+            "headline": "Amazon signals holiday shipping readiness despite supply chain crunch",
+            "content": "Amazon indicated Monday that it is prepared to handle an influx of orders during the busy holiday shopping season despite a supply chain shortage that has..."
+        },
+        {
+            "headline": "Amazon.com Inc. opening 16th distribution facility, at building just east of downtown",
+            "content": "The facility looks to be a \"last-mile\" delivery station, an industry term signifying the final step of the shipping process — vital to faster deliveries..."
+        },
+        {
+            "headline": "Mark Cuban Stock Portfolio: 10 Stocks To Consider",
+            "content": "Some of the top stocks in the investment portfolio of Mark Cuban include Amazon.com, Inc. (NASDAQ:AMZN), Netflix, Inc. (NASDAQ:NFLX), and Twitter, Inc. (NYSE:..."
+        },
+        {
+            "headline": "Schnitzer West plans another Bellevue office tower",
+            "content": "Amazon.com's plans to add 25,000 employees to Bellevue by 2025 has set off a frenzy among developers, with Schnitzer West the latest to propose a tower: a..."
+        }
+    ],
+    "20211026": [
+        {
+            "headline": "Announcing the opening of the AWS Center for Quantum Computing | Amazon Web Services",
+            "content": "A state-of-the-art facility in Pasadena, California, where we are embarking on a journey to build a fault-tolerant quantum computer."
+        },
+        {
+            "headline": "Amazon releases free cybersecurity awareness training",
+            "content": "Amazon CEO Andy Jassy attended the White House's Cyber Summit with President Joe Biden and other tech leaders in August to discuss how the private and..."
+        },
+        {
+            "headline": "North Las Vegas police investigate fatal crash involving Amazon box truck",
+            "content": "North Las Vegas Police are investigating a fatal crash Tuesday evening involving an Amazon truck and a motorcycle. At approximately 8:00 p. m. , officers..."
+        },
+        {
+            "headline": "3 Customer Experience Lessons Brands Can Learn From Amazon",
+            "content": "In this article, we'll discuss the lessons that brands can learn from Amazon to improve the customer experience."
+        },
+        {
+            "headline": "Amazon's new Kindle Paperwhite: Why I like reading books on this more than my phone or tablet",
+            "content": "Amazon is releasing its latest ebook reader, the Kindle Paperwhite, on Oct. 27. Here's why the new Amazon device is worth the upgrade."
+        },
+        {
+            "headline": "Newly renovated Amazon warehouse in Simi Valley sells for $128M",
+            "content": "A 290,220-square-foot industrial distribution center in Ventura County that was recently renovated by Amazon.com Inc. has sold for $128 million."
+        },
+        {
+            "headline": "Big Retailers Becoming Big Property Owners With Warehouse Deals",
+            "content": "Retail giants like Amazon.com Inc. and Costco Wholesale Corp. think they have found a way to boost their e-commerce operations and save money: Own the..."
+        },
+        {
+            "headline": "The World of Hello Kitty Expands in New 3D Series from Kids First & Amazon Kids+",
+            "content": "Kids First today announced its first-ever collaboration with Amazon Kids+ on an original children's program based on Hello Kitty. The two companies are..."
+        },
+        {
+            "headline": "Amazon Verizon 5G LEO Expansion Claims Altruistic Aim",
+            "content": "Verizon Communications Inc. and Project Kuiper (from Amazon.com Inc.) revealed an expansion of their existing partnership today. They've suggested that they..."
+        },
+        {
+            "headline": "Nashville Yards developer unveils five new retail tenants for Amazon tower",
+            "content": "Nashville Yards' first Amazon tower opened mid-summer. Now, lead developer Southwest Value Partners is unveiling five new tenants for the building."
+        }
+    ],
+    "20211027": [
+        {
+            "headline": "Amazon backs new companies focused on low-carbon technology",
+            "content": "The Climate Pledge Fund, a $2 billion investment program, announces new investments in Resilient Power, CMC Machinery, and Infinium."
+        },
+        {
+            "headline": "How iProperty.com.my accelerates property-based ML model delivery with Amazon SageMaker",
+            "content": "In this post, we discuss those challenges and how the iProperty.com.my Data Science team automated their workflows using Amazon SageMaker."
+        },
+        {
+            "headline": "Data Vault Holdings Inc. Appoints Ed Cushing Chairman to the Advisory Board",
+            "content": "NEW YORK, Oct. 27, 2021 /PRNewswire/ -- Data Vault Holdings Inc. announces the formation of its advisory board and appointed Ed Cushing, Global Ac..."
+        },
+        {
+            "headline": "Amazon invests in Italian automated packaging machines maker",
+            "content": "Amazon , through its Climate Pledge Fund, has bought a minority stake in Italy's CMC Machinery, a company with technology that makes custom-sized boxes that..."
+        },
+        {
+            "headline": "Uber, DoorDash, Lyft and Amazon could face billions in fines if they mislead over wages, FTC official warns",
+            "content": "Some of the biggest names in the gig economy could face significant fines — perhaps in the billions of dollars — if they're found to have violated moneymaking..."
+        },
+        {
+            "headline": "Musk and Bezos are now worth almost half a trillion dollars",
+            "content": "The combined net worth of Elon Musk and Jeff Bezos approached $500 billion on Wednesday, fueled by the unrelenting rally in Tesla Inc. shares and a broad..."
+        },
+        {
+            "headline": "Use Amazon EC2 for cost-efficient cloud gaming with pay-as-you-go pricing",
+            "content": "This post shows a way to stream video games from the AWS Cloud to your local machine. I will demonstrate how you can provision a powerful gaming machine with..."
+        },
+        {
+            "headline": "Echo Frames are making it easier to stay connected and engaged",
+            "content": "New features and colors make Echo Frames smart glasses more stylish and adaptive, and make it easier than ever for you to stay connected and engaged..."
+        },
+        {
+            "headline": "Elon Musk's Wealth Has Increased So Much, He Could Buy Every MLB, NBA, NFL And NHL Team",
+            "content": "The rise in valuation of Tesla Inc (NASDAQ: TSLA) shares has increased the wealth of its CEO, generating some incredible stories of just how rich Elon Musk..."
+        },
+        {
+            "headline": "Accelerating serverless development with AWS SAM Accelerate",
+            "content": "Building a serverless application changes the way developers think about testing their code. Previously, developers would emulate the complete..."
+        }
+    ],
+    "20211028": [
+        {
+            "headline": "AWS launches new quantum computing center",
+            "content": "Amazon Web Services (AWS) Center for Quantum Computing opens new facility at the California Institute of Technology with the aim of building a bigger,..."
+        },
+        {
+            "headline": "Running Windows Containers with Amazon ECS on AWS Fargate",
+            "content": "In this blog post, we will walk through the following steps to deploy a Windows container to Amazon ECS on AWS Fargate."
+        },
+        {
+            "headline": "Prime Gaming and Riot Games Team Up to Bring In-Game Content for Riot Games’ Biggest Titles, Esports Sponsorship, and More",
+            "content": "Amazon Prime members can claim in-game offers for League of Legends, Legends of Runeterra, VALORANT, and League of Legends: Wild Rift, and emotes for..."
+        },
+        {
+            "headline": "'More distinct character': Amazon reveals changes to proposed design for next phase of HQ2",
+            "content": "In response to community feedback and concerns, Amazon is revealing some changes to its proposal for the next phase of HQ2 construction in Arlington."
+        },
+        {
+            "headline": "How To Invest In Amazon Stock: 7 Steps",
+            "content": "Investors wanting to buy Amazon stock should understand the company's financial position, assess its potential, and learn how to place an order for shares..."
+        },
+        {
+            "headline": "MANG? MAANA? Now that Facebook is Meta, what comes after FANG?",
+            "content": "The 'F' in FANG (Facebook, Amazon, Netflix, and Alphabet - parent of Google) is no longer applicable after the social media giant changed its name to Meta."
+        },
+        {
+            "headline": "Watch Apple, Amazon Fall After Reporting Disappointing Results",
+            "content": "Apple Inc. and Amazon.com Inc. fell in after-hours trading. Apple tumbled as much as 5% after its revenue missed expectations, hurt by supply constraints."
+        },
+        {
+            "headline": "Amazon unveils advanced sort centre in Coteau-du-Lac, Quebec",
+            "content": "E-commerce retailer Amazon has opened its new advanced sort centre in Coteau-du-Lac, Quebec, which will help it to better serve its customers in Eastern Canada."
+        },
+        {
+            "headline": "Amazon scammers deliver free unordered products to around one million UK homes",
+            "content": "Amazon scammers over one million UK homes are said to have experienced a new 'scam' that has resulted in them receiving free products from third-party sellers."
+        }
+    ],
+    "20211029": [
+        {
+            "headline": "Amazon labor shortage hinders one-day delivery ambitions",
+            "content": "Labor shortages have cut into Amazon.com Inc's plan to make one-day delivery standard for members of its Prime loyalty club, delaying its bid to cement its..."
+        },
+        {
+            "headline": "Amazon Stake in Rivian Disclosed as 20%",
+            "content": "Amazon .com Inc. owns a 20% stake in electric vehicle maker Rivian Automotive Inc., the startup with which it has placed an order for 100000 battery-powered..."
+        },
+        {
+            "headline": "Apple, Amazon Losses Top $160 Billion After Results: Tech Watch",
+            "content": "Apple Inc. and Amazon.com Inc. shed more than $160 billion in combined market value after the technology giants served notice of a difficult holiday season..."
+        },
+        {
+            "headline": "Meet Anthony Robson, one of the Amazon employees behind Astro",
+            "content": "Learn more about how the Astro team built the new home robot that's unlike any other."
+        },
+        {
+            "headline": "Supply chain nightmares are doing what regulators and rivals can’t: Slow Amazon down",
+            "content": "Amazon has taken a hit from a pair of immovable forces: snarled supply chains and worker shortages. The company's third-quarter earnings and sales fell well..."
+        },
+        {
+            "headline": "Amazon holds 20% stake in Irvine-based Rivian as IPO nears",
+            "content": "By Ed Ludlow and Matt Day | Bloomberg. Amazon.com owns a 20% stake in electric-vehicle maker Rivian Automotive, the Irvine-based startup with which it has..."
+        },
+        {
+            "headline": "Fairfax city’s Amazon Fresh store is one step closer to opening",
+            "content": "The store is slated to open at the Point 50 shopping center."
+        },
+        {
+            "headline": "Amazon reveals 20% stake in electric-vehicle maker Rivian",
+            "content": "Amazon holds a 20% stake in electric-vehicle maker Rivian Automotive, the e-commerce giant disclosed in a securities filing Friday."
+        },
+        {
+            "headline": "Amazon Boosted Workforce by 75% During Covid — And It’s Still Hiring",
+            "content": "Amazon.com Inc.'s global workforce surged almost 75% during the pandemic to help keep up with torrid demand, and the e-commerce giant is still facing..."
+        },
+        {
+            "headline": "GameStop chief operating officer Owens leaves after 7 months",
+            "content": "GameStop Corp , the company whose stock became a sensation with day traders this year, said on Friday that Jenna Owens agreed to leave, just seven months..."
+        }
+    ],
+    "20211030": [
+        {
+            "headline": "Amazon Introduces RDS Custom for Legacy and Custom Oracle Databases",
+            "content": "Amazon recently announced RDS Custom, a managed database service for legacy and custom applications that need access to the underlying operating system and..."
+        },
+        {
+            "headline": "36 Pieces Of Clothing If You're Trying To Build A Capsule Wardrobe",
+            "content": "Presenting pieces you'll wear at least, hmm, nine times a week."
+        },
+        {
+            "headline": "How to reset an Amazon Echo so you can donate it to friends or family",
+            "content": "Amazon Echo smart speakers can be reset by pressing a combination of buttons on the device itself, so if you're planning on passing your Echo on to someone..."
+        },
+        {
+            "headline": "New World is not 'client authoritative,' says Amazon",
+            "content": "Claims that exploits were possible because of reliance on client-side data have been rebutted."
+        }
+    ],
+    "20211031": [
+        {
+            "headline": "22 Products That Reviewers Say Saved Their Dying Houseplants",
+            "content": "1. A bottle of organic plant food specifically formulated for houseplants. The lid doubles as a measuring cup, so no need to make a mess trying to measure..."
+        },
+        {
+            "headline": "Amazon warehouse in Markham now up and running",
+            "content": "Sunday was the first day of work at Amazon's fulfillment center in Markham. The Markham facility is one of two open in the south suburbs, with the other in..."
+        },
+        {
+            "headline": "Toy Review: Disney Villains Dolls and Disney Style Series by Hasbro",
+            "content": "Hasbro's new line of Disney Villains dolls are wicked fun for kids, plus the first Disney Villain in the Disney Style Series is fashion-forward Cruella De..."
+        },
+        {
+            "headline": "15 deals on Amazon devices to shop for Alexa’s birthday right now",
+            "content": "It includes superb deals on all of your favorite Amazon devices. Some of these devices include the Echo Dot, Echo Frames, Fire TV Stick and more."
+        },
+        {
+            "headline": "COVID-19: Study Finds Conspiracy Theorists More Likely to Catch Virus",
+            "content": "Researchers from the Netherlands found that economic and social well-being was also impacted by the belief in COVID-19 conspiracy theories."
+        },
+        {
+            "headline": "How to Enable / Disable Dark Mode Theme on DuckDuckGo",
+            "content": "Want to change the browser color theme on the DuckDuckGo.com search engine to a dark theme or light theme? It's easy to adjust the appearance to dark or light..."
+        }
+    ],
+    "20211101": [
+        {
+            "headline": "Automating AWS Security Hub Alerts with AWS Control Tower lifecycle events",
+            "content": "by Jason Cornick on 01 NOV 2021 in Amazon CloudWatch, AWS CloudFormation, AWS CloudTrail, AWS Config, AWS Control Tower, AWS Organizations,..."
+        },
+        {
+            "headline": "Project Kuiper announces plans and launch provider for prototype satellites",
+            "content": "Amazon's Project Kuiper will launch two satellites by Q4 2022 on ABL Space Systems' all-new RS1 rocket."
+        },
+        {
+            "headline": "What could disrupt Amazon?",
+            "content": "A government mandated separation, divestment and/or limits on Amazon's cloud computing, retail, media, credit card and/or in-house product groups."
+        },
+        {
+            "headline": "How Do Wage Increases Affect Amazon (AMZN) Stock?",
+            "content": "Wages have been a hot topic recently in the United States. Many businesses are advertising $15-per-hour starting pay. But it doesn't match what Amazon.com,..."
+        },
+        {
+            "headline": "Who's building the metaverse?",
+            "content": "Facebook changed its name last week to Meta Platforms Inc to signal its focus on the metaverse, which it thinks will be the successor to the mobile..."
+        },
+        {
+            "headline": "Amazon Fresh is coming to Prince William County",
+            "content": "Amazon.com Inc. will redevelop a former Kmart store in Manassas into an Amazon Fresh grocery store, according to plans and permits submitted to Prince..."
+        },
+        {
+            "headline": "Rivian attracts Blackstone to IPO of up to $8.4 billion",
+            "content": "Rivian Automotive Inc., the electric truck maker backed by Amazon.com Inc., plans to raise as much as $8.4 billion in an initial public offering."
+        },
+        {
+            "headline": "Smart thermostat pioneer ecobee, facing growing threats from Amazon, sells to U.S. generator maker for up to $770-million",
+            "content": "Ecobee Inc. has had a complicated relationship with Amazon. AMZN-Q -0.70%decrease. over the years. The smart thermostat pioneer counted the internet giant..."
+        },
+        {
+            "headline": "Amazon, Sleep Number lease industrial spaces in Greater Cincinnati",
+            "content": "An aerial of Springdale Commerce Park. Amazon.com and Sleep Number have both signed leases for space in the park. Strategic Capital Partners/PCCP."
+        }
+    ],
+    "20211102": [
+        {
+            "headline": "Get started with RStudio on Amazon SageMaker",
+            "content": "In this post, we show you how to bring your RStudio Workbench licenses into License Manager, how to set up RStudio on SageMaker, and how to administer RStudio..."
+        },
+        {
+            "headline": "Amazon continues to advocate for higher federal and state minimum wages",
+            "content": "Encouraged by the positive impact of the company's $15 minimum starting wage on employees and their families, Amazon encourages policymakers and companies..."
+        },
+        {
+            "headline": "Amazon CEO Andy Jassy Just Taught Every CEO a Powerful Leadership Lesson. Here's What You Can Learn From Him",
+            "content": "Profits are down nearly 50 percent, but Jassy tells Wall Street: Sorry not sorry."
+        },
+        {
+            "headline": "Amazon wants to open a new office building in Jersey City",
+            "content": "Amazon.com Inc. is looking to add office space in New Jersey as it expands in the New York City region. The e-commerce giant is close to a deal for roughly..."
+        },
+        {
+            "headline": "Inc. Names Pattern One of America’s Best-Led Companies",
+            "content": "Pattern, the category leader in global ecommerce acceleration, has been named to Inc.'s first annual Best-Led Companies list."
+        },
+        {
+            "headline": "Facebook will shut down facial recognition system",
+            "content": "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos,..."
+        },
+        {
+            "headline": "Elon Musk offers $6B if UN can prove how it will solve world hunger",
+            "content": "Elon Musk, the richest person in the world, says he will sell $6 billion worth of Tesla stock and donate the proceeds to the United Nations' food agency if..."
+        },
+        {
+            "headline": "Amazon CloudFront introduces Response Headers Policies | Amazon Web Services",
+            "content": "Amazon CloudFront is a content delivery network (CDN) that delivers static and dynamic web content using a global network of edge locations."
+        },
+        {
+            "headline": "Elon Musk Is Even Wealthier Than Scrooge McDuck, Tony Stark And Jay Gatsby",
+            "content": "The news that Elon Musk's wealth is greater than the combined wealth of Amazon.com (NASDAQ: AMZN) founder Jeff Bezos and Fac."
+        },
+        {
+            "headline": "Running 20k simulations in 3 days to accelerate early stage drug discovery with AWS Batch",
+            "content": "This post contributed by Christian Kniep, Sr. Developer Advocate for HPC and AWS Batch at AWS, Carsten Kutzner, staff scientist at the Max Planck Institute..."
+        }
+    ],
+    "20211103": [
+        {
+            "headline": "Introducing Amazon S3 shuffle in AWS Glue",
+            "content": "This post introduces a new Spark shuffle manager available in AWS Glue that disaggregates Spark compute and shuffle storage by utilizing Amazon Simple Storage..."
+        },
+        {
+            "headline": "Most Amazon shoppers have eyes only for Amazon",
+            "content": "Prime Membership translates to revenue and online loyalty for Amazon. 88% of online shoppers start (and end) their shopping on Amazon.com."
+        },
+        {
+            "headline": "How Alexa can help you create a smarter, healthier home",
+            "content": "Amazon Smart Air Quality Monitor offers a simple way to check your indoor air quality."
+        },
+        {
+            "headline": "Amazon to hire full-time positions in El Paso",
+            "content": "Amazon is hiring more than 500 full-time positions ahead of the launch of its new El Paso fulfillment center, stated a news release."
+        },
+        {
+            "headline": "Inside Amazon’s Worst Human Resources Problem (Published 2021)",
+            "content": "A year ago, Tara Jones, an Amazon warehouse worker in Oklahoma, cradled her newborn, glanced over her pay stub on her phone and noticed that she had been..."
+        },
+        {
+            "headline": "More than 140,000 Amazon drivers to be repaid nearly $60 million in alleged withheld tips",
+            "content": "After reaching a settlement with the FTC, the tech giant Amazon now has to pay back over $60 million in alleged withheld tips from Flex drivers."
+        },
+        {
+            "headline": "Amazon.com Inc. leases new shipping facility short walk from monster Mt. Juliet hub",
+            "content": "The building, on 89 acres of land, is near an almost 100-foot-tall shipping hub that Amazon opened this summer."
+        },
+        {
+            "headline": "Jeff Bezos Sells $2 Billion of Amazon Stock After Food, Nature Pledge",
+            "content": "Jeff Bezos sold about $2 billion of Amazon.com Inc. stock after pledging that amount this week for restoring nature and transforming food systems as part of..."
+        },
+        {
+            "headline": "Amazon Workspaces review",
+            "content": "Affordable and easy to deploy virtual systems accessible with almost any platform across the globe. What it lacks are the management tools for large scale..."
+        },
+        {
+            "headline": "Amazon FamilyFlex helps bring more parents back to the workplace",
+            "content": "Amazon FamilyFlex provides new and existing hourly employees flexible work options, comprehensive benefits, additional care options, and financial resources..."
+        }
+    ],
+    "20211104": [
+        {
+            "headline": "Focus: Amazon takes another swipe at union as Alabama rematch looms",
+            "content": "Earlier this year, Amazon.com Inc handily defeated a historic union drive at a warehouse in Bessemer, Alabama. But with the prospect of another vote looming..."
+        },
+        {
+            "headline": "Amazon celebrates Native American Heritage Month",
+            "content": "Amazon's Indigenous affinity group—an inclusive community of Indigenous employees and allies— is dedicated to making an internal and external impact that..."
+        },
+        {
+            "headline": "Amazon Again? Site work is underway on the West Plains",
+            "content": "Site work has started on another Amazon-like fulfillment center, code named Project Gray, along south Hayford Road on the West Plains, permit applications..."
+        },
+        {
+            "headline": "Amazon Boosted Workforce by 75% During Covid — And It’s Still Hiring",
+            "content": "Amazon.com Inc.'s global workforce surged almost 75% during the pandemic to help keep up with torrid demand, and the e-commerce giant is still facing shortages..."
+        },
+        {
+            "headline": "Prime Gaming and Electronic Arts Collaborate to Bring Players Free Games and In-Game Content for…",
+            "content": "Amazon Prime members can claim popular EA titles, including Dragon Age: Inquisition, Need for Speed: Hot Pursuit Remastered and in-game content for Apex..."
+        },
+        {
+            "headline": "Amazon buys Robinson Ranch land, reveals timeline for new warehouse",
+            "content": "Public filings show the Seattle-based e-commerce closed on the land in late October. The company had previously submitted an application to the city of..."
+        },
+        {
+            "headline": "This Founder Cut Ties With Amazon Based on a Tip From His Dad. Now the Business Is Thriving--and With Better Margins",
+            "content": "Don't hesitate in the face of hard decisions, says Whisker CEO Brad Baxter and his dad Jim Baxter."
+        },
+        {
+            "headline": "Amazon launches new technology to support military spouses",
+            "content": "Amazon introduces tool to help military spouses maintain their careers at Amazon when their partners need to move on military orders."
+        },
+        {
+            "headline": "U.S. judge rejects Blue Origin challenge to NASA's pick of SpaceX moon lander",
+            "content": "A federal judge on Thursday rejected a lawsuit by Jeff Bezos' space company Blue Origin against the US government over NASA's decision to award a $2.9 billion..."
+        },
+        {
+            "headline": "Google to invest $1 bln in CME Group, agrees cloud computing deal",
+            "content": "Alphabet Inc's Google has invested $1 billion in CME Group and has struck a separate deal to move the futures exchange operator's trading systems to the..."
+        }
+    ],
+    "20211105": [
+        {
+            "headline": "Migrate from SQL Server to Amazon Aurora using Babelfish",
+            "content": "Enterprise customers have repeatedly told us they want to migrate to open-source databases such as PostgreSQL. You can choose from several different ways to..."
+        },
+        {
+            "headline": "Jeff Bezos Raises $3.3 Billion by Selling Amazon Stock This Week",
+            "content": "Jeff Bezos sold Amazon.com Inc. stock worth $1.3 billion on Friday, adding to sales of about $2 billion earlier this week."
+        },
+        {
+            "headline": "Amazon opening 3 new retail stores, including one in Columbia",
+            "content": "Amazon.com Inc. has three brick-and-mortar retail stores slated to open soon in the region. The e-commerce giant will open an Amazon 4-star location at The..."
+        },
+        {
+            "headline": "Apple and Amazon ML/AI leads to speak on accessibility at Sight Tech Global 2021",
+            "content": "Sensors and data are proliferating. Whether it's from a phone, a car or smart home devices, astonishing amounts of data fuel the work of researchers and."
+        },
+        {
+            "headline": "FAANG is Dead. Long Live MANAMANA",
+            "content": "MANAMANA incorporates eight consumer technology companies ranging from $300 billion in market capitalization (Netflix) up to $2.5 trillion (Microsoft)."
+        },
+        {
+            "headline": "Run AlphaFold v2.0 on Amazon EC2",
+            "content": "In this post, I provide you with step-by-step instructions on how to install AlphaFold on an EC2 instance with Nvidia GPU."
+        },
+        {
+            "headline": "40 of the Best Random Things to Buy on Amazon in 2021",
+            "content": "Random things to buy on Amazon are a dime a dozen—so how do you know which ones are actually worth your money? We've rounded up a list of 40..."
+        },
+        {
+            "headline": "Allegro Makes $1 Billion East Europe Expansion to Rebuff Amazon",
+            "content": "Poland's dominant e-commerce platform, Allegro.eu SA, agreed to buy a Czech peer for $1 billion, gaining a foothold in promising east European markets at a..."
+        },
+        {
+            "headline": "9 Squid Game gifts for people who love the show (or squid)",
+            "content": "Getting your special someone (or yourself) a Squid Game-related gift is the perfect way to bond with your Gganbu this holiday season."
+        },
+        {
+            "headline": "Deep learning image vector embeddings at scale using AWS Batch and CDK",
+            "content": "by Filip Saina on 05 NOV 2021 in Advanced (300), Amazon DynamoDB, Amazon Machine Learning, Amazon Simple Storage Service (S3), AWS Batch, AWS Cloud..."
+        }
+    ],
+    "20211106": [
+        {
+            "headline": "41 Toddler Products You'll Want To Buy Immediately",
+            "content": "Rainbow blocks, snack catchers, a faucet extender, and other cool and useful things you didn't know you needed."
+        },
+        {
+            "headline": "Amazon Echo Show 10 vs Echo Show 8 (2nd generation): which smart display is for you?",
+            "content": "We've got all the details on how the two smart displays differ aside from the screen sizes, to help you decide which one to go for."
+        },
+        {
+            "headline": "17 Problem-Solving Products To Make Wearing A Face Mask With Glasses Easier",
+            "content": "All your chafing, foggy lenses, and sore ears are about to meet their match."
+        },
+        {
+            "headline": "40 Things That'll Make A Long Flight More Enjoyable",
+            "content": "1. A Trtl neck pillow that's 10 times more comfortable than those cheap, flimsy pillows you buy at the airport minutes before your flight."
+        }
+    ],
+    "20211107": [
+        {
+            "headline": "DENSO Case Study | Automotive",
+            "content": "DENSO Corporation used Amazon SageMaker to accelerate the creation of machine learning models for image recognition sensors in automobiles,..."
+        },
+        {
+            "headline": "Moots Technology Case Study | AWS Well-Architected",
+            "content": "Software solutions company Moots Technology used the AWS Well-Architected Tool to evaluate and implement risk mitigation and increase the functionality of..."
+        },
+        {
+            "headline": "Moneytree KK Case Study | AWS Marketplace",
+            "content": "Moneytree KK (Moneytree) seeks to help consumers “unlock the power of data for good” by offering a data-sharing solution built on Amazon Web Services (AWS)."
+        },
+        {
+            "headline": "Illumina Case Study | Genomics",
+            "content": "Illumina built complete genomic sequencing and analysis platforms on AWS, giving researchers across the globe affordable, regulation-compliant access to..."
+        },
+        {
+            "headline": "Zoox Case Study | Automotive",
+            "content": "Amazon independent subsidiary and autonomous vehicle company Zoox had to look beyond its on-premises infrastructure to run simulations that validate the..."
+        },
+        {
+            "headline": "Amazon's 5-story fulfillment center in Little Rock operates with 2,000 employees under direction of Arkansan",
+            "content": "It is hard to fathom how just cavernous the first Amazon.com fulfillment center in Arkansas is, regardless of the point from which it is viewed."
+        },
+        {
+            "headline": "Amazon’s Cloud’s New Boss Is Girding to Defend Turf in the Field Company Pioneered",
+            "content": "Adam Selipsky, in interview, says AWS aims to offer more cloud software as Microsoft and Google challenge its market dominance."
+        },
+        {
+            "headline": "Siemens Mobility Case Study | Manufacturing",
+            "content": "Siemens Mobility created a digital environment across its base of UK rolling stock. Railigent uses AWS building blocks for data-driven services that support..."
+        },
+        {
+            "headline": "What Are MAANG Stocks?",
+            "content": "MAANG is niether a new stock nor a new development, it is a rebranded name for the FAANG stocks as a result of Facebook's rebranding."
+        },
+        {
+            "headline": "18 Toys Trending On TikTok You May Just Want To *Add To Cart*",
+            "content": "1. A flying orb with flashing lights that'll float in the air or boomerang back to you leaving everyone in the room asking \"what is this sorcery?\""
+        }
+    ],
+    "20211108": [
+        {
+            "headline": "How Financial Institutions Can Innovate Faster with Virtusa’s Open Innovation Platform on AWS | Amazon Web Services",
+            "content": "Virtusa's Open Innovation Platform (OIP) is hosted on Amazon Web Services (AWS) and helps banks and financial services firms to achieve these goals quickly,..."
+        },
+        {
+            "headline": "David A. Zapolsky, Amazon’s General Counsel and Senior Vice President, to Speak at Kline Law",
+            "content": "Amazon's General Counsel David A. Zapolsky will speak at Drexel University's Thomas R. Kline School of Law on Tuesday, November 16."
+        },
+        {
+            "headline": "Amazon customers will be able to pay with Venmo next year",
+            "content": "Starting next year Amazon customers will be able to pay on Amazon.com and Amazon's mobile shopping app via Venmo, the mobile payment service owned by PayPal."
+        },
+        {
+            "headline": "'A huge thing for us': Amazon opens new delivery station in Lexington",
+            "content": "LEXINGTON, Ky. (LEX 18) — Amazon has opened a new facility in Lexington. The 141,000 square foot delivery station is located at 1180 Newtown Pike."
+        },
+        {
+            "headline": "Allegiant Collaborates With AWS To Take Its Customers To The Cloud",
+            "content": "PRNewswire/ -- Allegiant (NASDAQ: ALGT) today announced a five-year collaboration with Amazon Web Services (AWS), Inc., selecting AWS as its Preferred Cloud..."
+        },
+        {
+            "headline": "How Amazon helps military veterans and spouses reimagine their careers",
+            "content": "Amazon provides free skills training to help veterans and their spouses pursue in-demand cloud computing roles."
+        },
+        {
+            "headline": "What is drop shipping, and why is it everywhere online?",
+            "content": "Amazon and Shopify have made it easy to sell things online. How drop shipping got everywhere on the internet."
+        },
+        {
+            "headline": "Dodge previews two-year 'Never Lift' plan with giveaways, 'chief donut officer'",
+            "content": "The \"Never Lift\" campaign includes 16 announcements over 24 months ranging from big to small, Dodge CEO Tim Kuniskis said during a prerecorded virtual..."
+        },
+        {
+            "headline": "Mutual Fund Capital Gains Taxes Could Be a Handful",
+            "content": "Investors in actively managed mutual funds could be facing significant capital gains distributions in 2021 ... and thus capital gains taxes."
+        },
+        {
+            "headline": "Calgary, the city that offered to fight a bear for Amazon HQ2, gets new Amazon data centre",
+            "content": "Amazon Web Services (AWS), the IT service management arm of tech giant Amazon Inc., is set to open an infrastructure region in Calgary along with the launch..."
+        }
+    ],
+    "20211109": [
+        {
+            "headline": "Governor Ivey Announces Amazon Expands Alabama Investment with 4 New Operational Sites",
+            "content": "Governor Kay Ivey today announced that Amazon.com Inc. plans to open three new operations facilities in Alabama while also launching a new fulfilment center."
+        },
+        {
+            "headline": "Amazon Air joins the Sustainable Aviation Buyers Alliance (SABA)",
+            "content": "SABA announced the addition of an Aviators Group founded by Amazon Air and other top US air carriers such as Alaska Airlines, JetBlue, and United Airlines."
+        },
+        {
+            "headline": "Amazon Air arrives at Des Moines International Airport as company pushes toward same-day service",
+            "content": "Amazon Air, the air cargo carrier for the Seattle-based e-commerce giant, began daily cargo service Tuesday at Des Moines International Airport."
+        },
+        {
+            "headline": "Amazon to open East Coast supply chain hub in Stafford",
+            "content": "Amazon.com Inc. will establish a new cross-dock fulfillment center in Stafford County, creating 500 jobs, which will serve as an East Coast hub, Gov."
+        },
+        {
+            "headline": "Even with Amazon’s unlimited money, Amazon Games has limitations",
+            "content": "Geoff Keighley and Mike Frazzini chat about Amazon Games, the launch of New World, and what's in the future for the developer."
+        },
+        {
+            "headline": "Amazon's three new facilities in Alabama will create 900 jobs",
+            "content": "Amazon says it plans to open three new facilities in Alabama including a second delivery station in Birmingham, a warehouse in Montgomery and a fulfillment..."
+        },
+        {
+            "headline": "5 Charts on General Electric's Fall From Grace",
+            "content": "Seasoned investors may have forgotten--and newer investors may find it hard to believe--but two decades ago, General Electric GE was the most valuable..."
+        },
+        {
+            "headline": "Honoring Veteran Delivery Service Partners",
+            "content": "Will Boyd, Damon D'Arienzo, and Dallas Ketchum have grown successful delivery businesses as Amazon Delivery Service Partners (DSPs)."
+        },
+        {
+            "headline": "EU court rejects Amazon court bid",
+            "content": "Amazon.com Inc. lost the court bid to prevent the EU antitrust regulators and Italy running parallel investigations over the way the retail giant selects its..."
+        }
+    ],
+    "20211110": [
+        {
+            "headline": "Measure and Improve Your Application Resilience with AWS Resilience Hub",
+            "content": "Resilience Hub detects the resources created by these stacks that might affect the resilience of my applications and I select the ones I want to include or..."
+        },
+        {
+            "headline": "Affirm shares bounce on new Amazon deal and strong guidance",
+            "content": "Shares in Affirm Holdings Inc. bounced in after-hours trading today after the payments company announced an expanded deal with Amazon.com Inc. and predicted..."
+        },
+        {
+            "headline": "The Newest 35,000-Square-Foot Amazon Fresh Store Signals Something Big . . . Really Big",
+            "content": "Amazon Fresh appears already to be gaining market share, and its newest store prototype in Illinois will only further accelerate that fact."
+        },
+        {
+            "headline": "Amazon warehouse opening delayed a second time, expected to open 2022",
+            "content": "The Amazon fulfillment center in Clay has moved its opening date for a second time, now saying it will open in quarter one of 2022."
+        },
+        {
+            "headline": "Under Armour Selects AWS as Its Preferred Cloud Provider for SAP Environments",
+            "content": "Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Under Armour, Inc. (NYSE: UA, UAA) has selected AWS."
+        },
+        {
+            "headline": "Rivian valued at over $100 bln in debut, after world's biggest IPO of 2021",
+            "content": "Shares of Rivian Automotive Inc surged as much as 53% in its Nasdaq debut on Wednesday, giving the Amazon-backed electric vehicle maker a market valuation..."
+        },
+        {
+            "headline": "Amazon considers Georgetown site for large warehouse",
+            "content": "Amazon.com Inc. is eyeing another large facility in Central Texas, this time on the far north side of the Austin metro."
+        },
+        {
+            "headline": "Rivian Briefly Tops $100 Billion Value, Then Eases in Debut",
+            "content": "Rivian Automotive Inc. rose 29% in its trading debut before giving up some of that gain, putting the electric truck maker's market value on par with General..."
+        },
+        {
+            "headline": "Rivian CEO sees annual production capacity of at least 1 mln vehicles before 2030",
+            "content": "Electric vehicle startup Rivian Automotive Inc plans to be building at least one million vehicles annually by the end of the decade, its chief executive..."
+        }
+    ],
+    "20211111": [
+        {
+            "headline": "Understanding how AWS Lambda scales with Amazon SQS standard queues | AWS Compute Blog",
+            "content": "Update March 21, 2024: The information explaining Lambda scaling behavior in this article has been superseded by..."
+        },
+        {
+            "headline": "Prime Video unveils interactive clip-sharing feature",
+            "content": "Prime Video customers can now share their favorite clips from select Amazon Original series with friends and family on social media, or via direct message."
+        },
+        {
+            "headline": "After gangbuster debut, Rivian draws comparison to Tesla",
+            "content": "Rivian Automotive Inc. reached a market value of over $100 billion two days after its initial public offering, drawing comparisons to Tesla Inc."
+        },
+        {
+            "headline": "No. 3: Amazon Softlines JAX7, $55.96 million",
+            "content": "The project: The installation of the material handling systems, employee drop-offs and guardhouses at the 1 million-square-foot distribution center in Imeson..."
+        },
+        {
+            "headline": "Fire TV Recast: Still worth buying for cord-cutting?",
+            "content": "Amid Amazon's vast lineup of Fire TV devices, the Fire TV Recast seems like the ugly duckling. This over-the-air antenna DVR launched nearly three years ago..."
+        },
+        {
+            "headline": "Optimizing Apache Flink on Amazon EKS using Amazon EC2 Spot Instances",
+            "content": "In this post, I illustrate the deployment of scalable, highly available (HA), resilient, and cost optimized Flink application using Kubernetes via Amazon EKS..."
+        },
+        {
+            "headline": "17 gardening gifts for the plant-lovers in your life",
+            "content": "The best picks for green thumbs ranging from amateur to pro, including DIY bonsai kits,..."
+        },
+        {
+            "headline": "Amazon Fire Users: Get Newsmax for Free!",
+            "content": "Amazon Fire TV now has made Newsmax easily available to its 72 million users through its television home page. Just hit the \"News\" app on the homepage."
+        },
+        {
+            "headline": "Supporting our Veterans through training, workforce development, and hiring",
+            "content": "At Amazon Web Services (AWS), we are committed to developing and hiring veterans and their spouses into roles focused on STEM in support of this act."
+        },
+        {
+            "headline": "No. 5: Amazon JAX9 sortation center, $52.33 million",
+            "content": "The project: A 278,237-square-foot single-story concrete tilt-up sortation center and conveyor system at AllianceFlorida at Cecil Commerce Center."
+        }
+    ],
+    "20211112": [
+        {
+            "headline": "Take a sneak peek inside the Amazon Nashville office",
+            "content": "With more than 2500 employees already hired in Nashville, Tennessee, we are well on our way to create more than 5000 corporate and technology jobs in Music..."
+        },
+        {
+            "headline": "Vivek Raja P S",
+            "content": "Recognized as the youngest AWS Machine Learning Hero, he has authored multiple research papers and recently in IIM-B and holds 2 patents in AI and IoT."
+        },
+        {
+            "headline": "Amazon Sued Over Crashes by Drivers Rushing to Make Deliveries",
+            "content": "The company's algorithms were blamed for a crash that paralyzed an aspiring doctor. Amazon says it's not liable."
+        },
+        {
+            "headline": "'Huge economic driver': Amazon facility in east El Paso helps create jobs, transform area",
+            "content": "Over the past six years, the far eastside of El Paso has seen a significant increase in new developments as well as an increase in population."
+        },
+        {
+            "headline": "Amazon board member Thomas Ryder to retire after 20-year run",
+            "content": "Longtime Amazon board member Thomas Ryder is stepping down effective Dec. 31, the company announced this week. Ryder joined the board in 2002. He was the."
+        },
+        {
+            "headline": "Amazon opens three delivery stations in Prince George’s County",
+            "content": "Amazon.com Inc. has opened three new delivery stations in Prince George's County in the last two weeks."
+        },
+        {
+            "headline": "The Science of Why Google's New New York City Office Will Host Birds and Bees (and Why That Matters for Your Workspace Too)",
+            "content": "Why Google has bought into 'biophilic' design, and why you should too."
+        },
+        {
+            "headline": "Updated guide: Understanding NERC CIP compliance for power and utilities",
+            "content": "The User Guide helps utilities understand how the cloud can help support business and security objectives while also helping to support a NERC CIP compliance..."
+        },
+        {
+            "headline": "Thomas Ryder, former Reader's Digest CEO, to retire from Amazon board after two decades",
+            "content": "Thomas Ryder, former CEO of Reader's Digest Association, is stepping down from Amazon's board of directors, effective Dec. 31, 2021."
+        }
+    ],
+    "20211113": [
+        {
+            "headline": "Amazon expands Alabama investment with 4 new operational sites",
+            "content": "Amazon.com Inc. plans to open three new operations facilities in Alabama while also launching a new fulfilment center that will support customer deliveries..."
+        },
+        {
+            "headline": "WB Games New York Case Study | Game Tech",
+            "content": "Warner Bros. Games New York builds the centralized online platform used by all Warner Bros. Games studios to connect millions of players online on Amazon..."
+        },
+        {
+            "headline": "Locking wheel nut",
+            "content": "Protect your Tesla Wheels with a specially-designed lock set. Forged steel construction and different key patterns provide maximum security."
+        },
+        {
+            "headline": "Meet the ‘Trillion Dollar Club’: How 5 companies took over the S&P 500—and likely your portfolio",
+            "content": "The market caps of Apple, Microsoft, Alphabet, Amazon and Tesla have exploded, meaning investors in big-cap index funds are parking a lot more of their..."
+        },
+        {
+            "headline": "Buffalo Games Jigsaw Puzzles for adults and kids on sale starting at $6.00!",
+            "content": "Buffalo Games Jigsaw Puzzles for adults and kids are on sale starting at only $6 at Amazon right now! You'll find multiple themes including nature, animals,..."
+        },
+        {
+            "headline": "Jane Fonda, Chelsea Peretti join Amazon's 'Yearly Departed' comedy special",
+            "content": "Jane Fonda, Chelsea Peretti, Meg Stalter and Dulcé Sloan have signed on to star in Amazon Prime Video's second annual comedy special, \"Yearly Departed.\""
+        },
+        {
+            "headline": "Should FedEx, UPS care about the LaserShip-OnTrac merger?",
+            "content": "Depending on how the holiday season pans out, FedEx Corp. and UPS Inc. will get close to $200 billion in combined annual revenue by the time they finish..."
+        },
+        {
+            "headline": "37 Parenting Products That’ll Make You Say, “Why Didn’t I Buy This Sooner”",
+            "content": "Stick-on gel pads, a drywall repair kit, and an inspirational drawing book you'll want to add to your arsenal."
+        },
+        {
+            "headline": "Amazon Seller Services Pvt. Ltd. receives Rs. 1460 crores from US based parent company",
+            "content": "India based Amazon Seller Services Pvt. Ltd. has recently received a funding of Rs. 1460 crores in a corporate round from its US based e-commerce parent..."
+        },
+        {
+            "headline": "Top 5 Stock Picks of Jack Ripsteen’s Potrero Capital Research",
+            "content": "In this article, we discuss the top 5 stock picks of Jack Ripsteen's Potrero Capital Research."
+        }
+    ],
+    "20211114": [
+        {
+            "headline": "Amazon driver survives after train cuts truck in half",
+            "content": "MILWAUKEE, Wis. (WKRC/WISN/CNN Newsource) - An Amazon driver says he's thankful to be alive after a train slammed into his truck."
+        },
+        {
+            "headline": "Amazon Shopping Without Prime: What to Ask Before Canceling Membership",
+            "content": "I made my first Amazon purchases after quitting Prime and the experience was almost unchanged. Here are the 6 questions I asked myself before deciding I didn't..."
+        },
+        {
+            "headline": "15 Pairs Of Gloves And Mittens From Amazon That'll Actually Keep You Warm",
+            "content": "Hey there! Did you know that Amazon's app has exclusive features that lets you scan barcodes to check prices IRL, use your phone's camera to search for..."
+        },
+        {
+            "headline": "Rivian is fueled by a powerful force: Jeff Bezos’ desire to spite Elon Musk",
+            "content": "Rivian, the electric truck maker that's rocketed overnight from relative obscurity to $100 billion Wall Street darling, owes much of its breakout success to..."
+        },
+        {
+            "headline": "Brass Against Release Statement on Frontwoman Peeing on Willing Fan Onstage at Welcome to Rockville",
+            "content": "Brass Against stole the show yesterday (Nov. 11) at Welcome to Rockville when frontwoman Sophia Urista peed on a willing fan while performing onstage."
+        },
+        {
+            "headline": "Amazon Seller Services gets fresh fund infusion of Rs 1,460 cr from parent",
+            "content": "US-based e-commerce giant Amazon has infused fresh capital to the tune of Rs 1460 crore into one of its India units, Amazon Seller Services, according to..."
+        },
+        {
+            "headline": "52 Toys That’ll Actually Make Kids Put Down The iPad",
+            "content": "1. Pixicade mobile game maker to turn screen time into a creative STEM activity by letting kids turn their own drawings and concepts into playable video games."
+        },
+        {
+            "headline": "41 Things That’ll Have Your Back All Year Long",
+            "content": "A sickening sweater, a wood polisher that'll save you $$$, and other stuff that's downright phenomenal."
+        },
+        {
+            "headline": "Amazon Kindle Paperwhite Signature Edition Review",
+            "content": "The 11th Generation Amazon Kindle Paperwhite Signature edition is breaking new ground when it comes to a modern e-reader. It checks all the right boxes for..."
+        }
+    ],
+    "20211115": [
+        {
+            "headline": "Success case: The University of West Indies, Open Campus",
+            "content": "The University of West Indies, Open Campus accelerates digital transformation and reduces costs by migrating aging hardware to AWS."
+        },
+        {
+            "headline": "India police to question Amazon executives in probe over marijuana smuggling",
+            "content": "Police in India's Madhya Pradesh state have summoned Amazon.com Inc's local executives as it investigates a case where the e-commerce platform was allegedly..."
+        },
+        {
+            "headline": "Preview some of Amazon’s top Black Friday deals for 2021",
+            "content": "This year, Amazon's 48-hour Black Friday event will offer more deals than ever before, featuring products from well-known brands and companies to small..."
+        },
+        {
+            "headline": "Research Agrees With Jeff Bezos That This Is the Most Important Quality for Success",
+            "content": "During Jeff Bezos's tenure as CEO of Amazon, what was the No. 1 quality he looked for when hiring people? Hard work and past accomplishments certainly..."
+        },
+        {
+            "headline": "AWS Channel Chief Doug Yeum Stepping Down",
+            "content": "Amazon Web Services channel chief Doug Yeum is set to leave the AWS Partner Network (APN) to work for the retail division of parent company Amazon.com."
+        },
+        {
+            "headline": "Rivian IPO: What Happened and Why it Matters",
+            "content": "Rivian Automotive Inc. (RIVN) designs and manufactures electric vehicles (EVs) and accessories and offers related services. The company produces and has..."
+        },
+        {
+            "headline": "Sky is the limit for South Bend International Airport’s future plans",
+            "content": "In 20 years from now, electric planes could be flying in to the South Bend International Airport. Even if it's much later than that, CEO and President Mike..."
+        },
+        {
+            "headline": "Amazon Fire TV 4-Series Calibration Settings",
+            "content": "For SDR content, we recommend choosing the 'Movie' Picture Mode, as it is the most accurate one out of the box, and allows for the most customization. From the..."
+        },
+        {
+            "headline": "Orchestrate an ETL pipeline using AWS Glue workflows, triggers, and crawlers with custom classifiers",
+            "content": "Extract, transform, and load (ETL) orchestration is a common mechanism for building big data pipelines. Orchestration for parallel ETL processing requires..."
+        },
+        {
+            "headline": "IBM, Amazon partner to extend reach of data tools for oil companies",
+            "content": "International Business Machines Corp(IBM.N) and Amazon.com Inc's Amazon Web Services (AMZN.O)said on Monday they would work together to extend the reach of..."
+        }
+    ],
+    "20211116": [
+        {
+            "headline": "Extend Amplify backend with custom AWS resources using AWS CDK or CloudFormation | Front-End Web & Mobile",
+            "content": "by Rene Brandel on 16 NOV 2021 in Amazon DynamoDB, Amazon Simple Notification Service (SNS), AWS Amplify, AWS AppSync, AWS Cloud Development Kit, AWS Lambda..."
+        },
+        {
+            "headline": "Amazon's healthcare business has landed Hilton as a key customer",
+            "content": "Amazon.com Inc has reached a deal to sell virtual medical services to Hilton in the United States, landing a marquee customer for its nascent healthcare..."
+        },
+        {
+            "headline": "Musk in talks with Brazil on monitoring Amazon rainforest",
+            "content": "Elon Musk floated the possibility of using SpaceX satellite tech to monitor deforestation and forest fires."
+        },
+        {
+            "headline": "Poshmark Hires Amazon Executive as CFO",
+            "content": "Poshmark Inc. appointed an Amazon.com Inc. executive as its new chief financial officer as the online fashion marketplace works to boost the returns on its..."
+        },
+        {
+            "headline": "Amazon no longer pursuing plans to lease office space in Jersey City, report says",
+            "content": "Amazon.com Inc. is no longer moving forward with plans to lease about 400000 square feet of office space in Jersey City, New Jersey, according to Bloomberg."
+        },
+        {
+            "headline": "Amazon pulls plug on expansion to Jersey City waterfront: report",
+            "content": "Amazon pulls plug on expansion to Jersey City waterfront: report ... Amazon has pulled out of its deal with Mack Cali for 400,000 square feet of office space in..."
+        },
+        {
+            "headline": "Is Amazon Stock A Good Buy For Long-Term Investors? My Answer May Surprise You",
+            "content": "Amazon is facing many headwinds going into Q4 2021. Many macroeconomic conditions are unfavorable. Find out if AMZN stock is a good long-term buy."
+        },
+        {
+            "headline": "Marijuana Sold Under 'Kadi Patta' Guise On Amazon, Alleges Traders' Body, Demands NCB Probe",
+            "content": "The Confederation of All India Traders (CAIT) has alleged that some sellers on e-commerce giant Amazon are selling marijuana under the disguise of 'kadi..."
+        },
+        {
+            "headline": "Amazon adds last-mile delivery center south of Dayton",
+            "content": "Amazon.com Inc., the e-commerce giant, is adding a last-mile distribution center south of Dayton."
+        }
+    ],
+    "20211117": [
+        {
+            "headline": "Amazon is moving forward with construction and hiring at HQ2",
+            "content": "Construction is well underway at Metropolitan Park, the first phase of Amazon's second headquarters in Arlington, Virginia."
+        },
+        {
+            "headline": "Scalable, Cost-Effective Disaster Recovery in the Cloud",
+            "content": "by Steve Roberts on 17 NOV 2021 in AWS Elastic Disaster Recovery (DRS), CloudEndure Disaster Recovery, Launch, News, Storage Permalink Share..."
+        },
+        {
+            "headline": "Amazon to stop accepting Visa's UK-issued credit cards over high fees",
+            "content": "Amazon.com Inc will stop accepting Visa Inc credit cards issued in the United Kingdom from next year because of the high transaction fees charged by the..."
+        },
+        {
+            "headline": "Hims & Hers to Offer its Health and Wellness Products in Amazon’s U.S. Store",
+            "content": "It will start offering its products in Amazon's store to increase the accessibility of Hims & Hers supplements, sexual health and wellness products and hair..."
+        },
+        {
+            "headline": "Amazon Warehouse Workers’ Minimum Wage Class Action Removed to Federal Court",
+            "content": "A class action lawsuit accusing Amazon of underpaying its workers in its Pennsylvania fulfillment centers has been removed to federal court by the retail..."
+        },
+        {
+            "headline": "Amazon’s The Wheel Of Time Critic Scores Just Dropped",
+            "content": "Critic scores on Rotten Tomatoes and Metacritic for the upcoming live-action adaptation of Robert Jordan's The Wheel of Time series just dropped."
+        },
+        {
+            "headline": "Amazon may drop Visa as partner on U.S. credit card",
+            "content": "Amazon.com Inc is considering dropping Visa as partner on its U.S. co-branded credit card after earlier confirming it would stop accepting Visa credit cards..."
+        },
+        {
+            "headline": "Jeffrey Altman’s Owl Creek Asset Management is Buying These 5 Stocks",
+            "content": "In this article, we discuss the 5 stocks Jeffrey Altman's Owl Creek Asset Management is buying. If you want to read our detailed analysis of Altman's history,"
+        },
+        {
+            "headline": "Amazon to stop accepting payments using UK-issued Visa credit cards",
+            "content": "Amazon says UK customers will not be able to pay for goods using a Visa credit card from January, blaming a \"high cost of payments\"."
+        },
+        {
+            "headline": "Amazon brings battle over card fees to U.K. with Visa ban",
+            "content": "Amazon.com Inc. will stop accepting purchases made with Visa Inc. credit cards issued in the UK starting next year."
+        }
+    ],
+    "20211118": [
+        {
+            "headline": "AWS Expands Access to Free Cloud Skills Training on its Mission to Educate 29 Million People by 2025",
+            "content": "New AWS digital learning experience, technical courses on Amazon.com, expanded access to AWS re/Start, and Amazon's first dedicated in-person cloud learning..."
+        },
+        {
+            "headline": "Community Detection using Hybrid Quantum Annealing on Amazon Braket – Part 1",
+            "content": "This post is the first of a two-part series about solving community detection using a hybrid classical-quantum annealing algorithm on Amazon Braket."
+        },
+        {
+            "headline": "Latest on Amazon’s Boise expansion. The fate of Country Club Reel. Coming near you",
+            "content": "New houses, townhouses, duplexes, apartments planned in Boise ID area. Fate of development proposal at Country Club Reel Theatre."
+        },
+        {
+            "headline": "Starbucks, Amazon open grab-and-go store in New York",
+            "content": "The Seattle-based companies will open their first Starbucks Pickup with Amazon Go location on Thursday in New York. At least two more New York locations are..."
+        },
+        {
+            "headline": "A Chinese firm was harvesting millions of Amazon customers' data and selling it to Amazon's own third-party sellers",
+            "content": "Wired reports the Chinese firm scraped the data via Amazon's own system and sold it, which was likened to Facebook's Cambridge Analytica scandal."
+        },
+        {
+            "headline": "Starbucks links with Amazon Go for first cashier-less cafe",
+            "content": "Companies are expanding labor-saving technology like artificial intelligence, robotics and digital touch screens."
+        },
+        {
+            "headline": "Starbucks and Amazon team up on their first store, but I can’t see what’s in it for Starbucks",
+            "content": "For the first time ever, the $133 billion coffee giant Starbucks and the $1.8 trillion dollar retail behemoth Amazon are teaming up on a joint store."
+        },
+        {
+            "headline": "Amazon will open training hub for cloud computing at Seattle campus",
+            "content": "Amazon Web Services is confident businesses and industries will migrate to the cloud en masse. To narrow the skills gap, it's opening a training hub in..."
+        },
+        {
+            "headline": "Construction of Amazon's Robotics Fulfilment Centre in Western Sydney nears completion",
+            "content": "Take a look at the new Amazon robotics fulfilment centre in Sydney, which will create 1500 local jobs. Learn about the Amazon Sydney warehouse and its..."
+        }
+    ],
+    "20211119": [
+        {
+            "headline": "How to set up Amazon Cognito for federated authentication using Azure AD",
+            "content": "In this blog post, I'll walk you through the steps to integrate Azure AD as a federated identity provider in Amazon Cognito user pool."
+        },
+        {
+            "headline": "The Amazon lobbyists who kill U.S. consumer privacy protections",
+            "content": "Amazon.com Inc has amassed a vast amount of sensitive personal information on its customers. Internal documents reveal how a former aide to Joe Biden helped..."
+        },
+        {
+            "headline": "How Target And Walmart Are Closing The Ecommerce Gap With Amazon",
+            "content": "Now that consumers are returning, Target and Walmart are finding traction by leveraging the one thing Amazon lacks — a brick-and-mortar network."
+        },
+        {
+            "headline": "Rivian's electric van for Amazon might have less range than expected, report says",
+            "content": "Rivian Automotive Inc.'s electric vans for e-commerce retailer Amazon.com may have a more limited range than what was previously disclosed."
+        },
+        {
+            "headline": "Rivian’s Importance To Amazon’s Long-Term Strategy",
+            "content": "Electric truck maker Rivian is now worth more than Ford and GM, despite zero revenues. Investors believe that the company will benefit from Amazon,..."
+        },
+        {
+            "headline": "A look at the intimate details Amazon knows about us",
+            "content": "As a Virginia lawmaker, Ibraheem Samirah has studied internet privacy issues and debated how to regulate tech firms' collection of personal data."
+        },
+        {
+            "headline": "Export Amplify backends to CDK and use with existing deployment pipelines | Front-End Web & Mobile",
+            "content": "AWS Amplify announces the ability to export Amplify CLI-generated backends as a Cloud Development Kit (CDK) stack and incorporate into existing CDK deployment..."
+        },
+        {
+            "headline": "Berlin Brands Group Raises $100 Million Amid Fundraising Rush For Amazon Aggregators",
+            "content": "The Berlin-based e-commerce company is the latest to raise capital in the booming market for consolidating small storefronts trading on the Amazon..."
+        }
+    ],
+    "20211120": [
+        {
+            "headline": "The Amazon lobbyists who kill U.S. consumer privacy protections",
+            "content": "In recent years, Amazon.com Inc has killed or undermined privacy protections in more than three dozen bills across 25 states, as the e-commerce giant..."
+        },
+        {
+            "headline": "Eventbrite Case Study | Amazon Aurora",
+            "content": "Eventbrite reduced its database storage cost and infrastructure complexity using Amazon Aurora and could then reallocate resources to projects with a direct..."
+        },
+        {
+            "headline": "An Amazon Warehouse Worker Asked Jeff Bezos for Help With Her Pay. Here's How Amazon Responded",
+            "content": "In case you ever need it, his email addres reportedly is: jeff@amazon.com."
+        },
+        {
+            "headline": "Traffic: 18-wheeler Amazon truck comes apart, causing lane closure on 59 SB",
+            "content": "The truck and trailer of an Amazon 18-wheeler came apart at US-59 southbound, forcing only one lane open, according to authorities."
+        },
+        {
+            "headline": "Rivian's electric van for Amazon raises battery power doubts",
+            "content": "Rivian Automotive Inc's electric vans for e-commerce retailer Amazon.com Inc may have a more limited range than what was previously disclosed."
+        },
+        {
+            "headline": "LIST | Stores that are open and closed for Thanksgiving Day 2021",
+            "content": "WASHINGTON (7News) — As thousands gear up for the holiday season this year, many stores will be closed for the 2021Thanksgiving holiday so familiesand..."
+        },
+        {
+            "headline": "33 Obsession-Worthy Products That Come In Packs, Because You'll Want To Use Them Over And Over",
+            "content": "Mae West would probably agree that these things prove \"too much of a good thing can be wonderful.\""
+        },
+        {
+            "headline": "Betterment Case Study | Financial Services",
+            "content": "Using Amazon S3, Betterment is saving time and money, supporting innovation and scalability, and delivering on technical compliance while enhancing..."
+        },
+        {
+            "headline": "19 Gifts For the One Who Just Really Loves to Drink — All $25 and Under",
+            "content": "From the mixologist to the one who enjoys a glass of wine in the evening, every booze-loving friend deserves a gift they'll truly appreciate."
+        },
+        {
+            "headline": "30 Toys That'll Make Your Kids Smarter",
+            "content": "Reviewers say their kids truly cannot stop playing with these *sneaky* educational toys."
+        }
+    ],
+    "20211121": [
+        {
+            "headline": "Amazon manager saves couple's wedding day with Star Trek uniform delivery",
+            "content": "Star Trek superfans Ian and Lilly decided it was a must to incorporate their love of the science fiction series into their special day."
+        },
+        {
+            "headline": "Instant Pot 6 Qt 9-in-1 Pressure Cooker only $59.99 (reg. $119.99) at Amazon, Target & Kohl's!",
+            "content": "The Instant Pot Duo Plus 6 Qt 9-in-1 Pressure Cooker is only $59.99 (reg. $119.99) at Amazon, Target & Kohl's! That's over 50% off!"
+        },
+        {
+            "headline": "I Don’t Think You’ll Be Able To Resist Buying These 35 Beauty Products After You See The Before And After Photos",
+            "content": "Hair, makeup, and skincare products reviewers have tried and loved — and they've got the pictures to prove it."
+        },
+        {
+            "headline": "If Your Pet Sheds Everywhere, These 26 Products Will Help",
+            "content": "1. A grooming rake that'll help loosen tangles and lighten your pup's undercoat — without the yelps. Reviewer photo of a husky sitting next to a pile of fur..."
+        }
+    ],
+    "20211122": [
+        {
+            "headline": "Migrating Amazon EKS clusters from gp2 to gp3 EBS volumes | Amazon Web Services",
+            "content": "This blog post will walk you through a migration scenario and outline the necessary steps in detail."
+        },
+        {
+            "headline": "U.S. FTC recommended lawsuit against Amazon over privacy breaches at Ring - the Information",
+            "content": "The U.S. Federal Trade Commission (FTC) recommended filing a lawsuit against Amazon.com Inc over privacy and data security breaches in the e-commerce..."
+        },
+        {
+            "headline": "Greenlight Collaborates With Amazon Kids+ To Provide Financial Education To Millions Of Families",
+            "content": "PRNewswire/ -- Greenlight® Financial Technology, Inc. (\"Greenlight\"), the fintech company on a mission to help parents raise financially-smart kids, today."
+        },
+        {
+            "headline": "adidas Migrates SAP Environments to AWS",
+            "content": "Today, Amazon Web Services (AWS), an Amazon.com, Inc. company, (NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world."
+        },
+        {
+            "headline": "Amazon Recalls More Than 15K Mattresses Over Fire Hazard",
+            "content": "Amazon is recalling more than 15000 of its memory foam mattresses as they pose a fire hazard."
+        },
+        {
+            "headline": "Amazon Australia launches its Black Friday sale earlier than ever, kicking off eight days of incredible deals",
+            "content": "Customers can shop early and save big in the Amazon.com.au Black Friday and Cyber Monday Sales, with Black Friday deals available from today with discounts..."
+        },
+        {
+            "headline": "A look at Amazon's extreme data collection habits",
+            "content": "Amazon collects data on consumers through its Alexa voice assistant, its e-commerce marketplace, Kindle e-readers, Audible audiobooks, its video and music..."
+        },
+        {
+            "headline": "Union group says U.S. should reject Amazon's plan to buy MGM",
+            "content": "Four big unions, including the Service Employees International Union and the Teamsters, urged the U.S. Federal Trade Commission on Monday to oppose..."
+        },
+        {
+            "headline": "Best Black Friday Nest Deals (2021): Nest Protect, Camera, Hub & More Deals Ranked by Retail Fuse",
+            "content": "Compare all the top Nest deals for Black Friday, together with Nest Camera and Hello Doorbell savings. Check out the best deals by clicking the links listed..."
+        },
+        {
+            "headline": "U.S. lawmakers call for privacy legislation after Reuters report on Amazon lobbying",
+            "content": "Five members of Congress called for federal consumer-privacy legislation after a Reuters report published Friday revealed how Amazon.com Inc has led an..."
+        }
+    ],
+    "20211123": [
+        {
+            "headline": "Embed interactive dashboards in your apps and portals in minutes with Amazon QuickSight’s new 1-click embedding feature",
+            "content": "Amazon QuickSight is a fully-managed, cloud-native business intelligence (BI) service that makes it easy to connect to your data, create interactive..."
+        },
+        {
+            "headline": "Build MLOps workflows with Amazon SageMaker projects, GitLab, and GitLab pipelines",
+            "content": "Machine learning operations (MLOps) are key to effectively transition from an experimentation phase to production. The practice provides you the ability to..."
+        },
+        {
+            "headline": "Visualizing AWS Step Functions workflows from the Amazon Athena console",
+            "content": "This blog walks through Step Functions integration in Amazon Athena console. It shows how you can visualize and operate Athena queries at scale using Step..."
+        },
+        {
+            "headline": "AWS Cloud Adoption Framework (CAF) 3.0 is Now Available",
+            "content": "The AWS Cloud Adoption Framework (AWS CAF) is designed to help you to build and then execute a comprehensive plan for your digital transformation."
+        },
+        {
+            "headline": "Simplifying Amazon ECS monitoring set up with AWS Distro for OpenTelemetry | AWS Open Source Blog",
+            "content": "In this blog post, we explain how to set up AWS Distro for OpenTelemetry for Amazon Elastic Container Service (Amazon ECS) with the 1-click console integration."
+        },
+        {
+            "headline": "Amazon and Apple handed $225 million in Italian antitrust fines",
+            "content": "Italy's antitrust authority has fined U.S. tech giants Amazon.com and Apple Inc a total of more than 200 million euros ($225 million) for alleged..."
+        },
+        {
+            "headline": "Richemont Selects AWS as Its Preferred Cloud Provider to Drive Product Innovation",
+            "content": "Today, Amazon Web Services, an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Compagnie Financière Richemont SA (SIX: CFR), a Swiss luxury gr."
+        },
+        {
+            "headline": "Disguise Announces Funko Pop! Masks™ Available for the Holidays and Ghostbusters Giveaway at San Diego Comic-Con",
+            "content": "Disguise, Inc., world leader in costume design and manufacturing, today announced their complete line of Funko Pop! Masks™ are available on Amazon jus."
+        },
+        {
+            "headline": "How Will Project Kuiper Impact Amazon's Stock Forecast? (NASDAQ:AMZN)",
+            "content": "Project Kuiper could create a new business segment for Amazon. Project Kuiper should also buttress other Amazon businesses. See what this means for AMZN..."
+        },
+        {
+            "headline": "Amazon to reduce use of plastic packaging in Germany",
+            "content": "E-commerce retailer Amazon is reportedly planning to reduce the use of plastic packaging in Germany by the end of the year."
+        }
+    ],
+    "20211124": [
+        {
+            "headline": "Recognizing the Top 2021 AWS Partner Ambassadors",
+            "content": "The APN Ambassador Program is a vibrant worldwide community of technical experts from AWS Partners. They are prominent leaders who are passionate about sharing..."
+        },
+        {
+            "headline": "Boise inks deal with Amazon for airport improvements",
+            "content": "BOISE, Idaho (AP) — Boise officials have approved a lease agreement with online retailer Amazon as part of the company's plan to build a cargo facility at..."
+        },
+        {
+            "headline": "The Anti-Work Brigade Is Coming for Amazon on Black Friday",
+            "content": "The r/antiwork forum is calling for its more than one million members to boycott Amazon.com Inc. on Black Friday, the day after the Thanksgiving holiday."
+        },
+        {
+            "headline": "Amazon’s $4-billion holiday fix: Half-empty trucks, $3,000 bonuses",
+            "content": "To meet holiday demand, Amazon is counting on a network of chartered ships, Amazon Air cargo jets, Amazon vans and hundreds of thousands of workers along..."
+        },
+        {
+            "headline": "Canon G7X, 5D & 6D Black Friday Deals (2021): DSLR & Digital Camera Deals Revealed by Saver Trends",
+            "content": "Black Friday experts are identifying all the latest Canon deals for Black Friday 2021, featuring the latest sales on the Canon EOS 5D, Canon lenses, kits &..."
+        },
+        {
+            "headline": "Use the TempTable storage engine on Amazon RDS for MySQL and Amazon Aurora MySQL",
+            "content": "August 2023: This post was reviewed and updated to reflect a new parameter change in MySQL Community 8.0.28 that impacts Amazon Aurora MySQL release."
+        },
+        {
+            "headline": "Best Universal Remote Black Friday /Cyber Monday Deals on Harmony, Fire TV, Sofabaton, MX-990, Broadlink & SwitchBot",
+            "content": "Early Black Friday remote deals include deep discounts on a number of the most popular universal remotes available at Amazon.com."
+        },
+        {
+            "headline": "How to Check Your Amazon Gift Card Balance",
+            "content": "It's easy to check your gift card balance on both the Amazon website and the Amazon mobile app, as well as the history of cards you've redeemed."
+        },
+        {
+            "headline": "Employees of India's Future Retail urge top court to clear asset sale in Amazon dispute",
+            "content": "News business : Employees of India's Future Retail have asked the Supreme Court to allow the company to sell its retail assets and rule against Amazon.com..."
+        },
+        {
+            "headline": "AWS Free Tier Data Transfer Expansion – 100 GB From Regions and 1 TB From Amazon CloudFront Per Month",
+            "content": "Data Transfer from AWS Regions to the Internet is now free for up to 100 GB of data per month (up from 1 GB per region)."
+        }
+    ],
+    "20211125": [
+        {
+            "headline": "Guardian Life Case Study | Amazon EKS",
+            "content": "Using Amazon EKS, Guardian has achieved significant cost savings, an increase in employee productivity, and the agility to respond to customer demands in near..."
+        },
+        {
+            "headline": "SUPER toy and game deals for kids and adults today at Amazon!",
+            "content": "Toys, Games, Crafts & Puzzles. * Buffalo Games Jigsaw Puzzles for adults and kids are on sale up to 76% off starting at only $4.99 at Amazon right now! You'll..."
+        },
+        {
+            "headline": "The best Black Friday deals now at Best Buy, Walmart, Target, Amazon",
+            "content": "Target, Walmart, Best Buy, and Amazon are running full Black Friday sales online, with stores closed for Thanksgiving for the second straight year."
+        },
+        {
+            "headline": "'I am a survivor': Woman shot in face at Alamo Quarry Market feeling extra thankful",
+            "content": "Pistol-whipped, shot in the face and left for dead during an attempted carjacking at the Alamo Quarry Market, a San Antonio woman wants everyone to know she..."
+        },
+        {
+            "headline": "Amazon has a secret deal on new 3rd gen AirPods",
+            "content": "While the price of 3rd generation AirPods has gone up by $15, Amazon's taking $20 off in at checkout, dropping the price to $149.99."
+        },
+        {
+            "headline": "Amazon alleges ₹7,000 crore diverted from Future Retail",
+            "content": "Amazon.com Inc., which is trying to block India's richest man from taking over a struggling retail chain, fired a fresh salvo by alleging that money from..."
+        },
+        {
+            "headline": "ShopFully Case Study | AWS Glue",
+            "content": "Using AWS, technology company ShopFully developed a cost-effective way to scale automatically to meet its growth, increasing the efficiency of its data..."
+        },
+        {
+            "headline": "lululemon just dropped a rare Black Friday sale—here's what to shop before it sells out",
+            "content": "Get huge savings during this rare lululemon sale. Shop markdowns on yoga mats, leggings and clothing during lululemon Black Friday 2021."
+        },
+        {
+            "headline": "Deploying Magma on AWS Cloud: In Region, On Premises, and at Edge",
+            "content": "This blog post provides instructions for deploying and configuring the Magma core network on the AWS Cloud through Magma Cloudstrapper."
+        }
+    ],
+    "20211126": [
+        {
+            "headline": "Black Friday for Amazon workers: the human costs behind consumer convenience",
+            "content": "We reviewed hundreds of documents and reports on workplace safety in Amazon warehouses."
+        },
+        {
+            "headline": "Amazon faces Black Friday strikes by workers across Europe",
+            "content": "Amazon is facing strikes by warehouse workers and delivery drivers across Europe as its busiest weekend of the year begins."
+        },
+        {
+            "headline": "BREAKING: AMAZON CRIMES WILL COST THE EARTH - Extinction Rebellion disrupts Black Friday by blocking 15 Amazon fulfilment centres",
+            "content": "From 5am this morning, Extinction Rebellion has blocked a total of 15 Amazon fulfilment centres in the UK, Germany and the Netherlands on Black Friday."
+        },
+        {
+            "headline": "Amazon Kids+ with thousands of kids' books, movies, games only $2.99 (reg. $27) for 3 months!",
+            "content": "Get 3 months of Amazon Kids+ Family Plan including unlimited access for up to four children for only $2.99 (reg. $27.00) - that's 91% off!"
+        },
+        {
+            "headline": "Amazon workers strike or protest across the world on Black Friday",
+            "content": "Yahoo Finance's Dani Romero reports on the Black Friday protests organized by Amazon workers in the Make Amazon Pay coalition."
+        },
+        {
+            "headline": "Amazon ratchets B.C. hires to 10,000 full-time workers",
+            "content": "Amazon.com Inc.'s ever-expanding B.C. footprint has now topped 10,000 workers. The figure provided in Amazon's 2021 impact report, released November 24,..."
+        },
+        {
+            "headline": "Buying a scan tool? Make sure it’s meant for the U.S. market",
+            "content": "The way to be certain that a shop is buying a tool meant for the North American region is to visit www.launchtechusa.com, which lists the company's products..."
+        },
+        {
+            "headline": "Shop deeply discounted Black Friday headphone deals from Bose, Sony, Jabra and AirPods",
+            "content": "From AirPods to Bose to Jabra to Sony, these are the best Black Friday headphone deals at Jabra, Best Buy, Amazon and more."
+        },
+        {
+            "headline": "Get a Samsung Galaxy smartphone for less than $100 on Black Friday 2021",
+            "content": "Need a new phone? You can get Samsung Galaxy Black Friday deals at these blowout sales from Samsung, Verizon, Best Buy, Walmart and more."
+        }
+    ],
+    "20211127": [
+        {
+            "headline": "Amazon Prime Video Channels only $0.99/mo: Starz, Showtime, AMC+, Paramount+, Noggin & 12 more!",
+            "content": "Multiple Prime Channels for adults and kids are each only $0.99/mo for 2 months with this super deal for Amazon Prime members! You can subscribe to as many..."
+        },
+        {
+            "headline": "'It's prepared me', Quarry shooting victim credits Krav Maga classes for saving her life",
+            "content": "The 27-year-old woman was pistol-whipped, shot in the face and left for dead during an attempted carjacking at the Alamo Quarry Market less than a month ago."
+        },
+        {
+            "headline": "Here's What We Know About Amazon's Rivian Electric Van Purchase",
+            "content": "Backed by both Amazon and Ford, the electric car startup Rivian is shaping up to be one of the next big car companies. On their website, Rivian only lists..."
+        }
+    ],
+    "20211128": [
+        {
+            "headline": "Scaling and Managing TIBCO DataSynapse GridServer on AWS",
+            "content": "In this post, we describe new service integrations and functionality that make TIBCO DataSynapse GridServer on Amazon Web Services (AWS) a great match to run..."
+        },
+        {
+            "headline": "Just 25 Things From Amazon To Help You Create The Cutest Nursery",
+            "content": "Get ready for some adorable nursery recommendations to prepare your space for your new bundle of joy."
+        },
+        {
+            "headline": "Transcript: Amazon's Dave Clark on \"Face the Nation,\" November 28, 2021",
+            "content": "The following is a transcript of an interview with Amazon CEO, Worldwide Consumer, Dave Clark that aired Sunday, November 28, 2021, on \"Face the Nation.\""
+        },
+        {
+            "headline": "How to get $10 in Amazon credit with the purchase of a $100 Apple Gift Card",
+            "content": "Get a little extra when you purchase an Apple Gift Card worth $100 or more through Amazon, with a new offer giving you $10 in Amazon credit while supplies..."
+        },
+        {
+            "headline": "Save 37% on this Amazon Fire TV Stick in Baby Yoda green for Cyber Monday",
+            "content": "You can save 37% on a Baby Yoda-themed Amazon Fire TV Stick for your streaming needs, or save 40% on a plan Fire TV Stick 4K."
+        },
+        {
+            "headline": "Do You Need an Amazon Account to Use Alexa?",
+            "content": "Alexa, Amazon's virtual assistant, is one of the best voice assistants available. Not only can it help you and your family control every smart gadget in..."
+        },
+        {
+            "headline": "Behind the Scenes: What Makes a SaaS Organization Successful on AWS?",
+            "content": "There are various factors that impact an organization's success, including product/market fit, customer experience, go-to-market (GTM) strategies, the ability..."
+        },
+        {
+            "headline": "27 Parenting Products Reviewers Have Said Are “Game Changers”",
+            "content": "A portable high chair, a sunrise simulation alarm clock, and so much more."
+        },
+        {
+            "headline": "Estes model rockets launch into Cyber Monday deals!",
+            "content": "Take to the skies with these beginner rocket kits, now up to 20% off for Cyber Monday. Toy rocket maker Estes offers several high-flying models for rocket..."
+        },
+        {
+            "headline": "Federated Access to AWS Single Sign-On with CyberArk Workforce Identity",
+            "content": "by Roy Rodan on 28 NOV 2021 in Advanced (300), AWS IAM Identity Center, AWS Partner Network, Customer Solutions, Security, Identity, & Compliance,..."
+        }
+    ],
+    "20211129": [
+        {
+            "headline": "New – Amazon CloudWatch Evidently – Experiments and Feature Management | Amazon Web Services",
+            "content": "This is a new Amazon CloudWatch capability that makes it easy for developers to introduce experiments and feature management in their application code."
+        },
+        {
+            "headline": "Amazon Takes Steps to Solve Supply Chain Problems",
+            "content": "Grounds crew members load cargo into an Amazon Prime Air aircraft at the company's Air Hub at the Cincinnati/Northern Kentucky International Airport."
+        },
+        {
+            "headline": "Amazon Vs. Walmart—Goliath Vs. Goliath",
+            "content": "A recent study from JungleScout of more than 1000 U.S. consumers along with its analysis of earnings from Amazon and Walmart.com gives us some insights into..."
+        },
+        {
+            "headline": "Amazon 4-star brick-and-mortar store coming to Providence Place",
+            "content": "PROVIDENCE – Amazon.com Inc. has long been known for disrupting the traditional retail shopping economy through convenient, online sales and quick delivery."
+        },
+        {
+            "headline": "Introducing Karpenter – An Open-Source High-Performance Kubernetes Cluster Autoscaler",
+            "content": "by Channy Yun (윤석찬) on 29 NOV 2021 in Amazon Elastic Kubernetes Service, Auto Scaling, AWS re:Invent, Containers, Launch, News, Open Source Permalink..."
+        },
+        {
+            "headline": "Discover a boutique gin and whisky range exclusive to Amazon.com.au",
+            "content": "Celebrity chef Matt Moran introduces No. 9 whisky and Moran's Blend 299 gin—brand new spirits launched as part of Amazon Australia's new line of spirits,..."
+        },
+        {
+            "headline": "Ambani targets Indians with most used app to take on Amazon's grocery retail business",
+            "content": "Indians can now use WhatsApp to order groceries from billionaire Mukesh Ambani's JioMart via a new “tap and chat” option."
+        },
+        {
+            "headline": "New – Use Amazon S3 Event Notifications with Amazon EventBridge | Amazon Web Services",
+            "content": "We launched Amazon EventBridge in mid-2019 to make it easy for you to build powerful, event-driven applications at any scale. Since that launch, we have..."
+        },
+        {
+            "headline": "Top Announcements of AWS re:Invent 2021",
+            "content": "Welcome to AWS re:Invent! Below are some of the most noteworthy launches from our biggest event of the year."
+        },
+        {
+            "headline": "New – AWS Control Tower Account Factory for Terraform",
+            "content": "A new Terraform module maintained by the AWS Control Tower team that allows you to provision and customize AWS accounts through Terraform using a deployment..."
+        }
+    ],
+    "20211130": [
+        {
+            "headline": "7 Strategies for Migrating Applications to the Cloud, introducing AWS Mainframe Modernization and AWS Migration Hub Refactor Spaces | Amazon Web Services",
+            "content": "7 Strategies for Migrating Applications to the Cloud, introducing AWS Mainframe Modernization and AWS Migration Hub Refactor Spaces."
+        },
+        {
+            "headline": "Amazon boom continues: Huge new warehouse in S. Boise likely for retail giant",
+            "content": "Dubbed Project Dove, the large facility would be part of the Pleasant Valley Business Park project in south Boise. Gardner Batt Capital is developing the..."
+        },
+        {
+            "headline": "Climate Next: How data and community can save Zanzibar’s mangroves",
+            "content": "Digital Earth Africa is helping Zanzibar fight the effects of climate change and protect the island's precious mangrove habitat. The story is also part of a..."
+        },
+        {
+            "headline": "Amazon's cloud unit launches new chips to take on Intel, Nvidia",
+            "content": "Amazon.com Inc's cloud computing unit on Tuesday introduced two new custom computing chips aimed at helping its customers beat the cost of using chips from..."
+        },
+        {
+            "headline": "AIG Selects AWS as Its Preferred Public Cloud Provider",
+            "content": "Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, (NASDAQ: AMZN), announced that American International Group, Inc. (NYSE: AIG), a."
+        },
+        {
+            "headline": "Amazon Accused of Under-Reporting Covid Cases Contracted at Work",
+            "content": "Amazon.com Inc. provided “misleading or grossly incomplete” data about the number of Covid-19 infections potentially spread in its U.S. facilities,..."
+        },
+        {
+            "headline": "Join the Preview – Amazon EC2 C7g Instances Powered by New AWS Graviton3 Processors",
+            "content": "The Graviton3 will deliver up to 25% more compute performance and up to twice as much floating point & cryptographic performance."
+        },
+        {
+            "headline": "Mukesh Ambani Uses WhatsApp To Break Amazon Grip On Indian Grocery Buyers",
+            "content": "Billionaire Mukesh Ambani makes Jiomart available on Whatsapp for grocery orders, a decision that comes 19 months after Meta Platforms Inc. -- which owns..."
+        },
+        {
+            "headline": "Announcing the winners of the 2021-2022 AWS Imagine Grant",
+            "content": "These are only a few of the visions of this year's Amazon Web Services (AWS) Imagine Grant winners as they seek to improve the world with the help of cloud..."
+        },
+        {
+            "headline": "Introducing Amazon Redshift Serverless – Run Analytics At Any Scale Without Having to Manage Data Warehouse Infrastructure",
+            "content": "A new capability that makes it super easy to run analytics in the cloud with high performance at any scale. Just load your data and start querying."
+        }
+    ],
     "20211201": [
         {
             "headline": "Introducing Amazon Simple Queue Service dead-letter queue redrive to source queues",
