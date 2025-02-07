@@ -1,4 +1,1934 @@
 {
+    "20210801": [
+        {
+            "headline": "NVIDIA card w/ FreeSync - Pixelated graphics (especially hair)",
+            "content": "It's generally more perceptible on hair (beard), lines and detailed environments (high LOD). Dunno if is it a bug because of the nvidia freesync combination."
+        },
+        {
+            "headline": "Nvidia Vs. AMD And Qualcomm: How To Analyze Semiconductor Stocks For Your Portfolio",
+            "content": "Let's use Premium to analyze three other widely followed semiconductor stocks. We'll learn the bull and bear case for each, then deploy our Quant system."
+        },
+        {
+            "headline": "Nvidia's DLSS magic finally makes Red Dead Redemption 2 playable at 8K on an RTX 3090",
+            "content": "With the latest update bringing support for Nvidia's DLSS tech, we've returned to see if we can finally play the game in full 8K glory."
+        },
+        {
+            "headline": "Dubious tweet promises return of 3dfx after 20 years to take on Nvidia",
+            "content": "A Twitter account has sprung up promising the return of 3dfx this Thursday, but it has all the markings of a hoax."
+        },
+        {
+            "headline": "Nvidia Shield Shutting Down Nintendo Wii Game Downloads In China",
+            "content": "The ability to download these games is currently in the process of being shut down. Although the games are still accessible if purchased, it's unclear how much..."
+        },
+        {
+            "headline": "How to Fix “A supported game is required to use this feature” on Nvidia",
+            "content": "How to fix “A supported game is required to use this feature” on Nvidia. To fix “A supported game is required to use this feature” on Nvidia you can either try..."
+        }
+    ],
+    "20210802": [
+        {
+            "headline": "NVIDIA Advances Instant AI with North American Availability of Base Command Platform",
+            "content": "Base Command Platform is now available for rent in monthly increments to North American customers who are ready to advance their AI capabilities."
+        },
+        {
+            "headline": "NVIDIA DPU & Intel IPU: Game Changers Or Just Smart NICs?",
+            "content": "The current Intel IPU has a very modest Xeon D CPU and a Stratix 10 FPGA. It also supports up to 50Gb Ethernet, while the NVIDIA DPU BlueField 2X has supports..."
+        },
+        {
+            "headline": "Nvidia is tracking more than 8,500 AI startups with $60B in funding",
+            "content": "Nvidia is tracking more than 8500 AI startups through its Inception AI startup program. Those companies have raised more than $60 billion."
+        },
+        {
+            "headline": "Falling GDDR6 demand might keep AMD and Nvidia graphics card prices in check after all",
+            "content": "One of the core components of a graphics card, its memory, is seeing reduced demand and lowering prices, according to TrendForce, and that could play a part in..."
+        },
+        {
+            "headline": "Better Than 8K Resolution: NVIDIA Inception Displays Global AI Startup Ecosystem",
+            "content": "NVIDIA Inception has surpassed 8500 members. That's about two-thirds of the total number of AI startups worldwide, as estimated by Pitchbook."
+        },
+        {
+            "headline": "GeForce RTX 40 Ada Lovelace Could Bring Huge Generational Performance Leap For Gamers",
+            "content": "NVIDIA's next-generation GPU (Ada Lovelace) is rumored to deliver a massive performance improvement over Ampere."
+        },
+        {
+            "headline": "Nvidia DLSS vs AMD FidelityFX Super Resolution: What's the difference?",
+            "content": "We explain all you need to know about Nvidia DLSS and AMD FSR, including the key differences, right here."
+        },
+        {
+            "headline": "Nvidia’s RTX 4000 GPUs promise a huge performance leap – but AMD RDNA 3 might outdo them",
+            "content": "At any rate, bucketful of salt in hand, there are several pieces of speculation here aside from the Maxwell to Pascal performance jump comparison, including..."
+        },
+        {
+            "headline": "Game On: New 2021 Dell XPS 15 9510 OLED With Nvidia GeForce RTX 3050 Ti Arrives",
+            "content": "Dell has begun to ship the XPS 15 9510 featuring the latest Intel 11th-gen Tiger Lake-H processors and Nvidia's new GeForce RTX 3050Ti mobile GPU."
+        },
+        {
+            "headline": "The Ascent on Xbox Game Pass will soon be getting a DLSS and ray-tracing fix after a feature-incomplete launch",
+            "content": "Following The Ascent's simultaneous launch on Steam and Xbox Game Pass, gamers noticed that the Xbox version broke support for both DLSS upscaling and..."
+        }
+    ],
+    "20210803": [
+        {
+            "headline": "NVIDIA GeForce RTX 3090 Ampere Alone Has Higher GPU Share Than AMD’s Entire Radeon RX 6000 RDNA 2 GPU Lineup",
+            "content": "NVIDIA's GeForce RTX 30 Ampere GPUs reign supreme over AMD's Radeon RX 6000 RDNA 2 GPUs according to Steam's latest hardware survey."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3080 successors could have monster power requirements",
+            "content": "The Nvidia GeForce RTX 3080 is rated for 320 watts, while the GeForce RTX 3080 Ti is rated for up to 350 watts. AMD's equivalent models may be a lot more power..."
+        },
+        {
+            "headline": "Nvidia’s Inception program now boasts 8,500 AI startup members",
+            "content": "Nvidia's Inception program now boasts 8,500 AI startup members. Nvidia's Inception program now boasts 8,500 AI startup members ... Nvidia's Inception program,..."
+        },
+        {
+            "headline": "Nvidia Is Confident All Publishers Will Sign Up For GeForce Now",
+            "content": "Nvidia's GeForce Now streaming service may not be the first thing that comes to mind when talking about game subscription services, but that could possible..."
+        },
+        {
+            "headline": "MSI launches new laptops with NVIDIA GeForce RTX 30 graphics. Details here | Mint",
+            "content": "Gaming brand MSI has launched a new line-up of laptops equipped with 11th Gen Intel H series processors with up to NVIDIA GeForce RTX 30 graphics."
+        },
+        {
+            "headline": "Monster Hunter Stories 2: Wings of Ruin Performance Analysis",
+            "content": "Three years after the release of Monster Hunter World, the fans of the series get a new PC release. There are many differences in terms of technology and..."
+        },
+        {
+            "headline": "Best medieval games you can play in the cloud with NVIDIA GeForce NOW [Video]",
+            "content": "From classic RPGs to tactical point-and-click strategy games, the medieval gaming genre is filled with some industry-defining titles."
+        },
+        {
+            "headline": "10 Best Alternatives To OpenAI Triton",
+            "content": "OpenAI released Triton 1.0, an open-source Python-like programming language that enables researchers to write highly efficient graphics processing unit (GPU)..."
+        }
+    ],
+    "20210804": [
+        {
+            "headline": "Zero Waste with Taste: Startup Uses AI to Drive Sustainable Fashion",
+            "content": "Heartdub digitizes textiles and simulates how clothes look on the human body, helping clothing companies achieve zero-waste manufacturing."
+        },
+        {
+            "headline": "The 10 Biggest Nvidia News Stories Of 2021 (So Far)",
+            "content": "The 10 biggest Nvidia news stories of 2021 so far, ranging from new enterprise software, programs and GPUs to new AI records, chip shortages and hurdles."
+        },
+        {
+            "headline": "NVIDIA maintains dominant position in 2020 market for AI processors for cloud and data center",
+            "content": "NVIDIA Corp. maintained its dominant position in the global market for artificial intelligence (AI) processors used in the cloud and in data centers in 2020."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3080 facing price hike — but future GPUs could be easier to buy",
+            "content": "Graphics cards like the Nvidia GeForce RTX 3080 might get pricier than ever, after Samsung announced higher costs for a key component."
+        },
+        {
+            "headline": "Despite shortage: Sony has secured enough microchips to produce 12 million new PlayStation 5 consoles until March 2022",
+            "content": "For most people, getting one of Sony's next-gen gaming consoles can seem difficult or even impossible. The Japanese company now promises to ramp up the PS5..."
+        },
+        {
+            "headline": "Here are the PC system requirements for Battlefield 2042’s upcoming beta",
+            "content": "According to the specs, PC gamers will at least need an AMD FX-8350 or an Intel Core i5 6600K. The game will be using DX12, and will require at least 8GB of..."
+        },
+        {
+            "headline": "Minisforum is now pre-selling the EliteMini HX90 mini PC with Ryzen 9 5900HX and liquid metal cooling",
+            "content": "The high-end nature of the new Minisforum EliteMini HX90 mini PC is reflected not only by the inclusion of the Ryzen 9 5900HX APU, but also by the carbon..."
+        },
+        {
+            "headline": "How to Stress Test a Graphics Card on Linux",
+            "content": "No PC hardware will last forever. Over time, heavy usage can begin to burn out components like your processor and graphics card. If your display is starting..."
+        },
+        {
+            "headline": "Fix: Nvidia GeForce Experience something went wrong",
+            "content": "Nvidia's Geforce Experience utility is pretty good but faces problems time to time. In this article, we're going over a few fixes for this."
+        }
+    ],
+    "20210805": [
+        {
+            "headline": "Will Nvidia’s huge bet on artificial-intelligence chips pay off?",
+            "content": "In September Nvidia said it would buy Arm, a Britain-based firm that designs zippy, energy-efficient chips used in most smartphones, for $40bn."
+        },
+        {
+            "headline": "Meet the Omnivore: Archaeologist Digs Into Photogrammetry, Creates 3D Models With NVIDIA Technology",
+            "content": "Daria Dabal uses NVIDIA RTX to accelerate workflows and NVIDIA Omniverse to create scenes around her models using existing assets."
+        },
+        {
+            "headline": "CoreWeave Deploys the Largest Fleet of NVIDIA A40 GPUs in North America",
+            "content": "With the largest deployment of NVIDIA A40s in North America, clients can now accelerate rendering performance by 2x and AI training by 3x."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3090 outsells all AMD RX 6000 GPUs – is AMD in trouble?",
+            "content": "According to the latest Steam Hardware Survey, the Nvidia GeForce RTX 3090 graphics card has outsold every model of AMD's RDNA 2 line-up."
+        },
+        {
+            "headline": "NVIDIA RTX A2000 For Desktop Is A Low Profile Ampere Workstation Graphics Card",
+            "content": "The NVIDIA RTX A2000 for laptop features the GA106 GPU so it's expected that the desktop card would also rock a similar configuration but with higher clock..."
+        },
+        {
+            "headline": "Nvidia: 3dfx Interactive Revival Has Nothing To Do With Us",
+            "content": "The effort has nothing to do with Nvidia, which originally bought many of 3dfx's assets before the company went bankrupt two decades ago."
+        },
+        {
+            "headline": "Nvidia's RTX 3090 may have outsold the entire Radeon RX 6000 series combined",
+            "content": "There may be more users of Nvidia's expensive RTX 3090 than the entire Radeon RX 6000 series combined. The revelation comes from July's Steam survey."
+        },
+        {
+            "headline": "Nvidia's second book all about ray tracing is out now and totally free to read",
+            "content": "Ray Tracing Gems II covers everything from techniques to how it was integrated into games such as Control and Fortnite."
+        },
+        {
+            "headline": "Asus may be developing Nvidia RTX 3070 cards with Noctua coolers",
+            "content": "The latest EEC filings from Asus show a lonely RTX 3070 card with the Noctua suffix. Hopefully this experiment proves a success."
+        },
+        {
+            "headline": "NVIDIA RTX A2000 desktop workstation graphics card is low profile",
+            "content": "The RTX A2000 would be a dual-slot design with a single blower fan. NVIDIA RTX A2000 offers four display connectors, which appear to be Mini-DisplayPort 1.4."
+        }
+    ],
+    "20210806": [
+        {
+            "headline": "Cattle-ist for the Future: Plainsight Revolutionizes Livestock Management with AI",
+            "content": "Vision AI leader helps cattle industry improve livestock health and enhance operations — from farming through protein production. August 6, 2021 by..."
+        },
+        {
+            "headline": "Intel Xe-HPG DG2 GPU Spotted With Performance On Par With A NVIDIA GTX 1660 SUPER",
+            "content": "Discovered by TUM_APISAK, an Intel Xe Graphics entry was made within the GFXBench benchmark. Since the graphics card isn't marked as an Iris variant, we can..."
+        },
+        {
+            "headline": "Nvidia RTX A2000 for desktop expected to be announced soon",
+            "content": "Back in April, Nvidia announced its new line-up of workstation GPUs for laptops, starting with the RTX A2000. No desktop version of this GPU was announced..."
+        },
+        {
+            "headline": "How Is OpenAI’s Triton Different From NVIDIA CUDA?",
+            "content": "OpenAI unveiled a new programming language called Triton 1.0 which enables researchers with no CUDA experience to write highly efficient GPU code."
+        },
+        {
+            "headline": "The next generation Nintendo Switch absolutely needs this one feature that the Playstation 5 has yet to receive",
+            "content": "We can't think of any reasons why Nintendo shouldn't include VRR support on its next Switch console. Performance upgrades are inevitable."
+        },
+        {
+            "headline": "EVGA Charging High Price for GeForce RTX 30 Advanced RMA Requests",
+            "content": "In the process of completing a GeForce RTX 30 Series Advanced RMA from EVGA, there was a high level of criticism brought to light."
+        }
+    ],
+    "20210807": [
+        {
+            "headline": "AMD Radeon RX 6700M ‘Navi 22’ Laptop RDNA 2 GPU Tested, Faster Than NVIDIA RTX 3070",
+            "content": "The AMD Radeon RX 6700M scores 9854 points with the latest drivers. The whole laptop scores 9837 points which makes it a very strong mobility solution & a..."
+        },
+        {
+            "headline": "AMD Radeon RX 6700M tested against GeForce RTX 3070 Laptop GPU",
+            "content": "The Radeon RX 6700M 110W appears to be 9.1% faster than GeForce RTX 3070 Laptop GPU 80W. A higher TGP is definitely the dominant factor why the AMD card is..."
+        },
+        {
+            "headline": "EVGA To Fix Its Broken GeForce RTX 3090 FTW3 Graphics Cards Through A BIOS Update",
+            "content": "EVGA will soon be rolling out a fix for its GeForce RTX 3090 FTE3 graphics card through a BIOS Firmware update to fix the RPM sensor spikes."
+        },
+        {
+            "headline": "Lenovo Legion 5i Review (2021 Model, AMD Ryzen 7 5800H, RTX 3060)",
+            "content": "The Lenovo Legion 5i we reviewed has AMD Ryzen 7 5800H and NVIDIA GeForce RTX3060. We will test its CPU, GPU, SSD, LCD screen, temperature,..."
+        }
+    ],
+    "20210808": [
+        {
+            "headline": "Acer Nitro 5 AN517-41 in review: GeForce RTX 3070 on the back burner",
+            "content": "We test the Acer Nitro 5 AN517-41 with a Ryzen 7-5800H APU, GeForce-RTX-3070 laptop GPU, NVMe SSD and Full HD display (144 Hz)."
+        },
+        {
+            "headline": "GPU-Z 2.41.0 receives support for AMD's new Radeon RX 6600 XT",
+            "content": "TechPowerUp's new GPU-Z 2.41.0 now supports AMD's upcoming Radeon RX 6600 XT, as well as a bunch of other new tweaks and updates."
+        },
+        {
+            "headline": "Grand Theft Auto 5 & Crysis 3 in 8K/Max Settings with Ray Tracing Reshade",
+            "content": "Digital Dreams has shared two videos, showcasing Grand Theft Auto 5 and Crysis 3 in 8K/Max settings with Ray Tracing Reshade."
+        }
+    ],
+    "20210809": [
+        {
+            "headline": "Leading Lights: NVIDIA Researchers Showcase Groundbreaking Advancements for Real-Time Graphics",
+            "content": "At a series of graphics conferences this summer, NVIDIA Research is sharing groundbreaking work in real-time path tracing and content creation."
+        },
+        {
+            "headline": "Embark Uses NVIDIA DRIVE to Power its Embark Universal Interface for the Autonomous Trucking Industry",
+            "content": "“By selecting NVIDIA DRIVE, Embark will help accelerate the development of commercial self-driving software-as-a-service for the trucking industry, achieving a..."
+        },
+        {
+            "headline": "On the Air: Creative Technology Elevates Broadcast Workflows for International Sporting Event with NVIDIA Networking",
+            "content": "Creative Technology is tackling 4K and 8K signals, as well as new broadcast workflows, with the latest NVIDIA networking technologies."
+        },
+        {
+            "headline": "NVIDIA-Certified Systems Land on the Desktop",
+            "content": "NVIDIA-Certified Systems are expanding to the desktop with workstations that undergo the same testing to validate their ability to run GPU-accelerated..."
+        },
+        {
+            "headline": "Time to Embark: Autonomous Trucking Startup Develops Universal Platform on NVIDIA DRIVE",
+            "content": "The company announced today that it will use NVIDIA DRIVE to develop its Embark Universal Interface (EUI), a manufacturer-agnostic platform that includes the..."
+        },
+        {
+            "headline": "Synopsys, Cadence, Google And NVIDIA All Agree: Use AI To Help Design Chips",
+            "content": "Synopsys created a buzz in 2020, and now Google, NVIDIA, and Cadence Design have joined the party. What lies ahead?"
+        },
+        {
+            "headline": "AMD FidelityFX Super Resolution (FSR) comes to the PlayStation 3 emulator RPCS3",
+            "content": "Thanks to the power of open source, AMD's answer to NVIDIA's DLSS is spreading with FidelityFX Super Resolution (FSR) now available in the PlayStation 3..."
+        },
+        {
+            "headline": "AMD RX 6700 XT review: ray-tracing performance",
+            "content": "Digital Foundry reviews the Radeon RX 6700 XT, the 1440p-focused Big Navi GPU with a full suite of game benchmarks."
+        }
+    ],
+    "20210810": [
+        {
+            "headline": "What Is the Metaverse?",
+            "content": "The next evolution of the internet, the metaverse is a shared virtual 3D world, or worlds, that are interactive, immersive and collaborative."
+        },
+        {
+            "headline": "NVIDIA Brings Millions More Into the Metaverse With Expanded Omniverse Platform",
+            "content": "NVIDIA today announced a major expansion of NVIDIA Omniverse™ — the world's first simulation and collaboration platform that is delivering the foundation of..."
+        },
+        {
+            "headline": "NVIDIA Announces RTX A2000 Video Card: Low Profile & Low Power for ProViz",
+            "content": "The RTX A2000 has a TDP of just 70 watts. This keeps the heat generated by the card low enough that it can be cooled by a dual-slot low-profile cooler."
+        },
+        {
+            "headline": "Nvidia RTX A2000 desktop GPU launches for tiny workstations",
+            "content": "Specifications include 6 GB GDDR6 of ECC memory, four Mini DisplayPort connectors and a max power consumption of 70W. It features 8 TFLOPS of single precision..."
+        },
+        {
+            "headline": "Nvidia Has Turned $10,000 Into $250,000. Here's Why It Can Do It Again",
+            "content": "Nvidia can grow at a faster pace in the coming years as compared to the last five years. The company's domination of the graphics card market opens up a huge..."
+        },
+        {
+            "headline": "NVIDIA RTX A2000 GPU Launched for Mainstream Professional Graphics",
+            "content": "NVIDIA RTX A2000 GPU. The NVIDIA RTX A2000 is an 8nm Samsung Ampere GPU, but it is designed for a lower power footprint than many of the other options. First..."
+        },
+        {
+            "headline": "Nvidia opens its ‘metaverse for engineers’ by adding millions of Blender users to Omniverse",
+            "content": "Nvidia now hopes to dramatically expand this base with the addition of millions of Blender users who use a simple tool to create 3D imagery."
+        },
+        {
+            "headline": "NVIDIA Intros RTX A2000, An Entry-Level & Small Form Factor Professional Graphics Card",
+            "content": "In terms of design, which is the most interesting aspect of the graphics card, the NVIDIA RTX A2000 rocks a full cover shroud in a low profile (half-length) and..."
+        },
+        {
+            "headline": "Nvidia’s tiny RTX A2000 GPU can fit inside a small form factor PC",
+            "content": "Nvidia is aiming the RTX A2000 at those working remotely, helping power 3D design, thanks to a form factor that can slot into workstations big and small. It's..."
+        },
+        {
+            "headline": "Nvidia unveils new Substance 3D plugin for Omniverse",
+            "content": "Nvidia unveils new Substance 3D plugin for Omniverse. Nvidia has announced a Substance 3D plugin for Omniverse, which will enable users to edit materials in..."
+        }
+    ],
+    "20210811": [
+        {
+            "headline": "From Our Kitchen to Yours: NVIDIA Omniverse Changes the Way Industries Collaborate",
+            "content": "It's a tale of how NVIDIA Omniverse, a tool for connecting to and describing the metaverse, brought it all together this year."
+        },
+        {
+            "headline": "I can't stop laughing at how small Nvidia's new graphics card is",
+            "content": "The clear distinction between the two is in VRAM. The A2000 comes with just 6GB of GDDR6, which also has ECC, or error-correcting code, due to it being a..."
+        },
+        {
+            "headline": "Nvidia unveils RTX A2000",
+            "content": "Nvidia has unveiled the RTX A2000, the smallest and cheapest of its new Ampere workstation GPUs. The 6GB card, which measures just 2.7 x 6.6” (6.9 x 16.8cm)"
+        },
+        {
+            "headline": "Nvidia Announces Tiny Ampere GPU for Workstations",
+            "content": "It's hard to find video cards for anything approaching a reasonable price these days, but maybe not everyone needs top-of-the-line gaming hardware."
+        },
+        {
+            "headline": "Nvidia A2000 GPU Fits in a Small Form Factor PC, But Is Its Specs Enough for High Performance?",
+            "content": "Nvidia A2000 GPU Fits in a Small Form Factor PC, But Is Its Specs Enough for High Performance? ... Nvidia has released its A2000 GPU, and it sports a tiny make..."
+        },
+        {
+            "headline": "The architect behind Nvidia RTX DLSS and ray tracing now works at Intel",
+            "content": "Intel has now hired the person behind both technologies, Anton Kaplanyan, suggesting that Intel could be working on its own DLSS competitor for its upcoming..."
+        },
+        {
+            "headline": "Xiaomi builds a robot dog out of smartphone cameras and an Nvidia edge AI board",
+            "content": "Who's an open-source boy? The $1500 CyberDog, that's who ... Chinese consumer electronics upstart Xiaomi has let a robot dog off the leash. The not-so-beating..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 30 series prices continue to drop, but AMD Radeon RX 6000 cards are on the rise again",
+            "content": "The downward trend of NVIDIA GeForce RTX 30 series prices continues, having seemingly peaked sometime in May. By contrast, the cost of AMD Radeon RX 6000..."
+        },
+        {
+            "headline": "Watch: Making Masterpieces in the Cloud With Virtual Reality",
+            "content": "With Masterpiece Studio Pro running on Google Cloud, and streaming with NVIDIA CloudXR, users can enhance the workflow of creating characters in an immersive..."
+        },
+        {
+            "headline": "Nvidia launches the RTX A2000 low-profile pro graphics card - Graphics - News",
+            "content": "The Nvidia RTX A2000 is based upon an Ampere GA106 GPU with a few SMs disabled, and a relatively low clock speed helping this card come in at 70W, just under..."
+        }
+    ],
+    "20210812": [
+        {
+            "headline": "NVIDIA Founder and CEO Jensen Huang to Receive Semiconductor Industry’s Top Honor",
+            "content": "Jensen Huang, founder and CEO of NVIDIA and a trailblazer in building accelerated computing platforms, is the 2021 recipient of the industry's highest honor."
+        },
+        {
+            "headline": "Hooked on a Feeling: GFN Thursday Brings ‘NARAKA: BLADEPOINT’ to GeForce NOW",
+            "content": "This GFN Thursday is packed with 11 new titles available to stream on GeForce NOW, including the stealth horror franchise, Hello Neighbor."
+        },
+        {
+            "headline": "Nvidia Reveals Its CEO Was Computer Generated in Keynote Speech",
+            "content": "Nvidia Reveals Its CEO Was Computer Generated in Keynote Speech ... Share: ... Graphics processor companyNvidia, maker of the currently almost impossible to..."
+        },
+        {
+            "headline": "Nvidia faked part of a press conference with a CGI CEO",
+            "content": "Call it a computer-generated clone, a deepfake or a digital double: This virtual keynote presentation featured a human who was far from the real thing."
+        },
+        {
+            "headline": "Price-Performance Analysis of Amazon EC2 GPU Instance Types using NVIDIA’s GPU optimized seismic code",
+            "content": "Running seismic imaging on AWS provides geophysicists the ability to balance time and cost using different GPU-based Amazon EC2 instance types."
+        },
+        {
+            "headline": "A complete, chronological history of the catastrophic GPU shortage",
+            "content": "A perfect storm of constrained supply, overwhelming demand, and market expansion would lock buyers out of finding a graphics card for more than a year."
+        },
+        {
+            "headline": "Nvidia’s Jensen Huang to get semiconductor industry’s highest honor",
+            "content": "Nvidia CEO Jensen Huang will receive the chip industry's highest honor, the Robert N. Noyce Award, named after Intel's founding CEO."
+        },
+        {
+            "headline": "NVIDIA RTX A2000: the most compact and power-efficient GPU by Jose Antunes - ProVideo Coalition",
+            "content": "The NVIDIA RTX A2000 is the most powerful low-profile, dual-slot GPU, making RTX technology accessible to more professionals."
+        },
+        {
+            "headline": "So small: Nvidia unveils compact RTX A2000 GPUs for more capable AI workstations",
+            "content": "So small: Nvidia unveils compact RTX A2000 GPUs for more capable AI workstations. So small: Nvidia unveils compact RTX A2000 GPUs for more capable AI..."
+        },
+        {
+            "headline": "No, Nvidia Didn't Fool Everyone With a Computer-Generated CEO",
+            "content": "On Wednesday, Nvidia touted how it had used a virtual version of CEO Jensen Huang during April's GTC keynote. However, the CG-Huang only appears in a short..."
+        }
+    ],
+    "20210813": [
+        {
+            "headline": "Nvidia’s CGI CEO doesn’t look ready to replace the real Jensen Huang",
+            "content": "A CGI Jensen Huang made a brief appearance during the Nvidia CEO's GTC 2021 keynote."
+        },
+        {
+            "headline": "Forget deepfakes. Nvidia just proved how good graphics have become at confusing us",
+            "content": "This week, Nvidia announced that its GPU Technology Conference (GTC) was made almost entirely with its own Omniverse CG platform, and the event happened in..."
+        },
+        {
+            "headline": "naraka-bladepoint-nvidia-dlss-reflex-out-now-worldwide",
+            "content": "Naraka: Bladepoint is a 60-person fantasy battle royale, with a mix of melee and ranged combat, built around a grappling hook gadget."
+        },
+        {
+            "headline": "Jensen's Kitchen was a lie: Nvidia reveals GTC 2021 keynote nearly 100% fake",
+            "content": "Nvidia CEO Jensen Huang's iconic kitchen, where he presented three pandemic-era keynote addresses in 2020 and 2021 – was almost entirely fake."
+        },
+        {
+            "headline": "Turn on Nvidia Reflex in Naraka: Bladepoint if you're running an older GPU",
+            "content": "So, back to the original question: is Reflex a setting you should turn on if you have an Nvidia graphics card? The simple answer is yes, particularly if you're..."
+        },
+        {
+            "headline": "6 Things NVIDIA Can Learn From the Ampere GPU Launch",
+            "content": "NVIDIA had a rough launch with its Ampere-based RTX 3000 series GPUs. We're now midway into the product's life cycle, and the availability of these graphics..."
+        },
+        {
+            "headline": "Graphics cards ranked, from fastest to slowest",
+            "content": "We decided to rank all the major available discrete GPUs from Nvidia GeForce and AMD Radeon, starting with the fastest graphics card available and working on..."
+        },
+        {
+            "headline": "NVIDIA’s Jensen Huang to Receive Semiconductor Industry’s Noyce Award",
+            "content": "Jensen Huang, founder and CEO of NVIDIA with a focus on building accelerated computing platforms, is the 2021 recipient of the industry's Robert N. Noyce Award."
+        },
+        {
+            "headline": "Yikes, the brand new GeForce RTX 3050 is slower than the GTX 1660 Ti and RTX 2060",
+            "content": "On the lookout for your next budget gaming laptop? Then you may want to skip the 8 nm GeForce RTX 3050 and just consider the 12 nm GTX 1660 Ti or RTX 2060..."
+        },
+        {
+            "headline": "Jensen makes fake keynote",
+            "content": "Nothing is real and nothing to get hung about Nvidia CEO Jensen Huang's iconic kitchen, where he presented three pandemic-era keynote addresses in..."
+        }
+    ],
+    "20210814": [
+        {
+            "headline": "NVIDIA Demonstrates Neural Radiance Caching and Other Graphics Technologies at SIGGRAPH 2021",
+            "content": "During the virtual SIGGRAPH 2021 conference, NVIDIA demonstrated promising new graphics technologies such as Neural Radiance Caching."
+        },
+        {
+            "headline": "NVIDIA RTX A4000 workstation blower card with GA104-875 GPU has been taken apart",
+            "content": "NVIDIA RTX A4000 teardown shows GA104-875 GPU, GDDR6 memory, and tiny PCB. Redditor snake-robot takes NVIDIA RTX A4000 apart."
+        },
+        {
+            "headline": "NVIDIA RTX A4000 workstation GPU teardown, with blower-style cooler",
+            "content": "NVIDIA RTX A4000 workstation card teardown reveals GA104-875 GPU, single-slot blower-style cooler, and 16GB of GDDR6 with ECC."
+        },
+        {
+            "headline": "NVIDIA’s RTX A4000 Features An Extremely Compact PCB With A Full Ampere GA104 GPU & 16 GB GDDR6 Memory",
+            "content": "NVIDIA RTX A4000 Features The Smallest PCB For A Full GA104 Ampere GPU, Perfect For Custom SFF & Mini PCs. The NVIDIA RTX A4000 comes in a single-slot & full-..."
+        },
+        {
+            "headline": "The AMD Radeon RX 6600 XT is an Ethereum miner's dream with 32 MH/s at 55 W",
+            "content": "Ethereum miners have been drawn to NVIDIA's GeForce RTX 30 series cards, but AMD now has a compelling option in the shape of the Radeon RX 6600 XT."
+        }
+    ],
+    "20210815": [
+        {
+            "headline": "NVIDIA LHR GPUs Just Got Their Mining Limiters Cracked",
+            "content": "A specific software called NBMiner allegedly managed to restore as much as 70% of the crypto mining performance of an NVIDIA LHR graphics card."
+        },
+        {
+            "headline": "Samsung Joins Google and Nvidia in Using AI to Design Chips",
+            "content": "Samsung has reportedly started using artificial intelligence features in the Synopsys chip design tool for upcoming processors."
+        },
+        {
+            "headline": "Nvidia Reveals Its CEO Was Generated in 3D for GTC",
+            "content": "A part of the kitchen speech at the company's GTC conference in April was actually created in 3D. A virtual replica of Huang was created using DSLR cameras."
+        },
+        {
+            "headline": "Nvidia Used a CGI Replica of CEO in GTC Keynote and Fooled Us All",
+            "content": "Nvidia recently revealed that it created a 3D replica of CEO Jensen Huang and his kitchen on a computer for the GTC 2021 keynote."
+        }
+    ],
+    "20210816": [
+        {
+            "headline": "What Is a Machine Learning Model?",
+            "content": "A machine learning model is an expression of an algorithm that combs through mountains of data to find patterns or make predictions."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 40 series mass production to start in the middle of 2022",
+            "content": "According to new reports, NVIDIA's Hopper architecture could tape out at the start of 2022, or late 2021 at an early estimate. Meanwhile, mass production of..."
+        },
+        {
+            "headline": "Intel Is Taking on AMD and Nvidia With Its Own Graphics Cards",
+            "content": "Intel's new Arc series is a line of high-performance GPUs that will arrive in early 2022 and serve as a competitor to AMD and Nvidia."
+        },
+        {
+            "headline": "Intel Arc unveiled – but how will it stack up against Nvidia and AMD?",
+            "content": "Intel has announced Arc, a new brand of graphics technology that, Intel states, will span multiple generations, and cover a litany of products."
+        },
+        {
+            "headline": "Intel Arc Dedicated GPUs Will Challenge Nvidia & AMD",
+            "content": "Intel's Arc discrete graphics, coming in 2022, will use AI-enhanced super sampling, real-time ray tracing and upscale steaming video to 4K resolution."
+        },
+        {
+            "headline": "Very Noyce work: NVIDIA's CEO lands semiconductor industry’s top honor",
+            "content": "In 2017, he was named Fortune's Businessperson of the Year. Prior to founding NVIDIA, Huang worked at LSI Logic and Advanced Micro Devices. Huang holds a BSEE..."
+        },
+        {
+            "headline": "Intel will take on AMD and Nvidia with its new Arc GPUs for gaming",
+            "content": "Intel Arc is the official name for the company's new line of gaming-focused GPUs, the first of which is due out in 2022."
+        },
+        {
+            "headline": "Ethereum Miners Can Now Use 70% Of Nvidia RTX 30 GPU Hashrate, Thanks To This NBMiner Update | Bitcoinist.com",
+            "content": "With the new NBMiner update, Ethereum miners can unlock up to 70% of Nvidia RTX 30 LHR version GPU mining hashrate."
+        },
+        {
+            "headline": "First Intel Arc graphics card has two key features to compete with Nvidia and AMD",
+            "content": "Intel's first graphics card finally has a name, and its set to arrive in 2022. More importantly, it includes two key features to take on Nvidia and AMD."
+        },
+        {
+            "headline": "Intel’s Arc GPUs will compete with GeForce and Radeon in early 2022",
+            "content": "Intel has been working for years to enter the high-end graphics card market to compete with Nvidia and AMD, and today those efforts get a name: Intel Arc..."
+        }
+    ],
+    "20210817": [
+        {
+            "headline": "Big Computer on Campus: Universities Graduate to AI Super Systems",
+            "content": "Many universities are powering on brand new AI supercomputers. Researchers and students working in fields from basic science to liberal arts can't wait to log..."
+        },
+        {
+            "headline": "NVIDIA (NVDA) Option Traders Bearish Before Earnings",
+            "content": "It appears option traders are positioned for a negative move, as there are a larger number of put options in the open interest than calls."
+        },
+        {
+            "headline": "Samsung, IBM, Nvidia, Google: artificial intelligence in the design process of electronic components",
+            "content": "Samsung, which announced that it has integrated the DSO.ai artificial intelligence module to speed up the design process of its Exynos processors."
+        },
+        {
+            "headline": "The best Android TV box of 2021, the Nvidia Shield TV, is now $20 off this week only",
+            "content": "Through August 22, Amazon has the NVIDIA Shield TV Stick on sale for just $129.99. Today's deal saves you $20 off its usual price of $150."
+        },
+        {
+            "headline": "Using Python on NVIDIA GPUs provides performance of C++ #Python @NVIDIA",
+            "content": "NVIDIA provides documentation on how to program their GPUs in Python for their CUDA architecture. Python plays a key role within the science, engineering,..."
+        },
+        {
+            "headline": "What Intel has to do to make its Arc gaming GPU a win",
+            "content": "Intel Arc will be the company's first high-end gaming GPU. Will it succeed against the formidable competition from Nvidia and AMD?"
+        },
+        {
+            "headline": "NVIDIA Confirms Voltage Glitch Attack Vulnerability on Tesla Autopilot",
+            "content": "nvidia confirms voltage glitch attack vulnerability on tesla autopilot. a new research paper from germany discloses that nvidia has confirmed a hardware..."
+        },
+        {
+            "headline": "What's Causing New World's GPU Problem (& How It's Fixed)",
+            "content": "Players of Amazon's closed beta for New World reported a common issue that fries high-end GPUs such as the Nvidia 3090. Here's why, and how to fix it."
+        },
+        {
+            "headline": "The GeForce RTX 3050 appears to be absolutely abysmal at ray tracing even though RT is literally in its name",
+            "content": "RTX 3050? More like GTX 3050. Nvidia introduced the \"RTX\" moniker to imply real-time ray tracing capabilities and acceleration, but the GeForce RTX 3050 is..."
+        },
+        {
+            "headline": "Top 10 GPUs for Deep Learning in 2021",
+            "content": "The GeForce RTX 2060 is powered by NVIDIA's Turing architecture that ensures higher performance and the power of real-time ray tracing."
+        }
+    ],
+    "20210818": [
+        {
+            "headline": "Nvidia: GPU Supplies to Remain Constrained for 'Vast Majority' of 2022",
+            "content": "Nvidia's CEO is predicting the great GPU shortage will persist through this year and for most of 2022."
+        },
+        {
+            "headline": "Maybe Nvidia Should Buy VMware Instead Of Intel",
+            "content": "Maybe instead of Intel buying VMware, as we suggested recently, Nvidia should. It could be an equally good fit. VMware is a much larger and more profitable..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 40 Series ‘Ada Lovelace’ GPUs Mass Production Rumored To Commence In Mid 2022",
+            "content": "NVIDIA GeForce RTX 40 Series 'Ada Lovelace' GPUs Mass Production Rumored To Commence In Mid 2022 ... NVIDIA GeForce RTX 40 series graphics cards based on the Ada..."
+        },
+        {
+            "headline": "Infographic: Nvidia (NVDA) Q2 revenue up 68%; earnings beat",
+            "content": "Nvidia Corporation (NASDAQ: NVDA) Wednesday said its second-quarter revenues and profit increased amid elevated demand. The results also topped the Street..."
+        },
+        {
+            "headline": "NVIDIA (NVDA) Q2 2022 earnings release beats revenue expectations",
+            "content": "NVIDIA released its Q2 2022 earnings results on its investor relations website on August 18, 2021. According to the report, NVIDIA raked in a revenue of $6.51..."
+        },
+        {
+            "headline": "How to Update Nvidia Graphics Card Drivers on Windows",
+            "content": "There are three ways you can perform this task: Manually, GeForce Experience, Windows Updates. 1. Update Your GPU Drivers Manually"
+        },
+        {
+            "headline": "The ever-popular Nvidia Shield TV is nearly back to its all-time low price",
+            "content": "Snap up the Nvidia Shield TV, one of our favorite media streamers, for just $130 on Amazon today."
+        },
+        {
+            "headline": "Rambus Shares New Details on Upcoming HBM3 Specification",
+            "content": "We know a bit more about HBM3 than we did before, thanks to a recent Rambus announcement. The new standard will offer over a terabyte of memory bandwidth..."
+        },
+        {
+            "headline": "4800MHz clock frequency: PNY announces cutting-edge DDR5 desktop memory for gamers",
+            "content": "The next generation of high performance memory should impress customers with its higher clock frequencies and other technical improvements that allow for an..."
+        },
+        {
+            "headline": "Intel's gaming-grade Arc GPUs break cover; Launching in Q1 2022",
+            "content": "Intel's latest bid to enter the high-end graphics card market dominated by NVIDIA and AMD is called Arc (stylized as ARC)."
+        }
+    ],
+    "20210819": [
+        {
+            "headline": "Black Myth: Wukong - Watch The Incredible New Trailer, Captured On GeForce RTX In Unreal Engine 5 With NVIDIA DLSS",
+            "content": "12-minute trailer demonstrates the action-RPG's stunning visuals, ARPG gameplay, and next-gen Unreal Engine 5 technology, accelerated by NVIDIA DLSS."
+        },
+        {
+            "headline": "NVIDIA CEO: GPU Shortage Will Continue Throughout 2022",
+            "content": "In its latest earnings call, Nvidia's CEO Jensen Huang explained he expects GPU shortages to continue throughout most of 2022. “I would expect that we..."
+        },
+        {
+            "headline": "Intel's DLSS competitor works on Nvidia and AMD GPUs, too, and will be open-source",
+            "content": "The way Intel's presentation describes XeSS makes it sound much more similar to Nvidia's Deep Learning Super Sampling (DLSS) than AMD's recently unveiled..."
+        },
+        {
+            "headline": "How to update Nvidia drivers",
+            "content": "Once you download the Nvidia GeForce Experience software, only two clicks stand between you and having up-to-date drivers."
+        },
+        {
+            "headline": "Nvidia GeForce RTX graphics cards will continue to be scarce till the end of 2022",
+            "content": "Nvidia CEO Jensen Huang stated that the company would have trouble keeping up with demand for its GeForce RTX graphics cards. The shortage will likely continue..."
+        },
+        {
+            "headline": "Make History This GFN Thursday: ‘HUMANKIND’ Arrives on GeForce NOW",
+            "content": "The exciting new turn-based historical strategy game HUMANKIND released this week and is streaming on GeForce NOW."
+        },
+        {
+            "headline": "NVIDIA CEO Jensen Huang expects supply constraints for the vast majority of next year",
+            "content": "Despite securing significant long-term supply commitments, Jensen Huang, the CEO of NVIDIA is expecting supply constraints through the majority of next year."
+        },
+        {
+            "headline": "Nvidia Shows Off Virtual CEO Creation in New Documentary",
+            "content": "Nvidia created a virtual version of CEO Jensen Huang and quietly snuck in 14 seconds of the virtual human into.."
+        },
+        {
+            "headline": "Intel shows off its answer to Nvidia’s DLSS, coming to Arc GPUs in 2022",
+            "content": "XeSS looks set to take on Nvidia's own Deep Learning Super Sampling (DLSS) tech, will make its debut alongside the first Arc GPU architecture, known as..."
+        },
+        {
+            "headline": "NVIDIA Reveals That Part of Its CEO's Keynote Presentation Was Deepfaked",
+            "content": "NVIDIA CEO Jensen Huang could be seen speaking in it what appeared to be his kitchen. The big surprise was discovered from NVIDIA's Connecting the Metaverse..."
+        }
+    ],
+    "20210820": [
+        {
+            "headline": "Nvidia's $40 bln deal for ARM dealt blow by UK regulator",
+            "content": "Nvidia Corp's planned $40 billion acquisition of British chip designer ARM hit a major hurdle on Friday after a UK regulator found it could damage..."
+        },
+        {
+            "headline": "Nvidia: GPU Production Will Be Substantially Constrained for Most of 2022",
+            "content": "According to Nvidia CEO Jen-Hsun Huang, GPUs will remain constrained for the \"vast majority\" of 2022."
+        },
+        {
+            "headline": "PC User Finds Condom-Like Finger Glove Inside Nvidia RTX 3090 Graphics Card",
+            "content": "Antony ter Horst discovered the object inside his RTX 3090 Founders Edition card after he was trying to figure out why it was running so hot."
+        },
+        {
+            "headline": "NVIDIA Broadcast review: An unmissable tool for streaming and video conferencing",
+            "content": "One app that will transform the look of your webcam and the sound of your microphone, removing unnecessary distractions for all."
+        },
+        {
+            "headline": "Dell EMC PowerEdge XE8545 Review AMD EPYC and NVIDIA Redstone Server",
+            "content": "This system is a 4U system that incorporates two AMD EPYC 7003 processors along with four SXM4 NVIDIA A100 GPUs also known as NVIDIA's Redstone platform."
+        },
+        {
+            "headline": "3 things Intel XeSS needs to nail to beat Nvidia DLSS",
+            "content": "Here are three things XeSS needs to take the supersampling crown from Nvidia and cement Intel's place in the graphics card market."
+        },
+        {
+            "headline": "Nvidia unveils new trailer for Black Myth: Wukong, now powered by Unreal Engine 5 and with DLSS support",
+            "content": "Nvidia has just debuted a 12-minute trailer, giving us our first look at an Unreal Engine 5 title enhanced with its Deep Learning Super Sampling (DLSS) tech."
+        },
+        {
+            "headline": "EFT Patch Notes for August 20 Hotfix Update, Nvidia Reflex Added",
+            "content": "Today, Battlestate Games released the EFT patch notes for hotfix 0.12.11.2.13771. This new update adds Nvidia Reflex support to the game."
+        },
+        {
+            "headline": "Watchdog raises concerns over Nvidia’s takeover of UK chip designer Arm",
+            "content": "Watchdog raises concerns over Nvidia's takeover of UK chip designer Arm ... The UK competition watchdog has said the takeover of the Cambridge-based chip designer..."
+        },
+        {
+            "headline": "Black Myth: Wukong Unreal Engine 5 Game Shown in New Stunning Gameplay; Will Support NVIDIA DLSS",
+            "content": "Black Myth: Wukong has been announced to be the first Unreal Engine 5 game to support NVIDIA DLSS. There's also a gorgeous new gameplay video."
+        }
+    ],
+    "20210821": [
+        {
+            "headline": "NVIDIA Releases Amazing New Black Myth: Wukong Unreal Engine 5 Gameplay Trailer Showcasing DLSS",
+            "content": "Black Myth: Wukong is one of our most anticipated games, and our game developer support organization is working diligently with Game Science throughout its."
+        },
+        {
+            "headline": "Jaw-Dropping Black Myth: Wukong Trailer Showcases Unreal Engine 5 With NVIDIA DLSS",
+            "content": "Here's a first look at an Unreal Engine 5 game (Black Myth: Wukong) ehnahced with NVIDIA's DLSS technology."
+        },
+        {
+            "headline": "Swappa.com: An Alternative For Finding New & Gently Used AMD Radeon and NVIDIA GeForce GPUs",
+            "content": "Swappa, an online retailer that sells new & used tech is an alternative for consumers looking for NVIDIA GeForce & AMD Radeon GPUs."
+        },
+        {
+            "headline": "AIOZ Network Joins the NVIDIA Accelerator Program - Business Partnerships",
+            "content": "The Layer 1 platform AIOZ Network will also receive co-marketing support as well as have the opportunity to connect with other top-notch projects from the..."
+        },
+        {
+            "headline": "Tesla’s Dojo Supercomputer Breaks All Established Industry Standards — CleanTechnica Deep Dive, Part 1",
+            "content": "In this deep dive, we scrutinize and explain everything Tesla has said about computer hardware and compare it to the competition and the way things are..."
+        },
+        {
+            "headline": "Lenovo IdeaPad 5 Pro 16IHU6 in review: 16-inch all-rounder with good battery life",
+            "content": "We review the Lenovo Ideapad 5 Pro 16IHU6 in the configuration with the Core i5-11300H CPU, the GeForce MX450 GPU, an NVMe SSD, and a WQXGA display in the..."
+        }
+    ],
+    "20210822": [
+        {
+            "headline": "RTX 3090 Owner Finds Old Glove Inside $1500 GPU",
+            "content": "That is not on the list of included extras, Nvidia."
+        },
+        {
+            "headline": "The Elder Scrolls V: Skyrim set to receive a paid Anniversary Edition and a free next-gen upgrade for PC, PlayStation 5 and Xbox series X|S",
+            "content": "Bethesda has already released countless versions of The Elder Scrolls V: Skyrim, but the company is not ready to move onto The Elder Scrolls VI just yet."
+        }
+    ],
+    "20210823": [
+        {
+            "headline": "Unstung Heroes: Startup’s AI-Powered Tomato Pollinator Gives Bees a Break",
+            "content": "Arugga builds AI-powered robots that use computer vision to determine which flowers are ready for pollination and then blast air pulses at them to mimic the..."
+        },
+        {
+            "headline": "A Look at Omniverse Kit, Nvidia’s Metaverse SDK",
+            "content": "Omniverse Kit is how a developer can create apps for the Omniverse. However, it is just one of five main components to the overall developer platform."
+        },
+        {
+            "headline": "NVIDIA BlueField-3 DPU Architecture at Hot Chips 33",
+            "content": "One of the upcoming DPUs that we are excited about is the 2022 NVIDIA BlueField-3 a follow-up to the BlueField-2 DPU we have been using in the lab."
+        },
+        {
+            "headline": "Nvidia RTX 3090 owner finds finger glove inside his Founders Edition card",
+            "content": "Netherlands-based Redditor Antony ter Horst (antonyjeweet) bought the RTX 3090 Founders Edition two weeks ago. Strangely, the memory temperatures were..."
+        },
+        {
+            "headline": "Weekly Stock Market And Economy Recap: S&P 500 And Nvidia's Earnings Shine",
+            "content": "Stocks Analysis by Michael Gouvalaris covering: S&P 500, Intuit Inc, NVIDIA Corporation, Salesforce Inc. Read Michael Gouvalaris's latest article on..."
+        },
+        {
+            "headline": "Software Ate the World — That Means Hardware Matters Again",
+            "content": "Software Ate the World — That Means Hardware Matters Again. Ten years after Marc Andreessen declared that 'software is eating the world,' the software-defined..."
+        },
+        {
+            "headline": "PlayStation 5: Sony brings a lighter and easier to assemble version of its next-generation console to market",
+            "content": "Sony has started shipping a new revision of the PlayStation 5, the second so far. The second revision has received a helpful upgrade and even a slight weight..."
+        },
+        {
+            "headline": "Gamer Tries Fixing Overheating NVIDIA GeForce RTX 3090; Finds Finger Glove Underneath Heatsink",
+            "content": "The issue of an overheating graphics cards isn't uncommon for gamers and sometimes, the cause behind them are due to low quality thermal pads."
+        }
+    ],
+    "20210824": [
+        {
+            "headline": "Gamescom 2021: RTX Coming To Battlefield 2042, Marvel’s Guardians of the Galaxy, Dying Light 2 Stay Human, and More",
+            "content": "We're showcasing 13 games that are launching with RTX technologies, or are adding these game-changing features in the near future."
+        },
+        {
+            "headline": "NVIDIA Now Offers A Comprehensive Platform For Enterprise AI",
+            "content": "NVIDIA AI Enterprise is now available (having been pre-launched at GTC earlier this year) providing a comprehensive cloud-native suite of AI software all built..."
+        },
+        {
+            "headline": "Nvidia LHR explained: What is a ‘Lite Hash Rate’ GPU?",
+            "content": "LHR is designed to foil Ethereum miners and get more GeForce graphics cards in the hands of gamers. Here's what you need to know."
+        },
+        {
+            "headline": "NVIDIA RTX A5000 Special Review – Water-cooled and overclocked workstation beast",
+            "content": "After the first test, I now go one better and even cool the card with waterblock and chiller to really expose all available boost steps. And yes, there's really..."
+        },
+        {
+            "headline": "U.S. near deal for Nvidia supercomputer as it waits for delayed Intel machine -sources",
+            "content": "The U.S. Department of Energy is nearing a deal to purchase a supercomputer made with chips from Nvidia Corp and Advanced Micro Devices Inc as a key lab..."
+        },
+        {
+            "headline": "Nvidia launches AI Enterprise in general availability",
+            "content": "Nvidia's newly launched AI Enterprise managed service includes a suite of software tools designed to accelerate machine learning workloads."
+        },
+        {
+            "headline": "Global Availability of NVIDIA AI Enterprise Makes AI Accessible for Every Industry",
+            "content": "NVIDIA today announced the availability of NVIDIA AI Enterprise, a comprehensive software suite of AI tools and frameworks that enables the hundreds of..."
+        },
+        {
+            "headline": "NVIDIA Unveils Brand New GeForce RTX Games Including Battlefield 2042, Marvel’s Guardians of The Galaxy & Dying Light 2 Stay Human",
+            "content": "NVIDIA is bringing GeForce RTX technologies such as DLSS & Raytracing to Battlefield 2042, Dying Light 2 & Marvel's Guardians of The Galaxy."
+        },
+        {
+            "headline": "Galax brings back blower-style Nvidia RTX 3080 and 3090 GPUs",
+            "content": "Maybe we were too hasty to use the word 'discontinued', as blower cooled Nvidia RTX 3000 GPUs make a return from Galax."
+        },
+        {
+            "headline": "Nvidia Announces GA of AI Enterprise on VMware vSphere and Standard Servers",
+            "content": "NVIDIA today announced GA of NVIDIA AI Enterprise, a suite of AI tools and frameworks designed to enable users of VMware vSphere to virtualize AI workloads."
+        }
+    ],
+    "20210825": [
+        {
+            "headline": "NVIDIA Turbocharges Extreme-Scale AI for Argonne National Laboratory’s Polaris Supercomputer",
+            "content": "The largest GPU-based supercomputer at the U.S. Department of Energy's Argonne National Laboratory will run on NVIDIA's accelerated computing platform,..."
+        },
+        {
+            "headline": "Hot Chips: Here Come the DPUs and IPUs from Arm, Nvidia and Intel",
+            "content": "“This DPU relies on Neoverse N2 platform for its general-purpose computer system and they have up to 36 N2 cores. Marvell augmented the design with several..."
+        },
+        {
+            "headline": "Best Buy Is Getting a Huge Nvidia RTX GPU Restock Tomorrow",
+            "content": "Dozens of Best Buy stores in the US are getting restocks of the RTX 3090, RTX 3080 Ti, RTX 3080, RTX 3070 Ti, RTX 3070, and RTX 3060 Ti."
+        },
+        {
+            "headline": "Best Buy Is Selling RTX 30 Graphics Cards at Select Stores Tomorrow",
+            "content": "Nvidia's RTX 30 series debuted nearly a year ago. Yet, due to a number of circumstances – most notably a chip shortage – it has been increasingly difficult..."
+        },
+        {
+            "headline": "Nvidia RTX 3090 Super rumor pops up... here we go again",
+            "content": "Will Nvidia super-charge the already-powerful RTX 3090?"
+        },
+        {
+            "headline": "Best Buy is restocking thousands of Nvidia RTX graphics cards for sale tomorrow",
+            "content": "Best Buy confirmed that it's restocking Nvidia RTX graphics at locations across the country tomorrow, August 26. Here's how to score one."
+        },
+        {
+            "headline": "Dying Light 2 to feature NVIDIA RTX & DLSS support",
+            "content": "Techland has partnered with NVIDIA to make Dying Light 2 the first Techland game ever to feature real-time ray tracing and DLSS rendering."
+        },
+        {
+            "headline": "Is This CEO Real or Fake? How Artificial Intelligence Is Taking Over the Event Industry",
+            "content": "A photorealistic digital clone of NVIDIA's CEO Jensen Huang (and his kitchen) popped up on screen during the GTC21 event in April."
+        },
+        {
+            "headline": "Turing Pi 2 Revealed, Brings Nvidia Jetson to the Party",
+            "content": "A new Turing Pi cluster computing board will support Nvidia Jetson as well as Raspberry Pi Compute Modules."
+        },
+        {
+            "headline": "Nvidia RTX 3050 graphics cards could be a big boon for cheap gaming laptops",
+            "content": "According to Nvidia, the slightly higher-end 3050 Ti can crank more than 60 fps out of popular games like Call of Duty: Warzone, Watch Dogs: Legion, and even..."
+        }
+    ],
+    "20210826": [
+        {
+            "headline": "Field of AI: Startup Helps Farmers Reduce Chemicals and Costs",
+            "content": "Driven by the NVIDIA Jetson edge AI platform, Greeneye's system can detect and precisely squirt weeds in milliseconds."
+        },
+        {
+            "headline": "How to fix the ‘you are not currently using a display attached to an Nvidia GPU’ error",
+            "content": "Here are a few troubleshooting tips to fix this annoying little problem. Believe it or not, one of the simplest fixes may be to just plug your HDMI cord into..."
+        },
+        {
+            "headline": "NVIDIA RTX 3090 FE Graphics Card Spotted With A Finger Cot By Mistake",
+            "content": "NVIDIA Graphics Card Includes Finger Cot By Mistake, NVIDIA GeForce RTX 3090 Founders Edition, thermal pads, high temperatures, memory."
+        },
+        {
+            "headline": "'Maybe' Nvidia will release a GeForce GPU that's faster than the RTX 3090 this year, leaks suggest",
+            "content": "According to recent tweets from leakers, the green team may be considering an RTX 3090 Super with a maximum number of cores and running at the maximum memory..."
+        },
+        {
+            "headline": "Huge Nvidia RTX 30-series restock hits Best Buy today — how to get your GPU",
+            "content": "Best Buy stores is going to hve Nvidia GeForce RTX 30-series graphics cards on August 26. Here's what you need to know."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3090 SUPER now rumored with 21Gbps GDDR6X memory",
+            "content": "It is said that the RTX 3090 SUPER would be the first NVIDIA RTX 30 graphics card to feature 21 Gbps memory."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3090 Super with 10,752 CUDA cores and 400 W+ TDP rumored to launch later this year",
+            "content": "Nvidia may introduce an RTX 3090 Super later this year to probably counter Intel's upcoming Xe-HPG Alchemist GPU launch in early 2022. The RTX 3090 Super is..."
+        },
+        {
+            "headline": "Here are the official PC requirements for The King of Fighters XV",
+            "content": "According to the specs, PC gamers will at least need an Intel Core i5 with an Nvidia GeForce GTX 770 or AMD Radeon R9 280."
+        },
+        {
+            "headline": "The best ray-tracing games fully playable on Android with GeForce NOW [video]",
+            "content": "With NVIDIA GeForce NOW you can enjoy some of the biggest and best titles using ray tracing, almost unbelievably, on your Android device."
+        },
+        {
+            "headline": "Halo Infinite PC System Requirements Revealed; Recommended Specs Include RTX 2070, RX 5700 XT",
+            "content": "The developer recommends an AMD Ryzen 7 3700X or Intel i7-9700k CPU and Radeon RX 5700 XT or NVIDIA RTX 2070 GPU."
+        }
+    ],
+    "20210827": [
+        {
+            "headline": "Here’s Why Nvidia Will Surpass Apple’s Valuation In 5 Years",
+            "content": "Nvidia can surpass Apple by capitalizing on the artificial intelligence economy, which will add an estimated $15 trillion to GDP. This is compared to the..."
+        },
+        {
+            "headline": "1,200+ Interns From Around the World Join NVIDIA’s Green Team",
+            "content": "Over 1200 interns have been making an impact this summer, contributing to meaningful projects, while having fun along the way."
+        },
+        {
+            "headline": "NVIDIA & Intel GPU Market Share Increased While AMD Declined In Q2 2021, GPU Shipments Hit 37% Growth Year-Over-Year",
+            "content": "NVIDIA and Intel saw increased GPU market share and shipments in Q2 2021 while AMD's market share fell compared to the previous quarter."
+        },
+        {
+            "headline": "Intel XeSS should work on AMD RDNA 2 and Nvidia Ampere, Turing, & Pascal GPUs",
+            "content": "AMD has confirmed that RDNA 2 graphics cards support DP4A, in a comment to ComputerBase. This is achieved through Rapid Packed Math, a feature originally..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3080 Ti cards with 20 GB VRAM spotted in Russia, might only be some mislabeled models",
+            "content": "While the labels are clearly stating 20 GB, there is nothing else attesting to the actual VRAM capacity of these cards. These are probably some mislabeled..."
+        },
+        {
+            "headline": "Nvidia will skip Android 10 but Shield 'development is still full steam ahead'",
+            "content": "Nvidia will skip Android 10 but Shield 'development is still full steam ahead' ... Nvidia Shield is still running Android 9 from 2018. The company will skip..."
+        },
+        {
+            "headline": "Nvidia Shield TV won’t get Android TV 10, but the TiVo Stream 4K might",
+            "content": "Nvidia has confirmed that it won't release an Android 10 update for its popular Shield TV streaming box, but for good reason."
+        },
+        {
+            "headline": "An AI for Fine Art: Attorney Trains NVIDIA RTX 2070 to Authenticate Masterpieces",
+            "content": "Drawing on a convolutional neural network — a deep learning algorithm that's led to breakthroughs in the analysis of a vast array of visual imagery..."
+        },
+        {
+            "headline": "Nvidia Geforce RTX 3060: Here is how you can check for the stock",
+            "content": "Finding a restock of Nvidia GeForce RTX 3060 has been extremely difficult. This isn't surprising, as this card is an ideal option for gamers who are looking..."
+        }
+    ],
+    "20210828": [
+        {
+            "headline": "EU All Set To Formally Probe $54 Billion NVIDIA-ARM Merger",
+            "content": "Brussels launching investigation concern competition in lieu of NVIDIA takeover of Arm. Apple, Google, Qualcomm, Samsung, Microsoft, Huawei."
+        },
+        {
+            "headline": "Ctrl+Alt+Delete: I hope the Nvidia RTX 3090 Super rumours are fake",
+            "content": "New rumours suggest that a Nvidia RTX 3090 Super graphics card could be in the works, with boosted specs set to make it the most powerful graphics card in..."
+        },
+        {
+            "headline": "NVIDIA Next Generation Ada Lovelace GPUs Will Use TSMC’s 5nm Process Instead Of Samsung’s",
+            "content": "NVIDIA Next Generation Ada Lovelace GPUs Will Use TSMC's 5nm Process Instead Of Samsung's ... One of the most famous leakers for NVIDIA GPUs has just confirmed a..."
+        }
+    ],
+    "20210829": [
+        {
+            "headline": "Razer Blade 14 - Review 2021",
+            "content": "The Razer Blade 14 brings an an all-new gaming-laptop 14 inch design for Razer, bringing the best of AMD and Nvidia's arsenal making this a niche product in..."
+        },
+        {
+            "headline": "PlayStation 5 console comparison teardown reveals shocking truth behind the lighter first-revision PS5",
+            "content": "A revealing PlayStation 5 teardown video has compared the launch PS5 against the new revised PS5. It appears Sony has cut a crucial corner to help turn the..."
+        },
+        {
+            "headline": "Elon Musk expresses concerns over Nvidia’s acquisition of Arm.",
+            "content": "Tesla Inc. CEO, Elon Musk has expressed competition concerns over Nvidia's potential takeover of Arm from SoftBank, according to reports from the Telegraph."
+        }
+    ],
+    "20210830": [
+        {
+            "headline": "More rumors suggest Nvidia Lovelace a.k.a. RTX 4000 series will use TSMC N5",
+            "content": "A leaker with a strong track record added to rumors that Nvidia's next generation of gaming graphics cards will use TSMC's 5-nanometer node process."
+        },
+        {
+            "headline": "Tesla CEO Elon Musk Opposes Nvidia's $40B Acquisition of Arm. Here's Why.",
+            "content": "Tesla CEO Elon Musk Raises a Red Flag About Nvidia's $40 Billion Acquisition of Arm. Here's Why. ... Tesla chief executive Elon Musk has signaled concern over..."
+        },
+        {
+            "headline": "NVIDIA and Tel Aviv Researchers Propose ‘StyleGAN-NADA’, A Text-Driven Method That Converts a Pre-Trained AI Generator to New Domains Using Only a Textual Prompt and No Training Data",
+            "content": "NVIDIA and Tel Aviv Researchers Propose 'StyleGAN-NADA', A Text-Driven Method That Converts a Pre-Trained AI Generator to New Domains Using Only a Textual..."
+        },
+        {
+            "headline": "GPU prices rising again after they had been falling",
+            "content": "The most recent data show Nvidia cards going from 150% of suggested price to 159%, and AMD graphics cards moving from 159% of suggested price to 164%."
+        },
+        {
+            "headline": "Nvidia and AMD graphics cards are getting more expensive, again",
+            "content": "After several weeks of prices falling rapidly towards their MSRP, both Nvidia's RTX 3000 series and AMD's Radeon RX 6000 cards saw their average prices rise..."
+        }
+    ],
+    "20210831": [
+        {
+            "headline": "All the Feels: NVIDIA Shares Expressive Speech Synthesis Research at Interspeech",
+            "content": "NVIDIA researchers are building models and tools for high-quality, controllable speech synthesis that capture the richness of human speech, without audio..."
+        },
+        {
+            "headline": "Cybercriminal sells tool to hide malware in AMD, NVIDIA GPUs",
+            "content": "Cybercriminals are making strides towards attacks with malware that executes code from the graphics processing unit (GPU) of a compromised system."
+        },
+        {
+            "headline": "NVIDIA SHIELD TV Android 10 Update Is Never Going To Happen",
+            "content": "The graphics tech giant has just confirmed that the SHIELD TV won't be getting Android 10, but that doesn't mean it won't be getting updates either."
+        },
+        {
+            "headline": "Myst – Ray Tracing, NVIDIA DLSS and AMD FSR Benchmarks & Comparisons",
+            "content": "Myst Remake uses Unreal Engine 4, supports both NVIDIA DLSS and AMD FSR, and features ray-traced reflections. So, time to benchmark them."
+        },
+        {
+            "headline": "Lenovo ThinkPad P15 Gen 2 Review",
+            "content": "Updates to the Lenovo ThinkPad P15 Gen 2 include NVIDIA's new Ampere-powered graphics, 3200MHz memory, PCIe Gen4 storage options, a multi..."
+        }
+    ],
+    "20210901": [
+        {
+            "headline": "Where to buy Nvidia RTX 3080: find stock here",
+            "content": "We see options available from Newegg in the US, Scan and Ebuyer in the UK, and Mwave in Australia, and their prices aren't too bad, either."
+        },
+        {
+            "headline": "NVIDIA’s Isaac Gym: End-to-End GPU Accelerated Physics Simulation Expedites Robot Learning by 2-3 Orders of Magnitude",
+            "content": "An Nvidia research team has introduced Isaac Gym — a high performance robotics simulation platform that runs an end-to-end GPU accelerated training pipeline."
+        },
+        {
+            "headline": "EVGA Says that 'Bad Soldering' Was The Reason for RTX 3090 Deaths During 'New World' Debacle",
+            "content": "EVGA was in hot water recently when several of their custom NVIDIA RTX 3090s, specifically the FTW3 Ultra cards, started dying when they tried to run the..."
+        },
+        {
+            "headline": "Where to buy Nvidia RTX 3060: find stock here",
+            "content": "The easiest way to find yourself an RTX 3060 is through pre-built gaming PCs. Many are available with the graphics card slotted in and ready to."
+        },
+        {
+            "headline": "NVIDIA Ada Lovelace With 5nm TSMC Process Rumoured To Launch “A Little Bit Earlier”",
+            "content": "A couple of months ago, rumours surfaced about NVIDIA and its upcoming GPU, codenamed Ada Lovelace, and its supposed 5nm process node, provided by TSMC."
+        },
+        {
+            "headline": "Where to buy Nvidia RTX 3090: find stock here",
+            "content": "You can currently find cards available on Amazon between $2700 and $3000. In the UK, you can find models from Scan, Box, and Overclockers for around £2000 and..."
+        },
+        {
+            "headline": "Where to buy Nvidia RTX 3080 Ti: find stock here",
+            "content": "We've compiled a list below of US-based retailers that should stock the highly anticipated GPU. We'll keep you updated when we get information regarding..."
+        },
+        {
+            "headline": "Where to buy Nvidia RTX 3060 Ti: find stock here",
+            "content": "We'll list all the latest Nvidia RTX 3060 Ti stock below as soon as it's available. If you don't see anything right now, be sure to check back regularly."
+        }
+    ],
+    "20210902": [
+        {
+            "headline": "New NVIDIA Broadcast App 1.3 Update Improves Noise Removal, Adds Support for More Cameras, and Reduces System Impact",
+            "content": "The latest upgrade, NVIDIA Broadcast version 1.3, is available to download today and further improves noise removal, adds more camera compatibility, and reduces..."
+        },
+        {
+            "headline": "The Key To Unlocking The Metaverse Is Nvidia’s Omniverse",
+            "content": "Nvidia's CEO predicts predicts the Metaverse could outpace our current economy, worth GDP of $84.7 trillion. Nvidia's Omniverse is the simulation and..."
+        },
+        {
+            "headline": "NVIDIA 510.06 WSL driver released with no GeForce GTX 700 \"Kepler\" support, features next-gen compiler for Ada Lovelace?",
+            "content": "The 510.06 is a WSL (Windows Subsystem for Linux), which is now being distributed through Microsoft Insiders Program for Windows 11 users. It is also possible..."
+        },
+        {
+            "headline": "Nvidia Broadcast now works with more cameras and uses less VRAM",
+            "content": "Nvidia is updating its Broadcast app to work with more cameras and use less VRAM. Update 1.3 also improves how background noise is removed."
+        },
+        {
+            "headline": "NVIDIA 510.06 WSL driver released: Kepler GPU support dropped",
+            "content": "NVIDIA's new 510.06 WSL driver drops Kepler GPU support, but has next-gen compiler for the next-gen Ada Lovelace GPU architecture."
+        },
+        {
+            "headline": "NVIDIA CMP 170HX Cryptocurrency Mining Monster Card Spotted, Ampere GA100 GPU With 164 MH/s",
+            "content": "NVIDIA's GA100 GPU also features 8 GB of HBM2e memory which operates at a clock rate of 1.4 GHz, delivering up to 1.5 TB/s of bandwidth. As per the official..."
+        },
+        {
+            "headline": "NVIDIA Launches Broadcast 1.3 Streaming Tool With Enhanced Camera And Effects Support",
+            "content": "NVIDIA's Broadcast effects suite has been enhancing camera video and microphone audio for streams and teleconferencing tools."
+        },
+        {
+            "headline": "What is the NVIDIA GeForce RTX 3080 GPU mining hashrate?",
+            "content": "With optimal settings configured for cryptocurrency mining, you should expect to see a hashrate of about 100MH/s for an NVIDIA GeForce RTX 3080 graphics card."
+        },
+        {
+            "headline": "Down to a Science: How Johnson & Johnson Boosts Its Business With MLOps",
+            "content": "From Vision to Business Impact. In addition to embedding over 1,000 data scientists in its business, Johnson & Johnson is working to build digital literacy..."
+        },
+        {
+            "headline": "Nvidia's CMP 170HX crypto mining cards pop up in China with fanless design and 164 MH/s speeds",
+            "content": "Probably a little too late to solve the gaming GPU crisis, but Nvidia's top-of-the-line CMP 170HX crypto mining cards are now available in China."
+        }
+    ],
+    "20210903": [
+        {
+            "headline": "Nvidia GeForce RTX 3060 review: Big things in a small package",
+            "content": "The 3060 Dual OC is among the smallest of Nvidia's new GPUs. It's a comparatively petite 245mm long, compared to the mammoth 320mm RTX 3090, and it's only a..."
+        },
+        {
+            "headline": "NVIDIA GeForce Discrete Graphics Cards Outpaced AMD’s Radeon In Market Share During Q2 2021",
+            "content": "NVIDIA's GeForce family has once again dominated and retained its discrete graphics card market share compared to AMD's Radeon lineup."
+        },
+        {
+            "headline": "AI Future: Why The University Of Florida Added 100 AI Faculty And The 22nd Fastest Supercomputer In The World",
+            "content": "The University of Florida recently turned on the eighth most powerful supercomputer in higher education and 22nd most powerful supercomputer in the world."
+        },
+        {
+            "headline": "NVDA Stock Is Finally Showing Signs of Fatigue After Its Big Rally",
+            "content": "The rally in NVDA stock is starting to slow as fundamentals and technicals approach extremes. Time to take a guarded short position."
+        },
+        {
+            "headline": "Far Cry 6 has fairly reasonable PC specs, and it supports AMD FidelityFX Super Resolution",
+            "content": "The PC version of Far Cry 6 supports uncapped framerates, widescreen and multi-monitors, and Ubisoft promises a rich options menu."
+        },
+        {
+            "headline": "NVIDIA RTXGI Plugin Now Available via the Unreal Engine Marketplace",
+            "content": "NVIDIA has released the RTXGI Unreal Engine 4 plugin on the Unreal Engine Marketplace, allowing for easy integration in game projects."
+        },
+        {
+            "headline": "GPU Prices Rising Again, But Chip Shortage Isn’t The Reason",
+            "content": "Despite seeing a decline for the past few months, GPU prices are on the rise again. As per a market report published by German outlet 3D Center,..."
+        },
+        {
+            "headline": "Anno 1800 GeForce Now - What to Know About Nvidia",
+            "content": "Anno 1800's GeForce Now support does extend to Steam, although the game cannot be currently purchased there. The title was initially intended to launch on..."
+        }
+    ],
+    "20210904": [
+        {
+            "headline": "Nvidia Trounces AMD Once Again: Here's Why That's Great News for Nvidia Shareholders",
+            "content": "Nvidia's GPU market share increased in the second quarter of 2021. A combination of better availability and stronger performance than AMD's cards seems to..."
+        },
+        {
+            "headline": "The Party Is Over: NVIDIA GPU Prices Already Up 18% In Chinese Markets As ETH Crosses $3900",
+            "content": "A story from MyDrivers (via Videocardz) shows us that the GPU party is over for now and prices will almost certainly start creeping back up again."
+        }
+    ],
+    "20210905": [
+        {
+            "headline": "‘Far Cry 6’ reveals surprisingly accommodating PC requirements",
+            "content": "'Far Cry 6' will still run on older PCs, though it will take significantly more to get the game running in 4K with raytracing."
+        },
+        {
+            "headline": "Dell Inspiron 13 5310 review: More graphics, more battery life",
+            "content": "We evaluate Dell's 13-inch Inspiron 13 5310 in great detail. The powerful configuration of a light subnotebook with a 35-Watt processor, dedicated Nvidia..."
+        },
+        {
+            "headline": "Check out the Minimum System Requirements for Far Cry 6; Releasing on October 7",
+            "content": "Ahead of its official release next month, Ubisoft has revealed the system requirements to run Far Cry 6 on your PC and laptop."
+        },
+        {
+            "headline": "Apple HomeKit has both the best and worst installation setups. Here’s why.",
+            "content": "Apple's HomeKit simultaneously has one of the best and one of the worst installation processes, but it also shows the promise of what smart home could be."
+        },
+        {
+            "headline": "Crysis 2 for Nintendo Switch: Video shows better performance than on Xbox 360 and PS3",
+            "content": "The old but still good game by Crytek completely overwhelmed PlayStation 3 and Xbox 360 consoles when it was released back in 2011."
+        }
+    ],
+    "20210906": [
+        {
+            "headline": "iMac (21.5-inch, Mid 2011) Upgrade Graphics Card",
+            "content": "Hi guys ! Some one know if you can upgrade one of this graphics card and is work for installing macos Catalina , Big Sur ... before to flash vbios , nvram."
+        }
+    ],
+    "20210907": [
+        {
+            "headline": "Sparking Transformation: How GPUs Busted Through a Once-Impossible Analytics Job",
+            "content": "Using Cloudera Data Platform with Apache Spark the IRS was able to accelerate fraud detection up to 20x with GPUs."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3080 review: A force to be reckoned with",
+            "content": "Nvidia GeForce RTX 3080 review: Ports and features. You can expect the 3080 to share the same core set of features as the rest of its stablemates; it supports..."
+        },
+        {
+            "headline": "Intel CEO talks about the AMD threat and pressurising Nvidia - Industry - News",
+            "content": "Intel CEO Pat Gelsinger, and CFO George Davis recently sat down for a discussion (.MP4 video link) with New Street Research's Technology Infrastructure lead..."
+        },
+        {
+            "headline": "No, the Apple M2 will not match the GPU performance of an NVIDIA GeForce GTX 1080 Ti",
+            "content": "Rumours have started circulating that the Apple M2 will deliver exceptional graphics performance, potentially as high as a former flagship NVIDIA GPU."
+        },
+        {
+            "headline": "War Thunder 2.9 ''Direct Hit'' arrives with two new maps, NVIDIA DLSS 2.2, new military hardware, and more",
+            "content": "Labeled 2.9 “Direct Hit” and released earlier today, the latest update to War Thunder sports a rich collection of new aircraft, ships, armored vehicles,..."
+        },
+        {
+            "headline": "Far Cry 3 is free on the Ubisoft store, but for a limited time only",
+            "content": "Ubisoft is giving away Far Cry 3 on the Ubisoft store. The giveaway ends on September 11 and is valid only for PC users."
+        },
+        {
+            "headline": "Acer Nitro XV27U KF revealed with a 300 Hz refresh rate and a 1440p native resolution",
+            "content": "Acer has announced the Nitro XV272U KF, a 27-inch monitor with a lot going for it. The monitor combines a 1440p resolution with a 300 Hz refresh rate,..."
+        },
+        {
+            "headline": "Buy NVIDIA Shares and Stocks ✔️",
+            "content": "Here are the steps you need to follow to buy NVIDIA Corp shares with utmost confidence. Trading CFDs and Stocks with AvATrade provides traders with the..."
+        }
+    ],
+    "20210908": [
+        {
+            "headline": "Performing Live: How AI-Based Perception Helps AVs Better Detect Speed Limits",
+            "content": "Some speed limits are conveyed by electronic variable message signs, which may show speed limits that apply to some lanes and not others, or apply under some..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3080 Ti 20 GB Graphics Card Exists! Features Non-LHR Ampere GPU & Up To 100 MH/s Mining Performance",
+            "content": "The NVIDIA GeForce RTX 3080 Ti 20 GB graphics card was one of the many configurations that the card was rumored to get but it ended up getting 12 GB GDDR6X..."
+        },
+        {
+            "headline": "Nvidia's GeForce RTX 3080 Ti 20GB GPU Is Real After All",
+            "content": "The new variant features 20GB of GDDR6X memory, which represents a 67% increase over the vanilla GeForce RTX 3080 Ti. The clock speed for the memory remains..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3080 Ti with 20GB is real, 100MH/s mining power",
+            "content": "NVIDIA GeForce RTX 3080 Ti with 20GB of GDDR6X appears, has up to 98MH/s of mining power -- not an LHR gimped graphics card."
+        },
+        {
+            "headline": "Lenovo Introduces the Powerful and Flexible ThinkEdge SE70 Edge AI Platform",
+            "content": "The platform is designed to meet intelligent transformation needs from logistics, transportation, and smart cities to retail, healthcare and manufacturing."
+        },
+        {
+            "headline": "Testing Supersampling in the New Myst: AMD or Nvidia, Who Does It Better?",
+            "content": "The first game title with cross-compatibility between AMD's FidelityFX Super Resolution and Nvidia DLSS is here. We test to find out which one delivers faster,..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3080 Ti 20GB appears to have shipped",
+            "content": "The Nvidia GeForce RTX 3080 Ti was launched back at Computex this summer. It was billed as the Nvidia's 'Gaming Flagship' at the time, despite being a rung..."
+        },
+        {
+            "headline": "Gigabyte GeForce RTX 3080 Ti 20GB Emerges In Russia As An Ethereum Mining Beast",
+            "content": "Late last year, when we first heard about the NVIDIA GeForce RTX 3080 Ti, it was rumored that the card would debut with 20GB of GDDR6X memory."
+        },
+        {
+            "headline": "Lenovo launches G24e-20 and G27e gaming monitors with VA panels, AMD FreeSync Premium, and 1 ms MPRT",
+            "content": "Lenovo has launched the G24e-20 and G27e-20 gaming monitors featuring VA panels and FHD resolution with a 100 Hz native refresh rate. Lenovo said that these..."
+        },
+        {
+            "headline": "Lenovo Yoga Slim 7 Pro 16 launched with 80 W AMD Ryzen 7 5800H and Nvidia GeForce RTX 3050 options",
+            "content": "Lenovo has upgraded its Yoga Slim 7 Pro offerings to AMD Ryzen 5000 Zen 3 Cezanne APUs and optional Nvidia GeForce RTX 3050 graphics. Lenovo said that the..."
+        }
+    ],
+    "20210909": [
+        {
+            "headline": "We tried recreating landscape photos with AI using NVIDIA Canvas",
+            "content": "It can also potentially help 3D artists and filmmakers, too. Scaled up and blurred, the images generated by Canvas can easily act as a background for a digital..."
+        },
+        {
+            "headline": "GPU-Accelerated Deep Learning Can Spot Signs of Early Alzheimer’s",
+            "content": "Researchers from the Kaunas University of Technology in Lithuania report they've developed a deep learning-based method able to predict the possible onset of..."
+        },
+        {
+            "headline": "Nvidia RTX 4000 GPU rumour hints at 2022 release date",
+            "content": "According to leaker Greymon55 (via Videocardz), Nvidia's shiny new RTX 4000 series card could be with us by “October next year”. Essentially, this means..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3090 review: Caught between two worlds",
+            "content": "This titanic graphics card is the most advanced consumer model yet produced by the company, and it boasts a truly mighty specification - along with a price tag..."
+        },
+        {
+            "headline": "GFN Thursday to Stream Ubisoft’s ‘Far Cry 6’ and ‘Riders Republic’ at Launch",
+            "content": "GFN Thursday to stream Ubisoft's 'Far Cry 6' and 'Riders Republic' at launch. Ten games, including 'Life is Strange: True Colors,' join GeForce NOW this week."
+        },
+        {
+            "headline": "Nvidia G-Sync: Everything you need to know",
+            "content": "Nvidia G-Sync is a hardware-based monitor technology that helps prevent screen tearing, stuttering and juddering while you're playing games or watching TV."
+        },
+        {
+            "headline": "GeForce NOW will unleash Far Cry 6 support from the game's October 2021 launch",
+            "content": "A Thursday at GeForce NOW means it's time for the streaming platform to reveal the latest additions to its library. However, despite the potentially welcome..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3080 Ti with 20GB of memory is Real!",
+            "content": "Nvidia has recently launched new versions of the its RTX 3000 series of GeForce graphics cards. This included the RTX 3070 Ti and RTX 3080 Ti."
+        },
+        {
+            "headline": "High-end gaming on the go possible with new StarHub streaming service, 5G boost",
+            "content": "It is now possible to play high-end video games on the go and on low-end computers with a new cloud gaming service launched by telco StarHub on Thursday."
+        }
+    ],
+    "20210910": [
+        {
+            "headline": "The Bright Continent: AI Fueling a Technological Revolution in Africa",
+            "content": "A keynote at AI Expo Africa by NVIDIA's Kate Kallot highlighted how the AI revolution is underway in emerging areas."
+        },
+        {
+            "headline": "Why NVIDIA Will Dominate the Data Center by 2030",
+            "content": "NVIDIA holds 90% market share in supercomputer accelerators. By 2030, Ark Invest believes accelerators will be the dominant data center chip."
+        },
+        {
+            "headline": "Why Nvidia’s GeForce RTX 2080 is Still a Great Choice in 2021",
+            "content": "Looking for a budget-friendly GPU? Learn why the Nvidia GeForce RTX 2080 is an excellent option for gamers. Find out more at CGMagazine."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3080 Ti: Details about 20 GB VRAM cards revealed by BIOS leak",
+            "content": "NVIDIA may have released the RTX 3080 Ti as a 12 GB card, but it and AIBs were developing 20 GB cards. A leaked BIOS has confirmed a few aspects about the..."
+        },
+        {
+            "headline": "Toolkit To Hide and Execute Malicious Code on Nvidia, AMD and Intel Graphics Cards Sold by a Hacker Online",
+            "content": "A threat actor on an underground hacker forum reportedly sold online a proof of concept (PoC) toolkit to hide and execute code inside the VRAM of graphics..."
+        },
+        {
+            "headline": "Ubuntu 21.10 Performance Still Pushing Ahead Of Windows 10, Latest Windows 11 Build",
+            "content": "Ubuntu continues to exhibit a strong lead over Windows. Anyhow, that's the NVIDIA graphics look between operating systems with the GeForce RTX 3090."
+        },
+        {
+            "headline": "ASUS ROG Strix GeForce RTX 3080 review: The best value GPU for 4K gaming",
+            "content": "There are countless aftermarket NVIDIA GPUs, but which should you choose for 4K gaming? We believe it should be the ASUS ROG Strix RTX 3080, offering a fine..."
+        },
+        {
+            "headline": "Is Apple’s M2 GPU really as good as an NVIDIA GTX 1080 Ti?",
+            "content": "A tech YouTuber recently claimed that the upcoming Apple M2 processor has an integrated GPU as powerful as the NVIDIA GTX 1080 Ti."
+        },
+        {
+            "headline": "Spine PlayStation 4 emulator gets updated, manages to go in-game with over 300 titles",
+            "content": "The Spine PlayStation 4 emulator on PC recently received a major update. Spine's v20210901 version significantly increases the emulator's compatibility with..."
+        }
+    ],
+    "20210911": [
+        {
+            "headline": "Nvidia Might Resurrect the RTX 2060 With 12GB of VRAM",
+            "content": "The new GeForce RTX 2060 12GB may be ready by the end of 2021, and it's plausible that the new variant could debut in January 2022."
+        },
+        {
+            "headline": "RTX 4090 gets restrictive US$2,999 MSRP in unofficial Nvidia GeForce RTX 40 series price predictions list",
+            "content": "Expectations are high for the Lovelace GeForce RTX 40 series of graphics cards from Nvidia, and it seems price predictions are similarly high."
+        },
+        {
+            "headline": "Intel ARC Alchemist Desktop Graphics Cards To Compete With AMD RX 6700 XT & NVIDIA RTX 3070, Pricing Starts at $100 US & Up To $500 US",
+            "content": "Intel ARC Alchemist graphics card performance & price positioning slide has leaked showing NVIDIA & AMD GPUs it will be competing against."
+        }
+    ],
+    "20210912": [
+        {
+            "headline": "Nvidia could combat GPU shortages by again turning to RTX 2060 – but with an upgrade",
+            "content": "The contention on the grapevine is that Nvidia will be making these GPUs again, except with one big change – the loadout of 6GB of VRAM will be doubled to 12GB..."
+        },
+        {
+            "headline": "Intel's Arc GPUs eye up the sub-$200 market, but so does... a refreshed RTX 2060?",
+            "content": "Why it matters: By now, it's no secret that Intel's upcoming Arc Alchemist GPUs won't match AMD or Nvidia's best cards, and will likely be entirely..."
+        },
+        {
+            "headline": "AMD Ryzen 7 5700G Review: Fastest Integrated Graphics Ever",
+            "content": "We benchmarked AMD's Ryzen 7 5700G in gaming and application workloads to see if it comes out on top."
+        },
+        {
+            "headline": "New PlayStation 5 model sports a nerfed heatsink with apparently worse thermals, but detailed testing proves Sony actually improved AMD APU cooling to allow for higher boosts",
+            "content": "Refuting YouTube Austin Evans's claims that the new Sony PS5 console has worse thermals, igor'sLab and Hardware Busters have concluded from detailed testing..."
+        },
+        {
+            "headline": "Writing Custom CUDA Kernels with Triton",
+            "content": "It allows programmers with almost no experience with CUDA programming to write highly optimized CUDA kernels in Python."
+        },
+        {
+            "headline": "Lenovo ThinkBook 16p in laptop review: A crowd-pleaser if you're ready for some compromises",
+            "content": "We review the 16-inch Lenovo ThinkBook 16p Gen 2 with the AMD Ryzen 9 5900HX and the NVIDIA GeForce RTX 3060 laptop GPU."
+        },
+        {
+            "headline": "ASUS ROG Strix G15 G513 Price in Malaysia & Specs - RM7499",
+            "content": "The ASUS ROG Strix G15 G513 is powered by an AMD Ryzen™ 9 5900HX Processor, NVIDIA® GeForce RTX™ 3070 8GB GDDR6 graphics, 8GB DDR4-3200 SO-DIMM x 2 RAM and..."
+        }
+    ],
+    "20210913": [
+        {
+            "headline": "How to Use NVIDIA Highlights, Freestyle and Montage in GeForce NOW",
+            "content": "NVIDIA Highlights enables automatic capture of key gaming moments, from clutch takedowns to match-winning plays."
+        },
+        {
+            "headline": "Gran Turismo 7 Appears on Nvidia GeForce Now Leak (Updated)",
+            "content": "Gran Turismo 7 Appears on Nvidia GeForce Now Leak (Updated) ... Update: Nvidia has responded to the leak, stating that the list of titles on the platform is “used..."
+        },
+        {
+            "headline": "Nvidia’s RTX 2060 revamp could plug gaming GPU availability gaps",
+            "content": "A brand new RTX 2060 revision could provide PC gamers with an alternative GPU amidst RTX 3000 shortages. An Nvidia RTX 2060 Super graphics card on a white..."
+        },
+        {
+            "headline": "Upgraded Nvidia GeForce RTX 3060 could arrive early 2022",
+            "content": "New leaks suggest Nvidia's planning to release revamped GeForce RTX 30-series Super cards in early 2022 to help supply pent-up graphics card demand."
+        },
+        {
+            "headline": "Nvidia GeForce Now Leaks More Possible PlayStation PC Ports Like Returnal and Demon's Souls",
+            "content": "A massive Nvidia GeForce leak shows more possible PlayStation PC ports, following reports that more projects are in development."
+        },
+        {
+            "headline": "God Of War Discovered in NVIDIA GeForce Now Database",
+            "content": "Kratos' fighting has been refined to its very best and the lands of Midgard are filled with wonders of all manner to explore and defeat. It's been nearly the..."
+        },
+        {
+            "headline": "NVIDIA GeForce NOW leak suggests more Sony PlayStation games might be coming to PCs",
+            "content": "God of War, Gran Turismo 7 and Ghost of Tsushima coming to PC? A leak from GeForce NOW service suggests a list of popular Sony PlayStation exclusive titles may..."
+        },
+        {
+            "headline": "I'm not buying the $2,999 GeForce RTX 4090 price prediction, but should I?",
+            "content": "The GeForce RTX 4090 will undoubtedly command top dollar, but here's hoping it doesn't cost twice as much as the 3090."
+        },
+        {
+            "headline": "Nvidia GeForce Now Leak Seemingly Confirms Injustice 3, Batman Arkham Knight Remaster",
+            "content": "An Nvidia GeForce Now user stumbled upon a series of unannounced games with listings on the cloud-based gaming service including Injustice 3."
+        },
+        {
+            "headline": "Unlocked GeForce NOW Reveals God Of War Listed For Steam, Super Mario, GTA V, And More",
+            "content": "According to a new find, It looks like Geforce NOW has listed over 18000 games including some of the PlayStation exclusives like God Of War."
+        }
+    ],
+    "20210914": [
+        {
+            "headline": "Researchers Use GPU to Train Invisible AI Keyboard",
+            "content": "The Invisible Mobile Keyboard, created by researchers at the Korea Advanced Institute of Science and Technology, lets users blast through 51.6 words per..."
+        },
+        {
+            "headline": "Deathloop Gets Nvidia Reflex to Improve Latency",
+            "content": "Nvidia notes that Reflex will benefit Deathloop's single-player experience as the software tech will reduce system latency by up to 40%."
+        },
+        {
+            "headline": "NVIDIA Responds to GeForce NOW Database Leak, Says List Included ‘Speculative Titles’",
+            "content": "NVIDIA took immediate action to remove access to the list. No confidential game builds or personal information were exposed. As we suspected, most of the..."
+        },
+        {
+            "headline": "Nvidia deflates God of War PC and Half-Life 2 Remastered rumors, says leaked data was 'speculative'",
+            "content": "Rumors of a Half-Life 2 remaster and a God of War PC port started spreading on Monday after the contents of an Nvidia database leaked."
+        },
+        {
+            "headline": "Nvidia Responds Following Geforce Now Leak",
+            "content": "The Nvidia spokesperson proceeds to debunk the leaks, stating, \"Nvidia is aware of an unauthorized published game list, with both released and/or speculative..."
+        },
+        {
+            "headline": "NVIDIA Confirms GeForce NOW Leak Is Real But List Includes \"Speculative Titles\"",
+            "content": "Yesterday, a NVIDIA GeForce NOW list of unannounced games leaked online, possibly spoiling a very large number of titles. Since the list's debut,..."
+        },
+        {
+            "headline": "NVIDIA Responds To MASSIVE GeForce Now Leaks",
+            "content": "A spokesperson for NVIDIA has come forward to comment on yesterday's massive GeForce NOW leak, saying that while the leak itself is authentic, some of the..."
+        },
+        {
+            "headline": "Massive Nvidia GeForce NOW Leak Reveals Injustice 3 Title",
+            "content": "It looks like the recent Nvidia GeForce NOW leak has seemingly confirmed the title name for the next Injustice 3 game from NetherRealm."
+        },
+        {
+            "headline": "NVIDIA on GeForce Now database leak: Games used for internal testing",
+            "content": "NVIDIA comments on a database leak that exposed unannounced games, says the list was used for 'internal testing and tracking'"
+        },
+        {
+            "headline": "More evidence of poor quality control in NVIDIA GeForce RTX 30 series cards emerges",
+            "content": "The NVIDIA RTX 3080 and RTX 3080 Ti are some of the most expensive graphics cards on the market right now, even if they are perennially out of stock."
+        }
+    ],
+    "20210915": [
+        {
+            "headline": "NVIDIA to Drive “Advances for Decades to Come,” TIME Magazine Writes",
+            "content": "Highlighting NVIDIA's fast-growing impact, TIME magazine Wednesday named NVIDIA CEO Jensen Huang to its list of most influential people of 2021."
+        },
+        {
+            "headline": "Nvidia CEO Jensen Huang named one of Time’s most influential people",
+            "content": "Jensen Huang, CEO of AI and graphics chipmaker Nvidia, was named one of Time magazine's top 100 most influential people."
+        },
+        {
+            "headline": "NVIDIA Founder/CEO Jensen Huang Named to TIME's Top 100 Influencers of 2021",
+            "content": "NVIDIA founder and CEO Jensen Huang was today named to TIME's annual list of the world's 100 most influential people."
+        },
+        {
+            "headline": "Jensen Huang: The 100 Most Influential People of 2021",
+            "content": "Artificial intelligence is transforming our world. The software that enables computers to do things that once required human perception and judgment depends..."
+        },
+        {
+            "headline": "Chinese chipmaker is getting close to release a GPU that approximates Nvidia's GeForce GTX 1080",
+            "content": "Jingjia Micro is getting ready to launch not one but two graphics cards. The first is an entry-level model called JM9231 that will offer performance around the..."
+        },
+        {
+            "headline": "Whale Hello There: NVIDIA Intern Part of Team Working to Understand, Communicate with Whales",
+            "content": "Whale Hello There: NVIDIA Intern Part of Team Working to Understand, Communicate with Whales ... Imagine trying to make contact with super-intelligent beings. Now..."
+        },
+        {
+            "headline": "Skyrim Mod Mocks GPU Crisis by Placing an Nvidia RTX 3080 Into the Game’s World",
+            "content": "In a move which could be said to be mocking the deficit that's plaguing the tech world, a fan of Skyrim adds an RTX 3080 into the city of Whiterun."
+        },
+        {
+            "headline": "343 shoots down Nvidia leak: Halo 5 is not coming to PC",
+            "content": "There are still no plans to bring Halo 5: Guardians to PC. At least that's what Halo community director Brian Jarrard said after a recent leak gave fans new..."
+        },
+        {
+            "headline": "NVIDIA CEO Jensen Huang Makes Cover Of TIME As One Of The World's Most Influential People",
+            "content": "NVIDIA CEO Jensen Huang Makes Cover Of TIME As One Of The World's Most Influential People ... Support Independent Tech Journalism, Become A Patron! ... NVIDIA CEO..."
+        },
+        {
+            "headline": "There are 'no plans’ to bring Halo 5 to PC, says 343 after Nvidia GeForce Now leak",
+            "content": "In a statement to Wccftech, Nvidia confirmed the leak but said that \"released and/or speculative titles\" on the list were “used only for internal tracking and..."
+        }
+    ],
+    "20210916": [
+        {
+            "headline": "GeForce NOW Members Are Free to Play a Massive Library of Most-Played Games, Included With Membership",
+            "content": "GeForce NOW Members Are Free to Play a Massive Library of Most-Played Games, Included With Membership · Warframe on GeForce NOW · League of Legends on GeForce..."
+        },
+        {
+            "headline": "Intel Lays Down The Gauntlet For AMD And Nvidia GPUs",
+            "content": "Intel recently announced details on their forthcoming data center GPU, the Xe HPC, code named Ponte Vecchio (PVC). Intel daringly implied that the peak..."
+        },
+        {
+            "headline": "NVIDIA CEO Earns Spot in TIME Magazine 100 Most Influential List; But Why?",
+            "content": "NVIDIA CEO Jensen Huang, along with only two other Big Tech executives, made TIME Magazine's 100 Most Influential People list for this year."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 vs. AMD Radeon RX 6600 XT: Which GPU should you buy?",
+            "content": "The Radeon RX 6600 XT outperforms the GeForce RTX 3060 in both 1080p and 1440p. This is generally representative in most popular games."
+        },
+        {
+            "headline": "Nvidia CEO Jen-Hsun Huang named one of Time's most influential people",
+            "content": "Nvidia co-founder, president, and CEO, Jen-Hsun Huang, has been chosen as one of Time's most influential people of 2021."
+        },
+        {
+            "headline": "XMG APEX 15 M21 arrives with modern AMD Ryzen and NVIDIA GeForce hardware",
+            "content": "The XMG APEX 15 M21 has arrived with up to an AMD Ryzen 9 5900HX and an NVIDIA GeForce RTX 3070. The 15.6-inch laptop starts at €1439 and is freely..."
+        },
+        {
+            "headline": "Jensen Huang named one of Time's most influential people, gets his own cover",
+            "content": "Nvidia has reached the point where even many non-techies know the company's name. Its graphics cards dominate the industry, as reflected in the Steam survey..."
+        },
+        {
+            "headline": "NVIDIA CEO Jensen Huang named in Time’s 100 Most Influential list",
+            "content": "NVIDIA founder and CEO Jensen Huang made it to the 2021 TIME100 list..."
+        },
+        {
+            "headline": "Enhancing AI Inference through Sparsity Support and Transformer Optimization for Minimizing Latency",
+            "content": "AI models have become more complicated in recent times due to the escalating demand for real-time AI applications in various industries."
+        },
+        {
+            "headline": "Nvidia CEO Jensen Huang named in Time’s 100 Most Influential list, Lifestyle News",
+            "content": "Time Magazine yesterday released its annual Time100 list of the 100 most influential people in 2021, and among the big names, under the \"Innovators\" section..."
+        }
+    ],
+    "20210917": [
+        {
+            "headline": "Suspected NVIDIA GeForce Now Leaks Lead To Speculation New Superman And Batman Games As Well As Injustice 3 Are In Development",
+            "content": "Suspicious but potentially legit leaks are leaving the impression new DC games could be in development, especially a new Superman game, more Batman content,..."
+        },
+        {
+            "headline": "Kudan Lidar SLAM is now available to be used on the NVIDIA Isaac platform",
+            "content": "Kudan, a leading provider of simultaneous localization and mapping (SLAM) solutions across multiple industries and applications, has announced that Kudan..."
+        }
+    ],
+    "20210918": [
+        {
+            "headline": "NVIDIA DLAA (yes, not DLSS) will debut in Elder Scrolls Online",
+            "content": "The Elder Scrolls Online will be the first to support NVIDIA's new DLAA (Deep Learning Anti-Aliasing), next-gen AA tech."
+        },
+        {
+            "headline": "NVIDIA Deep Learning Anti-Aliasing (DLAA) set to boost image quality in The Elder Scrolls Online",
+            "content": "During Zenimax's Elder Scrolls Online update livestream, the company revealed that ESO will be the first game to feature NVIDIA's upcoming DLAA (Deep..."
+        },
+        {
+            "headline": "Elder Scrolls Online gets NVIDIA DLAA (Deep Learning Anti Aliasing)",
+            "content": "This is a massive online multiplayer that can successfully be played at high settings and resolution with upper mid-range GPUs."
+        },
+        {
+            "headline": "Asus ZenBook 14 UX435EA/UX435EG (Tiger Lake + Nvidia MX450) and Ultralight UX435EAL/EGL",
+            "content": "This article is all about the ZenBook 14 UX435 series, a quick revamp of the ZenBook 14 UX425 line that we're already reviewed here on the site a little while..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3060 with GA104 GPU now available in China",
+            "content": "The RTX 3060 with GA104 GPU would feature 3584 CUDA cores and 12GB of GDDR6 memory across a 192-bit interface. This would, in fact, be the first GA104 GPU with..."
+        },
+        {
+            "headline": "NVIDIA RTX – Best Vanguard Settings for High FPS",
+            "content": "In this article I will go in depth into both my call of duty vanguard and Nvidia control panel settings. I guarantee these are the best settings you will find..."
+        },
+        {
+            "headline": "Download NVIDIA GPU Temp 2.0 for Windows",
+            "content": "This tool can help you pinpoint potential problems with your video card, such as overheating, because it will show you the temperatures of all the components."
+        }
+    ],
+    "20210919": [
+        {
+            "headline": "Call of Duty Vanguard Beta runs with constant 60fps in 4K/Max Settings on an NVIDIA RTX3080",
+            "content": "As the title suggests, the Call of Duty Vanguard Open Beta build runs with constant 60fps in 4K/Max Settings on the NVIDIA RTX3080."
+        },
+        {
+            "headline": "GPU Price Increase, Graphics Card Shortage Continues",
+            "content": "Nvidia GPU prices have begun to increase again from their seven-month low of 150% MSRP, going up to 170% MSRP once more."
+        }
+    ],
+    "20210920": [
+        {
+            "headline": "NVIDIA Reflex Available In Splitgate and Deathloop This Month",
+            "content": "“We're very excited to add NVIDIA Reflex to Splitgate where high-speed, multi-dimensional action is constant in each match. With a 50% reduction in system..."
+        },
+        {
+            "headline": "The Nvidia RTX 30 series, one year on: should you upgrade?",
+            "content": "The roster of RTX 30 series GPUs – all built on Nvidia's Ampere architecture – has grown to nine models, including more powerful Ti versions of the original..."
+        },
+        {
+            "headline": "Nvidia DLAA is a new take on DLSS, and could be seriously cool for RTX GPUs",
+            "content": "Elder Scrolls Online testers should note that aside from the new Nvidia GPU driver, they'll need to be running an RTX 2000 or RTX 3000 series graphics card to..."
+        },
+        {
+            "headline": "Nvidia Rolls Out Windows 11 Support to PC Graphics Cards",
+            "content": "The update will work on Nvidia graphics cards stretching back to the GeForce 600 series."
+        },
+        {
+            "headline": "HyperX Pulsefire Haste Gaming Mouse Now Compatible with NVIDIA Reflex",
+            "content": "The HyperX Pulsefire Haste gaming mouse is now compatible with NVIDIA Reflex. NVIDIA Reflex measures system latency – giving gamers an accurate measure of..."
+        },
+        {
+            "headline": "Find the Love We Shared in September: NVIDIA Canvas Update Paints With New Styles",
+            "content": "NVIDIA GPU users can download the latest Studio driver (release 472.12) with support for all the latest creative app updates through GeForce Experience, NVIDIA..."
+        },
+        {
+            "headline": "Nvidia and AMD GPU prices are headed back to the stratosphere as availability worsens",
+            "content": "GPU availability and pricing are once again taking a turn for the worse, with Radeon cards from AMD now sitting at an average of 74 percent above MSRP."
+        },
+        {
+            "headline": "Seagate pipelining test car data to IBM/Nvidia AI smart car modelling systems",
+            "content": "Seagate, IBM and Nvidia have created one based on using disk drives in the cars, object storage, parallel file system software and GPUs."
+        },
+        {
+            "headline": "Nvidia DLSS GPU update will double Alan Wake Remastered’s 4K performance",
+            "content": "All DLSS-enabled graphics cards will run Remedy's Alan Wake revival with max settings while achieving over 60fps at 4K."
+        },
+        {
+            "headline": "AMD Radeon RX 6000 and NVIDIA GeForce RTX 30 graphics card prices are on the rise again in September",
+            "content": "Both the RX 6000 and RTX 30 series are now selling for around 1.7x MSRP, with second-hand prices remaining at inflated levels."
+        }
+    ],
+    "20210921": [
+        {
+            "headline": "Trash Talk: Startup’s AI-Driven Detection System Primed to Take a Bite Out of Global Waste",
+            "content": "London-based computer vision startup Recycleye looks to give those recycling numbers a big boost with its AI-driven system for identifying waste materials."
+        },
+        {
+            "headline": "Nvidia Patent Suggests 3D GPU Chip-Stacking Tech Is in the Works",
+            "content": "Nvidia Patent Suggests 3D GPU Chip-Stacking Tech Is in the Works. Nvidia was granted a US patent for extending an electrical interconnect vertically from one..."
+        },
+        {
+            "headline": "Nvidia Canvas App Now Supports Custom Styles",
+            "content": "Users can now upload images to transfer styles."
+        },
+        {
+            "headline": "Nvidia's DLAA Could Be a Huge Step Forward for Anti-Aliasing",
+            "content": "A new AI-powered feature is coming to RTX GPUs. Deep Learning Anti-Aliasing will hopefully deliver a significant quality improvement without the same..."
+        },
+        {
+            "headline": "Nvidia Patents Face-to-Face 3D Stacked Dies for its Future GPUs",
+            "content": "Nvidia has patented a \"face-to-face\" 3D stacking of dies that could lead to the creation of the company's first 3D GPU design."
+        },
+        {
+            "headline": "Kena: Bridge of Spirits looks gorgeous, struggles to run with 60fps in 4K/Ultra on NVIDIA RTX3080",
+            "content": "Kena: Bridge of Spirits is a really demanding game as an NVIDIA RTX3080 cannot run it with 60fps in 4K/Ultra."
+        },
+        {
+            "headline": "HP Envy 34 inch All-in-One Desktop PC presented with an Intel Core i9 desktop processor and an NVIDIA GeForce RTX 3080 GPU",
+            "content": "HP has revealed a new All-in-One Desktop PC, the HP Envy 34. Not only does the machine feature a 21:9 and 2160p display, but it also has an Intel Core i9..."
+        },
+        {
+            "headline": "GPU Availability and Pricing Update: September 2021",
+            "content": "It'd be great if GPU pricing was normal and we didn't have to update you on the state of the market, but tracking GPUs is useful if..."
+        },
+        {
+            "headline": "HP's Envy 34 All-in-One features a 5K widescreen display and RTX 3080 GPU",
+            "content": "HP has unveiled its latest all-in-one (AIO) PC with a bigger and wider screen, smaller bezels and the latest components from Intel and NVIDIA."
+        },
+        {
+            "headline": "Novatech Announces New Reign Gaming Laptops",
+            "content": "Novatech's Reign Gaming brand has released its first ever selection of purpose-built mobile gaming laptops, the Reign Nomad Elite XL and the Reign Nomad..."
+        }
+    ],
+    "20210922": [
+        {
+            "headline": "Wild Things: 3D Reconstructions of Endangered Species with NVIDIA’s Sifei Liu",
+            "content": "Sifei Liu, a senior research scientist at NVIDIA, has worked with her team to create an AI algorithm that can reconstruct 3D meshes of endangered species."
+        },
+        {
+            "headline": "In The Latest AI Benchmarks, Nvidia Remains The Champ, But Qualcomm Is Rising Fast",
+            "content": "On that front, Nvidia remains the the fastest AI accelerator for every workload, on a single chip basis. On a system level, however, a 16-card Qualcomm..."
+        },
+        {
+            "headline": "Nvidia Shows Arm CPUs Run ‘Neck And Neck’ With x86 For AI",
+            "content": "Nvidia said it has proven that Arm-based CPUs can provide nearly the same level of performance as x86-based CPUs for AI using new data from MLPerf."
+        },
+        {
+            "headline": "The Latest MLPerf Inference Results: Nvidia GPUs Hold Sway but Here Come CPUs and Intel",
+            "content": "That represents an important milestone. First, it shows that Arm, as an acceleration platform, can deliver performance just about on par with a similarly..."
+        },
+        {
+            "headline": "Nvidia RTX 3080 Super Specs Leaked Ahead of Announcement",
+            "content": "Leaked specifications are shared online for Nvidia's rumored line of Super refreshes for several RTX 30 Series graphics cards."
+        },
+        {
+            "headline": "Nvidia RTX 3080 Super GPU specs leak ahead of release",
+            "content": "That said, the AMD Radeon RX 6600 now has an official launch date of October 13 this year, so Nvidia is probably gearing up for an announcement soon. A new HP..."
+        },
+        {
+            "headline": "How NVIDIA, Open Robotics are improving ROS 2",
+            "content": "NVIDIA and Open Robotics are enabling ROS 2 to run on Jetson processors for perception, modeling, and training to ease robotics development."
+        },
+        {
+            "headline": "Potential specs for the Nvidia GeForce RTX 30-series Super GPUs have appeared",
+            "content": "This isn't the first leak that's appeared for the RTX 3090 Super, and that also suggested that it would have 10,752 CUDA cores, and only two more Compute Units..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3080 SUPER, 3070 SUPER and 3060 SUPER get rumored specifications",
+            "content": "Definitely, the most interesting SKU from the upcoming SUPER refresh is the RTX 3060 SUPER. The card would allegedly feature more cores than RTX 3060 Ti, which..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3080 SUPER GPU rears its head in HP Envy 34 AiO PC listing",
+            "content": "The NVIDIA GeForce RTX 3080 SUPER has appeared in a listing for HP's latest AiO PC. NVIDIA is expected to reveal the RTX 30 SUPER series in early 2022,..."
+        }
+    ],
+    "20210923": [
+        {
+            "headline": "Teamwork Makes the Dream Work: GFN Thursday Celebrates Team17 Titles Streaming From the Cloud",
+            "content": "GFN Thursday celebrates Team17 titles streaming from the cloud, plus 12 games streaming this week on GeForce NOW, including Team17's 'Sheltered 2.'"
+        },
+        {
+            "headline": "NVIDIA: ARM Chips Can Almost Beat x86 Processors, A100 GPU 104x Faster Than CPUs",
+            "content": "An A100 GPU equipped server with an ARM and x86 CPU were found to have very similar performance (although x86 still had higher peak performance)."
+        },
+        {
+            "headline": "Nvidia might stuff an RTX 3060 with a bigger GPU in a pinch",
+            "content": "Some Nvidia GeForce RTX 3060 graphics cards may be built from larger GPUs, a new ID suggests, chips once intended for the GeForce RTX 3060 Ti and GeForce RTX..."
+        },
+        {
+            "headline": "Korean startup FuriosaAI's Warboy overtakes Nvidia",
+            "content": "FuriosaAI's Warboy performed about 1.5 times better than Nvidia T4 in object detection and image classification, highlighting Warboy's cost-performance ratio."
+        },
+        {
+            "headline": "AMD Radeon RX 6600 XT vs. Nvidia RTX 3060 Ti vs. RTX 3060",
+            "content": "The RX 6600 XT is technically only $20 cheaper than the RTX 3060 Ti, but it often is closer to the RTX 3060 in terms of performance."
+        },
+        {
+            "headline": "IBM Research Says Analog AI Will Be 100X More Efficient. Yes, 100X.",
+            "content": "IBM AI Hardware Research Center has delivered signifiant digital AI logic, and now turns their attention to solving AI problems in an entirely new way."
+        },
+        {
+            "headline": "NVIDIA Plans to Bring A Suite of Perception Technologies to the Robotics Operating System (ROS) Developer Community",
+            "content": "The two companies will also enable seamless simulation interoperability between Ignition Gazebo's system and NVIDIA Isaac Sim on Omniverse. Software resulting..."
+        },
+        {
+            "headline": "Doing the Math: Michigan Team Cracks the Code for Subatomic Insights",
+            "content": "In less than 18 months, a team from the University of Michigan got 20x speedups using GPUs on math that's fundamental to quantum science."
+        },
+        {
+            "headline": "Valve reveals more Steam Deck features in updated FAQ",
+            "content": "Notable features include non-Steam game compatibility for Proton, ext4 and exFAT file system support for the SD cards, user-accessible BIOS with multi-boot..."
+        },
+        {
+            "headline": "Microsoft Surface Laptop Studio release: A new laptop-tablet hybrid with NVIDIA GeForce RTX 3050Ti, starting from ~RM6711",
+            "content": "Among the many Microsoft products that were showcased a few hours ago, Microsoft was proud to announce the Surface Laptop Studio as the most."
+        }
+    ],
+    "20210924": [
+        {
+            "headline": "NVIDIA To Open Cambridge-1 Supercomputer For UK Healthcare Startup Companies",
+            "content": "NVIDIA announced that the company will launch a program to open the UK-based Cambridge-1 supercomputer for healthcare startups."
+        },
+        {
+            "headline": "NVIDIA Shows Beefy Arm CPUs Battling x86 Servers For A100 GPU-Powered Cloud AI Dominance",
+            "content": "NVIDIA is beating its chest over a round of benchmark runs highlighting the potency of its A100 accelerators paired with Arm or x86 hardware."
+        },
+        {
+            "headline": "Nvidia’s latest Geforce driver fixes overlay-related Cyberpunk 2077 fps issues",
+            "content": "The test also shows that, with the overlay off, Cyberpunk 2077's frame rate consistently stays above 54fps, suggesting that using the tools affects performance..."
+        },
+        {
+            "headline": "Benchmark Shows AIs Are Getting Speedier",
+            "content": "The majority of systems improved by between 5-30 percent from earlier this year, with some more than doubling their previous performance stats."
+        },
+        {
+            "headline": "Gainward and Galax List GeForce RTX 3060 Cards With GA104 GPU",
+            "content": "Last week, we reported about a finding that Nvidia was using its cut-down GA104 graphics processing units (GPUs) for GeForce RTX 3060 graphics cards that..."
+        },
+        {
+            "headline": "S. Korean AI Chip Startup Outperforms Nvidia at International Benchmark Event",
+            "content": "SEOUL, Sept. 24 (Korea Bizwire) — Korean startup Furiosa AI said Thursday that its first silicon chip Warboy has surpassed a similar Nvidia chip on the..."
+        },
+        {
+            "headline": "Jetson Xavier NX and Nano carriers include a model with 5x SATA ports",
+            "content": "Seeed has launched a pair of Leetop carrier boards for the Jetson Xavier NX and Nano: a $349 “A205” with 5x SATA, 5x USB, 2x GbE, and 6x CSI lanes, and a"
+        },
+        {
+            "headline": "The next Borderlands game could be called The Last Borderlands according to Nvidia leak",
+            "content": "In a recent video on the recent Nvidia GeForce Now leak - which uncovered details surrounding the BioShock 4 release date and the Hollow Knight: Silksong..."
+        },
+        {
+            "headline": "100 W GeForce RTX 3080 vs. 130 W GeForce RTX 3070: Which is the better choice?",
+            "content": "The more expensive RTX 3080 may not always be the faster option if you can find a cheaper RTX 3070 alternative running at higher TGP levels."
+        },
+        {
+            "headline": "Microsoft Edge Comes to Xbox, Letting You Stream Stadia Games",
+            "content": "You can use cloud gaming services, chat on Discord, and access Steam from your Xbox."
+        }
+    ],
+    "20210925": [
+        {
+            "headline": "NVIDIA Invites Developers To Test Experimental DLSS Models Directly From Company’s Supercomputer",
+            "content": "NVIDIA is enabling developers to explore and evaluate experimental AI models for Deep Learning Super Sampling (DLSS). Developers can download experimental..."
+        },
+        {
+            "headline": "Comparison video shows Nvidia's new DLAA tech alongside TAA and DLSS in Elder Scrolls Online",
+            "content": "Shadows seem slightly better with DLAA at the cost of some fuzziness, maybe? The difference becomes much more noticeable when walking toward stairs. Start the..."
+        },
+        {
+            "headline": "Alienware x17 R1 RTX 3080 laptop review: A new beginning",
+            "content": "Our test unit is a higher-end configuration equipped with the Core i7-11800H CPU, GeForce RTX 3080 GPU, 120 Hz 4K UHD display, CherryMX mechanical keys, and 32..."
+        },
+        {
+            "headline": "Alan Wake Remastered PC - have a look at the specs, graphical settings, and more",
+            "content": "Remedy Entertainment has provided information on what we can expect out of the PC version of Alan Wake Remastered."
+        }
+    ],
+    "20210926": [
+        {
+            "headline": "Elder Scrolls Online Shows Off Nvidia's New DLAA Technology",
+            "content": "In general, you won't see much of a difference until you dial up the resolution to 4K. DLSS produces the best framerate, but can also produce a blurry, fuzzy..."
+        },
+        {
+            "headline": "Cheaper AMD, Nvidia GPUs To Arrive, Thanks To China Crypto Ban—Massive Chip Shortage To Be Resolved?",
+            "content": "Cheaper AMD and Nvidia GPU models could arrive. Experts claim that this could happen since China already banned crypto transactions."
+        }
+    ],
+    "20210927": [
+        {
+            "headline": "Enhancing Data Movement for GPUs with NVIDIA GPUDirect RDMA Technology",
+            "content": "GPUDirect RDMA provides a direct communication path between NVIDIA GPUs in remote systems using InfiniBand. This eliminates the system CPUs and the required..."
+        },
+        {
+            "headline": "Elder Scrolls Online video shows Nvidia’s new DLAA tech in action",
+            "content": "DLAA is a new spin on Nvidia's existing DLSS (Deep Learning Super-Sampling): whereas DLSS involves rendering a game at a lower resolution then upscaling,..."
+        },
+        {
+            "headline": "Nvidia, University of Toronto are making robotics research available to small firms",
+            "content": "Researchers at the University of Toronto, Nvidia, and other organizations have presented a new system that leverages highly efficient deep reinforcement..."
+        },
+        {
+            "headline": "Nintendo Switch OLED hands-on: The best upgrade may not be the screen",
+            "content": "I tried the new version of Nintendo's Switch, along with the upcoming Metroid Dread game."
+        },
+        {
+            "headline": "The full Alan Wake Remastered system requirements are here",
+            "content": "The PC version of Alan Wake Remastered requires x64 architecture and DirectX 12, and will support Nvidia DLSS but not ray tracing or HDR."
+        },
+        {
+            "headline": "NVIDIA enables developers to evaluate DLSS experimental AI models",
+            "content": "NVIDIA has enabled developers to \"explore and evaluate\" experimental AI models for Deep Learning Super Sampling (DLSS) making it possible."
+        }
+    ],
+    "20210928": [
+        {
+            "headline": "Keeping an AI on MRIs: Industry Experts Share Latest on AI and Machine Learning in Medical Imaging",
+            "content": "In Shanghai, radiologists are using AI to help identify bone fractures and multiple diseases from single images."
+        },
+        {
+            "headline": "Apple, Intel, and Nvidia suppliers in China stop production over power shutdown order",
+            "content": "Several Chinese suppliers for major tech firms and processor manufacturers like Apple, Intel, Nvidia, and Tesla are seeing their power cut off for several days..."
+        },
+        {
+            "headline": "Battlefield 2042 Open Beta Begins October 6: Get Ready With The Game Ready Driver, System Requirements and New Trailer",
+            "content": "The Battlefield 2042 PC Open Beta is enhanced with NVIDIA Reflex, enabling several generations of NVIDIA GeForce users to reduce system latency."
+        },
+        {
+            "headline": "SFF Gaming PC + RTX 3090: Raijintek PAN SLIM Old School Vibes",
+            "content": "The first case in our new SFF gaming + RTX 3090 series is the beautiful Raijintek PAN SLIM, with a unique design for your TV."
+        },
+        {
+            "headline": "Quick on Their Fleet: Kodiak Builds Flexible, High-Performance Self-Driving Trucks on NVIDIA DRIVE",
+            "content": "Kodiak unveiled its fourth-generation vehicle — powered by NVIDIA DRIVE Orin — featuring lightweight mapping and a discreet, modular design."
+        },
+        {
+            "headline": "NVIDIA GeForce 210 Drivers Update for Windows 10",
+            "content": "Download and update NVIDIA GeForce 210 graphics card driver for Windows 10 by: download setup file from official website and then update; automatic update."
+        },
+        {
+            "headline": "Shadowplay Not Recording on Windows [Solved]",
+            "content": "This post help you fix your NVIDIA Shadowplay not recording problem, in some cases, the hot keys refuse to work as well. Here are 4 fixes for you to try."
+        },
+        {
+            "headline": "How to Overclock Your Monitor to Get a Higher Refresh Rate for Gaming",
+            "content": "As any gaming enthusiast knows, having a monitor with a high refresh rate is a must for high-end gaming. While you can get by with a standard 60 Hz monitor..."
+        },
+        {
+            "headline": "GeForce Experience Game cannot be optimized [Solved]",
+            "content": "1) Open your NVIDIA GeForce Experience. Go to Preferences tab. Then click Games side tab. 2) Make sure the box for Recommend optimal settings is checked."
+        }
+    ],
+    "20210929": [
+        {
+            "headline": "NVIDIA CEO Jensen Huang to Unveil New AI Technologies, Products in GTC Keynote; Hundreds of Industry and AI Leaders to Speak at November Event",
+            "content": "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a news-filled keynote by NVIDIA founder and CEO Jensen Huang and..."
+        },
+        {
+            "headline": "On-Demand Robots: Startup Rolls Out Bot Reservation Service for Museums",
+            "content": "avatarin now has more than 100 telepresence robots deployed globally, including on-demand robots installed at four museums across Japan."
+        },
+        {
+            "headline": "Minecraft: how to enable RTX ray tracing",
+            "content": "In this guide, we will explain everything that you need to know about Ray Tracing in Minecraft, including how to enable Ray Tracing and the minimum..."
+        },
+        {
+            "headline": "Battlefield 2042 PC requirements have been revealed",
+            "content": "To meet the recommended PC requirements, players are going to need an NVIDIA Geforce RTX 3060 or AMD Radeon RX 6600 XT graphics card, 16GB of RAM, and 100GB of..."
+        },
+        {
+            "headline": "GeForce GTX 460 Driver Download for Windows Easily",
+            "content": "For best gaming experience, you should keep GeForce GTX 460 Driver up-to-date .This post will introduce two useful ways to download GeForce GTX 460 Driver."
+        },
+        {
+            "headline": "Fix Overscan in Windows 11/10 to Fit to Screen",
+            "content": "If your display exceeds the dimensions of Monitor or TV then you are dealing with Overscan issue. Adjust screen borders or follow these fixes."
+        }
+    ],
+    "20210930": [
+        {
+            "headline": "NVIDIA Partners With Electronic Arts to Bring Hit Games to GeForce NOW",
+            "content": "NVIDIA today announced that Electronic Arts is bringing more of its hit games to the NVIDIA® GeForce NOW™ cloud gaming service, beginning with Battlefield™..."
+        },
+        {
+            "headline": "Best Buy to Sell Nvidia RTX 3000 GPUs in Stores on Friday",
+            "content": "Best Buy is once again restocking Nvidia RTX 3000 graphics cards at stores across the US. The in-store sales for the GPUs will commence on Friday morning,..."
+        },
+        {
+            "headline": "Long lines form at Pensacola Best Buy for Nvidia 30 series GPU's",
+            "content": "PENSACOLA, Fla. -- Lines are forming outside Best Buy stores across the country, including Pensacola, for a chance to purchase a limited supply of GPU's."
+        },
+        {
+            "headline": "New World is still bricking Nvidia graphics cards with no fix on the horizon",
+            "content": "There's trouble brewing in this New World, as the title is still frying graphics cards – and this time it's not just EVGA RTX 3090 cards."
+        },
+        {
+            "headline": "GFN Thursday Really Heats Up as Electronic Arts Headlines Streaming Releases This Week",
+            "content": "Ready up! 'Battlefield 1 Revolution,' 'Mirror's Edge Catalyst,' 'Unravel Two,' 'Dragon Age: Inquisition' and 'Apex Legends' streaming on GeForce NOW."
+        },
+        {
+            "headline": "Apple director of AI, machine learning research to speak at Nvidia conference",
+            "content": "Apple's senior director of AI and machine learning research, Samy Bengio, is slated to be a speaker at Nvidia's annual GTC conference in November."
+        },
+        {
+            "headline": "Images reveal the NVIDIA GeForce RTX 3070 with brown Noctua fans",
+            "content": "As expected, ASUS and Noctua have worked together to create a custom GeForce RTX 3070, one of NVIDIA's GA104-based cards. The RTX 3070 Noctua relies on two..."
+        },
+        {
+            "headline": "Best Buy to restock Nvidia RTX 30-series GPUs again — here’s how to score one",
+            "content": "Best Buy is restocking Nvidia RTX 30-series GPUs tomorrow, and if you know what to expect, you might be able to take one home at list price."
+        },
+        {
+            "headline": "Forza Horizon 5 system requirements have been confirmed",
+            "content": "If you're hoping to play Forza Horizon 5 in the best way possible you're going to need the likes of a Radeon RX 6800 / NVIDIA GTX 3080 GPU, 16GB of RAM, and..."
+        },
+        {
+            "headline": "GeForce Now surpasses 12 million users, expanding support for more EA games and Origin",
+            "content": "Nvidia has this week announced an expansion of support for EA games on its GeForce Now cloud gaming service that serves 12 million players."
+        }
+    ],
     "20211001": [
         {
             "headline": "AI Offers Versatile General Robots on Horizon, Says Robotics Visionary",

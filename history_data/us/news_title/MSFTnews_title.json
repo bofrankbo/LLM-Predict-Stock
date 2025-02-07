@@ -1,4 +1,2362 @@
 {
+    "20210801": [
+        {
+            "headline": "Microsoft to enable PUA protection for Windows 10 users this month",
+            "content": "Throughout the month of August 2021, Microsoft plans to enable a Windows Defender security feature for all Windows 10 users that will protect and warn them..."
+        },
+        {
+            "headline": "Reinforced Anchor Knowledge Graph Generation for News Recommendation Reasoning",
+            "content": "News recommendation systems play a key role in online news reading service. Knowledge graphs (KG), which contain comprehensive structural knowledge,..."
+        },
+        {
+            "headline": "Microsoft’s Ambitious Surface Book Feature Appears In Patent Filing",
+            "content": "The patent describes a hinge that allows the laptop screen to be sent at any tilt angle, while lifting the screen into the air to provide for better ergonomics."
+        },
+        {
+            "headline": "Microsoft Releases Toolkit on Designing AI for Humans",
+            "content": "Microsoft is offering guidance to companies to develop human-centered artificial intelligence (AI) technologies:"
+        },
+        {
+            "headline": "Windows 11 stock photo leaks upcoming Microsoft Paint redesign",
+            "content": "An official stock photo of Windows 11 has accidentally revealed the upcoming redesign of the Microsoft Paint application."
+        },
+        {
+            "headline": "Ambler HR software company aims to streamline the hiring process",
+            "content": "Phenom's technology and mission meet an unprecedented moment, when the U.S. economic recovery is surging and hungry for workers even as some COVID..."
+        },
+        {
+            "headline": "How to Use the Geography Feature in Microsoft Excel",
+            "content": "This article will take you through the processes of turning your data into Geography data types, whether you have a free Microsoft account or a Microsoft 365..."
+        },
+        {
+            "headline": "Announcing Monitor model-driven apps using Application Insights (Preview)",
+            "content": "Use Application Insights to monitor & analyze service telemetry data produced by UCI page and form loads, Platform API calls, custom plug-ins, and more."
+        },
+        {
+            "headline": "Windows 11 redesigns Microsoft Paint and Photos app – here’s our first look",
+            "content": "Microsoft has now quietly posted the new look of the two most important first-party Windows apps – Paint and Photos. MS Paint is ditching the traditional ribbon..."
+        },
+        {
+            "headline": "How to add Sections in Microsoft Forms",
+            "content": "Click the Add New button. You will see a menu displayed, where you can input questions types into the form; click More question types, a chevron symbol at the..."
+        }
+    ],
+    "20210802": [
+        {
+            "headline": "Microsoft To Partner with Kenya and Governments Across Africa to Transform Education for Millions of Students.",
+            "content": "Microsoft To Partner with Kenya and Governments Across Africa to Transform Education for Millions of Students. ... Microsoft has committed to collaborate with the..."
+        },
+        {
+            "headline": "Microsoft releases Windows as a subscription, announces pricing, launching its 'Cloud PC' era",
+            "content": "Prices will range from $20/month per user to $162/month per user, depending on business size and selected technical configuration, including storage, memory,..."
+        },
+        {
+            "headline": "New APT Hacking Group Targets Microsoft IIS Servers with ASP.NET Exploits",
+            "content": "A new APT hacker group, known as \"Praying Mantis\" is targeting high-profile public and private organizations in the United States."
+        },
+        {
+            "headline": "Microsoft's Windows 365 Cloud PC service will range from $20 to $162 per user per month",
+            "content": "Microsoft's Windows 365 Cloud PC service is now generally available, and pricing is public. The service will cost users anywhere between $20 to $162 per..."
+        },
+        {
+            "headline": "You Can Now Use Apps with Microsoft Teams Mobile",
+            "content": "UC Today covers Collaboration news including Microsoft Teams and more."
+        },
+        {
+            "headline": "Microsoft's Windows 365 Cloud PC service is live - Costs from $24 to $162",
+            "content": "Microsoft's Windows 365 Cloud PC service is now generally available, allowing businesses to deploy Windows 10 desktops in the cloud for prices ranging..."
+        },
+        {
+            "headline": "Microsoft’s new Office app for Windows 10 aims to simplify your workflow",
+            "content": "Microsoft announced that it will be replacing the pre-installed My Office app on Windows 10 with a new Office app that it is currently testing with Windows..."
+        },
+        {
+            "headline": "Microsoft is ready to rent Windows 365 cloud PCs for as little as $20 per month",
+            "content": "Microsoft is ready to rent Windows 365 cloud PCs for as little as $20 per month. Depending on your RAM, CPU, and storage needs, the price can go up to $162 per..."
+        },
+        {
+            "headline": "Microsoft Warns of Sneaky Phishing Campaign",
+            "content": "An active phishing campaign is using a crafty combination of legitimate-looking original sender email addresses, spoofed display sender addresses that contain..."
+        },
+        {
+            "headline": "The calming secret of Microsoft Flight Simulator",
+            "content": "The calming secret of Microsoft Flight Simulator · Beyond his heroics in the skies, it was his attitude that had most influence. · Fellow pilots were listening..."
+        }
+    ],
+    "20210803": [
+        {
+            "headline": "Microsoft reverses course, will require vaccines for employees who want to return to the office",
+            "content": "The Redmond-based tech giant told employees Tuesday it will “require proof of vaccination for all employees, vendors, and any guests entering Microsoft..."
+        },
+        {
+            "headline": "Microsoft Cloud for Healthcare expands portfolio with Azure Healthcare APIs",
+            "content": "Today Microsoft Cloud for Healthcare is expanding our portfolio of interoperability data services. In October 2019, Microsoft became the first cloud with a..."
+        },
+        {
+            "headline": "The beginner’s guide to Microsoft Teams eDiscovery",
+            "content": "We'll cover everything you need to know about eDiscovery for Microsoft Teams, the communication and collaboration tool dominating the enterprise workforce."
+        },
+        {
+            "headline": "Microsoft halts Windows 365 trials after running out of servers",
+            "content": "Microsoft has suspended free trials of their newly launched Windows 365 Cloud PC service after running out of available servers."
+        },
+        {
+            "headline": "Microsoft says Surface, Windows sales were hurt by chip shortages",
+            "content": "Microsoft says Surface, Windows sales were hurt by chip shortages. Microsoft said on August 3 that it was unable to meet demand for Surface products."
+        },
+        {
+            "headline": "Is Microsoft’s Sustainability Approach Enough?",
+            "content": "The answer is simple: no.” Microsoft has been honing in on sustainability for over a decade and has no doubt made some impressive headway."
+        },
+        {
+            "headline": "Training Opportunity: DoD365 Boot Camp is here!",
+            "content": "This free training is optional but strongly encouraged. It is available to all members of the workforce, and focused specifically on the DoD version of these..."
+        },
+        {
+            "headline": "AVer CAM130 4K Camera and CAM520 Pro2 Are Certified for Microsoft Teams",
+            "content": "AVer announces the CAM130 WFH camera and the CAM520 Pro2 large room camera are now Certified for Microsoft Teams as a Microsoft Teams Room peripheral."
+        },
+        {
+            "headline": "It's Time for Microsoft to Update the Xbox Adaptive Controller: 9 Things We Want",
+            "content": "Microsoft needs to lean into the inclusive, innovative spirit that made the original XAC a must-have accessory and wow us again with a second-gen XAC."
+        },
+        {
+            "headline": "Windows 365: Cloud PC pricing starts at £20",
+            "content": "Will Microsoft change the way people buy PCs in much the same way that streaming services have revolutionised video subscription services?"
+        }
+    ],
+    "20210804": [
+        {
+            "headline": "Make Every feature Binary: A 135B parameter sparse neural network for massively improved search relevance",
+            "content": "A large-scale sparse model that complements our production Transformer models to improve search relevance for Microsoft customers using AI at Scale."
+        },
+        {
+            "headline": "Dial-in audio conferencing for Microsoft Teams available starting Aug. 4",
+            "content": "Dial-in audio conferencing for Microsoft Teams available starting Aug. 4 ... The University of Utah is pleased to announce that Office 365 Audio Conferencing for..."
+        },
+        {
+            "headline": "Go Find The Grand Canyon In Microsoft Flight Sim They Said, It’ll Be Easy They Said",
+            "content": "Go find the Grand Canyon in Microsoft Flight Sim. They said, it'll be easy. They said layovers are nothing compared to internet disconnects and poorly planned..."
+        },
+        {
+            "headline": "The One Book That Pulled Microsoft Back From the Brink (Satya Nadella's Ultimate Leadership Flex)",
+            "content": "The One Book That Pulled Microsoft Back From the Brink (Satya Nadella's Ultimate Leadership Flex). Empathy taught at the top can connect people, foster..."
+        },
+        {
+            "headline": "Collibra Data Intelligence Cloud Now Available in the Microsoft Azure Marketplace",
+            "content": "Collibra customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management, including for partner..."
+        },
+        {
+            "headline": "I tried vertical tabs in Microsoft Edge, and now I can’t go back to Chrome",
+            "content": "It works simply enough. Click on the vertical tabs button on the upper left corner and your tabs will be arranged on the Y axis. By default, they are set to..."
+        },
+        {
+            "headline": "Carbon offset programs of companies like Microsoft, BP go up in smoke as wildfires decimate forests",
+            "content": "'We've bought forest offsets that are now burning,' says Microsoft's carbon program manager."
+        },
+        {
+            "headline": "Outlook for Microsoft 365 cheat sheet",
+            "content": "This cheat sheet gets you up to speed on the major features that have been introduced in the Windows desktop client for Outlook in Microsoft 365 over the past..."
+        },
+        {
+            "headline": "Microsoft Exchange Used to Hack Diplomats Before 2021 Breach",
+            "content": "Late last year, researchers at the Los Angeles-based cybersecurity company Resecurity stumbled across a massive trove of stolen data while investigating the..."
+        },
+        {
+            "headline": "Microsoft AI Researchers Introduce A Neural Network With 135 Billion Parameters And Deployed It On Bing To Improve Search Results",
+            "content": "Microsoft AI Researchers Introduce A Neural Network With 135 Billion Parameters And Deployed It On Bing To Improve Search Results."
+        }
+    ],
+    "20210805": [
+        {
+            "headline": "Announcing Windows 11 Insider Preview Build 22000.120",
+            "content": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 22000.120 to everyone in the Dev and Beta Channels!"
+        },
+        {
+            "headline": "Deliver authentic customer service with Dynamics 365",
+            "content": "Dynamics 365 Customer Voice brings powerful data, sentiment, and satisfaction analysis to Dynamics 365 Customer Service."
+        },
+        {
+            "headline": "Microsoft Has a Replacement OneNote App in the Works",
+            "content": "The OneNote for Windows 10 app is going to reach its end-of-life phase in about four years, along with Windows 10 itself. They are both scheduled to fall out of..."
+        },
+        {
+            "headline": "Microsoft is finally making the OneNote to rule them all",
+            "content": "Microsoft is launching a new version of OneNote that unifies the UWP and Office versions of the apps. It's set to roll out widely in 2022."
+        },
+        {
+            "headline": "How to enable and use Kids Mode in Microsoft Edge to make web browsing child-friendly",
+            "content": "How to enable and use Kids Mode in Microsoft Edge to make web browsing child-friendly · Microsoft Edge has a \"Kids Mode\" that lets parents and guardians choose..."
+        },
+        {
+            "headline": "Microsoft’s Top Acquisitions: Big Fail To Big Gains To $2 Billion Club",
+            "content": "Microsoft's journey to the $2 trillion club includes many path-breaking acquisitions that have helped the software giant to achieve rare feat despite all odds..."
+        },
+        {
+            "headline": "Microsoft uses new machine learning model to enhance Bing searches",
+            "content": "Microsoft uses new machine learning model to enhance Bing searches. Microsoft uses new machine learning model to enhance Bing searches · More relevant searches..."
+        },
+        {
+            "headline": "Microsoft to Sunset OneNote for Windows 10, OneNote is the Future",
+            "content": "Microsoft says that they will stop shipping OneNote for Windows 10 with the release of Windows 11 and push users to the OneNote app instead."
+        },
+        {
+            "headline": "Microsoft details Windows 365 virtual desktop prices: $20 to $162 a month",
+            "content": "Microsoft this week launched its Windows 365 service, revealing prices for the virtual desktops that range between $20 and $162 per user per month. In July,..."
+        },
+        {
+            "headline": "Full Stream ahead: Microsoft will end 'classic' method of recording Teams meetings despite transcription concerns",
+            "content": "'All meeting recordings will be saved to OneDrive and SharePoint' from 16 August ... Microsoft's technology for recording Teams meetings, Stream, will fully..."
+        }
+    ],
+    "20210806": [
+        {
+            "headline": "NBA uses Microsoft Azure to power new content that elevates fan engagement",
+            "content": "With nearly 10 billion interactions a day across its various delivery channels, the NBA is a big hit with fans, and the league doesn't take that excitement..."
+        },
+        {
+            "headline": "APT actors target Microsoft 365 using novel techniques",
+            "content": "To execute the campaign, attackers identify an existing service principal inside of a tenant that they want to hijack. They add the MS Graph Application..."
+        },
+        {
+            "headline": "Microsoft's 'Black Boy Joy' Coding camp: Tech camp aims to tackle diversity by focusing on minority representation",
+            "content": "A new technology-driven initiative, powered by Microsoft, aims to introduce kids to coding, while hoping to increase minority representation within the field."
+        },
+        {
+            "headline": "Microsoft vs. Amazon: How can AWS beat Microsoft 365?",
+            "content": "Many analysts and experts wager that no possible rival bundle from Amazon could stand a real chance at stealing Microsoft's crown."
+        },
+        {
+            "headline": "‘A whole new attack surface’ – Researcher Orange Tsai documents ProxyLogon exploits against Microsoft Exchange Server",
+            "content": "Hacking maestro Orange Tsai has disclosed much-anticipated technical details related to his Microsoft Exchange exploits at Black Hat USA 2021."
+        },
+        {
+            "headline": "How to edit images in Microsoft Paint",
+            "content": "We'll show you how to get the most out of MS Paint, from resizing and cropping images to adding backgrounds and text, and other useful editing tips."
+        },
+        {
+            "headline": "Secret buyer nabs Microsoft grandee’s superyacht for £200m",
+            "content": "Secret buyer nabs Microsoft grandee's superyacht for £200m ... A vast “explorer class” superyacht built for Microsoft co-founder Paul Allen has been sold for..."
+        },
+        {
+            "headline": "Microsoft's planned Dynamics 365 HR \"infrastructure merge\" with Finance & Operations suite has feature, license implications",
+            "content": "Microsoft is planning an \"infrastructure merge\" aligning Dynamics 365 HR with Finance and Operations."
+        },
+        {
+            "headline": "Microsoft’s new Xbox night mode dims your screen, controller, and power button",
+            "content": "Microsoft has created a new night mode for Xbox consoles. It allows Xbox owners to dim their screens, controllers, and even the power button."
+        },
+        {
+            "headline": "The Ascent’s first patch enables ray tracing in the Microsoft Store version",
+            "content": "The first patch for The Ascent tackles a number of performance and stability issues, and enables ray tracing for the Game Pass ver"
+        }
+    ],
+    "20210807": [
+        {
+            "headline": "See. Hear. Tell. A week with Microsoft's new Modern remote work accessories",
+            "content": "To help remote workers, Microsoft has released four new Modern devices: a USB Headset, a Wireless Headset, a USB-C Speaker, and a Webcam."
+        },
+        {
+            "headline": "Microsoft Exchange servers scanned for ProxyShell vulnerability, Patch Now",
+            "content": "ProxyShell is the name for three vulnerabilities that perform unauthenticated, remote code execution on Microsoft Exchange servers when chained together."
+        },
+        {
+            "headline": "List of Points of Interest in Microsoft Flight Simulator",
+            "content": "We compiled a complete list with every point of interest currently available on Microsoft Flight Simulator, alongside information regarding its territory,..."
+        },
+        {
+            "headline": "WhatsApp’s ‘view once’ feature, Microsoft Teams’ new enhancements, Twitter Spaces gets co-hosting option",
+            "content": "The disappearing media will be marked with a new 'one-time' icon and after the media has been viewed, the message will appear as 'opened'. Also, the media will..."
+        },
+        {
+            "headline": "How to Manage New Time Proposals in Microsoft Outlook Calendar",
+            "content": "As the event organizer, you can accept or decline a proposal and even stop others from being able to propose new times."
+        },
+        {
+            "headline": "Microsoft Cofounder's $278M Superyacht Snapped up by Mystery Buyer",
+            "content": "Mystery buyer purchases $278 million superyacht once owned by Microsoft cofounder Paul Allen. It includes 13 guest suites, 2 submarines, and a pool that turns..."
+        },
+        {
+            "headline": "Microsoft plans to integrate Spotify into new Windows 11 feature",
+            "content": "Washington [US], August 7 (ANI): Tech giant Microsoft is integrating audio streamer Spotify into a new Windows 11 focus feature."
+        },
+        {
+            "headline": "QSTP and Microsoft announce partnership to boost Qatar-based startups",
+            "content": "A new partnership with global technology giant Microsoft that will enhance the working environment for startups in Qatar and enable them to supercharge their..."
+        },
+        {
+            "headline": "Microsoft is fixing Windows 11’s rounded corners ahead of October launch",
+            "content": "Microsoft has finally addressed the problem with Windows 11 Build 22000.120 preview. The problem is mostly fixed in the update and rounded corners finally look..."
+        },
+        {
+            "headline": "Report: Diablo 2 Resurrected Beta Release Date Leaked by Microsoft Store",
+            "content": "It seems we now know the exact Diablo 2 Resurrected beta release date -- if this recent leak by the Microsoft Store is to be believed."
+        }
+    ],
+    "20210808": [
+        {
+            "headline": "Review: ‘Microsoft Flight Simulator’ soars for certain crowd",
+            "content": "“Microsoft Flight Simulator” will teach players how to take off, fly and land a plane. The tutorials will also educate players on Visual Flight Rules."
+        },
+        {
+            "headline": "Microsoft Flight Simulator: 10 Best Planes, Ranked",
+            "content": "Microsoft Flight Simulator has a vast array of real-life aircraft models that players can give a whirl. Because of the deep catalog, it's important to..."
+        },
+        {
+            "headline": "Microsoft Store may have leaked Diablo 2 Resurrected’s beta date",
+            "content": "It appears that Microsoft Store may have leaked the release date for Diablo 2 Resurrected's upcoming beta phase."
+        },
+        {
+            "headline": "Microsoft partner Adopt & Embrace joins Rapid Circle",
+            "content": "In its second down under deal of the year, Rapid Circle has acquired Microsoft partner Adopt & Embrace."
+        },
+        {
+            "headline": "Microsoft Flight Simulator Review",
+            "content": "On one hand, it's a sublime and breathtaking recreation of Earth; a spectacle that anyone can be in awe of as they journey above endless clouds and cities. On..."
+        },
+        {
+            "headline": "Microsoft’s OneNote is getting a Windows 11-inspired look",
+            "content": "Microsoft has also shared a mockup of the new OneNote app for Windows, and as expected, the new look is Windows 11-inspired. It's also consistent with upcoming..."
+        }
+    ],
+    "20210809": [
+        {
+            "headline": "Dynamics 365 Intelligent Order Management is now generally available",
+            "content": "A cloud-based solution that helps accelerate omnichannel transformation from order intake through orchestration to fulfillment."
+        },
+        {
+            "headline": "How to Use Microsoft Teams for Free",
+            "content": "In order to set up Team, you will need a Microsoft account. Browse to the Microsoft Teams website and click the Sign up for free button to get started. Enter..."
+        },
+        {
+            "headline": "CrowdStrike CEO George Kurtz Takes Big Swings At Microsoft, SentinelOne",
+            "content": "CrowdStrike CEO George Kurtz pulls no punches on why he believes his company has the edge over rivals Microsoft and SentinelOne."
+        },
+        {
+            "headline": "New malware plants backdoor on Microsoft web server software",
+            "content": "“IISpy uses this channel to implement its C&C communication, which allows it to operate as a passive network implant,” said researchers. Hackers start a..."
+        },
+        {
+            "headline": "The most dangerous (and interesting) Microsoft 365 attacks",
+            "content": "The most dangerous (and interesting) Microsoft 365 attacks · APT groups are developing new techniques that allow them to avoid detection and exfiltrate hundreds..."
+        },
+        {
+            "headline": "Microsoft to require admin rights before using Windows Point and Print feature",
+            "content": "Microsoft has released today a security update that will change the default behavior of the \\\"Point and Print\\\" feature to mitigate a severe security issue..."
+        },
+        {
+            "headline": "How to Raise Your Hand in a Microsoft Teams Meeting",
+            "content": "To raise your hand during an ongoing call in the Microsoft Teams app, hover the mouse over the \"Show Reactions\" button at the top and choose the \"Raise Hand\"..."
+        },
+        {
+            "headline": "Review: The Lenovo ThinkPad X12 is the Microsoft Surface killer I've been waiting for",
+            "content": "The ThinkPad X12 is a joy to carry around thanks to the small footprint and low weight. With the keyboard attached, the entire package weighs just 2.4 pounds."
+        },
+        {
+            "headline": "List of Airports in Microsoft Flight Simulator",
+            "content": "Check out down below a list with all the 70 airports handcrafted by Asobo Studio currently available in Microsoft Flight Simulator."
+        },
+        {
+            "headline": "Microsoft Brings xCloud Game Streaming to Windows PCs Using Xbox App",
+            "content": "Microsoft is launching the Xbox Cloud Gaming service to Xbox Insiders, which can access the xCloud service using the Xbox App."
+        }
+    ],
+    "20210810": [
+        {
+            "headline": "Accelerate application modernization with Azure Migrate: App Containerization",
+            "content": "As organizations embark on cloud-centric business transformation to become more agile and operationally efficient, application modernization is fast..."
+        },
+        {
+            "headline": "Microsoft Fluid Office: Everything About the Biggest Microsoft 365 Update",
+            "content": "Fluid Office is Microsoft's biggest update to Microsoft Office in decades and its best bet for collaborative and integrated work."
+        },
+        {
+            "headline": "How to delete a Microsoft account",
+            "content": "1. Head to Microsoft's account closure page and log into your account. You may need to confirm your account is yours by getting a code sent to either your phone..."
+        },
+        {
+            "headline": "Microsoft acquires Peer5 to beef up Teams livestreaming",
+            "content": "Microsoft has acquired Peer5, a mesh networking tech company, to support its continued expansion into live events."
+        },
+        {
+            "headline": "Now Microsoft is protesting after Amazon won a $10 billion NSA cloud contract",
+            "content": "Two years ago, Amazon protested after Microsoft snagged a $10 billion cloud services deal with the DoD. Now Microsoft is pushing back on a process that..."
+        },
+        {
+            "headline": "The future of Microsoft’s HoloLens project? More equitable meetings, for starters",
+            "content": "Grace Hwang: Right now, it's about bringing people quite literally to the table. The hope is that then you can imagine different interactions. Maybe it's about..."
+        },
+        {
+            "headline": "Microsoft fixes Windows Print Spooler PrintNightmare vulnerability",
+            "content": "Microsoft has fixed the PrintNightmare vulnerability in the Windows Print Spooler by requiring users to have administrative privileges when using the Point..."
+        },
+        {
+            "headline": "Where did you fly first in Flight Simulator?",
+            "content": "In Flight Simulator you can fly almost anywhere in the world and it will be more or less as you remember it."
+        },
+        {
+            "headline": "How to Use Microsoft Office for Free on the Web",
+            "content": "Office for the web offers Word, Excel, PowerPoint, and OneNote, as well as Outlook, OneDrive, Skype, Calendar, and People."
+        },
+        {
+            "headline": "Microsoft acquires Israeli company Peer5 to improve live video in Teams",
+            "content": "Hybrid work models are adding extra pressure on bandwidths during large scale meetings ... Microsoft has announced that it has purchased Peer5, an Israeli company..."
+        }
+    ],
+    "20210811": [
+        {
+            "headline": "7 ways to harden your environment against compromise",
+            "content": "Below are seven (entirely non-exhaustive) areas that can quickly make you a harder target to hit—and are all things we implement when engaged with customers on..."
+        },
+        {
+            "headline": "Samsung expands partnership with Microsoft to include apps tailored to its foldables",
+            "content": "The company's partnership with Microsoft, which delivers a seamless bridge between Windows PC and mobile devices, has also expanded to further integrate..."
+        },
+        {
+            "headline": "Recorded Future Integrates with Microsoft Defender for Endpoint for Continuous Threat Protection",
+            "content": "Recorded Future's integration with Microsoft Defender for Endpoint provides unmatched visibility into an external threat landscape."
+        },
+        {
+            "headline": "6 vulnerabilities Microsoft hasn’t patched (or can’t)",
+            "content": "Christoph Falta started the “won't fix” list of security issues that Microsoft has either not yet patched, won't patch, or are issues that need manual..."
+        },
+        {
+            "headline": "Microsoft confirms another Windows print spooler zero-day bug",
+            "content": "Microsoft has issued an advisory for another zero-day Windows print spooler vulnerability tracked as CVE-2021-36958 that allows local attackers to gain..."
+        },
+        {
+            "headline": "NSA quietly awards $10 billion cloud contract to Amazon, drawing protest from Microsoft",
+            "content": "NSA quietly awards $10 billion cloud contract to Amazon, drawing protest from Microsoft ... The National Security Agency has quietly awarded a contract worth up..."
+        },
+        {
+            "headline": "Microsoft acquires Israeli startup Peer5 to improve video streaming software",
+            "content": "Tech giant says acquisition will aid businesses using its communication platform, Microsoft Teams; global real estate giant JLL snaps up Israeli analytics..."
+        },
+        {
+            "headline": "LifeWorks integrates digital wellbeing platform with Microsoft solutions to expand global reach",
+            "content": "LifeWorks announced the integration of its leading digital total wellbeing solutions with Microsoft's digital platforms, Microsoft Teams and Microsoft Viva."
+        },
+        {
+            "headline": "OwnBackup Raises $240M; Plans Microsoft Azure and Dynamics 365 Cloud Backup -",
+            "content": "OwnBackup Raises $240M; Plans Microsoft Azure and Dynamics 365 Cloud Backup ... Cloud backup, disaster recovery (BDR) and data protection software company..."
+        },
+        {
+            "headline": "Ditch Internet Explorer: How to Make the Switch to Microsoft Edge",
+            "content": "If you want to stick with Microsoft, here's how to move your favorites, settings, and more from IE to the Edge browser."
+        }
+    ],
+    "20210812": [
+        {
+            "headline": "Attackers use Morse code, other encryption methods in evasive phishing campaign",
+            "content": "Attackers changed obfuscation and encryption mechanisms every 37 days on average, demonstrating high motivation and skill to constantly evade detection."
+        },
+        {
+            "headline": "First set of Windows app updates rolling out to Windows Insiders for Windows 11",
+            "content": "The Snipping Tool for Windows 11 includes new visuals that build off the classic app with added functionality like the WIN + SHIFT + S keyboard shortcut from..."
+        },
+        {
+            "headline": "The Rise of DOS: How Microsoft Got the IBM PC OS Contract",
+            "content": "According to Allen, under the contract signed that November, IBM agreed to pay Microsoft a total of $430,000, including $45,000 for what would end up being..."
+        },
+        {
+            "headline": "Microsoft Exchange servers are getting hacked via ProxyShell exploits",
+            "content": "Threat actors are actively exploiting Microsoft Exchange servers using the ProxyShell vulnerability to install backdoors for later access."
+        },
+        {
+            "headline": "Microsoft Warns of Another Unpatched Windows Print Spooler RCE Vulnerability",
+            "content": "Microsoft acknowledged yet another remote code execution vulnerability in the Windows Print Spooler component, adding that it's working to remediate the issue."
+        },
+        {
+            "headline": "HoloLens 2 Review: The Best In Class For AR, But…",
+            "content": "Super detailed review of the HoloLens 2 AR glasses. Are they really the best in class AR headset? Discover it in this in-depth post."
+        },
+        {
+            "headline": "Microsoft catches hackers using Morse Code to help cover their tracks",
+            "content": "Morse Code — a method of representing characters with dots and dashes popularized by telegraph technology — was one of several methods that the hackers, whom..."
+        },
+        {
+            "headline": "Shure Achieves Microsoft Teams Certification for Intellimix Room",
+            "content": "Shure, a leading provider of extraordinary audio technology, recently announced the successful certification of their IntelliMix Room software for Microsoft..."
+        },
+        {
+            "headline": "Microsoft rolls out updated Mail, Calendar and Calculator apps to Windows 11 testers",
+            "content": "Microsoft rolls out updated Mail, Calendar and Calculator apps to Windows 11 testers · Windows Insiders can also try out a new Snipping Tool. · Related Stories."
+        },
+        {
+            "headline": "Galaxy Z Fold 3 gets Microsoft Office apps designed for mobile working",
+            "content": "Due to its larger size and 7.6-inch Infinity Flex Display, the Galaxy Z Fold 3 is an ideal device for multitasking on mobile which is why Microsoft is currently..."
+        }
+    ],
+    "20210813": [
+        {
+            "headline": "Meet the man on a mission to end hunger in India",
+            "content": "Kawatra, who founded Zomato Feeding India, a non-profit whose mission is as succinct as it is seemingly impossible: make India hunger-free."
+        },
+        {
+            "headline": "So Why Doesn't Microsoft Provide Its Own Blazor Component Library?",
+            "content": "We have avoided building our own component library into Blazor because we want to leave space for the community to innovate and instead focus our efforts on..."
+        },
+        {
+            "headline": "Xbox Series S teardown: inside Microsoft's smallest ever console",
+            "content": "Here's the Digital Foundry Xbox Series S teardown in video form, complete with Xbox Series X silicon comparisons and a look at the mainboard compares to Xbox..."
+        },
+        {
+            "headline": "Windows 365 exposes Microsoft Azure credentials in plaintext",
+            "content": "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC..."
+        },
+        {
+            "headline": "Microsoft claims Windows 11’s visual effects do not reduce performance",
+            "content": "One of the concerns about the design of Windows 11 and the various visual effects that it includes is that there will be a negative impact on system speed."
+        },
+        {
+            "headline": "Microsoft's hilarious Xbox fridge is about to become a reality",
+            "content": "It has embraced the fridge memes by, yes, building an actual Xbox Series X Fridge. (Check out the best photo editing apps if you fancy joining the meme party)."
+        },
+        {
+            "headline": "Microsoft Sudoku gets a major revamp for Windows 11 and 10 with latest app update",
+            "content": "Microsoft Sudoku gets a major revamp for Windows 11 and 10 with latest app update ... Microsoft Sudoku on Windows 11. The free-to-play Microsoft Sudoku video game..."
+        },
+        {
+            "headline": "Microsoft rolls out updates to Snipping Tool, Calculator app",
+            "content": "The new updates to Snipping Tool, Calculator, Mail and Calendar apps are rolled out to Windows Insiders in the Dev Channel first."
+        },
+        {
+            "headline": "Watch this ‘Microsoft Flight Simulator’ player go to space",
+            "content": "'Microsoft Flight Simulator' lets players fly anywhere in the world, but this player shows you how to fly up to space."
+        },
+        {
+            "headline": "Microsoft mocks its own Xbox Series names with a meme",
+            "content": "Microsoft has officially embraced its unusual naming decisions with a meme of its own published on Instagram."
+        }
+    ],
+    "20210814": [
+        {
+            "headline": "Microsoft Details Yearlong Office 365 Phishing Campaign",
+            "content": "A yearlong phishing campaign used various techniques, including deploying Morse code in some cases, to help evade security tools while attempting to harvest..."
+        },
+        {
+            "headline": "Microsoft Flight Simulator | Marketplace Update (week of August 12, 2021)",
+            "content": "Microsoft Flight Simulator's Marketplace was updated today adding 5 new products and bringing other 5 previously released products to Xbox."
+        },
+        {
+            "headline": "How to Manage Virtual Desktops in Windows 11",
+            "content": "The virtual desktops feature gets a makeover in Windows 11. Here's how to organize and customize them in Microsoft's next-gen OS."
+        }
+    ],
+    "20210815": [
+        {
+            "headline": "Microsoft Flight Simulator: How to Talk to ATC (Air Traffic Control)",
+            "content": "For players looking for a fully immersive flight simulation in Microsoft Flight Simulator 2020, they can turn on the ability to talk to the ATC."
+        },
+        {
+            "headline": "Microsoft Flight Simulator: Best Hardware For The Game",
+            "content": "These range from flight sticks, to full-blown yokes, switch panels, and rudders, with each one targeting a specific type of user from entry-level to..."
+        },
+        {
+            "headline": "10 Coolest Locations & Landmarks To Visit In Microsoft Flight Simulator",
+            "content": "341 cities have been hand-crafted with photogrammetry with higher detail than elsewhere, creating truly beautiful locations that no player should miss."
+        },
+        {
+            "headline": "Microsoft Pro Intellimouse drops to its lowest price yet of $36",
+            "content": "Microsoft's 2019 update to the beloved IntelliMouse lineup is now on sale for $35.99 at multiple retailers."
+        },
+        {
+            "headline": "How to Create a Certificate Template in Microsoft Word",
+            "content": "This article provides you with a step-by-step guide on using a certificate template to create certificates."
+        },
+        {
+            "headline": "Microsoft suggests once again to disable the Print Spooler to protect against new 0-day vulnerability",
+            "content": "Microsoft disclosed a new 0-day vulnerability of the Print Spooler of its Windows operating system this week; no patch is available, but a workaround has been..."
+        },
+        {
+            "headline": "How to insert a Text field in Microsoft Word",
+            "content": "Click anywhere on the Word document. On the menu bar, click the Insert tab. In the Text group, click the Quick Parts button. Then select Field from the drop-..."
+        }
+    ],
+    "20210816": [
+        {
+            "headline": "Azure Government Top Secret now generally available for US national security missions",
+            "content": "We're announcing the general availability of Azure Government Top Secret, a significant milestone in our commitment to bringing unmatched commercial innovation."
+        },
+        {
+            "headline": "Microsoft launches 'top secret' Azure cloud region for US intelligence community",
+            "content": "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification."
+        },
+        {
+            "headline": "Microsoft aiming to build 1 million sq ft data center in Douglasville, GA for East US 3",
+            "content": "The project, filed under the name FTY101, would include a total of four 245,000 square foot (22,760 sqm) 'technology facilities' on a 160-acre parcel located at..."
+        },
+        {
+            "headline": "Former Microsoft Employee Faces Heat For \"Glorifying Toxic Work Culture\"",
+            "content": "Microsoft culture was always toxic & definitely not inclusive. ... \"As a former Microsoft employee, I know this win at all costs mentality. It's both toxic and..."
+        },
+        {
+            "headline": "5 Things We Loved About Microsoft Flight Simulator 2020 (& 5 Things We Didn’t)",
+            "content": "1 Didn't Love: PC Requirements ... Previous entries in the series had extremely low requirements and could run on just about any system; however, Microsoft Flight..."
+        },
+        {
+            "headline": "Wanna Fly a Stealth Fighter? F-35 Added to Microsoft Flight Simulator",
+            "content": "IndiaFoxEcho isn't just working on the F-35B simulation model. The developer also announced, “F-35A external model is now finished (except the emergency..."
+        },
+        {
+            "headline": "Should you consider upgrading to Microsoft's Windows 11?",
+            "content": "Should you consider upgrading to Windows 11? Check out this article to know everything about Microsoft's new OS."
+        },
+        {
+            "headline": "How Microsoft And Alibaba Will Use Ethereum Against Piracy",
+            "content": "Developed by Microsoft and Alibaba on top of the Ethereum public blockchain, Project Argus is set to reduce internet piracy."
+        },
+        {
+            "headline": "The best free office suites",
+            "content": "Microsoft Office isn't the only game in town—many online office suites offer comparable document, spreadsheet, and presentation programs that are not only..."
+        },
+        {
+            "headline": "Google Joins the Race with Apple, Microsoft and Samsung to bring a Viable Smart Ring to Market after Amazon's Echo Loop Failed",
+            "content": "Amazon was the first big-tech company to bring a smart ring to market in late September 2019. They branded their Alexa-enabled smart ring the 'Echo Loop."
+        }
+    ],
+    "20210817": [
+        {
+            "headline": "Climate change demands intelligent buildings. Here’s one way to make them smarter.",
+            "content": "Commercial buildings with all-day HVAC systems belch tons of carbon. Nomad Go's smart sensors can make those spaces much greener."
+        },
+        {
+            "headline": "Microsoft invests in Rubrik at reported $4B valuation to expand partnership",
+            "content": "Microsoft invests in Rubrik at reported $4B valuation to expand partnership ... Microsoft Corp. has bought a stake in data protection unicorn Rubrik Inc. as part..."
+        },
+        {
+            "headline": "Microsoft Teams vs Zoom: Which is Best?",
+            "content": "Microsoft and Zoom have a lot of the same core features. Both tools support high-quality video conferencing, phone calls, group messaging, and file sharing."
+        },
+        {
+            "headline": "A Decade Later, .NET Developers Still Fear Being 'Silverlighted' by Microsoft",
+            "content": "Microsoft will tell you that official support for Silverlight will end in less than two months, on Oct. 12, 2021. Anyone in the industry will tell you it..."
+        },
+        {
+            "headline": "Microsoft's move into healthcare - a timeline",
+            "content": "The tech giant has greatly increased its presence with a series of investments and partnerships. Here's our timeline of key events in Microsoft's move into..."
+        },
+        {
+            "headline": "Microsoft hires former Uber product chief Manik Gupta to build 'world-class consumer experiences'",
+            "content": "Manik Gupta, an investor and startup advisor who worked previously as Uber's chief product officer and a Google product leader, has joined Microsoft as a."
+        },
+        {
+            "headline": "What a Top Secret Cloud Means for Microsoft",
+            "content": "The Azure Government Top Secret platform, which was first unveiled among a suite of new products in December, is generally available to agency customers as of..."
+        },
+        {
+            "headline": "Microsoft 'Azure Government Top Secret' Goes GA",
+            "content": "Microsoft's unique cloud instance for U.S. government agencies and their solution providers known as Azure Government Top Secret became generally available..."
+        },
+        {
+            "headline": "Microsoft Expands Its Space Cloud With New SES-Boeing MEOsats",
+            "content": "Microsoft today announced it plans to integrate its Azure Orbital ground network with satellite firm SES' next-generation O3b constellation."
+        },
+        {
+            "headline": "Microsoft launches Azure Government Top Secret for US national security contracts",
+            "content": "Microsoft launches Azure Government Top Secret for US national security contracts ... Microsoft has made 'Azure Government Top Secret' generally available, and..."
+        }
+    ],
+    "20210818": [
+        {
+            "headline": "Tapped by Microsoft for Azure Network Cloud Services",
+            "content": "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER."
+        },
+        {
+            "headline": "Cloud ‘data bursts’ from space move astronauts closer to Mars — and improve life on Earth",
+            "content": "A new partnership that's improving communication and enabling experiments that will propel astronauts further into space while improving the lives of the..."
+        },
+        {
+            "headline": "Enhancing Inking on the Web",
+            "content": "We've introduced a new top level Ink API that enables developers to incorporate the new latency improvements into their web applications. This API is accessible..."
+        },
+        {
+            "headline": "Microsoft is making it harder to switch default browsers in Windows 11",
+            "content": "In Windows 11, Microsoft has changed the way you set default apps. Like Windows 10, there's a prompt that appears when you install a new browser and open a web..."
+        },
+        {
+            "headline": "How Internet Explorer really beat Netscape",
+            "content": "Recently, even as Internet Explorer is finally retired, there have been claims made that IE drove the Netscape web browser into extinction because it was..."
+        },
+        {
+            "headline": "Little Surprise Microsoft Issues Yet Another Botched Windows Update",
+            "content": "Microsoft's July and August updates for PrintNightmare vulnerabilities eliminate the security risk but affect Alt-Tab feature and system performance."
+        },
+        {
+            "headline": "Computing at the edge of space: HPE and Microsoft conduct International Space Station experiments",
+            "content": "Microsoft and HPE have worked together to connect Spaceborne Computer-2 to Azure from orbit to enable advanced artificial intelligence applications on the ISS."
+        },
+        {
+            "headline": "2-factor authentication (2FA) is now required for Microsoft 365 (Outlook, Office, and Teams), Box and Qualtrics",
+            "content": "The university's central IT department, has added 2-Factor Authentication (2FA) to Microsoft 365 (including Outlook/Exchange, Office, and Teams), Box, and..."
+        },
+        {
+            "headline": "Microsoft begins final phase of Internet Explorer's demise",
+            "content": "Ultimately, users will have no choice as Microsoft will officially retire Internet Explorer on June 15, 2022. Related Articles: Microsoft Exchange 2019..."
+        },
+        {
+            "headline": "Faster .NET? Monster post by Microsoft software engineer shows serious improvements",
+            "content": "With Blazor, \"an entire .NET application, inclusive of the runtime, is downloaded to and executed in a browser,\" Toub explained. The size of a Hello World..."
+        }
+    ],
+    "20210819": [
+        {
+            "headline": "New pricing for Microsoft 365",
+            "content": "we are announcing changes to our commercial pricing for Microsoft 365—the first substantive pricing update since we launched Office 365 a decade ago. This..."
+        },
+        {
+            "headline": "Announcing Windows 11 Insider Preview Build 22000.160",
+            "content": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 22000.160 to everyone in the Dev and Beta Channels!"
+        },
+        {
+            "headline": "EXCLUSIVE: Microsoft, Rabobank announce first round of carbon credits with agroforestry startup reNature",
+            "content": "ReNature worked with a Brazilian farmer cooperative to generate the credits in partnership with Rabobank's carbon marketplace, Acorn."
+        },
+        {
+            "headline": "Microsoft adding unlimited Microsoft Teams Meeting PSTN dial-in to...",
+            "content": "We are announcing that we will add unlimited dial-in capabilities for Microsoft Teams meetings across our enterprise, business, frontline, and government..."
+        },
+        {
+            "headline": "Microsoft to raise prices as much as 20% for some flagship products",
+            "content": "Microsoft Corp on Thursday said it will raise prices as much as 20% for a bundle of software called Microsoft 365 that includes popular apps like Teams and..."
+        },
+        {
+            "headline": "Microsoft Translator Gets Regional Accents for iOS, Android; Do You Know It Changes Voice: Female to Male, Vice Versa",
+            "content": "The new Microsoft Translator app's Regional Accents feature offers Spain's Spanish, Mexico's Spanish, and other regional accents from different countries."
+        },
+        {
+            "headline": "Microsoft Announces Official Wired Xbox Stereo Headset",
+            "content": "Back in February, Microsoft launched the Official Xbox Wireless Headset for $99.99, including support for Windows Sonic, Dolby Atmos, and DTS Headphone: X."
+        },
+        {
+            "headline": "LibreOffice 7.2 brings improved but still imperfect Microsoft Office compatibility",
+            "content": "Also: Native for Apple Silicon but with health warning · Second, there has been an effort to further improve compatibility with Microsoft Office document..."
+        },
+        {
+            "headline": "Microsoft releases the first official Windows 11 ISOs",
+            "content": "Microsoft has finally released the first official ISOs for Windows 11, allowing users to perform clean installs of the new operating system."
+        },
+        {
+            "headline": "The Silicon Valley Customer Experience Center",
+            "content": "The site will feature a new Customer Experience Center that will be home to our most coveted customer resources – a Microsoft Technology Center (MTC) and an..."
+        }
+    ],
+    "20210820": [
+        {
+            "headline": "Hackers ‘Abusing’ Microsoft Exchange Server Vulnerabilities: Huntress",
+            "content": "Here's a look at why threat researcher Huntress is warning MSPs of on premise Microsoft Exchange Server ProxyShell vulnerabilities that could be exploited..."
+        },
+        {
+            "headline": "Can Microsoft Beat Apple to Become the Most Valuable Nasdaq Stock?",
+            "content": "Microsoft and Apple are vying for the top spot in market capitalization. Apple has had bigger gains but has also been more volatile than Microsoft."
+        },
+        {
+            "headline": "Uncovering new unknowns: How to approach EDR & logging Cyber EO milestones",
+            "content": "In this post, we address the two most critical requirements agencies need to turn their attention to next: endpoint detection and response (EDR) and logging."
+        },
+        {
+            "headline": "Should You Buy Apple, Microsoft, Alphabet, Amazon, or Facebook Stock? Yes, Despite Big Tech Regulatory Scrutiny.",
+            "content": "The five megacaps still have the best business models on the planet, and their stocks look relatively cheap. Investors should own them all."
+        },
+        {
+            "headline": "Microsoft Corporation invests $5 million in Oyo",
+            "content": "Microsoft Corporation invests $5 million in Oyo ... In July, Oyo had announced raising TLB funding of $660 million (nearly Rs 4,920 crore) from global..."
+        },
+        {
+            "headline": "Office 365 price set to rise next year, Microsoft confirms",
+            "content": "New Office 365 pricing kicks in from March 2022."
+        },
+        {
+            "headline": "Microsoft Teams will soon let you set up Breakout Rooms in advance",
+            "content": "Starting next month, organizers will be able to set up Breakout Rooms for Microsoft Teams meetings in advance."
+        },
+        {
+            "headline": "Microsoft is Making it Easier to Share OneDrive Files in Windows and Mac",
+            "content": "Microsoft is making OneDrive file sharing much easier with the ability to share files from Windows File Explorer and MacOS Finder."
+        },
+        {
+            "headline": "Microsoft releases Windows 11 build 22000.132 ISO images - Software - News",
+            "content": "Windows 11 ISOs. Microsoft has released the first ISO images for Windows 11. The particular release now available in this delivery format is Windows 11..."
+        },
+        {
+            "headline": "Microsoft Introduces The Latest Version Of Visual Studio Code (1.59) With Machine Learning (ML) Based Language Detection",
+            "content": "Microsoft Releases The Latest Version Of Visual Studio Code With Machine Learning (ML) Based Language Detection."
+        }
+    ],
+    "20210821": [
+        {
+            "headline": "Microsoft’s Office 365 price increase could be $5B boost for its business, analyst estimates",
+            "content": "An upcoming price increase for Microsoft 365 business software subscriptions, announced this week, promises to boost its business by as much as $5 billion."
+        },
+        {
+            "headline": "Microsoft Exchange servers being hacked by new LockFile ransomware",
+            "content": "A new ransomware gang known as LockFile encrypts Windows domains after hacking into Microsoft Exchange servers using the recently disclosed ProxyShell..."
+        },
+        {
+            "headline": "Microsoft Surface Pro 7 vs. Surface Pro X: Which should you buy?",
+            "content": "The Surface Pro X is Microsoft's thinnest Pro to date, but it does come at a higher starting price. It's powered by a custom Microsoft SQ1 or SQ2 CPU with..."
+        },
+        {
+            "headline": "Microsoft Flight Simulator: How To Invert The Camera",
+            "content": "This guide will cover everything that you need to know to invert the camera controls for the external and internal cameras in Microsoft Flight Simulator."
+        },
+        {
+            "headline": "How To Do A Clean Install Of Microsoft's Windows 11 ISO From A USB Stick",
+            "content": "Rufus is a very straightforward utility that's free for download. All we needed is a spare USB drive, which will be wiped by Rufus as part of the setup process."
+        },
+        {
+            "headline": "Microsoft Flight Simulator: 10 Best Planes For Beginners",
+            "content": "Microsoft Flight Simulator: 10 Best Planes For Beginners · 1 Cessna 152 Aerobat · 2 Pipstrel Virus SW121 (Premium) · 3 Shock Ultra (Premium) · 4 ICON A5 · 5..."
+        },
+        {
+            "headline": "Three US giants to invest in UP",
+            "content": "American tech giants Microsoft and MAQ Software, as well as PepsiCo have come forward to set up their units in Uttar Pradesh at a cost of Rs 2866 crore,..."
+        },
+        {
+            "headline": "Windows 11 taskbar: Microsoft just killed these top features",
+            "content": "Windows 11 has dropped certain functions from the taskbar that were there on Windows 10 and older versions. Microsoft says it wants to make Windows simpler..."
+        },
+        {
+            "headline": "Microsoft makes it easier to download Windows 11 on a PC: Check details",
+            "content": "It is important to note that you will need a valid Windows 10 license to activate Windows 11 if you opt to use this ISO. After downloading the file, you can..."
+        },
+        {
+            "headline": "Microsoft now offers Windows 11 preview on Azure Virtual Desktop",
+            "content": "Starting this week, Microsoft customers can use the Azure Virtual Desktop (formerly Windows Virtual Desktop) to virtualize a Windows 11 preview desktop on..."
+        }
+    ],
+    "20210822": [
+        {
+            "headline": "Middle East-based entrepreneurs share experiences of working with Microsoft for Startups",
+            "content": "As Microsoft for Startups gets to work with new B2B entrepreneurs from the Middle East within its GrowthX Accelerator programme, two founders discuss benefits..."
+        },
+        {
+            "headline": "Microsoft Weekly: More Windows 11 changes, higher-res dashboard, and security flaws",
+            "content": "As the third full week of August is coming to a close, we take a look back at the various bits of Microsoft news that have surfaced during this time."
+        },
+        {
+            "headline": "How Microsoft made its Windows 11 system sounds less nerve-racking",
+            "content": "Personal computers with Windows have made sounds to indicate errors since the 1980s. With Windows 11, Microsoft has revamped those sounds to make them less..."
+        },
+        {
+            "headline": "How to Remove Duplicate or Blank Rows From a Table in Microsoft Excel",
+            "content": "How to Remove Duplicate or Blank Rows From a Table in Microsoft Excel · On the Table Design tab, click Remove Duplicates · Mark if your table has headers."
+        },
+        {
+            "headline": "Bad news for Chrome fans! Windows 11 will make it harder to ditch Microsoft Edge browser",
+            "content": "MICROSOFT has ignited a web browser battle with news of its latest change in Windows 11, which seems aimed to stop you switching to Firefox or Google..."
+        },
+        {
+            "headline": "How a Pakistani conman 'robbed' Microsoft founder Bill Gates of USD 100 million",
+            "content": "According to the book, Arif Naqvi siphoned off USD 780 million from his funds, USD 385 million of which remains unaccounted for."
+        },
+        {
+            "headline": "Microsoft Launcher to get a big update for Surface Duo 2",
+            "content": "Surface Duo is Microsoft's first Android phone and it's not a secret that its first-generation dual-screen is plagued with various issues."
+        }
+    ],
+    "20210823": [
+        {
+            "headline": "Duke Energy teams with Accenture and Microsoft to develop first-of-its-kind methane-emissions monitoring platform",
+            "content": "Duke Energy today announced it is working with Accenture and Microsoft on the development of a new technology platform designed to measure actual baseline..."
+        },
+        {
+            "headline": "Not Happy About the Microsoft Office Price Hike? 3 Options to Consider Instead",
+            "content": "The price hike goes into effect in March 2022, and adds up to an increase of at least 10 percent and as much as 25 percent per user."
+        },
+        {
+            "headline": "ProxyShell vulnerabilities in Microsoft Exchange: What to do",
+            "content": "ProxyShell, the name given to a collection of vulnerabilities for Microsoft Exchange servers, enables an actor to bypass authentication and execute code as a..."
+        },
+        {
+            "headline": "Writing Power Fx formulas with natural language",
+            "content": "GPT-3 is an advanced natural language AI model that implements deep learning to be able to both understand and produce human-like text based on a prompt in..."
+        },
+        {
+            "headline": "38M Records Were Exposed Online—Including Contact-Tracing Info",
+            "content": "Misconfigured Power Apps from Microsoft led to more than a thousand web apps accessible to anyone who found them."
+        },
+        {
+            "headline": "Microsoft Endpoint Manager: What Intune's successor does and how it works",
+            "content": "Microsoft's Endpoint Manager combines Intune and System Center Configuration Manager to reduce the time and effort IT admins need to manage desktop and mobile..."
+        },
+        {
+            "headline": "38 million records exposed by misconfigured Microsoft Power Apps. Redmond's advice? RTFM",
+            "content": "Security biz UpGuard said that in May one of its analysts found that the OData API for a Power Apps portal offered anonymously accessible database records that..."
+        },
+        {
+            "headline": "How to Play Microsoft Adventure, the World's First IBM PC Game",
+            "content": "In Microsoft Adventure, you play as a person exploring a cave while looking for 15 treasures. Your goal is to get as high as score as possible by collecting as..."
+        },
+        {
+            "headline": "UCSD & Microsoft Improve Image Recognition With Extremely Low FLOPs",
+            "content": "A research team from the University of California San Diego and Microsoft has come up with a novel approach to improve model accuracy on computer vision..."
+        },
+        {
+            "headline": "Citrix Workspace for Chrome OS adds Microsoft Teams optimizations",
+            "content": "We are proud to announce that Microsoft Teams Optimization in Citrix Workspace app for Chrome OS 2105.5 and later is now available!"
+        }
+    ],
+    "20210824": [
+        {
+            "headline": "Mummolo Receives Microsoft Funding for Police Body-Worn Camera Project",
+            "content": "Microsoft has awarded $250000 in funding to professor Jonathan Mummolo and a team of fellow social scientists to fund the development of a novel system to..."
+        },
+        {
+            "headline": "Microsoft Power Apps misconfiguration exposes millions of records",
+            "content": "A total of 38 million records across hundreds of Microsoft Power Apps portals have been found sitting unprotected on the internet."
+        },
+        {
+            "headline": "Microsoft Data Breach Exposes 38M Records Containing PII",
+            "content": "A Microsoft Power Apps data breach exposed 38M records containing PII and impacted 47 organizations, including some governmental public health agencies."
+        },
+        {
+            "headline": "Reading Progress: Now available in Microsoft Teams",
+            "content": "The new app available in Microsoft Teams that enables students to independently read aloud, record themselves, and grow their reading skills."
+        },
+        {
+            "headline": "Microsoft Power Apps misconfiguration exposes data from 38 million records",
+            "content": "A lack of proper security configuration with Microsoft's Power Apps has led to the exposure of data from some 38 million records, according to security firm..."
+        },
+        {
+            "headline": "Windows 11 Release Date: Microsoft Tweet Drops A Big Hint",
+            "content": "Microsoft has dropped a strong clue about the Windows 11 release date, with a new tweet subtly suggesting the operating system will arrive on October 20."
+        },
+        {
+            "headline": "Data leak exposes tens of millions of private records from corporations and government agencies",
+            "content": "Dozens of major companies, state and federal agencies and other organizations that misconfigured a setting in their Microsoft software inadvertently exposed..."
+        },
+        {
+            "headline": "38 Million Records Exposed from Microsoft Power Apps of Dozens of Organisations",
+            "content": "Default permissions settings in Microsoft Power Apps left 38 million records exposed from dozens of organizations."
+        },
+        {
+            "headline": "Surface Laptop Studio might be Microsoft’s next flagship notebook",
+            "content": "A new rumor says Microsoft will redesign the Surface Book flagship and give it a new name, maybe along the lines of Surface Laptop Studio."
+        },
+        {
+            "headline": "Analysis: Cloud gaming on Xbox illustrates Microsoft’s console strategy versus Sony",
+            "content": "Analysis: Cloud gaming on Xbox illustrates Microsoft's console strategy versus Sony ... Microsoft revealed on Tuesday morning that the long-expected debut of its..."
+        }
+    ],
+    "20210825": [
+        {
+            "headline": "Microsoft Translator releases literary Chinese translation",
+            "content": "Researchers at Microsoft Research Asia adopted the latest neural machine translation techniques to train direct translation models between literary Chinese and..."
+        },
+        {
+            "headline": "Microsoft's $20 Billion, Five Year Cybersecurity Budget: What's the Context? -",
+            "content": "It's difficult to put Microsoft's five-year, $20 billion cybersecurity budget in proper context -- especially in terms of people, product,..."
+        },
+        {
+            "headline": "Microsoft ending Chromebook support for Office Android apps in September (Update: Google statement added)",
+            "content": "Microsoft apps (Office and Outlook) will be transitioned to web experiences (Office.com and Outlook.com) on September 18, 2021."
+        },
+        {
+            "headline": "Microsoft will add secure preview for Office 365 quarantined emails",
+            "content": "Microsoft is updating Defender for Office 365 to protect customers from embedded email threats while previewing quarantined emails."
+        },
+        {
+            "headline": "One of the original masterminds behind Amazon Web Services is going to its chief cloud rival Microsoft, sources say",
+            "content": "Bell recently left Amazon, part of a broader brain drain from the internet giant. Insiders said he was pursing a C-level role at another company."
+        },
+        {
+            "headline": "Cloud wars: Former Amazon Web Services leader Charlie Bell reportedly joins rival Microsoft",
+            "content": "Longtime Amazon Web Services leader Charlie Bell has reportedly taken a job at Microsoft. Bell, a member of Amazon's senior leadership team and a longtime."
+        },
+        {
+            "headline": "How iPad, iPhone and Mac users can tap the power of Microsoft’s Power Apps",
+            "content": "iPad and iPhone users can download and install Microsoft's dedicated and free Power Apps app. Mac users, meanwhile, can load Power Apps within Microsoft's..."
+        },
+        {
+            "headline": "Microsoft launches Azure Government Top Secret cloud",
+            "content": "Microsoft's Azure Government Top Secret offers more than 60 cloud services to U.S. spy agencies, the Department of Defense and federal civilian organizations."
+        },
+        {
+            "headline": "Microsoft Reveals Limited Edition Xbox Series X Halo Infinite Bundle and Elite Controller to Celebrate 20th Anniversary",
+            "content": "The bundle ($549.99) and controller ($199.99) are both available for pre-order starting today direct from Microsoft."
+        },
+        {
+            "headline": "Start Your Spartan Journey On Dec. 8",
+            "content": "The road through 2021 has been an exciting one, Spartans – but, here at the tail-end of August we're especially glad to see you. Throughout the last year..."
+        }
+    ],
+    "20210826": [
+        {
+            "headline": "Thousands of Microsoft Customers May Have Been Victims of Hack Tied to China (Published 2021)",
+            "content": "The number of victims is estimated to be in the tens of thousands and could rise, some security experts believe, as the investigation into the breach continues."
+        },
+        {
+            "headline": "From Windows 365 to Q&A in Microsoft Teams meetings—here’s what’s new in Microsoft 365",
+            "content": "This month, we're introducing additional collaborative apps from our partners, a new Q&A app for Microsoft Teams, a new Communities app, and more."
+        },
+        {
+            "headline": "China's Microsoft Hack May Have Had A Bigger Purpose Than Just Spying",
+            "content": "When investigators discovered the hack on Microsoft Exchange servers in January, they thought it was about stealing emails. Now they believe China vacuumed up..."
+        },
+        {
+            "headline": "The centerpiece of Microsoft’s massive new expansion is 550 feet underground",
+            "content": "The crowning jewel of the tech giant's new campus expansion isn't a flying saucer or a glass mountain. It's a geothermal energy plant—and one of the largest..."
+        },
+        {
+            "headline": "ChaosDB: How we hacked thousands of Azure customers’ databases",
+            "content": "We were able to gain complete unrestricted access to the accounts and databases of several thousand Microsoft Azure customers, including many Fortune 500..."
+        },
+        {
+            "headline": "Microsoft Makes Power Apps Changes Following ‘Sensitive Data’ Exposure: UpGuard",
+            "content": "UpGuard issued a report on Power Apps settings that could result in users exposing sensitive information publicly. The cybersecurity company found that JB..."
+        },
+        {
+            "headline": "Amazon cloud exec Charlie Bell's new Microsoft job puts non-compete deals back in the spotlight",
+            "content": "Microsoft and Amazon are negotiating to determine the initial scope of Bell's new role under the terms of the non-compete agreement that he signed with Amazon."
+        },
+        {
+            "headline": "Microsoft recruits longtime Amazon cloud exec Charlie Bell",
+            "content": "He is widely credited with leading the development of AWS' now vast line of cloud services. Bell retired from Amazon this month, amid an exodus of..."
+        },
+        {
+            "headline": "Microsoft Embracing Native QUIC in Newer Windows OSes and Edge Browser",
+            "content": "Microsoft Embracing Native QUIC in Newer Windows OSes and Edge Browser ... Microsoft this week described QUIC, an Internet transport layer protocol alternative to..."
+        },
+        {
+            "headline": "Microsoft Product Boss Elevated to the Executive Leadership Team",
+            "content": "Panos Panay will serve as one of the direct advisors to CEO Satya Nadella."
+        }
+    ],
+    "20210827": [
+        {
+            "headline": "Update on Windows 11 minimum system requirements and the PC Health Check app",
+            "content": "Today's blog post provides two updates. First, an update on Windows 11 minimum system requirements based, in part, on feedback from the Windows Insider..."
+        },
+        {
+            "headline": "EXCLUSIVE Microsoft warns thousands of cloud customers of exposed databases",
+            "content": "Microsoft on Thursday warned thousands of its cloud computing customers, including some of the world's largest companies, that intruders could have the..."
+        },
+        {
+            "headline": "Brandon Minnick: Balancing work, life and the dream",
+            "content": "A mobile app developer with an MBA, a Developer Advocate with a popular podcast, a travel enthusiast who once wrote code for rides at Walt Disney World."
+        },
+        {
+            "headline": "Microsoft won’t stop you installing Windows 11 on older PCs",
+            "content": "Microsoft will block people from installing Windows 11 on PCs with older CPUs. You'll be able to install Windows 11 manually on PCs that aren't officially..."
+        },
+        {
+            "headline": "Critical Cosmos Database Flaw Affected Thousands of Microsoft Azure Customers",
+            "content": "The flaw, which grants read, write, and delete privileges, has been dubbed \"ChaosDB,\" with Wiz researchers noting that \"the vulnerability has a trivial exploit..."
+        },
+        {
+            "headline": "Microsoft rolls out more fixes and a new 'Microsoft 365' widget in latest Windows 11 test build release",
+            "content": "Microsoft Dev and Beta testers are getting another new widget as part of its latest Windows Insider test build of Windows 11."
+        },
+        {
+            "headline": "Microsoft Surface Duo review",
+            "content": "The Surface Duo is probably the best device around for mobile productivity right now, even if the slightly dated hardware leaves something to be desired."
+        },
+        {
+            "headline": "Microsoft Slightly Expands List Of Windows 11 Compatible CPUs",
+            "content": "Microsoft said that several additional Intel Core processors will support Windows 11, but no additional AMD chips will support the operating system."
+        },
+        {
+            "headline": "Microsoft Clarifies Windows 11 Processor Requirements",
+            "content": "Microsoft generally won't support upgrades to Windows 11 on machines with seventh-generation processors, except for two processors built by Intel."
+        },
+        {
+            "headline": "Microsoft’s Surface Go 3 tablet might have just leaked",
+            "content": "A leak claims that Microsoft might launch a new Surface Go 3 series of affordable 2-in-1 tablets right in time for the Windows 11 arrival."
+        }
+    ],
+    "20210828": [
+        {
+            "headline": "Microsoft is threatening to withhold Windows 11 updates if your CPU is old",
+            "content": "Microsoft is now threatening to withhold Windows Updates from your copy of Windows 11 — potentially even security updates — if you take the manual ISO..."
+        },
+        {
+            "headline": "Microsoft Warns of Widespread Phishing Attacks Using Open Redirects",
+            "content": "Microsoft is warning of a widespread credential phishing campaign that leverages open redirector links."
+        },
+        {
+            "headline": "New Windows 11 Dev build released with Microsoft 365 Widget",
+            "content": "Microsoft announced a new Microsoft 365 Widget in the latest Windows 11 Dev build released for Windows Insiders in the Dev and Beta Channels."
+        },
+        {
+            "headline": "Microsoft backs down: Older PCs will be able to run Windows 11, unofficially",
+            "content": "ZDNet: “But if you have TPM 1.2 enabled, 64 GB minimum of storage, 4 GB of RAM and a dual-core CPU, minimum, you will be able to proceed with the installation..."
+        },
+        {
+            "headline": "VR: When is Microsoft Taking the Plunge (And Should They)?",
+            "content": "Should gamers anticipate an Xbox virtual reality suite anytime soon?"
+        },
+        {
+            "headline": "How to Use Picture-in-Picture in Microsoft Edge on iPhone and iPad",
+            "content": "Open the Microsft Edge browser on your iPhone or iPad. Select the three-dot menu (Ellipses) button at the bottom."
+        },
+        {
+            "headline": "How to Add or Change a Profile Picture on Microsoft Teams",
+            "content": "There are plenty of online tools to easily create professional-looking photos to help give you that in-office look from the comfort of your own home."
+        },
+        {
+            "headline": "Microsoft Surface Book 4 and Surface Book Studio fan-made concept renders visualize how appeal may hinge on a single design choice",
+            "content": "The next-generation Microsoft Surface Book laptop has been appearing in some expertly crafted fan-made concept renders. The name of the future Surface is..."
+        },
+        {
+            "headline": "Microsoft to allow Windows 11 to be installed on older PCs through ISOs, but they might not get updates",
+            "content": "Microsoft is now leaning towards allowing millions of consumer and corporate PCs to be upgraded to Windows 11, despite previously announced hardware..."
+        },
+        {
+            "headline": "Windows 11: Microsoft updates minimum system requirements",
+            "content": "A few months back, Microsoft revealed some of the key requirements for running Windows 11 on a PC. It will need a processor that has two or more cores and a..."
+        }
+    ],
+    "20210829": [
+        {
+            "headline": "Researchers, cybersecurity agency urge action by Microsoft cloud database users",
+            "content": "Researchers who discovered a massive flaw in the main databases stored in Microsoft Corp's Azure cloud platform on Saturday urged all users to change their..."
+        },
+        {
+            "headline": "Microsoft Surface Duo is great for Game Pass, but it sucks at just about everything else",
+            "content": "Microsoft's weird dual-screen phone is a great Game Pass device. But even if you're a Game Pass xCloud aficionado, the Surface Duo still isn't a good daily..."
+        },
+        {
+            "headline": "The 8 most important execs who left Microsoft in 2021, and 3 new power players who joined",
+            "content": "Here are 8 of the biggest executive departures from Microsoft this year, and 3 new power players who joined."
+        },
+        {
+            "headline": "Power Apps portals: SameSite mode and its use when hosting your portal in an iframe",
+            "content": "This impacts functionality in scenarios like when you iframe your portal in other website. We recommended that you review this setting for your portal in case..."
+        },
+        {
+            "headline": "A New Microsoft Outlook Is Coming to Windows 10 and 11: Here's What You Need to Know",
+            "content": "Following the launch of Windows 11, Microsoft has started releasing new updates for the operating system on a regular basis. The updates aim to enhance the..."
+        },
+        {
+            "headline": "How to Propose a New Time for a Microsoft Outlook Event",
+            "content": "You can propose a new time in Outlook from the email invitation or the event in the calendar. In the email, click \"Propose New Time.\" Then select \"Tentative..."
+        },
+        {
+            "headline": "Microsoft may not provide Windows 11 updates to older computers",
+            "content": "Microsoft may not provide Windows 11 updates to older computers ... Microsoft has clarified that it won't block the installation of Windows 11 on computers with..."
+        },
+        {
+            "headline": "How Pakistan's Arif Naqvi Stole $100 Million From Microsoft's Bill Gates",
+            "content": "Arif Naqvi positioned himself as the philanthropist who would end poverty on Earth. Then, he stole huge sums from billionaires like Bill Gates."
+        },
+        {
+            "headline": "Microsoft Surface Book Studio Gets Rendered as a Crazy Productivity Concept",
+            "content": "While Apple is expected to unveil its goodies in September, Microsoft will be holding a big event in October, meant to bring forth new Surface devices."
+        },
+        {
+            "headline": "Microsoft cloud databases vulnerable for years, researchers say",
+            "content": "A vulnerability in Microsoft's cloud database system left data at thousands of clients exposed to potential cyberattacks for about two years."
+        }
+    ],
+    "20210830": [
+        {
+            "headline": "The next chapter of cyber diplomacy at the United Nations beckons",
+            "content": "Last week, the UN released its most substantial recommendations to date for how governments can secure cyberspace from escalating conflict."
+        },
+        {
+            "headline": "Quick Answer: Assessing Alternatives to Microsoft Unified Support",
+            "content": "Alternatives exist for cost-conscious sourcing, procurement and vendor management leaders, but careful consideration is needed."
+        },
+        {
+            "headline": "NEC Expanding Partnership with Microsoft for Digital Transformation Among Customer Base",
+            "content": "NEC is expanding its partnership with Microsoft to help enterprises accelerate their cloud adoptions and digital transformations."
+        },
+        {
+            "headline": "Microsoft Slightly Loosens Windows 11 Chip Requirements",
+            "content": "Microsoft generally won't support upgrades to Windows 11 on machines with seventh-generation processors, except for two processors built by Intel."
+        },
+        {
+            "headline": "What is Windows Hello? Microsoft’s biometrics security system explained",
+            "content": "Windows Hello gives Windows users an alternate way to log into their devices and applications using a fingerprint, iris scan or facial recognition."
+        },
+        {
+            "headline": "The Software Engineer Who Became a Business Leader: Adebisi Oje, MBA ‘16",
+            "content": "The Nigerian-born Cornell Tech alumna is responsible for leading global sales at WANdisco while partnering closely with Microsoft and liaising with..."
+        },
+        {
+            "headline": "Microsoft 365 Lighthouse Preview",
+            "content": "Microsoft 365 Lighthouse is conceptually similar however, providing the ability for an MSP to manage client's Office/Microsoft 365 (M365) tenants with..."
+        },
+        {
+            "headline": "Microsoft: Beware Phishing Attacks with Open Redirect Links",
+            "content": "Microsoft: Beware Phishing Attacks with Open Redirect Links ... Microsoft is warning of a \"widespread\" phishing campaign in which fraudsters use open redirect..."
+        },
+        {
+            "headline": "Microsoft Backtracks: Older PCs Won't Receive Windows 11 Security Updates",
+            "content": "Microsoft has since told The Verge that unsupported PCs won't be entitled to receive Windows Updates, and that even security and driver updates may be withheld."
+        },
+        {
+            "headline": "Otter.ai Transcription Assistant Extends To Microsoft Teams, Google Meet and Webex",
+            "content": "After partnering with Zoom, Otter.ai, brings Otter Assistant to Microsoft Teams, Google Meet and Webex for automatic transcriptions."
+        }
+    ],
+    "20210831": [
+        {
+            "headline": "Windows 11 available on October 5",
+            "content": "Windows 11 will start to become available on October 5, 2021. On this day, the free upgrade to Windows 11 will begin rolling out to eligible Windows 10 PCs."
+        },
+        {
+            "headline": "Verizon debuts private mobile edge cloud computing for enterprises with Microsoft Azure",
+            "content": "Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network."
+        },
+        {
+            "headline": "Power Apps and Dynamics 365 Guides brings data to frontline workers",
+            "content": "Infusing Power Apps with Dynamics 365 Guides and HoloLens 2 has enabled organizations to give their frontline workers step-by-step holographic instructions..."
+        },
+        {
+            "headline": "Bark Technologies Adds Detections to Microsoft Teams",
+            "content": "Online safety company Bark Technologies today announced the addition of Microsoft Teams to the list of platforms it monitors at schools nationwide."
+        },
+        {
+            "headline": "Windows 11 has a release date: Microsoft to start ‘phased and measured’ rollout Oct. 5",
+            "content": "Microsoft announced this morning that it will release Windows 11 on Oct. 5 as a free upgrade for existing Windows 10 machines, and pre-installed on new."
+        },
+        {
+            "headline": "Microsoft says Android apps won't be available for Windows 11 on Oct. 5 launch",
+            "content": "Microsoft's delaying one of the most highly anticipated features of its new Windows 11 software. The tech giant said it won't offer Android mobile phone..."
+        },
+        {
+            "headline": "Microsoft sinks standalone Hyper-V Server, wants you using Azure Stack HCI for VM-wrangling",
+            "content": "Microsoft won't ship a new version of Hyper-V Server – the free tool it offers alongside Windows Server to build hybrid clouds and manage fleets of virtual..."
+        },
+        {
+            "headline": "Windows 11 will be released on October 5th to newer devices",
+            "content": "Microsoft has announced that Windows 11 will be released on October 5th, 2021, to Windows 10 users with support devices."
+        },
+        {
+            "headline": "New Microsoft Exchange 'ProxyToken' Flaw Lets Attackers Reconfigure Mailboxes",
+            "content": "ProxyToken, a new vulnerability (CVE-2021-33766) in Microsoft Exchange allows hackers to modify server configurations and steal users' emails."
+        },
+        {
+            "headline": "Microsoft Azure Vulnerability ‘Breaks Secure Multitenancy’",
+            "content": "Researchers from cloud security firm Wiz reported an Azure vulnerability affecting Cosmos DB that gave them complete access to thousands of Azure customers."
+        }
+    ],
+    "20210901": [
+        {
+            "headline": "Get free DMARC visibility with Valimail Authenticate and Microsoft Office 365",
+            "content": "Valimail Enforce, the first true DMARC-as-a-service offering, gives Microsoft Office 365 users visibility into every service sending emails under their domains,..."
+        },
+        {
+            "headline": "Tech Moves: Azure GM joins Madrona; Microsoft promotes chief scientist; Esper adds exec; more",
+            "content": "Microsoft Azure General Manager and COO Aseem Datar is joining Madrona Venture Group as a partner. The Seattle investment firm also announced that Chris."
+        },
+        {
+            "headline": "Microsoft previews free Visual Studio Code for the Web",
+            "content": "Microsoft is previewing Visual Studio Code for the Web, a code editor that runs entirely in the browser. The post introducing the new service was put up..."
+        },
+        {
+            "headline": "Microsoft kicks unsupported PCs out of Windows 11 preview program",
+            "content": "To show appreciation to their most loyal fans and supporters, Microsoft exempted Windows Insiders in the 'Dev' channel from these hardware requirements and..."
+        },
+        {
+            "headline": "Microsoft’s Azure Government Top Secret Cloud: All you need to know",
+            "content": "Microsoft's Azure made Government Top Secret — its cloud service for governmental agencies that need to manage top-secret data — generally available a couple of..."
+        },
+        {
+            "headline": "Microsoft sets Nov. 1 deadline for shutting off old Outlook clients from 365 services",
+            "content": "After November 1, 2021, only Outlook 2013 Service Pack 1 (with latest fixes) and later will be able to connect to Microsoft 365 services."
+        },
+        {
+            "headline": "Microsoft introduces Microsoft Defender for Endpoint Plan 1",
+            "content": "The move is in response to a massive surge in ransomware attacks. This week Microsoft announced the preview of a core set of prevention and protection."
+        },
+        {
+            "headline": "Microsoft announces release date for Windows 11",
+            "content": "On Oct. 5, Microsoft will roll out Windows 11. The long-awaited upgrade to Windows 10 will include integration with the collaboration platform Teams,..."
+        },
+        {
+            "headline": "Amazon, Google, Microsoft Vie for Work on ICE RAVEn Data-Mining Tool",
+            "content": "ICE is building a tool that analyzes surveillance footage, biometric data, and social-media information. Amazon, Google, and Microsoft want to help."
+        },
+        {
+            "headline": "Microsoft Announces Windows 11 Release Date",
+            "content": "Microsoft has announced the release date for Windows 11, the next major step for Microsoft's operating system."
+        }
+    ],
+    "20210902": [
+        {
+            "headline": "Meet Microsoft’s 2021-2022 Showcase Schools and MIE Experts",
+            "content": "These schools represent the new and returning cohort of Microsoft Showcase Schools and we are thrilled to welcome their continued participation in the program."
+        },
+        {
+            "headline": "Announcing Windows 11 Insider Preview Build 22000.176",
+            "content": "UPDATE 7:10PM PDT: Recently, Windows Insiders in both the Dev and Beta Channels began reporting that Start and Taskbar were unresponsive and Settings and..."
+        },
+        {
+            "headline": "ESPN Edge Innovation Center Launches with Accenture, Microsoft and Verizon to Explore Technologies and Innovative Approaches in Sports Media",
+            "content": "Accenture, Microsoft and Verizon each bring their unique expertise and technologies to ESPN Edge, while ESPN and DMED will help the partners explore adaptations..."
+        },
+        {
+            "headline": "Microsoft's Surface Pro X can't beat Apple's M1 app compatibility",
+            "content": "Although the latest Surface Pro X does offer excellent battery life and performance in a lightweight, 2-in-1 design, it's held back by a processor that can't..."
+        },
+        {
+            "headline": "Microsoft replaces standalone Hyper-V Server with Azure Stack HCI",
+            "content": "Microsoft replaces standalone Hyper-V Server with Azure Stack HCI ... Upcoming Windows Server 2022 will not be shipped with Hyper-V server – Microsoft's free tool..."
+        },
+        {
+            "headline": "Microsoft’s New Treasurer, on Innovation",
+            "content": "Tahreem Kampton and other Microsoft treasury executives will share their strategies for fostering continuous improvement, in a live webcast."
+        },
+        {
+            "headline": "Microsoft Modern Webcam Review: New Mid-Budget Best",
+            "content": "The Microsoft Modern Webcam needed a few sacrifices to reach this price, but it excels in fidelity across a number of lighting conditions. Sure, the software is..."
+        },
+        {
+            "headline": "Microsoft makes Windows 10 21H2 and Windows 11 previews available for commercial testing",
+            "content": "Officials haven't provided a release date for Windows 10 21H2, but it's likely around October 2021. Officials said commercial devices in the Windows Insider..."
+        },
+        {
+            "headline": "Windows 365 review: Can Windows in the cloud replace your PC?",
+            "content": "Windows 365 is designed to let employees stream a full Windows desktop from whatever hardware they have to hand – an old desktop PC, a MacBook, even an iPad."
+        },
+        {
+            "headline": "Microsoft releases first Windows 11 \"Nickel\" build to Insiders",
+            "content": "Lawrence Abrams ... Microsoft has released the first Windows 11 \"Nickel\" preview build 22449 to Windows Insiders in the 'Dev' channel, allowing them to test out..."
+        }
+    ],
+    "20210903": [
+        {
+            "headline": "Power Apps Developer resources",
+            "content": "A link to 'Developer resources' which lists the environment unique names and IDs, as well as links to the API and discovery endpoints."
+        },
+        {
+            "headline": "Here’s How Flexibility Helps Microsoft Manage Covid-Related Issues And Problems",
+            "content": "Microsoft is among the many top employers that are taking a more flexible view of, well, flexibility. That flexibility has helped the tech giant respond..."
+        },
+        {
+            "headline": "Bias persists in face detection systems from Amazon, Microsoft, and Google",
+            "content": "A study by researchers at the University of Maryland finds that face detection services from Amazon, Microsoft, and Google remain flawed in significant, easily..."
+        },
+        {
+            "headline": "Has Microsoft Edge just slipped up in the browser wars?",
+            "content": "The battle for web browser supremacy continues to rumble on as Microsoft Edge and Firefox scrap for users across the world."
+        },
+        {
+            "headline": "Microsoft makes Windows 11 and Windows 10 21H2 previews available",
+            "content": "Microsoft is making commercial previews of both Windows 10 21H2 and Windows 11 available to businesses through the Windows Insider Program for Business."
+        },
+        {
+            "headline": "Microsoft breaks Windows 11 Start Menu, Taskbar with Teams promo",
+            "content": "Microsoft accidentally broke the Start menu and taskbar on systems of Windows Insiders after pushing a Teams promo to the desktops of users running Windows..."
+        },
+        {
+            "headline": "Report suggests that an 'ad' for Microsoft Teams may have broken the Windows 11 desktop and taskbar",
+            "content": "Insiders testing Windows 11 recently experienced a devastating bug that crippled the desktop with no Start menu or taskbar. A new analysis suggests that a..."
+        },
+        {
+            "headline": "Microsoft Might Enable Android Apps on Xbox: Microsoft Store Listing",
+            "content": "The software giant might want to go even further and bring Android apps to its Xbox game consoles, too, at least according to a listing at the Microsoft Store."
+        },
+        {
+            "headline": "Microsoft Surface event could include the Surface Duo 2 reveal (Updated)",
+            "content": "The Microsoft Surface Duo 2 could have a launch date now. The press event could also see the debut of other new Surface products."
+        },
+        {
+            "headline": "Android app placeholder spotted in Windows 11’s Microsoft Store",
+            "content": "Something called a Windows Subsystem for Android has been discovered within the Windows 11 Microsoft Store app store by reliable leaker/tipster, WalkingCat."
+        }
+    ],
+    "20210904": [
+        {
+            "headline": "How to Get Overlay Scrollbar in Microsoft Edge",
+            "content": "How to Get Overlay Scrollbar in Microsoft Edge · 1. Open the Edge browser on your PC, navigate to edge://flags and search for 'Windows style overlay scrollbars'..."
+        }
+    ],
+    "20210905": [
+        {
+            "headline": "How to Uninstall Microsoft Edge in Windows 11 or 10",
+            "content": "How to Uninstall Microsoft Edge in Windows 11 or 10. 1. Navigate to the Edge About page by going to the browser's settings menu and then Help & feedback->About..."
+        },
+        {
+            "headline": "PC Periodicals: Microsoft confirms Windows 11 does not support these taskbar features",
+            "content": "It appears that the Windows 11 taskbar does not come with a full-fledged right-click (context) menu and it is no longer possible to drag a file or app to the..."
+        },
+        {
+            "headline": "Watch Microsoft Flight Simulator World Update 6 Trailer",
+            "content": "In case you missed it, Microsoft shared a trailer for the upcoming World Update 6 which is due to release very soon for Microsoft Flight Simulator."
+        },
+        {
+            "headline": "Microsoft Flight Simulator's Top Gun Expansion Delayed To Match the Film",
+            "content": "The Maverick Expansion planned for Microsoft Flight Simulator, where players can fly as Pete \"Maverick\" Mitchell from Top Gun, has been delayed."
+        },
+        {
+            "headline": "Windows 11 dark mode has quieter, more soothing sounds - Listen now",
+            "content": "Windows 11 brings a redesigned user interface and an overhaul to the system sounds, including different sounds for Light Mode and Dark Mode."
+        },
+        {
+            "headline": "Upfront With Microsoft's Cally Chan On Becoming A Female Leader In Tech",
+            "content": "Cally Chan reflects on her rise through the male-dominated tech world and how she's empowering others as GM of Microsoft Hong Kong and Macau."
+        },
+        {
+            "headline": "Microsoft announces Windows 11 roll out date",
+            "content": "Among the many new key features, Start now utilises the power of the cloud and Microsoft 365 to show recent files, no matter what device they were..."
+        },
+        {
+            "headline": "Microsoft will release Windows 11 on October 5, but without Android app support",
+            "content": "Microsoft has officially confirmed that it will only start previewing this feature in the \"coming months.\" The company hasn't mentioned in which month it..."
+        },
+        {
+            "headline": "6 year-old in Tirupati becomes youngest Indian to receive Microsoft certification",
+            "content": "Six-year-old Raja Anirudh Sri Ram from Tirupati has become the youngest child in India to be certified as 'Microsoft Office Specialist', setting a new record."
+        },
+        {
+            "headline": "Microsoft appoints Md Yousup Faruqu as managing director for Bangladesh",
+            "content": "Technology giant Microsoft has appointed Md Yousup Faruqu as the managing director for Bangladesh. In this role, Faruqu will be responsible for the company's..."
+        }
+    ],
+    "20210906": [
+        {
+            "headline": "Md Yousup Faruqu appointed to lead Bangladesh for Microsoft",
+            "content": "Microsoft has appointed Md Yousup Faruqu as Managing Director for Bangladesh. In this role, he will focus on accelerating digital transformation."
+        },
+        {
+            "headline": "Microsoft may have just revealed Android app support for Xbox (Updated: Nope)",
+            "content": "It looks like a Microsoft Store listing hinting at Android apps coming to Xbox consoles might be an error or placeholder text."
+        },
+        {
+            "headline": "HCL announces the availability of GLAM on Microsoft Azure Marketplace",
+            "content": "HCL Technologies announced the availability of its Geospatial Linear Asset Management (GLAM) solution on Microsoft Azure Marketplace."
+        },
+        {
+            "headline": "Microsoft Flight Simulator Top Gun update delayed with the movie – here's the new date",
+            "content": "The delay now has the game add-on releasing on or around the blockbuster's new May 27, 2022 premiere."
+        },
+        {
+            "headline": "How to Stop Windows 11 from Showing Edge Tabs in Alt+Tab",
+            "content": "By default, pressing Alt+Tab in Windows 11 will show thumbnails of both open application windows and all tabs open in the Microsoft Edge browser."
+        },
+        {
+            "headline": "4 quick tips for Cortana in Windows 10",
+            "content": "Microsoft's digital assistant Cortana can make your life easier and more efficient — if you know how to take advantage of it."
+        },
+        {
+            "headline": "How to future-proof and secure your organisation against cyberattacks",
+            "content": "Enterprise resilience is needed to recover from human-operated cyberattacks. This goes beyond just cyber resilience. It requires a multi-faceted business,..."
+        },
+        {
+            "headline": "Microsoft Flight Simulator Top Gun DLC won’t take your breath away until 2022",
+            "content": "The Top Gun sequel Maverick is being delayed until next May. Now, as night follows day, we've learned the Microsoft Flight Simulator tie-in has also been..."
+        },
+        {
+            "headline": "Microsoft Edge 93 gets design improvements on Windows 11 & Windows 10",
+            "content": "Microsoft Edge 93 has been released with support for two experimental features: a new design for menus and modern scrollbars to match the Fluent style of..."
+        },
+        {
+            "headline": "You may still use Disk Cleanup on Windows 11 (even though Microsoft does not want you to)",
+            "content": "Microsoft replaced the Disk Cleanup link in the properties window of drives in the latest Windows 11 build with a link to the Settings app."
+        }
+    ],
+    "20210907": [
+        {
+            "headline": "Microsoft acquires Clipchamp to empower creators",
+            "content": "Clipchamp is an in-browser video creation and editing experience founded in 2013 with a mission to empower anyone to tell stories worth sharing."
+        },
+        {
+            "headline": "The content you care about, simplified and reinvented. Introducing Microsoft Start",
+            "content": "Start with personalized news and premium content from your preferred publishers. Microsoft Start builds on Microsoft's legacy with online and mobile consumer..."
+        },
+        {
+            "headline": "Microsoft launches a personalized news service, Microsoft Start",
+            "content": "Microsoft today is introducing its own personalized news reading experience called Microsoft Start, available as both a website and mobile app, in."
+        },
+        {
+            "headline": "Could This Be The Next Apple Or Microsoft? How This Little-Known $15 Billion-Dollar Company Is Coding Life And Bringing DNA Into The Digital Age",
+            "content": "Ginkgo Bioworks is applying the same principles of computer programming that Microsoft and Apple use to synthetic biology."
+        },
+        {
+            "headline": "Microsoft embraces obsolescence by design with Windows 11",
+            "content": "When writing about obsolescence by design, this engineer has historically called out Apple as a primary culprit and, conversely, regularly praised Microsoft..."
+        },
+        {
+            "headline": "Microsoft Start Serves Up a Personalized News Feed",
+            "content": "Microsoft Start doesn't seem drastically different from the already-available Microsoft News, which it will replace, but it will deliver news, weather,..."
+        },
+        {
+            "headline": "Microsoft rolls out personalized news feed",
+            "content": "Microsoft Corp on Tuesday rolled out a personalized news feed called Microsoft Start, which will be available both as a website and a mobile app."
+        },
+        {
+            "headline": "Microsoft Start gives you a personalized news feed. Here's how to use it",
+            "content": "How to set up Microsoft Start to personalize your news feed · 1. Go to microsoftstart.com, and click Personalize in the top right corner. · 2. Under Discover..."
+        },
+        {
+            "headline": "Microsoft acquires Australia-based video creation platform Clipchamp, a startup with Seattle backing",
+            "content": "Microsoft is acquiring Clipchamp, a Brisbane, Australia-based startup that makes a video creation and editing platform, the companies announced Tuesday."
+        },
+        {
+            "headline": "Microsoft acquires video-editing software start-up Clipchamp",
+            "content": "Microsoft acquires video-editing software start-up Clipchamp · Microsoft is buying Clipchamp, whose video-editing app has over 17 million registered users."
+        }
+    ],
+    "20210908": [
+        {
+            "headline": "73%: The Hybrid Work Paradox",
+            "content": "73% of people say they want flexible remote work options. Nearly the same percentage want to be in-person with colleagues. WorkLab's podcast explores this..."
+        },
+        {
+            "headline": "Microsoft to lease 50K sf office at under-construction Brickell tower",
+            "content": "Microsoft inked a 50000-square-foot lease for its regional headquarters at Vlad Doronin and Cain International's 830 Brickell in Greater Downtown Miami."
+        },
+        {
+            "headline": "Microsoft has a $20 billion hacking plan, but cybersecurity has a big spending problem",
+            "content": "Microsoft president Brad Smith is focused on spending more as a way to deal with cybersecurity's big spending problem."
+        },
+        {
+            "headline": "Former Microsoft corporate vice president Phil Sorgen joins Tola Capital as venture partner",
+            "content": "Phil Sorgen, a former Microsoft corporate vice president who was most recently chief revenue officer at RingCentral, is joining Seattle-area investment."
+        },
+        {
+            "headline": "Google and Microsoft are creating a monopoly on coding in plain language",
+            "content": "CodeNet is an attempt to do for Artifical Intelligence (AI) coding what ImageNet did for computer vision: it is a dataset of over 14 million code samples."
+        },
+        {
+            "headline": "Zoom’s Five9 contact center certified for Microsoft Teams",
+            "content": "There is never a dull moment in the UC and collaboration world. This week, Five9 Cloud Contact Center was officially added to the Microsoft Teams certified..."
+        },
+        {
+            "headline": "Amazon and Microsoft picked up $50m in US military drone surveillance contracts, following Google dropping Project Maven",
+            "content": "Amazon and Microsoft picked up $50m in US military drone surveillance contracts, following Google dropping Project Maven ... Amazon and Microsoft quietly took..."
+        },
+        {
+            "headline": "Project Maven: Amazon And Microsoft Scored $50 Million In Pentagon Surveillance Contracts After Google Quit",
+            "content": "Amazon and Microsoft quietly took on Department of Defense contracts worth $50 million to help the military identify objects from drone and other aerial..."
+        },
+        {
+            "headline": "Microsoft acquires video creation and editing software maker Clipchamp",
+            "content": "Microsoft announced it's acquiring Clipchamp, a company offering web-based video creation and editing software that allows anyone to put together video..."
+        },
+        {
+            "headline": "Microsoft to Open Latin American Operations at Miami’s 830 Brickell",
+            "content": "The tech giant signed a long-term lease at 830 Brickell for approximately 50000 square feet to open an office by \"mid-2023.\""
+        }
+    ],
+    "20210909": [
+        {
+            "headline": "To Thrive in Hybrid Work, Build a Culture of Trust and Flexibility",
+            "content": "Microsoft employee survey data shows the importance of embracing different work styles—and the power of simple conversations. September 9, 2021. Illustration by..."
+        },
+        {
+            "headline": "Announcing Windows 11 Insider Preview Build 22454",
+            "content": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 22454 to the Dev Channel."
+        },
+        {
+            "headline": "Study of Microsoft employees shows how remote work puts productivity and innovation at risk",
+            "content": "A new study finds that Microsoft's companywide shift to remote work has hurt communication and collaboration among different business groups inside the."
+        },
+        {
+            "headline": "Microsoft Expands in Miami with 50,000 SF Lease",
+            "content": "The firm will occupy a stand-alone class-A office tower in the Brickell Financial District."
+        },
+        {
+            "headline": "The effects of remote work on collaboration among information workers",
+            "content": "The coronavirus disease 2019 (COVID-19) pandemic caused a rapid shift to full-time remote work for many information workers. Viewing this shift as a natural..."
+        },
+        {
+            "headline": "Microsoft and LinkedIn share latest data and innovation for hybrid work",
+            "content": "Here I'll share more about the trends we're seeing, the data behind them and the product updates we're announcing today across Microsoft Teams, Microsoft Viva..."
+        },
+        {
+            "headline": "Microsoft confirms investment in India’s Oyo in a multiyear strategic deal to co-develop travel and hospitality products",
+            "content": "Microsoft has entered a multi-year strategic alliance with Oyo to work with the Indian startup to co-develop next-generation travel and hospitality products..."
+        },
+        {
+            "headline": "Microsoft to take site-by-site approach to U.S. office reopening",
+            "content": "Microsoft Corp said on Thursday it will no longer target a specific date for reopening all of its U.S. offices and instead will reopen each site based on..."
+        },
+        {
+            "headline": "Microsoft Delays Full Headquarters Reopening to Undetermined Future Date",
+            "content": "Microsoft in August said it was delaying the full reopening of its US offices from possibly September to at least Oct. 4 because of fluid conditions around the..."
+        },
+        {
+            "headline": "Fresh Advice: Microsoft software and other SCAD deals",
+            "content": "Microsoft Office 365 is offered to SCAD students for free along with other programs. Obtaining the license is easy and only takes a few minutes. Log in to..."
+        }
+    ],
+    "20210910": [
+        {
+            "headline": "Environmental Sustainability Research",
+            "content": "In the Environmental Sustainability Research group, we work on research projects that push the state of the art in economics, science, and engineering to..."
+        },
+        {
+            "headline": "Microsoft combines federal team with Azure cloud unit",
+            "content": "Microsoft combines federal team with Azure cloud unit. Chief Commercial Officer Judson Althoff announced the plans Wednesday in an internal email, pointing to..."
+        },
+        {
+            "headline": "Microsoft acquires TakeLessons, an online and in-person tutoring platform, to ramp up its edtech play",
+            "content": "The company has acquired TakeLessons, a platform for students to connect with individual tutors in areas like music lessons, language learning, academic..."
+        },
+        {
+            "headline": "Microsoft acquires learning marketplace start-up TakeLessons",
+            "content": "Microsoft has acquired TakeLessons, a start-up with a website where people book paid online and in-person classes on a variety of subjects, a Microsoft..."
+        },
+        {
+            "headline": "Microsoft is not reopening its campus or offices anytime soon",
+            "content": "Microsoft may have made plans to reopen its Redmond offices and other offices across the world, but COVID-19 was busy making new variants that aren't without..."
+        },
+        {
+            "headline": "Microsoft Steps into the CarPlay App Ecosystem with a Highly Anticipated Launch",
+            "content": "The Redmond-based software giant has finally announced that it's bringing CarPlay integration in Microsoft Teams later this month."
+        },
+        {
+            "headline": "Microsoft announces general availability of zone-redundant storage for Azure Disk Storage",
+            "content": "The new capability allows for synchronous replication of block storage across three zones in any given region, and is supported for Premium and Standard SSDs."
+        },
+        {
+            "headline": "Fixing Microsoft 365 Problems the Easy Way",
+            "content": "An automated troubleshooting tool that can diagnose and possibly even automatically correct problems with Office, Microsoft 365, Outlook and more."
+        },
+        {
+            "headline": "Microsoft Advertising Search Ads Get Disclaimers, Tests Video Ads & More",
+            "content": "Disclaimers can now show in your ads, also there are new inline appeals for product ads and vertical-based product ads, plus the company is piloting video ads."
+        },
+        {
+            "headline": "Windows 11 explained: Everything you need to know",
+            "content": "Microsoft will make Windows 11 generally available on Oct. 5. This is the latest version of the tech giant's operating system. Microsoft said Windows 11..."
+        }
+    ],
+    "20210911": [
+        {
+            "headline": "Crowded Xbox Infographic Includes All Microsoft First-Party Studios",
+            "content": "An infographic has been released showing all of the first-party studios Microsoft has under its belt right now. Microsoft is always looking for ways to add..."
+        },
+        {
+            "headline": "7 Top Features That Will Make You Want to Use Microsoft Edge on Android",
+            "content": "Edge is much faster and smoother when compared to the previous release on Chromium 77. So now you can browse without any lag, and do more, and faster too."
+        },
+        {
+            "headline": "Here's How To Install Windows 11 Without An Internet Connection",
+            "content": "Microsoft may eventually shut down this method as well, but at least you're still not currently forced into using an internet-connected device for the setup..."
+        }
+    ],
+    "20210912": [
+        {
+            "headline": "What Is OneDrive and How Does It Work?",
+            "content": "OneDrive is a cloud storage service from Microsoft. It comes with the Microsoft 365 suite of software, or you can get a free standalone account."
+        },
+        {
+            "headline": "Hands on with Microsoft’s new Photos app for Windows 11",
+            "content": "Microsoft Photos app is getting a major facelift with WinUI and Fluent Design, and it is now available for some testers."
+        }
+    ],
+    "20210913": [
+        {
+            "headline": "Microsoft expands computer science education program to Juarez, Mexico, and expands reach across 18 U.S. cities to improve high school students’ access and equity",
+            "content": "Microsoft expands computer science education program to Juarez, Mexico, and expands reach across 18 US cities to improve high school students' access and..."
+        },
+        {
+            "headline": "Microsoft to Open Regional Hub, Latin American Offices in Miami",
+            "content": "Microsoft is coming to Miami. The new regional hub opening in 2023 will serve as headquarters for Microsoft Latin America. See the VP's official..."
+        },
+        {
+            "headline": "Microsoft Fund M12 Invests in Definely",
+            "content": "M12's involvement is clearly significant because the fund belongs to Microsoft – the world's most popular document format – and Definely is a document editor."
+        },
+        {
+            "headline": "Coming to Microsoft Teams: Hit 'ctrl spacebar' to speak",
+            "content": "Microsoft said it's currently developing a feature in its Teams product to allow people to hit \"ctrl spacebar\" to speak, according to its' Microsoft 365..."
+        },
+        {
+            "headline": "Hornetsecurity launches security and data loss prevention solution for Microsoft 365",
+            "content": "Hornetsecurity released a new solution to provide Microsoft 365 business users with the security and data loss prevention they require."
+        },
+        {
+            "headline": "Mozilla beats Microsoft at its own game, fixes Windows 10 default browser settings",
+            "content": "The latest version of Firefox allows you to set it as your default browser from directly within the app. This is quicker than having to jump through Windows..."
+        },
+        {
+            "headline": "Fake It Till You Make It: Face Analysis In The Wild Using Synthetic Data Alone [Video]",
+            "content": "We demonstrate that it is possible to perform face-related computer vision in the wild using synthetic data alone."
+        },
+        {
+            "headline": "How to Hide or Show Extensions on the Microsoft Edge Toolbar",
+            "content": "Right-click on the extension icon that you want to hide. Right-clicking on the extension icon reveals a drop-down menu. Select \"Hide From Toolbar\" from the..."
+        },
+        {
+            "headline": "Microsoft tipped to unveil five Surface products on September 22 with high refresh rate displays and Thunderbolt ports inbound",
+            "content": "Microsoft's September 22 event is expected to be packed with new Surface hardware, from the Surface Book 4, to the Surface Duo 2 and the Surface Go 3."
+        },
+        {
+            "headline": "Microsoft and Facebook keep Reston Town Center plans despite return-to-office delays",
+            "content": "Like many of their counterparts across the technology industry, Microsoft and Facebook workers won't be returning to cubicles any time soon,..."
+        }
+    ],
+    "20210914": [
+        {
+            "headline": "Microsoft launching tech resilience curriculum to foster a more inclusive future",
+            "content": "We're excited to announce the Growth and Resilience in Tech toolkit, which includes nine new learn modules available for free on Microsoft Learn."
+        },
+        {
+            "headline": "Microsoft’s new campus will run on geothermal energy - but what exactly is it and can it really help combat climate change?",
+            "content": "Victoria Masterson · Microsoft is using the Earth's geothermal energy to power its new sustainable campus in the US. · This will reduce Microsoft's energy use..."
+        },
+        {
+            "headline": "Microsoft (MSFT) Acquires Edtech Platform TakeLessons",
+            "content": "Already a major player in educational technology, Microsoft (MSFT) boosted its standing by acquiring learning marketplace TakeLessons."
+        },
+        {
+            "headline": "Microsoft remote work study: Average length of workweek has increased 10% during pandemic",
+            "content": "The length of the average workweek inside the company increased by about 10% after the shift to remote work."
+        },
+        {
+            "headline": "I hate the new Windows 11 taskbar",
+            "content": "Microsoft's new Windows 11 taskbar is a giant step back. Missing functionality includes no time and date on multiple monitors, no way to resize the taskbar,..."
+        },
+        {
+            "headline": "Microsoft Patches Actively Exploited Windows Zero-Day Bug",
+            "content": "Microsoft released patches for 66 CVEs, three of which are rated critical, and one of which – the Windows MSHTML zero-day – has been under active attack for..."
+        },
+        {
+            "headline": "Perforce Named 2021 Microsoft US Partner Award Winner",
+            "content": "The Microsoft US (MSUS) Partner Award recognizes OpenLogic by Perforce, and its multi-product open source offerings for its high number of sales."
+        },
+        {
+            "headline": "Microsoft to buy back up to $60 bln in shares; names Brad Smith vice chair",
+            "content": "Microsoft Corp on Tuesday said it will conduct an up to $60 billion share buyback program, raise its quarterly dividend by 11%, and appoint company..."
+        },
+        {
+            "headline": "What Is OneDrive?",
+            "content": "OneDrive is an internet-based storage platform with a significant chunk of space offered for free by Microsoft to anyone with a Microsoft account."
+        },
+        {
+            "headline": "Deepfake-foiling startup gets $26M led by Microsoft",
+            "content": "Deepfake-foiling startup gets $26M led by Microsoft · Adobe, Hearst Ventures and the Sony Innovation Fund are also investing, as are individuals from Stone..."
+        }
+    ],
+    "20210915": [
+        {
+            "headline": "The passwordless future with Microsoft | Microsoft Security Blog",
+            "content": "You can now completely remove the password from your Microsoft account. Use the Microsoft Authenticator app, Windows Hello, a security key, or a verification..."
+        },
+        {
+            "headline": "Microsoft announces passwordless future – available across Microsoft Edge and Microsoft 365 apps",
+            "content": "Now you can remove the password from your Microsoft account and sign in using passwordless methods like Windows Hello, the Microsoft Authenticator mobile app."
+        },
+        {
+            "headline": "Wells Fargo Announces New Digital Infrastructure Strategy and Strategic Partnerships With Microsoft, Google Cloud",
+            "content": "Wells Fargo Company (NYSE: WFC) announced today its new digital infrastructure strategy, combining a multi-cloud approach with third-party data centers to..."
+        },
+        {
+            "headline": "Microsoft Innovative Educator Expert Program",
+            "content": "D. is the Director of Instructional Technology and an Associate Professor at MUSC. She is passionate about innovation in delivery of education with and through..."
+        },
+        {
+            "headline": "11 power players leading artificial intelligence at Microsoft, helping guide CEO Satya Nadella's grand pivot to AI",
+            "content": "11 power players leading artificial intelligence at Microsoft, helping guide CEO Satya Nadella's grand pivot to AI."
+        },
+        {
+            "headline": "Microsoft Accounts No Longer Require a Password",
+            "content": "Microsoft Accounts No Longer Require a Password. The Microsoft Authenticator app, Windows Hello, a security key, or verification code can be used instead."
+        },
+        {
+            "headline": "Wells Fargo Embraces Multicloud With Microsoft, Google Deals",
+            "content": "Wells Fargo plans to use Microsoft's Azure as its primary public cloud provider, with Google Cloud providing “business-critical” services including those..."
+        },
+        {
+            "headline": "Microsoft in standoff with Amazon over big hire, names Charlie Bell to lead 'bold' new security group",
+            "content": "Microsoft confirmed that it has hired longtime Amazon Web Services leader Charlie Bell to lead a newly formed engineering organization to address."
+        },
+        {
+            "headline": "Microsoft 365 vs Google Workspace: Which productivity suite is best for your business?",
+            "content": "Here's a look at the many different editions of Microsoft 365 and Google Workspace, along with what you can expect to pay for each one."
+        },
+        {
+            "headline": "Microsoft rolls out passwordless login for all Microsoft accounts",
+            "content": "Microsoft is rolling out passwordless login support over the coming weeks, allowing customers to sign in to Microsoft accounts without using a password."
+        }
+    ],
+    "20210916": [
+        {
+            "headline": "Office LTSC is now generally available",
+            "content": "We're announcing the general availability of this next perpetual version of Office for commercial and government customers."
+        },
+        {
+            "headline": "Redesigned Photos app for Windows 11 begins rolling out to Windows Insiders",
+            "content": "The Photos app has been redesigned to align with the new visual design of Windows 11. This includes rounded corners and Mica material across the app."
+        },
+        {
+            "headline": "Carpenters' union halts work on Amazon, Microsoft, Google and Facebook expansions in Seattle area",
+            "content": "At 6 a.m. Thursday, 2,000 Northwest Carpenter Union members walked off the job and began picketing at four major job sites, including Microsoft expansions in..."
+        },
+        {
+            "headline": "Microsoft (MSFT) Board Approves $60B Share Repurchase Program",
+            "content": "Microsoft's (MSFT) share buyback program has no timetable and comes on the heels of a Democrat-led bill to impose a 2% excise tax on buybacks."
+        },
+        {
+            "headline": "Microsoft Overtakes Apple to Become World’s Most Intangible Company",
+            "content": "This year's number one company in terms of total estimated intangible value is Microsoft (US$1.90 trillion), which has jumped from 4th position in 2020 to..."
+        },
+        {
+            "headline": "Microsoft: Windows MSHTML bug now exploited by ransomware gangs",
+            "content": "Microsoft says multiple threat actors, including ransomware affiliates, are targeting the recently patched Windows MSHTML remote code execution security..."
+        },
+        {
+            "headline": "Microsoft Family Safety Review",
+            "content": "Microsoft Family Safety is free and includes location tracking, web filtering, app blocking, and usage scheduling for up to six family members under a single..."
+        },
+        {
+            "headline": "Microsoft makes its non-subscription Office LTSC release available for Windows, Mac",
+            "content": "Microsoft's new Office Long Term Servicing Channel (LTSC) release, which doesn't require a subscription but includes a subset of the features in Microsoft..."
+        },
+        {
+            "headline": "Amazon, Microsoft Swoop In on $24 Billion India Farm-Data Trove",
+            "content": "Prime Minister Modi is enlisting tech giants to help boost agricultural output. The move risks sparking a fresh round of tensions with farmers."
+        },
+        {
+            "headline": "Microsoft Office 2021 confirmed to release same day as Windows 11",
+            "content": "Windows 11 won't be the only big Microsoft software release in October -- Microsoft will release a new standalone version of Office the same day as Windows..."
+        }
+    ],
+    "20210917": [
+        {
+            "headline": "Vijay Mital",
+            "content": "Vijay Mital is CVP and Chief Advisor for AI Transformations at Microsoft Research. He advises senior leaders on GenAI-led product, process and…"
+        },
+        {
+            "headline": "OMIGOD! Microsoft secretly installed an open source agent with critical vulnerabilities on thousands of Linux VMs",
+            "content": "Microsoft has now released patches for critical vulnerabilities in its Open Management Infrastructure (OMI) software agent which had been silently installed on..."
+        },
+        {
+            "headline": "Microsoft allowed to resume Hollands Kroon data center building work ‘at own risk’",
+            "content": "However, the authorization is granted 'in anticipation of the final permit,' reportedly expected to be granted in the short term, meaning Microsoft may start..."
+        },
+        {
+            "headline": "Microsoft Just Released Its Slick New Photos App to Windows 11 Insiders",
+            "content": "Microsoft's revamp takes the basic Photos app from barebones to beautiful."
+        },
+        {
+            "headline": "Microsoft asks Azure Linux admins to manually patch OMIGOD bugs",
+            "content": "Manual updates required for existing Azure VMs · Add the MSRepo to your system. · You can then use your platform's package tool to upgrade OMI (for example,..."
+        },
+        {
+            "headline": "Microsoft Announces Milestones for 'Perpetual' Office Products",
+            "content": "Office 2021 for Windows, commonly thought of as the retail \"boxed\" product, will reach general availability on Oct. 5, the same day as Windows 11."
+        },
+        {
+            "headline": "Ex-Microsoft CEO Steve Ballmer touts Clippers' new arena, hopes to build 'more of our own identity'",
+            "content": "Steve Ballmer, the former Microsoft CEO-turned-NBA team owner, broke ground on the Los Angeles Clippers' new arena on Friday, officially starting the..."
+        },
+        {
+            "headline": "PowerToys now listed in Windows 11 Microsoft Store",
+            "content": "Microsoft added PowerToys to the Windows 11 Microsoft Store. With its addition to the store, the app should be easier to find for everyday PC users."
+        },
+        {
+            "headline": "Microsoft Gets Rid Of Passwords: I Can Almost Hear Angels Singing",
+            "content": "Passwords are the dumbest cybersecurity practice, so congratulations to Microsoft for a long overdue policy change. Will others follow?"
+        },
+        {
+            "headline": "10 Reasons to Use Microsoft Dynamics 365 as Your CRM",
+            "content": "10 Reasons to Use Microsoft Dynamics 365 as Your CRM · 1. Seamless Integrations · 2. Actionable Insights · 3. Automate Your Processes · 4. Do Business Anywhere."
+        }
+    ],
+    "20210918": [
+        {
+            "headline": "How to Delete Files and Folders in Microsoft OneDrive",
+            "content": "To delete files and folders from your OneDrive, open a browser on your PC, go to the OneDrive website, and then log in to your account."
+        },
+        {
+            "headline": "How to Add Text to PDF Files Using Microsoft Edge",
+            "content": "Steps to Add Text to PDF Files in Microsoft Edge. 1. Open a PDF file in Edge and look for the new 'Add text' button in the top toolbar. You can also right-click..."
+        },
+        {
+            "headline": "Microsoft Flight Simulator Updated to Version 1.19.9.0 with New Hotfix",
+            "content": "A brand new hotfix for Microsoft Flight Simulator has been released, bringing the platform to version 1.19.9.0. The new version fixes a number of issues,"
+        },
+        {
+            "headline": "How to enable Passwordless login for Microsoft account",
+            "content": "Step 1: Sign in to your Microsoft account and once you are logged in, click on the “Security” option from the top bar."
+        },
+        {
+            "headline": "How To Delete a Page in Microsoft Word",
+            "content": "Here are the steps to delete a page in Word: Select an empty space on a page. Select the Home tab and select Find. Select Go To."
+        },
+        {
+            "headline": "How to change the Windows 11 display language",
+            "content": "Microsoft's Windows 11 operating system supports dozens of interface languages. The operating system comes with a specific interface language installed,..."
+        }
+    ],
+    "20210919": [
+        {
+            "headline": "Further, faster, together: Microsoft donates $100 million to Breakthrough Energy Catalyst to accelerate and scale climate tech",
+            "content": "Microsoft is taking on a third role, as a donor, by announcing a $100 million grant to Breakthrough Energy Catalyst to further accelerate the development of..."
+        },
+        {
+            "headline": "Here's how to boot Microsoft's own Linux distribution: CBL-Mariner",
+            "content": "CBL-Mariner is an internal Linux distribution for Microsoft's cloud infrastructure and edge products and services."
+        },
+        {
+            "headline": "Why Microsoft’s Steven Worrall runs analytics on his diary",
+            "content": "Steven Worrall, MD of Microsoft in Australia and New Zealand, conducts an audit of his diary every quarter - and never has more than two cups of coffee a..."
+        },
+        {
+            "headline": "How to Change Capitalization or Letter Case in Microsoft Word",
+            "content": "You can stop manually changing your text if you want to adjust the capitalization. We'll show you how to easily change letter case in Word."
+        },
+        {
+            "headline": "Microsoft’s next-gen Android phone Surface Duo 2 clears FCC",
+            "content": "The Surface Duo has arrived at the FCC and the certification has confirmed support for 5G and NFC. The device is labelled as “Microsoft Portable Device”."
+        }
+    ],
+    "20210920": [
+        {
+            "headline": "Customer journey orchestration: The next frontier of connected experiences",
+            "content": "Customer journey orchestration in Microsoft Dynamics 365 Marketing delivers an individualized, end-to-end experience to every customer, across all touchpoints—..."
+        },
+        {
+            "headline": "Microsoft Takes First Steps To Finally Kill The Password",
+            "content": "In a blog post last week, Vasu Jakkal, Corporate Vice President for Security, Compliance and Identity for Microsoft, published a blog post announcing that..."
+        },
+        {
+            "headline": "New Microsoft Study of 60,000 Employees: Remote Work Threatens Long-Term Innovation",
+            "content": "A massive new peer-reviewed study from Microsoft that found that, while remote work is fine for plowing through day-to-day work, it has the potential to put a..."
+        },
+        {
+            "headline": "Microsoft’s Surface Pro 8 specs and price just leaked at the last minute",
+            "content": "The Surface Pro 8 specs and price leaked ahead of the September 22nd press conference where Microsoft will unveil new Surface hardware."
+        },
+        {
+            "headline": "Kennesaw State students partner with Microsoft, BlackRock and Wellstar in Hackathon event",
+            "content": "Kennesaw State University students were given the opportunity to race against the clock and work with major companies to solve industry-related issues at the..."
+        },
+        {
+            "headline": "Microsoft 365: Everything you need to know about the new productivity subscription",
+            "content": "The new Microsoft 365 subscription for individuals and families brings with it new AI-powered features and benefits inside Microsoft Office."
+        },
+        {
+            "headline": "The Samsung Galaxy Z Fold 3 is the Microsoft Surface Mini I always wanted",
+            "content": "Your Phone: The Samsung Galaxy Z Fold 3 brings Android apps to your PC. When Microsoft and Samsung first announced their partnership, it was about Your Phone..."
+        },
+        {
+            "headline": "Surface Pro 8 specs just tipped ahead of Microsoft event",
+            "content": "A new Twitter post revealed a claimed retail listing for what could be the Microsoft Surface Pro 8 tablet, with a 120Hz display and Thunderbolt ports."
+        },
+        {
+            "headline": "Microsoft releases new perpetual Office for enterprise",
+            "content": "Microsoft last week announced the availability of the next edition of perpetual-license Office for commercial and government customers."
+        },
+        {
+            "headline": "Wells Fargo banks on the public cloud with Google, Microsoft",
+            "content": "Wells Fargo has announced partnerships with Microsoft and Google that bring its digital infrastructure to the public cloud."
+        }
+    ],
+    "20210921": [
+        {
+            "headline": "Catching the big fish: Analyzing a large-scale phishing-as-a-service operation",
+            "content": "A large-scale phishing-as-a-service operation called BulletProofLink, which sells phishing kits, email templates, hosting, and automated services at a..."
+        },
+        {
+            "headline": "Microsoft uncovers giant Phishing-as-a-Service operation",
+            "content": "Known as BulletProofLink, BulletProftLink, or Anthrax, the service is currently advertised on underground cybercrime forums. The service is an evolution on \"..."
+        },
+        {
+            "headline": "HP’s new Windows 11 devices provide wide range of choices for a hybrid world",
+            "content": "HP's newest Windows 11 devices are designed for people who learn, play and work from home, at the office and on the go."
+        },
+        {
+            "headline": "Windows 11 won’t stop older PCs, but it might make you sign this waiver",
+            "content": "Microsoft has officially reinstated its PC Health Check app for anyone to download, letting you easily see whether your computer is ready for Windows 11..."
+        },
+        {
+            "headline": "Working with the Microsoft Defender for Identity portal",
+            "content": "Through the Microsoft Defender for Identity portal, organizations can identify and investigate suspicious user activities and advanced attacks."
+        },
+        {
+            "headline": "Microsoft Releases PowerShell Script To Check Windows 11 Upgrade Readiness",
+            "content": "To determine whether an individual device meets the system requirements for Windows 11, you can run the script locally from an elevated PowerShell prompt. To..."
+        },
+        {
+            "headline": "How Students and Teachers Can Get Microsoft Office for Free",
+            "content": "The free Microsoft Office account for students and teachers includes the latest available desktop versions of Word, Excel, PowerPoint, OneNote, Access, and..."
+        },
+        {
+            "headline": "Facebook Portal support for Microsoft Teams coming December 2021 -...",
+            "content": "Today Facebook announced the Portal Go, a battery-powered 10-inch portal smart screen as well as a new version of the Portal+, with a 14-inch tiltable..."
+        },
+        {
+            "headline": "Microsoft Removes Some of Windows 11's Cruft With App 'Stubs,' Optional Drivers",
+            "content": "Windows 11 would restrict some apps, such as Sticky Notes, to mere \"stubs\" by default. That means the program isn't truly pre-installed on the operating system."
+        },
+        {
+            "headline": "Hard Work Isn’t the Point of the Office",
+            "content": "The pandemic disrupted soft work—the gossip, eavesdropping, and casual relationship-building that aren't a formal part of your job..."
+        }
+    ],
+    "20210922": [
+        {
+            "headline": "Introducing new Surface products, built for Windows 11",
+            "content": "We are revealing the largest update to the Surface portfolio in its history. With PixelSense displays, new pen technology, premium mics and cameras."
+        },
+        {
+            "headline": "Microsoft utilizes Power Platform to automate a leadership training program",
+            "content": "This article describes how management of the program was transformed to save time, and holistically track and monitor the program and drive actionable insights."
+        },
+        {
+            "headline": "Microsoft announces Surface Pro 8 with bigger 13-inch 120Hz display and Thunderbolt",
+            "content": "Microsoft has announced the Surface Pro 8. It's the Surface Pro we've been waiting years for, with a bigger 13-inch 120Hz display, Thunderbolt 4, and much..."
+        },
+        {
+            "headline": "Here’s how to pre-order the Microsoft Surface Laptop Studio, Duo 2 and other devices",
+            "content": "Microsoft is coming out with a bevy of new Surface devices. Here's how to pre-order them."
+        },
+        {
+            "headline": "Microsoft unveils Surface Laptop Studio and Surface Duo 2 in buildup to Windows 11 launch",
+            "content": "It uses what Microsoft calls a Dynamic Woven Hinge to transition smoothly between modes, continuing the company's efforts to innovate in hinges to let devices..."
+        },
+        {
+            "headline": "Microsoft Surface Go 3 gets a new engine for Windows 11, starts at $400",
+            "content": "The most portable Surface is still tuned for work and school basics."
+        },
+        {
+            "headline": "Chuwi Hi13 Review: A $369 hybrid notebook that might outshine Microsoft’s Surface Book",
+            "content": "Later this month, Chuwi is set to reveal its Lapbook 12.3, which will pack similar internals to the Hi13 but bump up the memory to 6 GB, and an extremely sharp..."
+        },
+        {
+            "headline": "Microsoft and an Army of Tiny Telecoms Are Part of a Plan to Wire Rural America",
+            "content": "With help from Washington, the 120 million Americans without high-speed internet access have their best shot in a generation at getting it—so long as..."
+        },
+        {
+            "headline": "Microsoft Warns of a Wide-Scale Phishing-as-a-Service Operation",
+            "content": "Microsoft is warning the public of a massive phishing-as-a-Service operation, called BulletProofLink."
+        },
+        {
+            "headline": "Microsoft unveils Surface Laptop Studio, Surface Pro 8, Surface Duo 2",
+            "content": "On Wednesday, Microsoft showed off its new lineup of Surface computers — the Surface Laptop Studio starting at $1599, the updated Surface Pro 8 starting at..."
+        }
+    ],
+    "20210923": [
+        {
+            "headline": "Agriculture and food",
+            "content": "Microsoft will take a combined research + engineering approach to help this important industry meet challenges in this industry. We will build differentiated..."
+        },
+        {
+            "headline": "Our top new features are designed to put your family first",
+            "content": "We're excited to introduce new features to help you save time and money so you can focus on what matters most to you and your family."
+        },
+        {
+            "headline": "IOM-Microsoft Collaboration Enables Release of Largest Public Dataset to Bolster Fight Against Human Trafficking",
+            "content": "Geneva/New York – The International Organization for Migration (IOM) today released a new synthetic dataset on human trafficking, made possible by..."
+        },
+        {
+            "headline": "Espionage group targeted hotels, governments, seized on Microsoft Exchange vulnerability",
+            "content": "Espionage group targeted hotels, governments, seized on Microsoft Exchange vulnerability. ESET said it discovered the group, which has been active since 2019."
+        },
+        {
+            "headline": "Why Google, Facebook, & Microsoft Were Born On College Campuses",
+            "content": "Student-Founders have 12 unique advantages that position them early on for startup success, that other Founders don't have."
+        },
+        {
+            "headline": "Custodia Technology Partners With Microsoft and Launches Compliance Cloud One on Microsoft Azure Marketplace to Guarantee Compliance Expertise and Exceed Regulatory Standards",
+            "content": "Custodia Technology announces its global cloud recording software solution Compliance Cloud One is now available on the Microsoft Azure Marketplace."
+        },
+        {
+            "headline": "Microsoft brings Thunderbolt to Surface computers",
+            "content": "The Surface Laptop Studio and Surface Pro 8, introduced on Wednesday, are the first Microsoft laptops with a Thunderbolt port."
+        },
+        {
+            "headline": "Microsoft gains planning approval for Ginger East data center project in Des Moines, Iowa",
+            "content": "The first phase of the Ginger East project (also known as DSM 14), which sits on a 146-acre plot east of Veterans Parkway at SE Maffitt Lake Road, will..."
+        },
+        {
+            "headline": "A New Bug in Microsoft Windows Could Let Hackers Easily Install a Rootkit",
+            "content": "Researchers have disclosed an unpatched weakness in Microsoft Windows Platform Binary Table (WPBT) affecting all Windows-based devices since Windows 8."
+        },
+        {
+            "headline": "First Look: Microsoft Surface Laptop Studio Is a Powerful, Flippable 2-in-1 for Creators",
+            "content": "It's a convertible 14-inch machine for creative professionals, with a screen that pulls forward over the keyboard and reclines into tablet mode."
+        }
+    ],
+    "20210924": [
+        {
+            "headline": "Microsoft’s $1B Climate Innovation Fund",
+            "content": "Brandon Middaugh, the Director of Microsoft's $1B Climate Innovation Fund, comes on the show to explain. The fund invests in various climate technologies as a..."
+        },
+        {
+            "headline": "5 tips for using Microsoft’s To Do task-tracking app on Macs, iPhones and iPads",
+            "content": "To Do works best when you create groups to separate tasks into different projects and initiatives. Within each group, you should create multiple lists to..."
+        },
+        {
+            "headline": "Is Microsoft's Surface Studio 2 Still Worth Buying?",
+            "content": "The Studio 2 desktop PC was the Surface family member ripest for an update, but, surprisingly, it received no love at this week's Surface update."
+        },
+        {
+            "headline": "Microsoft Edge Comes to Xbox, Letting You Stream Stadia Games",
+            "content": "The console is getting the latest version of Microsoft Edge, which means you can play Stadia games, chat on Discord servers, and access Steam."
+        },
+        {
+            "headline": "How to use Microsoft Edge’s new tab groups feature",
+            "content": "Microsoft has officially announced Edge's new tab grouping feature, which arrived earlier this month with version 93 of the browser."
+        },
+        {
+            "headline": "The iPad Pro and Surface Pro are high-end tablets, but the latter excels as a true laptop replacement",
+            "content": "In a match-up between Apple iPad Pro vs Microsoft Surface Pro 7, the latter high-end tablet offers a true laptop-replacement experience."
+        },
+        {
+            "headline": "Microsoft, Sabic collaborate on Ocean Plastic Mouse",
+            "content": "During its Surface event on 22 September, Microsoft Corporation unveiled its first consumer electronic product incorporating recycled ocean-bound plastic:..."
+        },
+        {
+            "headline": "Microsoft and Roku are the latest tech companies to hunt for real estate in New York City",
+            "content": "Video-streaming company Roku is in talks to lease more than 100,000 square feet at 5 Times Square in Midtown, and Microsoft is close to a deal for roughly..."
+        },
+        {
+            "headline": "Your Xbox Now Runs Microsoft Word and Excel",
+            "content": "With the new version of Edge, lots of web-based tools and apps that wouldn't work on the browser before will now run perfectly. For example, you can run the web..."
+        },
+        {
+            "headline": "The Surface Duo’s two-year-old Android OS will be updated sometime this year",
+            "content": "Microsoft's rocky introduction to Android continues with worst-in-class update speed."
+        }
+    ],
+    "20210925": [
+        {
+            "headline": "What to expect in Windows 11: Former Microsoft PM Kevin Stratvert on the new upgrade",
+            "content": "We talk about the new Windows 11 user interface, overall performance improvements, the centered Start menu, Windows 11 Widgets, upgrades to the multiple..."
+        },
+        {
+            "headline": "Microsoft WPBT flaw lets hackers install rootkits on Windows devices",
+            "content": "Security researchers have found a flaw in the Microsoft Windows Platform Binary Table (WPBT) that could be exploited in easy attacks to install rootkits on..."
+        },
+        {
+            "headline": "Deathloop's Colt Vahn voice actor is getting a PS5 from Microsoft",
+            "content": "Microsoft is sending the voice of Deathloop's Colt Vahn, Jason Kelley, a PS5 so he can play the game."
+        },
+        {
+            "headline": "When the FBI seizes your messages from Big Tech, you may not know it for years",
+            "content": "Microsoft, Google, Facebook and other tech firms are pressing lawmakers to enact new rules to stop prosecutors from secretly snooping on private messages,..."
+        },
+        {
+            "headline": "Microsoft Surface Pro 7 vs Pro 8: What's the difference?",
+            "content": "From a physical standpoint the newer Surface Pro 8 is a tiny bit larger than its predecessor - although you'd barely notice, as it's a few millimetres (or..."
+        },
+        {
+            "headline": "Windows 11 will give you another reason to choose Android over iOS",
+            "content": "Microsoft has teased an update for Windows 11 that will contribute towards the company's ambition to create closer ties between its new operating system and..."
+        },
+        {
+            "headline": "Microsoft is sending the star of ‘Deathloop’ a PS5 so he can play the game",
+            "content": "The voice of 'Deathloop''s Colt Vahn didn't have a PlayStation 5, so Microsoft sent him one so he can play the game."
+        },
+        {
+            "headline": "Samsung Galaxy Z Fold 3 vs Microsoft Surface Duo: two different foldable ideas",
+            "content": "The Galaxy Z Fold 3 is a much squarer and thicker device than the 186.9 x 145.2 x 4.8mm Surface Duo. It's also a fair bit heavier at 271g versus 250g."
+        },
+        {
+            "headline": "How to fix Microsoft Teams Error Code CAA301F7",
+            "content": "1] Delete Microsoft Teams Credentials. Since it is a login error, the first thing need to do is to delete the Microsoft Teams Credentials and retry logging in."
+        }
+    ],
+    "20210926": [
+        {
+            "headline": "How to Go Passwordless on Your Microsoft Account",
+            "content": "If Microsoft has pushed out the feature to your account, you'll see a Passwordless account option underneath Additional security—turn this on, then click Next..."
+        },
+        {
+            "headline": "Compared: Microsoft's Surface Pro 8 vs 12.9-inch iPad Pro",
+            "content": "Surface Pro 8 vs 12.9-inch iPad Pro - Display. One of the reasons for the difference in width and length between the two tablets is Microsoft's insistence on..."
+        },
+        {
+            "headline": "Microsoft adds novel feature to Exchange servers to allow it to deploy emergency temporary fixes",
+            "content": "Microsoft will roll out tomorrow a new security feature for its Exchange email servers named the Emergency Mitigation (EM) service that can automatically..."
+        },
+        {
+            "headline": "A guide to breakout rooms in Microsoft Teams",
+            "content": "Microsoft Teams has introduced breakout room facilities, allowing organisers to divide meetings into sub-groups of up to 50, and to facilitate discussions and..."
+        },
+        {
+            "headline": "New Microsoft Edge Browser is Coming to Xbox Series X/S, One: Google Stadia Access, Discord Chat, and MORE",
+            "content": "The latest Chromium Edge Browser introduces an ample set of new features, including the capability to use Google Stadia gaming apps."
+        },
+        {
+            "headline": "Closer Look: Microsoft Teams integration in Windows 11",
+            "content": "Here's how it works. Closer Look: Microsoft Teams integration in Windows 11 Usama Jawad Neowin @UsamaJawad96 · Sep 26, 2021 13:00 EDT · Hot! with 35 comments"
+        },
+        {
+            "headline": "Deathloop Voice Actor Gets PS5 to Play The Game Thanks to Microsoft",
+            "content": "The ironic part is, of course, that it's Microsoft sending Kelley a PS5. Deathloop is developed by Arkane, which is a subsidiary of Bethesda, which is now owned..."
+        },
+        {
+            "headline": "Full ERP cloud solution - live with Microsoft Dynamics 365",
+            "content": "Partnering with the DXC Practice for Microsoft, the Group selected Microsoft Dynamics 365 to replace the existing ERP system."
+        },
+        {
+            "headline": "Hands on with Windows 11's new Settings and File Explorer",
+            "content": "Windows 11 is a big upgrade. It comes with a new Start Menu, Fluent Design elements, new inbox apps, rounded corners and more."
+        },
+        {
+            "headline": "Microsoft PowerPoint Crashing on iPad? Here is the fix",
+            "content": "Updating your PowerPoint app to the latest build may solve the crashing issue. Now find the PowerPoint app and click on Update (or you can select Update All)."
+        }
+    ],
+    "20210927": [
+        {
+            "headline": "FoggyWeb: Targeted NOBELIUM malware leads to persistent backdoor",
+            "content": "FoggyWeb: Backdoor targeting AD FS. FoggyWeb is a passive and highly targeted backdoor capable of remotely exfiltrating sensitive information from a compromised..."
+        },
+        {
+            "headline": "Microsoft CEO says failed TikTok deal 'strangest thing I've worked on'",
+            "content": "Microsoft Corp's near-acquisition of social media app TikTok last year was the \"strangest thing I've ever worked on,\" Chief Executive Officer Satya Nadella..."
+        },
+        {
+            "headline": "Private Equity Firm Invests In Microsoft Azure Partner Archive360 -",
+            "content": "Leeds Equity Partners invests in Archive360, a Microsoft Cloud Solution Provider that develops data archiving services on Microsoft Azure."
+        },
+        {
+            "headline": "Microsoft CEO Satya Nadella calls failed TikTok talks 'the strangest thing I've ever worked on'",
+            "content": "Microsoft CEO Satya Nadella offered new details about the company's unsuccessful attempt to acquire TikTok a year ago on Monday night at the Code."
+        },
+        {
+            "headline": "Avoiding Surface tension: Why Microsoft closed a Book to open a Studio",
+            "content": "Microsoft's scrapped its detachable to deliver a \"pull-forward\" convertible that produces less usage case overlap in the Surface product line and aligns its..."
+        },
+        {
+            "headline": "Trump pushing Microsoft to buy TikTok was ‘strangest thing I’ve ever worked on,’ says Satya Nadella",
+            "content": "Speaking at the Code Conference, Microsoft CEO Satya Nadella recalled the bizzare TikTok drama wherein he almost bought the company to appease the Trump..."
+        },
+        {
+            "headline": "Microsoft CEO Satya Nadella calls Trump-driven Tiktok deal 'strangest thing' he's ever worked on",
+            "content": "Microsoft's failed attempt to take over TikTok's U.S. assets last year was \"the strangest thing I've ever sort of worked on,\" CEO Satya Nadella said on..."
+        },
+        {
+            "headline": "Microsoft Teams update will eliminate a major distraction",
+            "content": "Microsoft is preparing a pair of upgrades for collaboration platform Teams that will help users customize their video feeds to better suit their needs."
+        },
+        {
+            "headline": "Understanding Microsoft Teams Operator Connect",
+            "content": "Operator Connect is another option, alongside Calling plans and Direct routing, for Public Switched Telephone Network (PSTN) connectivity with Teams Phone..."
+        },
+        {
+            "headline": "Microsoft among most-hated brands, according to Twitter comments",
+            "content": "According to a recent report by RAVE Reviews, Microsoft is one of the most-hated brands in the world."
+        }
+    ],
+    "20210928": [
+        {
+            "headline": "Microsoft Store: More apps, more open",
+            "content": "Microsoft Store: More apps, more open ... In June, we introduced the new Microsoft Store on Windows, redesigned from the ground up to meet the needs of customers..."
+        },
+        {
+            "headline": "The Great Reshuffle and how Microsoft Viva is helping reimagine the employee experience",
+            "content": "We are releasing new resources, research, and tools to help companies accelerate their employee experience (EX) strategies to meet the ever-changing needs of..."
+        },
+        {
+            "headline": "Microsoft says failed TikTok acquisition was 'strangest thing'",
+            "content": "Microsoft says failed TikTok acquisition was 'strangest thing' ... Microsoft chief executive Satya Nadella has described the proposed deal to buy TikTok, under..."
+        },
+        {
+            "headline": "International student earns Microsoft Specialist Certification",
+            "content": "Nari Jo, a first-year Biochemistry student at SUNY Fredonia, has earned a Microsoft Specialist Certification."
+        },
+        {
+            "headline": "Deutsche Telekom to offer new feature for Microsoft Teams telephony",
+            "content": "Deutsche Telekom to offer new feature for Microsoft Teams telephony: Operator Connect simplifies administration of phone numbers."
+        },
+        {
+            "headline": "CallMiner Combines Conversation Analytics Platform With Microsoft Azure Speech to Text",
+            "content": "CallMiner, a leading provider of conversation analytics to drive business improvement, today announced it is enabling organizations to use the power o."
+        },
+        {
+            "headline": "Compared: Microsoft Surface Go 3 vs iPad and iPad Air",
+            "content": "The Surface Go 3 is a reasonably comparable tablet to the iPads, in terms of size at least. The tablet measures 9.65 inches long and 6.9 inches wide."
+        },
+        {
+            "headline": "How to Tell if a Microsoft Security Warning is Legitimate",
+            "content": "First and foremost, if a security alert is displayed within a web browser, it is almost certainly fraudulent."
+        },
+        {
+            "headline": "Microsoft says Skype is \"here to stay\" with this major feature update",
+            "content": "Skype gets revamped with a modern look, faster performance, and possible Firefox support coming."
+        },
+        {
+            "headline": "Microsoft ditching passwords with Tulane professor Amanda Fennell for Tuesday, Sept. 28",
+            "content": "Microsoft ditching..."
+        }
+    ],
+    "20210929": [
+        {
+            "headline": "Microsoft’s million-tonne CO2-removal purchase — lessons for net zero",
+            "content": "Microsoft made a major announcement: it had paid for the removal of 1.3 million tonnes of carbon dioxide from the atmosphere."
+        },
+        {
+            "headline": "4 Microsoft 365 Tools That Help Officials Manage Priorities",
+            "content": "Here are four of the most effective Microsoft 365 tools readily available to help keep a handle on the day."
+        },
+        {
+            "headline": "Defend against zero-day exploits with Microsoft Defender Application Guard",
+            "content": "Isolation technology is the way forward to defend against zero-day exploits. Based on the Zero Trust principles of explicit verification, least privilege..."
+        },
+        {
+            "headline": "Health systems-backed Truveta lands investment from Microsoft, cloud partnership",
+            "content": "Healthcare data startup Truveta inked a deal with Microsoft to build a clinical data platform on the cloud."
+        },
+        {
+            "headline": "The options for running Microsoft 365 on a Chromebook",
+            "content": "1. Free version First, open a web browser and go to Office.com. Then, sign in with a Microsoft account or create one if necessary."
+        },
+        {
+            "headline": "Microsoft launches Availability Zones in Norway East Azure Cloud region",
+            "content": "Microsoft launches Availability Zones in Norway East Azure Cloud region ... Microsoft has launched Availability Zones in its Norway East Azure Cloud region in..."
+        },
+        {
+            "headline": "Seattle healthcare data startup Truveta lands investment from Microsoft and forms partnership",
+            "content": "Seattle-based Truveta will leverage Microsoft's Azure cloud platform to analyze health data under a new partnership with the software giant announced."
+        },
+        {
+            "headline": "Microsoft Surface Pro 7 vs. Pro 8: what’s the difference?",
+            "content": "The Surface Pro 8 is Microsoft's biggest upgrade in years. The excellent 2-in-1 touts Thunderbolt 4 support, a 120Hz display, a better camera, and a more..."
+        },
+        {
+            "headline": "Microsoft Allows Epic Games on Its App Store Without Fee",
+            "content": "Microsoft Allows Epic Games on Its App Store Without Fee ... Microsoft has decided to tack in the opposite direction as rival operating system maker Apple, and..."
+        },
+        {
+            "headline": "New Microsoft Store App Repository To Launch on Oct. 5",
+            "content": "New Microsoft Store App Repository To Launch on Oct. 5 ... Microsoft announced this week that its new Microsoft Store site will launch on Oct. 5, alongside new..."
+        }
+    ],
+    "20210930": [
+        {
+            "headline": "Support all learners with the new Microsoft 365 A1 for devices license",
+            "content": "The Microsoft 365 A1 for devices license costs $38 per device for up to six years, providing more for students and educators relative to competitive offerings..."
+        },
+        {
+            "headline": "Microsoft’s Saqib Shaikh, lead on Seeing AI, is returning to Sight Tech Global, Dec. 1-2",
+            "content": "Microsoft's Saqib Shaikh, lead on Seeing AI, is returning to Sight Tech Global, Dec. 1-2 ... At last year's inaugural Sight Tech Global event, a virtual event..."
+        },
+        {
+            "headline": "Microsoft to add new education-focused M365 A1 per-device subscription plan",
+            "content": "The M365 A1 per -device license, which will be available for purchase as of November 1, will cost $38 per device and be good for six years. Microsoft also has..."
+        },
+        {
+            "headline": "Microsoft Teams gets Phone features, Operator Connect service",
+            "content": "Microsoft Teams Phone now lets you easily transfer a call from desk to mobile, a move designed to make staying connected easier in a hybrid workplace."
+        },
+        {
+            "headline": "New Azure AD Bug Lets Hackers Brute-Force Passwords Without Getting Caught",
+            "content": "Microsoft Azure Active Directory contains an unpatched vulnerability that can be exploited by attackers to launch password brute-force attacks."
+        },
+        {
+            "headline": "5 Reasons Why Microsoft Teams Is Better Than Slack",
+            "content": "Microsoft Teams and Slack are almost equal. They offer channel-based messaging, audio and video conferencing, detailed message search features, storage, and..."
+        },
+        {
+            "headline": "Advancing reliability through a resilient cloud supply chain",
+            "content": "Microsoft's cloud supply chain is essential to deliver the infrastructure—servers, storage, and networking gear—that enables cloud reliability and growth."
+        },
+        {
+            "headline": "Microsoft To Add Epic Games And More To Its Storefront",
+            "content": "Soon, you'll be able to download Epic Games Store and Amazon from the Microsoft Store."
+        },
+        {
+            "headline": "Microsoft Windows Store Opens up to Third-Party Storefront Apps; Meesho Raises USD$570m",
+            "content": "Microsoft Store opens to third-party storefront apps; Meesho, have raised USD$570m; and Sinch acquires Pathwire in a USD$1.9bn deal."
+        },
+        {
+            "headline": "Microsoft Whiteboard App Gets Major Update for Hybrid Work",
+            "content": "The Microsoft Whiteboard app, which Microsoft began building six years ago, is getting a slate of updates that specifically target the now-mainstream hybrid..."
+        }
+    ],
     "20211001": [
         {
             "headline": "It’s easier to create together with Microsoft 365 and Office 2021",

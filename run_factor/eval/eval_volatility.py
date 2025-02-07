@@ -32,7 +32,7 @@ class EvalVolatility(EvalDayTrade):
                 if price_t_1["Volatility"] > 0.3:
                     vix_sig = True
             elif VIX == "low":
-                if price_t_1["Volatility"] < 0.15:
+                if price_t_1["Volatility"] < 0.2:
                     vix_sig = True
                 
 
