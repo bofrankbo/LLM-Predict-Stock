@@ -1,4 +1,376 @@
 {
+    "20210601": [
+        {
+            "headline": "Broadcom’s switch, PHY and electro-optics solutions accelerate 100G, 200G, 400G and 800G deployments",
+            "content": "Broadcom offers the industry's broadest portfolio of switches, PHYs and electro-optics solutions for 100/200/400/800Gb connectivity."
+        }
+    ],
+    "20210602": [
+        {
+            "headline": "C3.ai stock drops on fiscal Q4 beat, in-line revenue view",
+            "content": "C3.ai said backlog rose 23% to $294 million, while subscription revenue was up 17%."
+        },
+        {
+            "headline": "FoundPac gears up to tap automotive sector",
+            "content": "ESTABLISHED in 2004, Penang-based FoundPac Group Bhd has built a name for itself as a precision engineering firm specialising in serving the international..."
+        }
+    ],
+    "20210603": [
+        {
+            "headline": "VMware Hires Former GSA Official Keith Nakasone",
+            "content": "Keith Nakasone, former deputy assistant commissioner of acquisition management within the information technology office at the General Services Administration'..."
+        },
+        {
+            "headline": "SmartNIC Architectures: Landscape Update",
+            "content": "In July 2020, we published a survey of the SmartNIC/DPU market. Now, about 6 months later, we're going to revisit that market and share some updates on each..."
+        },
+        {
+            "headline": "Intel and Samsung Lead Global Semiconductor Production (infographic)",
+            "content": "Intel's recently appointed CEO Pat Gelsinger outlined his vision for the company going forward. As part of the company's “IDM 2.0” strategy, he announced a..."
+        }
+    ],
+    "20210604": [
+        {
+            "headline": "Broadcom Gives Strong Forecast on Data Center Chips Demand",
+            "content": "Broadcom Inc., one of the world's largest chipmakers, gave a bullish forecast for quarterly sales, boosted by demand for chips used in data centers."
+        }
+    ],
+    "20210605": [],
+    "20210606": [],
+    "20210607": [
+        {
+            "headline": "Broadcom data center chip demand jumps amid the pandemic boom, supply concerns",
+            "content": "Broadcom data center chip demand jumps amid the pandemic boom, supply concerns ... Semiconductor and infrastructure software company Broadcom saw demand for its..."
+        }
+    ],
+    "20210608": [
+        {
+            "headline": "Dell EMC Azure Stack HCI Integrates AMD EPYC",
+            "content": "Dell Technologies announced that it is further enhancing its Dell EMC Integrated System for Microsoft Azure Stack HCI this time with AMD EPYC."
+        }
+    ],
+    "20210609": [
+        {
+            "headline": "Broadcom Acclaimed by Frost & Sullivan for Its Integrated CloudSOC Solution for the CASB Market",
+            "content": "Broadcom provides customers with a strong solution to expand their CASB capabilities, functions, and features and offers powerful components acros..."
+        },
+        {
+            "headline": "Best RP2350 and RP2040 Boards 2025",
+            "content": "In such a short space of time, the RP2040 has disrupted the microcontroller community and we now have a smörgåsbord of RP2040 boards to choose from."
+        }
+    ],
+    "20210610": [],
+    "20210611": [],
+    "20210612": [],
+    "20210613": [],
+    "20210614": [],
+    "20210615": [
+        {
+            "headline": "Broadcom: \"Wi-Fi 7 is another giant leap forward in connectivity innovation and QoS\"",
+            "content": "Wi-Fi 7 promises to be yet another giant leap forward in connectivity. Yes, Wi-Fi 7 is about 320 MHz-wide, superfast channels. But it is also about a lot more..."
+        },
+        {
+            "headline": "Broadcom adds investment planning, Agile management to its ValueOps solution",
+            "content": "In an attempt to bring the concept of value stream beyond DevOps operations roles, Broadcom today announced an update to its ValueOps software that brings..."
+        }
+    ],
+    "20210616": [],
+    "20210617": [
+        {
+            "headline": "An AnandTech Interview with Jim Keller: 'The Laziest Person at Tesla'",
+            "content": "I've spoken about Jim Keller many times on AnandTech. In the world of semiconductor design, his name draws attention, simply by the number of large successful..."
+        },
+        {
+            "headline": "Is Resonant Poised For A Breakout With Its Proprietary RF Filter Technology?",
+            "content": "The hype around 5G wireless network technology is currently off the charts. But just because your smart phone says it's on hooked up to a 5G network doesn't..."
+        }
+    ],
+    "20210618": [
+        {
+            "headline": "Man who allegedly profited off sex trafficking more than 100 women faces 10 felonies",
+            "content": "Davies, 57, and his wife, Larong Hu, 38, have been charged with 10 felony counts that include conspiracy, pimping and pandering to procure another for..."
+        }
+    ],
+    "20210619": [],
+    "20210620": [],
+    "20210621": [],
+    "20210622": [
+        {
+            "headline": "U.S. chip foundry announces new manufacturing plant in Singapore",
+            "content": "A global semiconductor shortage is causing havoc, delaying car production and affecting operations at large consumer electronics manufacturers."
+        }
+    ],
+    "20210623": [
+        {
+            "headline": "The Compromises Of Raspberry Pi Hardware Documentation",
+            "content": "The compromise solution has always been to publish limited peripheral schematics. Yet now even those limited schematics may not keep up with board revisions."
+        }
+    ],
+    "20210624": [
+        {
+            "headline": "Enfabrica Takes On Hyperdistributed I/O Bottlenecks",
+            "content": "Not so very long ago, distributed computing meant clustering together a bunch of cheap X86 servers and equipping them with some form of middleware that."
+        }
+    ],
+    "20210625": [
+        {
+            "headline": "Gender minister defends decision to take action against media outlets",
+            "content": "Gender Minister Aishath Mohamed Didi has said that this was not done to penalize media but that it was something they were lawfully obligated to do."
+        },
+        {
+            "headline": "RaajjeTV officially hands over \"Maldives with Palestine\" telethon funds",
+            "content": "RaajjeTV has officially handed over the funds collected through its “Maldives with Palestine” telethon to assist the people of Palestine devastated by the..."
+        }
+    ],
+    "20210626": [],
+    "20210627": [],
+    "20210628": [
+        {
+            "headline": "Nvidia’s takeover of Arm gets support from Broadcom and other chip heavyweights",
+            "content": "U.S. chip giant Broadcom has come out in support of Nvidia's $40 billion acquisition of U.K. chip designer Arm after other firms raised concerns about the..."
+        },
+        {
+            "headline": "Nvidia’s Arm takeover gets public support from chip giants",
+            "content": "Broadcom, MediaTek and Marvell became the first Arm customers to publicly support Nvidia's planned acquisition, which is criticised by rivals and being..."
+        },
+        {
+            "headline": "Cerebras Systems Appoints Rebecca Boyden as General Counsel",
+            "content": "Cerebras Systems, a company dedicated to accelerating Artificial Intelligence (AI) compute, today announced the appointment of Rebecca Boyden as Vice President..."
+        },
+        {
+            "headline": "Custom Raspberry Pi 3 SBC with eMMC flash powers gateway for washing machines",
+            "content": "As I was browsing some group on Facebook, I noticed somebody had bought a custom Broadcom BCM2837 SBC that looks very much like a Raspberry Pi 3 board,"
+        }
+    ],
+    "20210629": [
+        {
+            "headline": "Driving the data center into the future",
+            "content": "Broadcom has consistently been the first to introduce a new generation of data center switch silicon — approximately every 18 months to two years. The latest in..."
+        },
+        {
+            "headline": "Ahead of the Apple iPhone 13 Launch, These Chip Makers Look Like Buys",
+            "content": "Mobile-chip makers Qorvo, Cirrus Logic, Skyworks, and Broadcom are favorites of Barclays analyst Blayne Curtis as Apple's iPhone 13 launch looms."
+        }
+    ],
+    "20210630": [
+        {
+            "headline": "Protecting LBS applications against GNSS spoofing",
+            "content": "The Broadcom BCM47765 dual-frequency GNSS receiver protects location-based applications against spoofing risks."
+        },
+        {
+            "headline": "Workplace Chatbot Firm Moveworks Reaches $2.1 Billion Valuation",
+            "content": "Moveworks Inc., a startup that helps with employee technology support, is now valued at $2.1 billion, according to founder and Chief Executive Officer..."
+        },
+        {
+            "headline": "Elon Musk touts Starlink progress as cost and demand hurdles linger",
+            "content": "If the service is successful, it could vastly expand the reach of broadband internet around the world and even provide a new platform for traders and others..."
+        }
+    ],
+    "20210701": [],
+    "20210702": [
+        {
+            "headline": "Windows 11 can even run natively on a Raspberry Pi 4",
+            "content": "While Microsoft will restrict many machines from being upgraded to Windows 11, the current Insider Preview build does not face these arbitrary limits."
+        }
+    ],
+    "20210703": [],
+    "20210704": [],
+    "20210705": [
+        {
+            "headline": "Testing Times for 5G Network Synchronization",
+            "content": "Different timing synchronization techniques are available to ensure that all the radio units in a network are synchronized and allow the scheduler at the base..."
+        },
+        {
+            "headline": "Best Semiconductor Companies In India 2024",
+            "content": "Over 20 semiconductor manufacturing and design businesses in the high-end, display, and speciality fabrication segments have submitted expressions of interest..."
+        }
+    ],
+    "20210706": [
+        {
+            "headline": "“Broadcom is a monopolist”: FTC orders chipmaker to stop illegal tactics",
+            "content": "The FTC said that Broadcom is a monopolist in the sale of three types of semiconductor components, or chips, used in devices that deliver television and..."
+        }
+    ],
+    "20210707": [
+        {
+            "headline": "Korea probing Broadcom over alleged power abuse",
+            "content": "U.S.-based semiconductor company Broadcom has been the primary target of Korea's top antitrust regulator. The Korea Fair Trade Commission (KFTC) launched a..."
+        }
+    ],
+    "20210708": [
+        {
+            "headline": "Why Broadcom Is a Retiree's Dream Stock",
+            "content": "In the fiscal second quarter of 2021, the dividend cost the company just under $1.5 billion. The dividend claimed about 43% of its $3.4 billion in free cash..."
+        }
+    ],
+    "20210709": [
+        {
+            "headline": "Vijay Nagarajan | Wi-Fi NOW USA",
+            "content": "Vijay Nagarajan serves as Vice President of Marketing for Broadcom's Wireless Communications and Connectivity (WCC) Business Unit."
+        },
+        {
+            "headline": "An Office Phone Flaw Can’t Be Fixed by Cisco Alone",
+            "content": "Ang Cui has spent 10 years hacking into internet-connected office phones and other “embedded devices”—that is, devices that don't look like computers or..."
+        }
+    ],
+    "20210710": [],
+    "20210711": [
+        {
+            "headline": "Adam Halteman Obituary (2021) - Bethlehem, PA - Morning Call",
+            "content": "Adam David Halteman, 36, of Bethlehem, died unexpectedly on July 7, 2021. He is a beloved son, brother, brother-in-law, uncle, and best friend."
+        }
+    ],
+    "20210712": [
+        {
+            "headline": "Broadcom in talks to buy software firm SAS Institute - WSJ",
+            "content": "Chip and software company Broadcom Inc (AVGO.O) is in talks to buy SAS Institute Inc in a deal that could value the software firm in the range of $15..."
+        },
+        {
+            "headline": "Broadcom in Talks to Buy SAS Institute for as Much as $20 Billion: Report",
+            "content": "Broadcom is in talks to buy enterprise software company SAS Institute for as much as $20 billion, The Wall Street Journal reported on Monday."
+        },
+        {
+            "headline": "Report: Broadcam in talks to buy SAS for as much as $20 billion",
+            "content": "Tech giant Broadcom is in talks to buy privately held SAS, according to a report in The Wall Street Journal. The deal could value SAS as much as $20..."
+        },
+        {
+            "headline": "Broadcom Up On Report Chipmaker in Talks To Buy Software Firm SAS",
+            "content": "By Dhirendra Tripathi. Investing.com – Broadcom (NASDAQ:AVGO)stock rose 1% on a report in The Wall Street Journal the chipmaker is in talks to buy..."
+        },
+        {
+            "headline": "If Goodnight sells SAS, here’s the company he should sell to …",
+            "content": "Jim Goodnight and John Sall have become billionaires and have built an enduring legacy for success at SAS. That's why I don't believe Broadcom is the best..."
+        },
+        {
+            "headline": "Palo Alto Networks Supports Nvidia BlueField DPUs",
+            "content": "Palo Alto Networks announced a virtual next-generation firewall designed specifically for use with Nvidia's BlueField line of DPUs."
+        }
+    ],
+    "20210713": [
+        {
+            "headline": "SAS Institute valuation: Why talks with Broadcom stalled over a possible $15-$20 billion sale",
+            "content": "Discover why SAS Institute backed out of a $15-$20 billion sale to Broadcom. Explore the intriguing dynamics behind the SAS Institute valuation decision."
+        },
+        {
+            "headline": "Deal’s Off: SAS Institute Says No To Acquisition By Broadcom",
+            "content": "SAS Institute says it is “not up for sale,” suggesting that the Broadcom acquisition deal for the business analytics and data management software vendor is..."
+        },
+        {
+            "headline": "Broadcom Talks to Buy SAS Institute Collapse: Report",
+            "content": "Semiconductor and enterprise software company Broadcom was in talks to pay between $15 billion and $20 billion for the North Carolina-based SAS, the Journal..."
+        },
+        {
+            "headline": "Broadcom wants to buy big data analytics company SAS Institute",
+            "content": "The offer from chipmaker Broadcom could value SAS in the range of $15 billion to $20 billion. Broadcom is in talks to acquire business analytics giant SAS."
+        },
+        {
+            "headline": "SAS CEO Jim Goodnight tells employees ‘we are not for sale’ despite Broadcom’s overture",
+            "content": "SAS CEO Jim Goodnight said in an email the Cary NC based technology company was not for sale after reports Broadcom potentially wanted to buy the software..."
+        },
+        {
+            "headline": "SAS 'not for sale,' CEO says in internal memo",
+            "content": "On Monday, reports surfaced that Broadcom was in talks to buy Cary-based SAS, but CEO James Goodnight told workers Tuesday that was not the case."
+        },
+        {
+            "headline": "Broadcom in talks to buy software firm SAS Institute: WSJ",
+            "content": "Broadcom: The acquisition could be finalized in the coming weeks, the report said, citing people familiar with the matter."
+        },
+        {
+            "headline": "Goodnight tells SAS employees company isn't for sale",
+            "content": "A day after reports that Cary-based analytics giant SAS Institute was in “talks” to be bought out, CEO Jim Goodnight told his employees a deal isn't happening."
+        }
+    ],
+    "20210714": [
+        {
+            "headline": "Fresh Highs On The Horizon For Broadcom Inc. Stock?",
+            "content": "We believe that Broadcom stock could rise almost 15% to fresh highs above $550, driven by expectations of steady, continuing demand growth and strong Q2 2021..."
+        },
+        {
+            "headline": "SAS, Microsoft a possible pairing after Broadcom talks end",
+            "content": "SAS, a longtime independent analytics vendor, is hoping tech giant Microsoft becomes its parent company, according to R \"Ray\" Wang."
+        }
+    ],
+    "20210715": [
+        {
+            "headline": "DPU startup Fungible hires CEO to vault revenues higher and higher",
+            "content": "After six years, co-founder and Exec Chairman of DPU startup Fungible has replaced himself as CEO with Eric Hayes – a man who grew Broadcom's switching..."
+        },
+        {
+            "headline": "iPhone 13 to Get Upgraded WiFi 6E for Improved Wireless Speeds and Range",
+            "content": "The iPhone 13 lineup expected to launch in the third week of September is rumored to feature upgraded WiFi 6E, which is an improved version of the WiFi 6..."
+        },
+        {
+            "headline": "Suppliers for 'iPhone 13' gearing up Wi-Fi 6e chip production",
+            "content": "Apple is expected to incorporate Wi-Fi 6e in the \"iPhone 13,\" which will lead to big revenue gains for suppliers of the chips."
+        }
+    ],
+    "20210716": [],
+    "20210717": [
+        {
+            "headline": "Long-Awaited STIX, TAXII Cyberthreat Sharing Standards Approved",
+            "content": "STIX and TAXII, two popular open source projects that automate threat intelligence sharing, have been approved as full OASIS standards."
+        }
+    ],
+    "20210718": [],
+    "20210719": [],
+    "20210720": [
+        {
+            "headline": "Accelerating application workloads with Broadcom's new 64G fibre channel",
+            "content": "PCIe 4.0 is the fourth major iteration of the PCIe standard. This generation doubles the IO speed per PCIe lane between the HBA and server memory. PCIe 4.0 x 8..."
+        },
+        {
+            "headline": "AppCAD Does Transmission Lines",
+            "content": "An Agilent developer wrote AppCAD to help with common RF design computations and now works for Avago who bought Broadcom."
+        }
+    ],
+    "20210721": [],
+    "20210722": [],
+    "20210723": [
+        {
+            "headline": "Leading Fiber Optic Companies in the World",
+            "content": "Here we have enlisted top fiber optic companies in the world; Broadcom, Broadcom come first in mind, whenever someone talk about fiber optic."
+        }
+    ],
+    "20210724": [],
+    "20210725": [
+        {
+            "headline": "Broadcom Billionaires",
+            "content": "Henry is largest reported individual owner of stock in the nearly $200 billion-valued Broadcom, plus extensive real estate holdings."
+        }
+    ],
+    "20210726": [],
+    "20210727": [
+        {
+            "headline": "When the chips are down: Biden’s semiconductor war",
+            "content": "Export controls on US semiconductor tech into China didn't stop with Trump."
+        },
+        {
+            "headline": "The Top 25 Cybersecurity CEOs of 2021",
+            "content": "The Software Report is pleased to announce The Top 25 Cybersecurity CEOs of 2021. These accomplished executives lead some of the most sophisticated operations."
+        }
+    ],
+    "20210728": [
+        {
+            "headline": "Eric Hayes",
+            "content": "Eric was recently named the CEO of Fungible and has consistently and successfully built and grown technology businesses for the last three decades."
+        },
+        {
+            "headline": "ASML - All That and a Bag of Chips",
+            "content": "Car makers can't build the number of cars that buyers want. Mobile phones / smartphones, medical equipment, digital cameras, autonomous vehicles,..."
+        },
+        {
+            "headline": "Boardcon EM3566 Linux SBC is powered by a Rockchip RK3566 System-on-Module",
+            "content": "The single board computer comes with up to 2 to 8GB LPDDR4 RAM, 4GB to 32GB eMMC flash, SATA and NVMe SSD support, HDMI, MPI DSI, and eDP display interfaces."
+        }
+    ],
+    "20210729": [
+        {
+            "headline": "SAS’ Jim Goodnight says he wants the company to start selling stock by 2024",
+            "content": "SAS has been a privately held company since it was founded in 1976. Its CEO Jim Goodnight had considered selling the company to Broadcom earlier this month."
+        }
+    ],
+    "20210730": [],
+    "20210731": [],
     "20210801": [
         {
             "headline": "Nvidia Vs. AMD And Qualcomm: How To Analyze Semiconductor Stocks For Your Portfolio",

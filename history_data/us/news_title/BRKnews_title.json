@@ -1,4 +1,1586 @@
 {
+    "20210601": [
+        {
+            "headline": "Mark Cuban Trumpets DAOs; Warren Buffett's Berkshire Showed the Way",
+            "content": "The tech billionaire Mark Cuban expects decentralized autonomous organizations, or DAOs, to transform how companies are built and run. Warren Buffett's..."
+        },
+        {
+            "headline": "Warren Buffett And Charlie Munger’s Favourite Investment Strategy (NYSE:BRK.B)",
+            "content": "Berkshire Hathaway's Warren Buffett and Charlie Munger were both aggressive hedge fund managers, with each running an investment partnership on behalf of..."
+        },
+        {
+            "headline": "Pampered Chef founder makes $45M gift to U of I",
+            "content": "Doris Kelley Christopher is making a $45 million gift to support the creation of an engagement-rich center in the Arboretum on the University of Illinois..."
+        },
+        {
+            "headline": "Invesco QQQ Trust And Vanguard Value ETF Among Top Monthly ETFs",
+            "content": "Q.ai's deep learning algorithms have identified several Top Buy ETFs for the month based on 90-day, 30-day, and 1-week fund flows. Invesco QQQ Trust and..."
+        },
+        {
+            "headline": "Tennis Legend Andre Agassi Is Selling One of His Vegas Homes for $2.4M",
+            "content": "The tennis greats Andre Agassi and Steffi Graf have lobbed one of their Las Vegas homes onto the market. It's available for $2.4 million."
+        },
+        {
+            "headline": "Shaw Industries awards Associate Dependent Scholarships",
+            "content": "Shaw Industries Group, a subsidiary of Berkshire Hathaway Inc., has announced the recipients of its 2021 Associate Dependent Scholarship."
+        }
+    ],
+    "20210602": [
+        {
+            "headline": "Christy Budnick: A promotion that ‘never was on my radar’",
+            "content": "HSF Affiliates CEO now leads a global network of nearly 50000 real estate agents."
+        },
+        {
+            "headline": "Gates Foundation changes could bring transparency, accountability",
+            "content": "Philanthropy experts say changing the Gates Foundation's governance could bring much-needed accountability to the world's largest private foundation,..."
+        },
+        {
+            "headline": "$5 million-plus sale signals Lake Forest mansion market is revving again",
+            "content": "The sale is the North Shore town's fourth high-end transaction since the pandemic heated up the housing market last summer."
+        },
+        {
+            "headline": "Cryptos Just Crashed. What Now?. Paper hands or diamond hands? | by Chris Soschner",
+            "content": "Should I buy, or should I sell? My lord, what have you done to us? The Bitcoin Gurus showed us the promised land of a never-ending eternal upward movement..."
+        },
+        {
+            "headline": "Poughkeepsie Man Wins $1,000 A Week For Life From New York Lotto",
+            "content": "The Hudson Valley man purchased the winning ticket at a local gas station."
+        },
+        {
+            "headline": "Real Deals: Flintco starts parking deck work at new Walmart campus",
+            "content": "The permits are being used to build three multistory parking decks at 1604 SE Fifth St., 902 SE Integrity Drive and 903 SE Integrity Drive."
+        },
+        {
+            "headline": "Five Utah companies make 2021 Fortune 500 list",
+            "content": "UTAH (ABC4) – Five Utah-based companies have made the 67th Fortune 500, the annual list of the largest corporations in the United States."
+        },
+        {
+            "headline": "At 12 Times Faster Than Sound, World’s Fastest Passenger Plane Begins Model-Testing",
+            "content": "A US-based start-up is designing a hypersonic space plane that could enable people to travel anywhere around the world in just one hour."
+        },
+        {
+            "headline": "Ellen DeGeneres, Portia de Rossi buy mid-century bungalow in California for $3.7m",
+            "content": "Talk show host Ellen DeGeneres and her actor wife Portia de Rossi have bought yet another California home, spending more than $3.7 million on a property that..."
+        }
+    ],
+    "20210603": [
+        {
+            "headline": "Warren Buffett, Berkshire Could Profit From AMC Stock Price Surge",
+            "content": "The investor's Berkshire Hathaway owns 9% of Store Capital, a real-estate investment trust that counts AMC as a top 10 customer."
+        },
+        {
+            "headline": "Becoming Warren Buffett - Where to Watch and Stream",
+            "content": "Right now you can watch Becoming Warren Buffett on Max Amazon Channel or Max. You are able to stream Becoming Warren Buffett by renting or purchasing on Apple..."
+        },
+        {
+            "headline": "REALTOR QA - CONNOR BURKE",
+            "content": "Teacher in the Golden Isles for 12 years and recently transitioned into real estate with Berkshire Hathaway HomeServices Hodnett Cooper."
+        },
+        {
+            "headline": "Bill Gates’ TerraPower will build its first next-gen nuclear reactor in Wyoming",
+            "content": "TerraPower, PacifiCorp and Wyoming Gov. Mark Gordon announced plans on Wednesday to build a next-generation nuclear power plant on the site of one of the."
+        },
+        {
+            "headline": "Bill Gates to build next-generation nuclear facility in Wyoming",
+            "content": "The plant will be built on a retired coal-fired power plant, as US government calls for carbon emissions cuts."
+        },
+        {
+            "headline": "'Warren Buffett of Canada' Could Make $1 Billion on BlackBerry Stock",
+            "content": "Prem Watsa's Fairfax Financial owns BlackBerry shares and convertible bonds that surged in value to $2 billion on Thursday."
+        },
+        {
+            "headline": "Robert Hagstrom on Warren Buffett’s Money Mind, Successful Investing & Finding Quality Companies",
+            "content": "There have been so many books written about Warren Buffett that it can be hard to keep track of them. But before all of that could happen, someone had to be..."
+        },
+        {
+            "headline": "Why Bill Gates’ TerraPower chose Wyoming for the Natrium reactor project",
+            "content": "The pilot project between Wyoming and TerraPower will use an existing coal-fired plant for the Natrium reactor project."
+        },
+        {
+            "headline": "Comings and Goings",
+            "content": "After a decade of service at Berkshire Hathaway HomeServices in London, Joe Le Beau has been promoted from sales manager to sales director."
+        },
+        {
+            "headline": "Bill Gates and Warren Buffett are building a $1 billion next-generation nuclear reactor in Wyoming",
+            "content": "Bill Gates said the advanced nuclear reactor would perform better and cost less than a traditional nuclear power plant."
+        }
+    ],
+    "20210604": [
+        {
+            "headline": "Bill Gates and Warren Buffett to build new kind of nuclear reactor in Wyoming",
+            "content": "Bill Gates and Warren Buffett to build new kind of nuclear reactor in Wyoming ... Power companies run by billionaire friends Bill Gates and Warren Buffett have..."
+        },
+        {
+            "headline": "Bill Gates, Warren Buffett building nuclear reactor in coal-rich Wyoming",
+            "content": "Bill Gates, Warren Buffett building nuclear reactor in coal-rich Wyoming ... Billionaire buddies Bill Gates and Warren Buffett are teaming up to build a nuclear..."
+        },
+        {
+            "headline": "Bill Gates and Warren Buffett team up to develop small nuclear reactor",
+            "content": "The Natrium nuclear reactor project will use the site of a retiring coal plant. Gates' company TerraPower and power company PacifiCorp, owned by Buffett's."
+        },
+        {
+            "headline": "Power issues hit McCarran Airport concourse",
+            "content": "Power issues have affected some of the operations at a McCarran International Airport concourse on a busy travel Friday, according to a spokesperson."
+        },
+        {
+            "headline": "Here's Where Industrial Distributors, Suppliers Landed on the 2021 Fortune 500",
+            "content": "See how far major industrial distributors and manufacturers moved up or down the annual who's who of corporations."
+        },
+        {
+            "headline": "33 Most Famous Harvard Students of All Time",
+            "content": "In this article we will take a look at the 33 most famous Harvard students of all time. You can skip our detailed analysis about Harvard University,..."
+        },
+        {
+            "headline": "Queensridge home near Summerlin on market for $16M",
+            "content": "The Old World Europe-styled estate of Yohan Lowie, a developer of upscale Las Vegas properties including One Queensridge Place and Tivoli Village,..."
+        },
+        {
+            "headline": "24 PA Companies Make Fortune 500 List For 2021",
+            "content": "Fortune Magazine recently released its annual list of the 500 top companies in America, and 24 of those companies are based in Pennsylvania."
+        },
+        {
+            "headline": "Bargain hunters pounce as Trump condo prices hit decade lows",
+            "content": "NEW YORK (AP) — The building has stunning Manhattan skyline views, its spa offers deep-tissue massages, and the fancy restaurant off the lobby serves up..."
+        }
+    ],
+    "20210605": [
+        {
+            "headline": "Warren Buffett may have missed out on Microsoft's IPO because of Liberty Media's John Malone",
+            "content": "Warren Buffett may have declined to invest in Microsoft's IPO because of a media mogul's bad advice. John Malone, the billionaire chairman of Liberty Media,..."
+        },
+        {
+            "headline": "Wyoming To Lead The Coal-To-Nuclear Transition, With New Reactor Planned By Bill Gates-Backed TerraPower",
+            "content": "In Wyoming, Pacificorp, an electric utility owned by Warren Buffett's Berkshire Hathaway, announced last week that it is teaming up with an advanced nuclear..."
+        },
+        {
+            "headline": "Current Warren Buffett Net Worth 2021 Update",
+            "content": "Warren Buffet's current net worth in 2021 is $110.3 billion in U.S. dollars making him currently the sixth richest person in the world at 90 years old."
+        },
+        {
+            "headline": "59 property transactions in the city of Watertown in May",
+            "content": "The latest property transactions in the city of Watertown filed at the Jefferson County clerk's office in May 2021."
+        }
+    ],
+    "20210606": [
+        {
+            "headline": "Funds guru has his finger on the pulse",
+            "content": "Investment veteran Cheah Cheng Hye tells Luo Weiteng those who fail to jump on the Chinese mainland bandwagon over the next decade will miss the boat."
+        },
+        {
+            "headline": "Fortune 500: These New Jersey Companies Make 2021 List",
+            "content": "Fortune Magazine on Wednesday released its annual list of the 500 top companies in America, and 28 of those companies are based in New Jersey."
+        }
+    ],
+    "20210607": [
+        {
+            "headline": "Expanding during a pandemic with the looming threat of recession",
+            "content": "Ashkan Pitchforth, CEO South Cliff Dental Group, discusses his recent expansion in the most difficult of times."
+        },
+        {
+            "headline": "A COVID cluster: Retired mill workers",
+            "content": "An analysis of New Bedford death certificates reveals a surprising cluster of COVID-19 deaths among retired textile and apparel industry workers."
+        },
+        {
+            "headline": "Wyoming to build nuclear reactor in partnership with Rocky Mountain Power",
+            "content": "Nuclear power is the only carbon-free energy source we have that can deliver large amounts of power, day and night, through every season, almost everywhere..."
+        },
+        {
+            "headline": "AMC stock: These insiders sold $8 million of stock during last week's boom",
+            "content": "Some AMC leaders are cashing in on meme madness. Four AMC executives and a pair of directors unloaded more than $8 million worth of shares last week,..."
+        },
+        {
+            "headline": "Bitcoin Price Dips After Trump Says The Crypto ‘Seems Like A Scam’",
+            "content": "I don't like it,” the former president told Fox Business."
+        },
+        {
+            "headline": "Justin Sun Has a Serious Side. Here's a Rare Glimpse",
+            "content": "Justin Sun, founder of TRON, talks about his failures when venturing into the west, his admiration for Elon Musk and a wild Ethereum trade."
+        },
+        {
+            "headline": "One-third of listed Japan companies to hike fiscal 2022 dividends",
+            "content": "TOKYO -- One in three listed companies in Japan are planning to increase dividend payouts this fiscal year, the largest number in three years, reflect."
+        }
+    ],
+    "20210608": [
+        {
+            "headline": "Warren Buffett’s Berkshire Hathaway Invests $500 Million In Brazilian Challenger Nubank",
+            "content": "Warren Buffett's Berkshire Hathaway Invests $500 Million In Brazilian Challenger Nubank. Angelica Mari. Senior Contributor Opinions expressed by Forbes..."
+        },
+        {
+            "headline": "Warren Buffett's Berkshire Hathaway makes $500 million investment in Brazilian digital bank",
+            "content": "Nubank, which was founded in 2013, made its first appearance CNBC's Disruptor 50 list earlier this year."
+        },
+        {
+            "headline": "Warren Buffett Defends Himself After ProPublica Says He Avoids Taxes",
+            "content": "Buffett keeps his fortune in Berkshire Hathaway stock and doesn't pay a dividend to pay less tax, ProPublica said. The investor justified those moves."
+        },
+        {
+            "headline": "The Secret IRS Files: Trove of Never-Before-Seen Records Reveal How the Wealthiest Avoid Income Tax",
+            "content": "ProPublica has obtained a vast cache of IRS information showing how billionaires like Jeff Bezos, Elon Musk and Warren Buffett pay little in income tax."
+        },
+        {
+            "headline": "Warren Buffett Defends Paying the Least Among America's Richest",
+            "content": "The billionaire has managed to pay a very low rate of taxes by minimizing his income while retaining most of shares he holds in his company Berkshire Hathaway."
+        },
+        {
+            "headline": "Nubank Is Now Worth $30 Billion After $750 Million Investment Led By Berkshire",
+            "content": "Warren Buffett's Berkshire Hathaway is investing $500 million into Brazilian digital bank Nubank, which pushes its valuation to $30 billion, sources say."
+        },
+        {
+            "headline": "KKR is investing $150 million into private aviation firm Jet Edge in a deal that will rival NetJets and Berkshire Hathaway",
+            "content": "KKR is investing $150 million into private aviation firm Jet Edge in a deal that will rival NetJets and Berkshire Hathaway."
+        },
+        {
+            "headline": "Bezos, Buffett, Bloomberg, Musk, Icahn and Soros pay tiny fraction of wealth in income taxes, report reveals",
+            "content": "Some of the world's richest men — Jeff Bezos, Elon Musk, Warren Buffett, Carl Icahn, Michael Bloomberg and George Soros — pay just a tiny fraction of their..."
+        }
+    ],
+    "20210609": [
+        {
+            "headline": "Warren Buffett major investors land in Juneau, talk with governor about Alaska energy potential",
+            "content": "Warren Buffett major investors land in Juneau, talk with governor about Alaska energy potential ... Berkshire Hathaway executives flew into Juneau to scout the..."
+        },
+        {
+            "headline": "Biden Admin Investigates 'Illegal' Leak of Bezos, Musk, Buffett Tax Returns",
+            "content": "US authorities are investigating the 'illegal' leak of billionaires' tax information, including data on Jeff Bezos, Elon Musk, and Warren Buffett."
+        },
+        {
+            "headline": "London luxury property: £9m period penthouse overlooking Nick Candy's One Hyde Park",
+            "content": "Enjoy panoramic views of the city on roof terrace that spans entire apartment."
+        }
+    ],
+    "20210610": [
+        {
+            "headline": "The Most Overstated And Understated Earnings In The S&P 500 Post 1Q21 Earnings",
+            "content": "Understanding Earnings Distortion[1], the difference between Core Earnings and GAAP earnings, gives investors a materially better view of the fundamentals..."
+        },
+        {
+            "headline": "How Billionaires Like Jeff Bezos, Elon Musk and Warren Buffett Effectively Avoid Income Tax",
+            "content": "The Wire: The Wire News India, Latest News,News from India, Politics, External Affairs, Science, Economics, Gender and Culture."
+        }
+    ],
+    "20210611": [
+        {
+            "headline": "Warren Buffett puts US$500m into Nubank, pushing valuation to $30b",
+            "content": "This article was originally published in Chinese on Momentum Works's WeChat platform. Translated into English by Joyce. Nubank, Brazil's challenger bank and..."
+        },
+        {
+            "headline": "See’s Candies timeline: 1921 to 2021, a century of highlights",
+            "content": "1921: Charles See opens the first See's shop, selling confections made from the original recipes of his mother, Mary See, at 135 Western Avenue North in Los..."
+        },
+        {
+            "headline": "Wealthiest Americans’ tax avoidance – the shock report’s most striking details",
+            "content": "A new investigation by ProPublica shows in some years men such as Jeff Bezos and Elon Musk paid no federal income tax."
+        },
+        {
+            "headline": "Renee Nelson Leaving The 92 Moose Morning Show After 30 Years",
+            "content": "I have decided to leave the 92 Moose Morning Show on June 23, 2021. I am relocating to Florida. No. More. Winters."
+        },
+        {
+            "headline": "‘I’ve never been happier’: Santa Rosa man’s COVID-19 survival story after 5 weeks in coma",
+            "content": "When Dennis Stankovic woke up, he was greeted by scores of texts and voicemails from people who wished him well and assured him that he would pull out of..."
+        },
+        {
+            "headline": "Why taxing Jeff Bezos more won't narrow the wealth gap",
+            "content": "The reason Jeff Bezos, Elon Musk, and the other richest people in the US are so absurdly wealthy is not about their salary."
+        },
+        {
+            "headline": "Volkswagen says a vendor’s security lapse exposed 3.3 million drivers’ details",
+            "content": "The vendor left the cache of data unsecured on the internet over a two-year window."
+        }
+    ],
+    "20210612": [
+        {
+            "headline": "Warren Buffett Is Under Fire for Avoiding Taxes, Give Him a Break",
+            "content": "ProPublica highlighted Buffett's two main strategies to minimize his income, and therefore his taxes. The investor keeps over 99% of his wealth in Berkshire..."
+        },
+        {
+            "headline": "Berkshire Hathaway Annual Meeting 2021",
+            "content": "There might just be a handful of things that the Oracle of Omaha might have set his mind on but was unable to accomplish. As he concluded last year's..."
+        },
+        {
+            "headline": "Former Philadelphia Phillies pitcher Cole Hamels, wife Heidi selling Newtown Square, Delaware County home for nearly $2.5 million",
+            "content": "Former Philadelphia Phillies All-Star pitcher Cole Hamels and his wife Heidi built and designed their three-story Newtown Square home in 2014, but now they..."
+        },
+        {
+            "headline": "iPhone-Ex: 10 Celebrities Who Use Flip Phones",
+            "content": "Whether it's a fashionable trend, a statement against celebrity culture, or a way of keeping information private, these celebs have opted-out."
+        }
+    ],
+    "20210613": [
+        {
+            "headline": "Opinion | Warren Buffett and the Myth of the ‘Good Billionaire’ (Published 2021)",
+            "content": "Mr. Buffett is actually the most dangerous kind of billionaire we have. The worst billionaires are the Good Billionaires."
+        },
+        {
+            "headline": "Neal Anthony Singer Obituary - Wilmette, IL",
+            "content": "Celebrate the life of Neal Singer, leave a kind word or memory and get funeral service information care of Weinstein & Piser Funeral Home."
+        },
+        {
+            "headline": "Eviction looms at riverfront Florida mobile home park set for development",
+            "content": "Residents of the Paradise Park Mobile Home Park received six-months' notice in November after the park was bought by Miami-based developers for $15 million."
+        },
+        {
+            "headline": "3 Lazy Portfolios Ideal For Future Millionaires",
+            "content": "A simple portfolio of a few low-cost index funds is likely to outperform the most complicated, expensive investment products on Wall Street."
+        },
+        {
+            "headline": "Who is the richest person in the world? June 2021 list.",
+            "content": "In a time when the rich are getting richer, the race to the top has never been tighter."
+        }
+    ],
+    "20210614": [
+        {
+            "headline": "Glenview Office of Berkshire Hathaway HomeServices Chicago Holds Donation Drive and Shred Event During Annual Community Kindness Initiative",
+            "content": "The Glenview office of Berkshire Hathaway HomeServices Chicago is holding a donation drive to benefit the Northfield Township Food Pantry throughout the..."
+        },
+        {
+            "headline": "Warren Buffett: A Good Manager Is Essential",
+            "content": "A high-quality management can deal with more problems, overcome threats, fight off competition and make sure the company is reinvesting profits."
+        },
+        {
+            "headline": "Buffett Indicator Hits Record 133%, Overpriced Global Stocks May Crash",
+            "content": "Warren Buffett's preferred market gauge climbed to a fresh high on Sunday, signaling that global stocks are heavily overpriced and could crash in the coming..."
+        },
+        {
+            "headline": "Illinois chemical plant explosion, fires prompt evacuations",
+            "content": "CHICAGO (AP) — An explosion at a northern Illinois chemical plant Monday morning sparked massive fires that sent flames and huge plumes of thick black smoke..."
+        },
+        {
+            "headline": "Chemical Fire Draws Illinois National Guard; Locals Evacuate",
+            "content": "A massive fire at a chemical plant in northern Illinois spurred the governor to deploy the National Guard to the area as local residents were evacuated."
+        },
+        {
+            "headline": "Taxman May Be Coming For Buybacks; What That Means For You",
+            "content": "Apple stock buybacks top dividends 5-to-1. Warren Buffett's Berkshire Hathaway pays no dividend. A possible add-on to the Biden tax hikes could change that."
+        },
+        {
+            "headline": "Chemtool fire: Rockton chemical plant saw recent, unannounced federal inspection",
+            "content": "Just 25 days before the massive chemical fire at Chemtool in Rockton, Illinois, inspectors from the U.S. Labor Department's Occupational Health and Safety..."
+        },
+        {
+            "headline": "CEOs: 7 Shareholder Letters Worth Investing In Beyond Warren Buffett's",
+            "content": "You can find out a lot about a company or CEO from their annual shareholder letters. And there are some good ones out there other than the Oracle of Omaha's."
+        },
+        {
+            "headline": "Welcome to Lithium Valley: One of the World’s Largest Lithium Deposits Is Located at the Salton Sea—and the Potential Economic Ramifications Have Drawn Comparisons to Silicon Valley",
+            "content": "The story of Lithium Valley begins in earnest on Sept. 29, 2020. That's the day when Gov. Gavin Newsom signed into law Assembly Bill 1657, sponsored by..."
+        },
+        {
+            "headline": "Massive chemical fire at Chemtool in Rockton could burn for days",
+            "content": "The Rockton Fire Department ordered a mandatory evacuation for all residents and businesses located within a mile of the plant."
+        }
+    ],
+    "20210615": [
+        {
+            "headline": "Berkshire eSupply Hosts Distributors, Suppliers in Soft Opening for BESN Network",
+            "content": "The master wholesaler held an in-person event for its distributor customers and suppliers in mid-May, showcasing what its new Berkshire eSupply Network has..."
+        },
+        {
+            "headline": "TransRe and Gen Re break off underwriting partnership",
+            "content": "TransRe and General Reinsurance Corporation (Gen Re) have decided not to renew their underwriting partnership for North American property and casualty (P&C)..."
+        }
+    ],
+    "20210616": [
+        {
+            "headline": "Berkshire Hathaway HomeServices California Properties Santa Barbara Agents and Teams Rank Among America’s Best",
+            "content": "Share this: · 1. #59 – Bartron Real Estate Group – Santa Barbara · 2. #98 – Marsha Kotlyar Estate Group – Montecito · 3. #135 – Team Scarborough – Montecito · 4..."
+        },
+        {
+            "headline": "Albert Kahn-designed home in Ann Arbor offers trademark balance and luxury",
+            "content": "The $2.3 million home was designed by Kahn, the architect of many legendary University of Michigan and Detroit buildings."
+        },
+        {
+            "headline": "Fox 32's Mike Flannery sells Beverly home",
+            "content": "The longtime Chicago reporter, who's owned the 17-room home since 1987, has done extensive renovations over the years."
+        },
+        {
+            "headline": "Makeup guru Jeffree Star lists palatial $20M California mansion",
+            "content": "Makeup Youtube star Jeffree Star has listed his 20000-square-foot Hidden Hills mansion for $20 million, only a year and a half after he bought it for $14.58..."
+        },
+        {
+            "headline": "These Are The Top Picks Of Charlie Munger",
+            "content": "Charlie Munger is Warren Buffett's longtime business associate, as well as the vice chairman of Berkshire Hathaway. Like Buffett, Munger is a pragmatic..."
+        }
+    ],
+    "20210617": [
+        {
+            "headline": "Warren Buffett’s Worst Investments of All Time",
+            "content": "In this article, we discuss Warren Buffett's worst investments of all time. If you want to skip our detailed analysis of these investments, go directly to..."
+        },
+        {
+            "headline": "Berkshire Hathaway announces changes to executive team",
+            "content": "Berkshire Hathaway HomeServices Florida Network Realty has announced changes to its executive team."
+        },
+        {
+            "headline": "There are a Few Homes On this Private Island in Gull Lake – This One’s For Sale",
+            "content": "Gull Lake Island home with 100 feet of lake frontage and incredible views! This 3 bed, 2 bath home has been completely rebuilt and ready for its next owners."
+        },
+        {
+            "headline": "Stephen Himes Obituary - Tampa, FL",
+            "content": "Celebrate the life of Stephen Himes, leave a kind word or memory and get funeral service information care of Blount & Curry Funeral Home-Carrollwood."
+        },
+        {
+            "headline": "Frank Sinatra’s Swinging Mountain Retreat Returns to the Market at $4.25M",
+            "content": "Buyers want a look at Frank Sinatra's custom-built, mountain retreat perched above the Coachella Valley. It's now back on the market for $4250000."
+        },
+        {
+            "headline": "In Allegheny County's North Hills, affordable rentals are hard to find",
+            "content": "Last year, Anna Wood's rent jumped from $920 a month to $1,783, and the retired widow could not afford it. In November, The Avalon Apartment Homes filed to..."
+        },
+        {
+            "headline": "Foam containing 'forever chemicals' likely used to extinguish Chemtool fire in Illinois",
+            "content": "The Illinois Environmental Protection Agency said there is no evidence yet of contamination in the Rock River."
+        },
+        {
+            "headline": "Goodall Homes Acquires Huntsville-Based Legacy Homes",
+            "content": "Goodall Homes announced it has acquired Legacy Homes of Alabama, the largest private homebuilder in Huntsville."
+        },
+        {
+            "headline": "7 Clean Energy Stocks to Buy as Buffett and Gates Make a Nuclear Bet",
+            "content": "As billionaires bet big on fossil fuel alternatives, these seven uranium and clean energy stocks could get a considerable boost."
+        },
+        {
+            "headline": "Lloyd’s gets £650m cover for Central Fund: Report",
+            "content": "The Lloyd's of London insurance and reinsurance market has taken out a £650 million cover from an investment bank and reinsurers to protect its Central."
+        }
+    ],
+    "20210618": [
+        {
+            "headline": "Berkshire Hathaway Looks to the Future With New Tech Holdings",
+            "content": "Around a week ago, I covered the news that Berkshire Hathaway (BRK.A) (BRK.B) had agreed to invest $500 million in Brazilian digital bank operator Nu..."
+        },
+        {
+            "headline": "Warren Buffett Thinks This Leadership Habit Separates the Best From the Rest",
+            "content": "Buffett believes that long-term success is achieved not merely by your own doing, but by making smart leadership decisions that will yield results for yourself..."
+        },
+        {
+            "headline": "Warren Buffett's deputy has scored a 300% gain on Dillard's in 9 months — and now boasts a $170 million stake",
+            "content": "Ted Weschler, one of the Berkshire Hathaway CEO's deputies, appears to share that talent — he's quadrupled his money on Dillard's over the past nine months."
+        },
+        {
+            "headline": "Professional growth, workplace fun drive St. Louis real estate firm Berkshire Hathaway's success",
+            "content": "CEO Maryann Vitale Alles, right, helps fill out the closing paperwork on the sale of Elizabeth Selk's, left, rental property at the Berkshire Hathaway..."
+        },
+        {
+            "headline": "Scott Thon",
+            "content": "Mr. Scott Thon has held a number of senior positions in the energy sector over the last 30 years, from operations and engineering to market design and..."
+        },
+        {
+            "headline": "REP. SARA JACOBS NAMED TO NEW CONGRESS PANEL MODELED AFTER ONE BY FDR IN 1930S",
+            "content": "Rep. Sara Jacobs of San Diego has been named to the new House Select Committee on Economic Disparity and Fairness in Growth."
+        },
+        {
+            "headline": "Historic Indian Canyons Golf Resort is Backdrop to Palm Springs Home",
+            "content": "Sitting by the 17th hole of the Indian Canyons Golf Resort, which marks its 60th year in December, this home for sale delivers in many ways."
+        },
+        {
+            "headline": "Wellness Guru Deepak Chopra Lists La Jolla, California, Home for $5.65 Million",
+            "content": "The house has five bedrooms and seven bathrooms with views of the ocean and golf course."
+        },
+        {
+            "headline": "Shaw partners with local developers for Living Lab",
+            "content": "Shaw Industries Group, a subsidiary of Berkshire Hathaway Inc., held a ribbon cutting ceremony earlier this month for its Living Lab concept space at the..."
+        },
+        {
+            "headline": "Peter Buffett’s NoVo Foundation has donated more than $116M to Ulster, Mid-Hudson Valley groups in three years, tax records show",
+            "content": "KINGSTON, N.Y. — A charitable foundation controlled by Peter Buffett and his wife has doled out more than $116 million to Ulster County and regional..."
+        }
+    ],
+    "20210619": [
+        {
+            "headline": "Ownership of Klamath River dams transferred to group seeking their removal",
+            "content": "The Federal Energy Regulatory Commission (FERC) this week approved the transfer of four dams on the Klamath River from PacifiCorp to the Klamath River..."
+        }
+    ],
+    "20210620": [
+        {
+            "headline": "3 ASX ETFs that could give investors easy exposure to the US markets",
+            "content": "These 3 ASX ETFs, including the BetaShares Nasdaq 100 ETF (ASX: NDQ), can provide easy US markets exposure for ASX investors."
+        }
+    ],
+    "20210621": [
+        {
+            "headline": "Berkshire Hathaway: Interesting Facts About The Company",
+            "content": "For the FY-2020, Berkshire has reported a cash balance of about $3.276 billion. Even though the company has such huge cash reserves, it never pays dividends. It..."
+        },
+        {
+            "headline": "Atlanta Luxury Realtor, Debra Johnston, Announces a Rare Mid-Century Modern Buckhead Residence",
+            "content": "Top Luxury Atlanta Realtor, Debra Johnston of Berkshire Hathaway HomeServices GA Properties, offers a rare mid-century modern residence and pool situated on..."
+        },
+        {
+            "headline": "Warren Buffett spends the majority of his day reading books",
+            "content": "Warren Buffett held up a stack of paper and said, “Read 500 pages like this every day,” in response to a question about how to prepare for success in..."
+        },
+        {
+            "headline": "Makeup Mogul Jeffree Star Lists Hidden Hills, California, Mansion for $20 Million",
+            "content": "YouTuber Jeffree Star is planning to live full time on his 70-acre Wyoming ranch, which he bought last year."
+        },
+        {
+            "headline": "Deepak Chopra’s super-spiritual house with ‘God rays’ listed for $5M",
+            "content": "Wellness guru Deepak Chopra features stunning “God rays” in his new La Jolla mansion listing asking $5.65 million."
+        },
+        {
+            "headline": "3 Renewable Energy Stocks to Buy If You Are Betting on Geothermal",
+            "content": "Berkshire Hathaway (NYSE:BRK-A, NYSE:BRK-B) has usually been right when it comes to investing in long-term value creators. Among Berkshire Hathaway's..."
+        },
+        {
+            "headline": "SK Group mulls investing $100 mn in Vietnam's Pharmacity",
+            "content": "SK Group is in the final stages of negotiations to invest $100 million in Vietnam's largest pharmacy chain, Pharmacity, as part of the South Korean..."
+        }
+    ],
+    "20210622": [
+        {
+            "headline": "Thank you, Warren, for your generosity",
+            "content": "We received our annual gift from Warren in the amount of $3.1 billion in Berkshire Hathaway B shares. This brings Warren's contributions to more than $36..."
+        },
+        {
+            "headline": "Top 10 Holdings of Our Ultimate Stock-Pickers' Index",
+            "content": "We examine the biggest contributors to -- and detractors from -- the performance of the index during the past year."
+        },
+        {
+            "headline": "Wellfleet insurance firm puts its logo on Springfield’s Tower Square",
+            "content": "SPRINGFIELD — A giant “W” is now visible at the top of Tower Square, and Wellfleet, a Berkshire Hathaway insurance company, said its full name and logo will..."
+        },
+        {
+            "headline": "Inside Bunny Mellon's Historic Family Home in Cape Cod That Just Listed for $19.8 Million",
+            "content": "This stunning private island property was a site for the renowned designer and horticulturalist's garden design experiments."
+        },
+        {
+            "headline": "Rockton homeowners pursue class-action lawsuit over massive chemical fire",
+            "content": "Homeowners forced to evacuate their property near the massive Rockton chemical fire that burned for days last week have filed a lawsuit seeking class-action..."
+        },
+        {
+            "headline": "3 Top Competitors To Hims & Hers Health Inc.",
+            "content": "The healthcare industry is currently ripe for disruption, so let's look at newly public Hims & Hers' competitors in this lucrative space."
+        },
+        {
+            "headline": "How Work From Home culture is changing the face of work",
+            "content": "Several companies are allowing employees to decide where they want to work -- in the office, remotely or a combination of the two."
+        },
+        {
+            "headline": "Nubank names Rio pop star Anitta to board, sparking controversy",
+            "content": "SAO PAULO, June 21 (Reuters) - Brazilian pop star Anitta joined the board of Latin American financial start-up Nubank to help market its credit cards,..."
+        }
+    ],
+    "20210623": [
+        {
+            "headline": "Warren Buffett gives away another $4.1 billion, resigns as trustee at Gates Foundation",
+            "content": "Warren Buffett said Wednesday he will donate $4.1 billion worth of Berkshire Hathaway shares to five foundations, and that he will resign as the trustee at the..."
+        },
+        {
+            "headline": "Warren Buffett Has Given Away Half His Berkshire Stock But Is Worth Twice As Much",
+            "content": "The billionaire investor, who has pledged to give most of his fortune to philanthropic causes, announced a new $4.1 billion donation on Wednesday morning."
+        },
+        {
+            "headline": "Investor Warren Buffett gives away $4.1bn more to charity",
+            "content": "Investor Warren Buffett gives away $4.1bn more to charity ... Billionaire Warren Buffett has donated another $4.1bn (£2.9bn) worth of Berkshire Hathaway shares to..."
+        },
+        {
+            "headline": "Warren Buffett resigns from the Bill & Melinda Gates Foundation",
+            "content": "Warren Buffett has resigned from his trustee position at the Bill and Melinda Gates Foundation, the 90-year-old investor announced Wednesday."
+        },
+        {
+            "headline": "Warren Buffett’s Exit From the Gates Foundation Clouds Its Future (Published 2021)",
+            "content": "“For years I have been a trustee — an inactive trustee at that — of only one recipient of my funds, the Bill and Melinda Gates Foundation,” Mr. Buffett said in..."
+        },
+        {
+            "headline": "Warren Buffett resigns from Gates Foundation board",
+            "content": "Warren Buffett resigns from Gates Foundation board ... The Bill and Melinda Gates Foundation — the second-largest philanthropy in the world — is now governed by..."
+        },
+        {
+            "headline": "Live Updates: Warren Buffett Donating $4.1 Billion to Five Foundations",
+            "content": "Warren Buffett will donate $4.1 billion of Berkshire Hathaway shares to five foundations and is resigning from the Bill & Melinda Gates Foundation, NBC News..."
+        },
+        {
+            "headline": "Warren Buffett resigns from Gates Foundation in latest development following Gates divorce",
+            "content": "Berkshire Hathaway CEO Warren Buffett said he will resign as a trustee at the Bill & Melinda Gates Foundation. \"For years I have been a trustee — an."
+        },
+        {
+            "headline": "Warren Buffett defends his approach to philanthropy as he quits the Gates Foundation board",
+            "content": "Warren Buffett defends his approach to philanthropy as he quits the Gates Foundation board. The Berkshire Hathaway billionaire says he's “optimistic.”"
+        },
+        {
+            "headline": "Warren Buffett resigns from Gates Foundation, donates $4.1 billion",
+            "content": "Warren Buffett resigns from Gates Foundation, donates $4.1 billion ... Warren Buffett said he is stepping down from his role with the Bill and Melinda Gates..."
+        }
+    ],
+    "20210624": [
+        {
+            "headline": "Buffett Weighs In on Tax-Free Philanthropy (Published 2021)",
+            "content": "The Berkshire Hathaway chief, who has given away billions, asks whether donations should keep their special status."
+        },
+        {
+            "headline": "Warren Buffett resigns from Gates Foundation, has donated half his fortune",
+            "content": "Billionaire investor Warren Buffett said he is resigning as a trustee of the Bill and Melinda Gates Foundation, and has donated half his wealth to..."
+        },
+        {
+            "headline": "Hershey gains on Berkshire Hathaway takeover speculation (NYSE:HSY)",
+            "content": "Citing Rising Cost Of Ingredients, Hershey\"s Raises Prices 8 Percent. Scott Olson/Getty Images News Continue Reading Get alerts on HSY - The Hershey Company."
+        },
+        {
+            "headline": "By exiting, is Warren Buffett escaping potential messiness of the Gates split between his 2 longtime frien",
+            "content": "The pullback from the foundation gives Buffett a way to avoid the potential messiness of a split between two of his longtime friends."
+        },
+        {
+            "headline": "Warren Buffett resigns from Gates Foundation, has donated half his fortune",
+            "content": "The billionaire investor said he was resigning as a trustee of the Bill and Melinda Gates Foundation, and had donated half his wealth to philanthropy."
+        },
+        {
+            "headline": "Buffett quitting Gates Foundation",
+            "content": "Warren Buffett is stepping down as a trustee of the Bill & Melinda Gates Foundation less than two months after the couple said they planned to divorce,..."
+        }
+    ],
+    "20210625": [
+        {
+            "headline": "Warren Buffett Moves to Distance Himself From Bill Gates",
+            "content": "Buffett's departure, announced on Wednesday, comes as the foundation is embroiled in multiple scandals, including allegations of misconduct toward women—..."
+        },
+        {
+            "headline": "Warren Buffett's deputy grew his retirement account from $70,000 to $264 million in 29 years, ProPublica reports",
+            "content": "Warren Buffett's deputy grew his retirement account from $70,000 to $264 million in 29 years, ProPublica reports ... Warren Buffett built much of his fortune by..."
+        },
+        {
+            "headline": "Warren Buffett Steps Down as a Trustee of the Gates Foundation, Deepening Questions About Its Future",
+            "content": "Reports indicate the Microsoft co-founder had numerous meetings with convicted pedophile Jeffrey Epstein, ignored sexual harassment claims against his longtime..."
+        },
+        {
+            "headline": "Hershey jet spotted in Omaha, Warren Buffett’s backyard: analyst",
+            "content": "Don Bilson, head of event-driven research at Gordon Haskett, said in a note that a plane tracked as being owned by Hershey made a trip to Omaha."
+        },
+        {
+            "headline": "The man who lost a bet with Warren Buffett is ready for Round 2",
+            "content": "In 2017, Seides had lost a 10-year bet with Buffett that pitted Vanguard's S&P 500 index fund against a portfolio of high-cost hedge funds, as represented..."
+        },
+        {
+            "headline": "Birjada qanday pul topish mumkin. Sohaning eng tajribali mutaxassislari yosh investorlarga bergan maslahatlar",
+            "content": "TOP-3 likda Uorren Baffet, Rey Dalio va Keti Vud o'rin olgan. Investorlar oz tajribasiga asoslanib, bu sohaga endi kirib kelayotganlar uchun foydali..."
+        },
+        {
+            "headline": "Just weeks after the divorce announcement of Bill and Melinda, their long time friend Warren Buffet has resigned as a trustee from the Bill & Melinda Gates foundation",
+            "content": "Back in 2006, Warren Buffett pledged that he would give away all his Berkshire shares as annual gifts to the Bill & Melinda Gates Foundation, Susan Thompson..."
+        }
+    ],
+    "20210626": [
+        {
+            "headline": "Warren Buffett Just Solved the 2 Big Problems That All Successful People Face (Eventually)",
+            "content": "Buffett wanted to announce that he has now reached the point where he's donated to charity 50 percent of the Berkshire Hathaway \"A\" shares he once held."
+        },
+        {
+            "headline": "Warren Buffett's top 8 lessons from the COVID-19 pandemic",
+            "content": "Warren Buffett's top 8 lessons from the COVID-19 pandemic. One of the ways many people become successful is by approaching every crisis as an opportunity..."
+        },
+        {
+            "headline": "You Can Own a Piece of Amazon, Apple, Google or Tesla Through This Trading Platform",
+            "content": "Gotrade is a platform that makes it possible for investors to own a piece of American companies through fractional shares trading."
+        }
+    ],
+    "20210627": [
+        {
+            "headline": "Cook & James returns to in-person events with \"speed dating,\" cocktail class",
+            "content": "Atlanta real estate law firm Cook & James has begun to move from the virtual teambuilding events it held during the pandemic to in-person events."
+        },
+        {
+            "headline": "First Jobs Of 15 Top Billionaires Like Anand Mahindra and Warren Buffet",
+            "content": "Ratan Tata's first job was managing operations on the shop floor of Tata Steel in 1961. He is one of the finest businessmen India has ever seen."
+        }
+    ],
+    "20210628": [
+        {
+            "headline": "Berkshire Hathaway adds additional €40mn into its insurance company",
+            "content": "According to The Irish Times, Warren Buffett's Berkshire Hathaway has added an additional €40 million into its insurance company to bolster its capital."
+        },
+        {
+            "headline": "Hershey Jet Flew to Warren Buffett's Omaha, Sparking Deal Speculation",
+            "content": "\"We have long thought that he was the perfect buyer for Hershey,\" Gordon Haskett analysts said, adding that there could be other reasons for the trip."
+        },
+        {
+            "headline": "How Warren Buffett, Other Billionaires Build a Tax-Free Retirement Fortune",
+            "content": "A type of savings account that allows salary earners to save away portions of their regular income and withdraw it tax-free after retirement."
+        },
+        {
+            "headline": "Junior Geek of the Month: Take stock in Vineel Bhat, who teaches other teens about investing",
+            "content": "At the age of 8, Vineel Bhat was already thinking about retirement. Not that he was trying to rush things along before he even knew what he wanted to do."
+        },
+        {
+            "headline": "Peter Thiel’s $5 Billion Roth IRA: Only the Size is News",
+            "content": "by Bob Lord. Following up on their blockbuster reporting on the paltry income tax payments of America's top billionaires, ProPublica has exposed the..."
+        },
+        {
+            "headline": "In Pics | Top 10 philanthropists of the century",
+            "content": "Here we take a look at the most generous philanthropists of the century according to the 2021 EdelGive Hurun Philanthropists of the Century."
+        }
+    ],
+    "20210629": [
+        {
+            "headline": "Warren Buffett says the pandemic has had an 'extremely uneven' impact and is not yet over",
+            "content": "Covid created 'fabulous success'. For some businesses like auto dealers, the pandemic even brought on windfall profits, said Charlie Munger, vice chairman of..."
+        },
+        {
+            "headline": "Berkshire's Munger says China right to clip Ma's wings",
+            "content": "Berkshire Hathaway Inc (BRKa.N) Vice Chairman Charlie Munger praised China's move to impose a sweeping restructuring on Jack Ma's Ant Group, the fintech..."
+        },
+        {
+            "headline": "11 Ways Warren Buffett Lives Frugally",
+            "content": "Trying to build your savings, pay off debt and make the most of your money? You might want to try living like a billionaire -- but only if that billionaire..."
+        },
+        {
+            "headline": "Warren Buffett's deputy snowballed his retirement account from $70,000 into $264 million. Here are 2 of Ted Weschler's best investments",
+            "content": "Weschler's hedge fund invested in other obscure companies such as Roto-Rooter, a plumbing specialist, and Wilsons the Leather Experts, a leather-goods retailer."
+        },
+        {
+            "headline": "Warren Buffett: Discipline Is More Important than Intelligence",
+            "content": "Discipline is a character trait that can be difficult to acquire. Some people naturally find it easier than others to ignore their emotions and stick to a plan..."
+        },
+        {
+            "headline": "Buffett reflects on his first meeting with Munger: 'I'm not going to find another guy like this'",
+            "content": "Warren Buffett and Charlie Munger first met over dinner in 1959, Buffett recalled in CNBC's special, \"Buffett & Munger: A Wealth of Wisdom."
+        }
+    ],
+    "20210630": [
+        {
+            "headline": "Is Hershey Warren Buffett's Kind of Business?",
+            "content": "On top of being a Buffett-style business, Hershey's may only have one suitor -- Berkshire. The Hershey Trust Company has over 80% of the voting rights of..."
+        },
+        {
+            "headline": "America can learn from Communist China, says Berkshire’s Charlie Munger",
+            "content": "Berkshire Hathaway vice chairman Charlie Munger praised the Chinese government for silencing Alibaba's Jack Ma in a recent interview, adding that he wishes..."
+        },
+        {
+            "headline": "Warren Buffett, Charlie Munger Slam Robinhood, Archegos: 15 Best Quotes",
+            "content": "Warren Buffett: \"I knew when I met Charlie, after a few minutes in the restaurant, that this guy was gonna be in my life forever. We were gonna have fun..."
+        },
+        {
+            "headline": "Warren Buffett and Charlie Munger: ‘We made a lot of money' but here's 'what we really wanted’",
+            "content": "Warren Buffett and Charlie Munger have been friends for over 60 years and business partners since 1978. During that time, they've both become billionaires."
+        },
+        {
+            "headline": "June Vegas luxury sizzles: $25M record-breaker; local BHHS goes corporate",
+            "content": "This home smashed the all-time Las Vegas record sale for a single-family home, fetching a $25 million price on June 25."
+        },
+        {
+            "headline": "Why Warren Buffett's $5 Billion Airline Debacle Wasn't Actually a Mistake",
+            "content": "Yet as the pandemic brought air travel to a halt, Buffett made an about face during the spring of 2020. He made substantial sales of airline stocks in early..."
+        },
+        {
+            "headline": "Gates Foundation commits more than $2 billion to gender equality efforts. (Published 2021)",
+            "content": "The Bill and Melinda Gates Foundation on Wednesday pledged $2.1 billion in spending on gender equality over five years."
+        },
+        {
+            "headline": "25 Largest Insurance Companies in the US by Assets",
+            "content": "Berkshire Hathaway Inc (NYSE:BRK.A) has three insurance companies among its holdings: National Indemnity, GEICO, and General Re."
+        },
+        {
+            "headline": "Charlie Munger calls Robinhood 'a gambling parlor'—here's how Warren Buffett says to invest instead",
+            "content": "\"It's telling people they aren't paying commissions when the commissions are simply disguised in the trading,\" Munger said, referring to Robinhood's pledge that..."
+        }
+    ],
+    "20210701": [
+        {
+            "headline": "Melissa Morrell of Berkshire Hathaway HomeServices, C. Dan Joyner",
+            "content": "“She joined our company seven years ago and she fought ovarian cancer, twice. She died on July 7th, and it rocked me. I had also lost my mother to breast cancer..."
+        },
+        {
+            "headline": "‘Exactly the right thing to do’: Warren Buffett’s right-hand man praises China’s pandemic response",
+            "content": "Billionaire Warren Buffett and business partner Charlie Munger have opened up on the economic impacts of the coronavirus pandemic in a wide-ranging..."
+        },
+        {
+            "headline": "Elon Musk praises China’s ‘economic prosperity’ on 100th anniversary of Chinese Communist Party",
+            "content": "Elon Musk is applauding China on a momentous day for the country's ruling political party."
+        },
+        {
+            "headline": "Alex Crigler",
+            "content": "24/7, 365, nights and weekends, our clients are the top priority, but our parents showed us that you make time for all of your priorities."
+        },
+        {
+            "headline": "World’s top 10 richest people earned $222 billion in 6 months",
+            "content": "Ten of the wealthiest individuals according to the Bloomberg billionaires index gained a massive $221.52 billion in the past 6 months alone."
+        }
+    ],
+    "20210702": [
+        {
+            "headline": "SweetBay takes off: More housing, retail center coming to old Panama City airport site",
+            "content": "Since SweetBay had its grand opening in Panama City in 2016, the timetable on its development has accelerated."
+        },
+        {
+            "headline": "Mansion to become a home again on Lake Shore Drive",
+            "content": "The buyers who paid $4.25 million today will make a single-family residence out of the property, which since 1951 has been one of a pair housing the..."
+        },
+        {
+            "headline": "GM shakes up lithium industry with California geothermal project",
+            "content": "General Motors Co (GM.N) is investing in a U.S. lithium project that could become the country's largest by 2024, making the automaker one of the first to..."
+        },
+        {
+            "headline": "Older Americans Stockpiled a Record $35 Trillion. The Time Has Come to Give It Away.",
+            "content": "Transfers to heirs and others are unleashing a torrent of economic activity, including buying homes, starting businesses and giving to charity."
+        },
+        {
+            "headline": "Review: Time to put ‘Boss Baby’ in the corner?",
+            "content": "Pity the kids movie that follows Pixar's act. The Walt Disney Co.'s animation studio has long been a standard bearer that can be tough to match."
+        },
+        {
+            "headline": "Baby Del, Coronado’s 134-year-old Victorian, seeks $24 million",
+            "content": "One of San Diego County's finest examples of Victorian architecture is up for grabs on the resort peninsula of Coronado, where the 134-year-old Baby Del..."
+        },
+        {
+            "headline": "7 Things at Home Depot Every New Homeowner Needs",
+            "content": "A lot of the supplies any new homeowner needs are readily available at stores like Home Depot. Here's what real estate experts recommend you buy."
+        },
+        {
+            "headline": "Onex eyes credit products in its mission for expansion",
+            "content": "Onex launched a credit division, initially investing in bundles of non-investment grade debt known as collateralized loan obligations, or CLOs."
+        },
+        {
+            "headline": "Inside a $1.15M Hobbit home fit for ‘Lord of the Rings’ in California",
+            "content": "Situated on almost almost 16 acres of land, the home was designed by award-winning San Diego artist James T. Hubbell. The 89-year-old architect and..."
+        }
+    ],
+    "20210703": [
+        {
+            "headline": "Billionaire Warren Buffett Predicts New Pandemic Worse Than Covid-19",
+            "content": "Known as the 'Oracle of Omaha', Warren Buffett claims that the coronavirus pandemic \"is not the worst you can imagine\" and predicts a new one."
+        },
+        {
+            "headline": "New director takes charge at Salem Community Pantry",
+            "content": "Don Yeasted, the new director of the Salem Community Pantry, poses in the food area where people can now come inside again to make their choices."
+        },
+        {
+            "headline": "Number of dividend-paying firms falls at PSX",
+            "content": "The number of companies that distribute dividends to shareholders dropped from 256 in FY19 to 217 in FY20 and 180 in FY21 on the Pakistan Stock Exchange."
+        },
+        {
+            "headline": "The 10 Richest People in Arizona",
+            "content": "In every state, there are people at different ends of the wealth spectrum. While some people are living below the poverty line, there are others who are."
+        }
+    ],
+    "20210704": [
+        {
+            "headline": "Warren Buffett's Son Taps $2 Billion of Foundation Funding for Community",
+            "content": "Peter Buffett, his youngest child, has been using some of those funds to revitalize the city of Kingston, New York, he told The Wall Street Journal in a recent..."
+        },
+        {
+            "headline": "Warren Buffett’s top tips for beating inflation",
+            "content": "1. Invest in good businesses with low capital needs. Buffett has long advocated for owning businesses that earn high returns on the capital invested in the..."
+        },
+        {
+            "headline": "Homes That Sold for Around $1 Million (Published 2021)",
+            "content": "Our survey of recent residential sales in New York City and the surrounding region focuses on homes that sold around a certain price point."
+        },
+        {
+            "headline": "How Do Bank Stocks Perform When Inflation and Recessions Hit?",
+            "content": "Generally speaking, financial stocks are good ways to hedge against inflation, if inflation doesn't get out of control."
+        }
+    ],
+    "20210705": [
+        {
+            "headline": "Buffett and Munger: We made a ’lot of money’ but here’s ’what we really wanted’",
+            "content": "Legendary investors Warren Buffett and Charlie Munger are enormously popular amongst almost everyone who invests or trades in equities."
+        },
+        {
+            "headline": "How Stewart Horejsi became a billionaire from one investment",
+            "content": "To many people, becoming wealthy is a lifetime goal. While many spend lots of time and energy to make this goal a reality, others enjoy what can be termed..."
+        }
+    ],
+    "20210706": [
+        {
+            "headline": "Warren Buffett's realty brokerage Berkshire Hathaway HomeServices forays into India",
+            "content": "The Indian entity will be known as Berkshire Hathaway HomeServices Orenda India. The firm will be servicing key property markets across India including..."
+        },
+        {
+            "headline": "Berkshire Hathaway HomeServices welcomes its real estate franchisee in India",
+            "content": "Expands global footprint with announcement of Berkshire Hathaway HomeServices Orenda India. Berkshire Hathaway HomeServices welcomes its real estate..."
+        },
+        {
+            "headline": "Elon Musk Posts Warren Buffett Crypto Meme and Then Removes It from Twitter",
+            "content": "Tesla CEO and meme lover Elon Musk has published a weird cryptocurrency meme with Warren Buffett's photo but then removed it from his Twitter page."
+        },
+        {
+            "headline": "Elon Musk shares then deletes bizarre Warren Buffett crypto meme",
+            "content": "Elon Musk has shared and deleted a meme featuring a fake quote about cryptocurrency from billionaire investor Warren Buffett. The SpaceX and Tesla CEO posted..."
+        },
+        {
+            "headline": "Musk Trolls Buffett With Fake Quote on Twitter, Then Deletes It",
+            "content": "Elon Musk went after Bitcoin hater Warren Buffett sharing what looked like a bullish crypto quote attributed to the billionaire investor."
+        },
+        {
+            "headline": "Billionaires return to annual Sun Valley \"summer camp\" retreat this week",
+            "content": "Business titans across media, tech and entertainment will come together this week for the famous \"Sun Valley\" summer conference."
+        },
+        {
+            "headline": "Discovery’s David Zaslav promises more media merger mania at Sun Valley",
+            "content": "Allen & Co.'s “summer camp for billionaires” kicked off on Tuesday with David Zaslav of Discovery promising that the media merger frenzy created by the..."
+        }
+    ],
+    "20210707": [
+        {
+            "headline": "Council Post: Cracking The Investment Code: The Tried-And-True Method For Achieving Investment Success",
+            "content": "One cannot become a good investor without understanding how to value businesses and investments."
+        },
+        {
+            "headline": "EV deal shows ‘Lithium Valley’ could be for real",
+            "content": "A General Motors deal last week to extract lithium for batteries in California is being called potentially revolutionary for the electric vehicle industry."
+        },
+        {
+            "headline": "Bill, Melinda Gates to run foundation jointly after divorce",
+            "content": "Bill Gates and Melinda French Gates will continue to work together as co-chairs of their foundation even after their planned divorce."
+        },
+        {
+            "headline": "Gates Foundation lays out contingency plan amid high-profile divorce",
+            "content": "The Gates Foundation said Melinda French Gates and Bill Gates, in the midst of a high-profile divorce, will continue to work as co-chairs for a two-year..."
+        },
+        {
+            "headline": "Bill & Melinda Gates Foundation Expanding Board of Trustees, Will Announce Names in 2022",
+            "content": "Foundation CEO Mark Suzman said it was the right time to expand the board of trustees and diversify the foundation's leadership."
+        },
+        {
+            "headline": "Warren Buffett and Diane Von Furstenberg arrive for Sun Valley day two",
+            "content": "Tim Cook, Warren Buffett, Diane Von Furstenberg and Evan Spiegel are spotted arriving at Sun Valley where the combined wealth of attendees is more than $700B."
+        },
+        {
+            "headline": "Melinda French Gates could step down from foundation in 2 years",
+            "content": "News of the agreement came as part of a Wednesday announcement that also revealed a $15 billion donation to the Bill & Melinda Gates Foundation's endowment..."
+        },
+        {
+            "headline": "Amazon's move to healthcare - a timeline",
+            "content": "We take a look at the key milestones of Amazon's history with healthcare so far. Amazon is arguably the tech giant that is making the biggest impact in the..."
+        }
+    ],
+    "20210708": [
+        {
+            "headline": "Bill Gates and Warren Buffett’s unlikely 30-year friendship",
+            "content": "Buffett 'wasn't thrilled' to meet Gates during Fourth of July, 1991 – fast forward a few decades and he's pledged to donate virtually all his wealth to..."
+        },
+        {
+            "headline": "Bill Gates, Warren Buffett want to bring a new kind of nuclear power to Wyoming. Not everyone is happy about it.",
+            "content": "Former coal miner Lynne Huskinson is skeptical. While she worries about the fate of coal workers, Huskinson is also concerned about who backs the project. Gates..."
+        },
+        {
+            "headline": "JOHN SUTHERLAND joins BHHS Bay Street Realty Group Cora Bett Thomas Realty",
+            "content": "July 8, 2021 - John Southerland recently joined the Berkshire Hathaway Homeservices Bay Street Realty Group Cora Bett Thomas RealtyCommercial Division."
+        },
+        {
+            "headline": "Bill Gates and his wife to run foundation together after divorce | Daily Sabah",
+            "content": "American business magnate Bill Gates and his wife Melinda French Gates will keep working together as co-chairs of their foundation even after their planned."
+        },
+        {
+            "headline": "FOR SALE: Massive South Jersey estate set on 20 wooded acres",
+            "content": "If you've ever dreamed of owning a sprawling estate set on 20 wooded acres of land, look no further than 47 Jackson Road. This massive 8,500 sq. ft. home..."
+        },
+        {
+            "headline": "Bill and Melinda Gates agree to two-year trial period working together at foundation",
+            "content": "The Gates Foundation said Melinda French Gates and Bill Gates, who are in the middle of a divorce, will continue to work as co-chairs for two-years and..."
+        },
+        {
+            "headline": "Five character-filled properties for sale in Madrid",
+            "content": "Madrid is a thriving city that wears its history on its sleeve, with a rich architectural tapestry that spans its time as the seat of the Habsburg Empire..."
+        }
+    ],
+    "20210709": [
+        {
+            "headline": "Buffett, Gates, Zuckerberg: The Richest People At 2021’s ‘Summer Camp For Billionaires’",
+            "content": "Sun Valley 2021's gilded guest list includes at least 25 billionaires, worth some $825 billion."
+        },
+        {
+            "headline": "10 Worst Investments Made by Millionaires",
+            "content": "According to the Credit Suisse Global Wealth report, the number of American millionaires totaled about 21.9 million as of 2021, or about 6.6% of the total..."
+        },
+        {
+            "headline": "Geodis Expands Freight Brokerage Capacity With Velocity Acquisition",
+            "content": "Geodis has reached an agreement to acquire all assets of Velocity Freight Transport, the supply chain operator announced July 6."
+        },
+        {
+            "headline": "Fresh Off Netflix Deal, Shonda Rhimes Asks $25 Million for L.A. Home",
+            "content": "The Hancock Park compound includes a roughly 11700-square-foot main home, a separate guest house and a cabana."
+        },
+        {
+            "headline": "Look Who Showed Up for This Year's 'Summer Camp for Billionaires'",
+            "content": "The weeklong conference brings together the likes of Sheryl Sandberg, Tim Cook, Bill Gates and Warren Buffett."
+        },
+        {
+            "headline": "Is A Financial Education The Key To Being A Successful Manager?",
+            "content": "It's not just these three famous CEOs whose financial knowledge has helped them become successful - according to research from recruiters Robert Halff,..."
+        },
+        {
+            "headline": "Paytm president Amit Nayyar, 4 other senior executives resign ahead of IPO",
+            "content": "Nayyar had joined the Paytm board in 2019. He was instrumental in building Paytm's financial subsidiary. Industry watchers have termed Nayyar's exit from..."
+        },
+        {
+            "headline": "Giving Pledge is meant for the poor, but benefits rich donors",
+            "content": "The Giving Pledge started by Warren Buffett and Bill and Melinda Gates in 2010 encourages the super rich everywhere to distribute their wealth."
+        }
+    ],
+    "20210710": [
+        {
+            "headline": "Jersey Shore beachfront house with 2 pools sells for $12M",
+            "content": "The Ocean City home sold for 30% more than what it traded for less than a year ago, the latest sign of the red-hot Jersey Shore housing market."
+        }
+    ],
+    "20210711": [
+        {
+            "headline": "Warren Buffett Warned Gates Foundation CEO About Danger of 'ABCs'",
+            "content": "Buffett has blasted arrogance, bureaucracy, and complacency as \"corporate cancers\" that can destroy large organizations."
+        },
+        {
+            "headline": "Fires rage in several states as heat wave broils US West",
+            "content": "Firefighters working in searing weather struggled to contain a Northern California wildfire that continued to grow Sunday and forced the temporary closure..."
+        },
+        {
+            "headline": "Making an all-important connection",
+            "content": "As a seventh grader, new Acton-Agua Dulce Unified School District Superintendent Eric Sahakian did not feel connected to his school or peers."
+        },
+        {
+            "headline": "Bloomberg, Cooper and von Furstenberg enjoy penultimate day of Sun Valley 'billionaire summer camp'",
+            "content": "Idaho's annual gathering of the elite continued on Friday, with a speech on climate change from Bill Gates. On Saturday Warren Buffett's traditional remarks..."
+        }
+    ],
+    "20210712": [
+        {
+            "headline": "Buffett’s company abandons $1.3B natural gas pipeline deal",
+            "content": "OMAHA, Neb. (AP) — Warren Buffett's company is abandoning its purchase of a natural gas pipeline from Dominion Energy because of uncertainty about whether..."
+        },
+        {
+            "headline": "Warren Buffett allowed Ndamukong Suh to shadow him for several weeks. The NFL star shared his 3 key takeaways.",
+            "content": "The Tampa Bay Buccaneers player learned to keep things simple, focus on passions and people, and stay curious."
+        },
+        {
+            "headline": "Aquamarine Capital’s Top 10 Stock Picks",
+            "content": "In this article, we are going to discuss Aquamarine Capital's top 10 stock picks. If you want to skip our detailed analysis of Aquamarine and its founder, Guy..."
+        },
+        {
+            "headline": "Emmy Award-Winning Journalist Transitions to Real Estate Career",
+            "content": "Sharon Tay is pivoting to a real estate career, bringing her passion for architecture to the Beverly Hills office of Berkshire Hathaway HomeServices California..."
+        },
+        {
+            "headline": "KRISTINE COMPTON joins BHHS Bay Street Realty Group Cora Bett Thomas Realty",
+            "content": "July 12, 2021 - Berkshire Hathaway Homeservices Bay Street Realty Group Cora Bett Thomas Realty has announced the hiring of Kristine Compton as a Realtor®."
+        },
+        {
+            "headline": "Berkadia Appoints Senior Managing Director Patrick McGlohn To Mortgage Banking Platform",
+            "content": "Berkadia announced today the addition of Senior Managing Director Patrick McGlohn to its mortgage banking platform. McGlohn will be based in Berkadia's..."
+        },
+        {
+            "headline": "“Golden Triangle” for Industrial Properties from Illinois to Texas to Georgia",
+            "content": "For industrial investors, there's gold in the heartland — a \"Golden Triangle,\" that refers to the region of the country stretching from Illinois to Texas to..."
+        },
+        {
+            "headline": "Gangs complicating Haiti recovery",
+            "content": "The escalation in gang violence threatens to complicate — and be aggravated by — political efforts to recover from last week's brazen slaying of President..."
+        },
+        {
+            "headline": "Accused 'sex slaver' James Robert Davis's five girlfriends planning to co-parent his baby",
+            "content": "His \"main\" girlfriend who is expecting a baby in September shared a picture of a onesie that read \"six mums are better than one.\""
+        }
+    ],
+    "20210713": [
+        {
+            "headline": "Warren Buffett's Banker Byron Trott Files for Weber IPO",
+            "content": "Byron Trott's BDT is Weber's biggest shareholder. Buffett has praised Trott's dealmaking skills, expertise, and trustworthiness."
+        },
+        {
+            "headline": "Goodall Homes Acquires Legacy Homes of Alabama",
+            "content": "Goodall Homes, a subsidiary of Berkshire Hathaway company Clayton Properties Group—No. 8 on the 2021 Builder 100—has acquired Legacy Homes of Alabama..."
+        },
+        {
+            "headline": "My 'Too Hard' Pile Is Pretty Big",
+            "content": "A term coined by Charlie Munger to describe investments that just aren't worth the effort because they fall outside of the Berkshire Hathaway team's circle of..."
+        },
+        {
+            "headline": "What Happens When a Buffett Buys Your Town?",
+            "content": "Warren Buffett's son Peter has dropped $160 million—and probably a lot more—to turn a county in upstate New York into his personal farm-to-table utopia..."
+        },
+        {
+            "headline": "Kraft Heinz Employees Say 3G's Cost Cutting Is Gutting the Food Giant",
+            "content": "Under the private-equity firm 3G Capital and Berkshire Hathaway, Kraft Heinz was supposed to be a powerhouse in the food world. Advertisement."
+        }
+    ],
+    "20210714": [
+        {
+            "headline": "Joel Greenblatt On Meeting Warren Buffett",
+            "content": "And then just on a personal level, knowing it was like one of the biggest days of my life, my chance to meet Warren Buffett. Someone I've idolized in so many..."
+        },
+        {
+            "headline": "As Private Flying Breaks Records, A Public Wheels Up Shoots For The Stars",
+            "content": "When Kenny Dichter ended his company's first day of trading by hammering the closing bell of the New York Stock Exchange earlier today, it marked the start..."
+        },
+        {
+            "headline": "Experts say this is the very real nightmare scenario for Kraft Heinz",
+            "content": "Analysts say 3G's cost cutting has already damaged Kraft Heinz. Without a big comeback, the food giant may be stuck in neutral."
+        },
+        {
+            "headline": "$550,000 Homes in New Jersey, New York and Delaware (Published 2021)",
+            "content": "An English country cottage in Haworth, a two-bedroom co-op in Harlem and a stone mansion in Wilmington."
+        },
+        {
+            "headline": "Wheels Up Jumps In Debut As First Aviation Stock Of Its Kind",
+            "content": "Wheels Up (UP), the first publicly traded stand-alone private jet company, began trading on the New York Stock Exchange on Wednesday. UP stock rose."
+        },
+        {
+            "headline": "Dormzilla Descends on UCSB",
+            "content": "Amid threats of litigation and increasing public pressure over its acute housing shortage, UCSB has resurrected plans for a massive, 11-story dormitory on..."
+        },
+        {
+            "headline": "Billionaires Say They Can’t Give Their Money Away Fast Enough: Here’s How",
+            "content": "Many “Giving Pledge” billionaires have seen their net worth rise. But there is a serious path for them to give away their money, if they commit to doing so."
+        },
+        {
+            "headline": "Biden to nominate Indian-American surgeon Atul Gawande to senior USAID position",
+            "content": "US President Joe Biden intends to nominate Indian-American surgeon and popular author Atul Gawande to a senior leadership position in the US Agency for..."
+        }
+    ],
+    "20210715": [
+        {
+            "headline": "Berkshire Hathaway Buying Hershey? What Buffett Might Be Thinking",
+            "content": "The rumor mill went wild on reports that Berkshire Hathaway (NYSE:BRK-B) might be looking to acquire Hershey (NYSE:HSY)."
+        },
+        {
+            "headline": "Elizabeth Warren Slams Warren Buffett's Tax Practices, Calls for Probe",
+            "content": "Elizabeth Warren wants to investigate Warren Buffett and other billionaires' tax practices — and probe the banks and wealth managers behind them."
+        },
+        {
+            "headline": "Li Lu of Himalaya Capital dumps 10.7 million BYD shares for US$309 million",
+            "content": "Li Lu, founder of US-based Himalaya Capital, sold 10.8 million of BYD's H shares over two days last week for nearly US$309 million."
+        },
+        {
+            "headline": "10 Worst Investments Made by Millionaires",
+            "content": "According to the Credit Suisse Global Wealth report, the number of American millionaires totaled about 21.9 million as of 2021, or about 6.6% of the total..."
+        },
+        {
+            "headline": "Why Bill Gates Is Banking On Small Modular Nuclear Reactors",
+            "content": "When TerraPower and PacifiCorp said in June that they would place a right-sized nuclear reactor in Wyoming where a coal plant once stood, it barely made a..."
+        },
+        {
+            "headline": "Indian digital payments giant Paytm files for $2.2 billion IPO",
+            "content": "Digital payments giant Paytm, one of India's most valuable startups, plans to raise up to $2.2 billion in an initial public offering."
+        },
+        {
+            "headline": "David and Tom Gardner – Top 10 Stocks Picks by The Motley Fool Brothers",
+            "content": "You've heard of Warren Buffett, the legendary value investor and co-founder of Berkshire Hathaway. Perhaps you've also heard of Charlie Munger,..."
+        },
+        {
+            "headline": "Whitney Tilson's Report From The Berkshire Hathaway Annual Meeting",
+            "content": "Whitney Tilson got back a week ago Sunday night from my 21st consecutive Berkshire Hathaway annual meeting and, as usual, had a blast – I recharged my value..."
+        }
+    ],
+    "20210716": [
+        {
+            "headline": "Berkshire Hathaway, Ratan Tata among major investors looking to exit Paytm in record IPO",
+            "content": "Tata group Chairman Emeritus Ratan Tata, who had picked up a small stake in Paytm in 2015 is also selling his stake. Tata owns 75,000 equity shares, making up..."
+        },
+        {
+            "headline": "The investor responsible for Warren Buffett's 25x gain on BYD just sold $320 million of the electric-vehicle maker's stock",
+            "content": "Li Lu's Himalaya Capital Management sold around 11 million BYD shares in two days, slashing its stake by 15%."
+        },
+        {
+            "headline": "Large self-insured employers lack power in hospital price negotiations",
+            "content": "Our study suggests that almost all employers, operating alone, simply do not have the market power to impose a threat of effective negotiation."
+        },
+        {
+            "headline": "1950s church near Tyler Perry Studios fetches cool $1M",
+            "content": "A Sylvan Hills church that was marketed as being ripe for new housing south of downtown has sold for a million dollars, according to listing services."
+        },
+        {
+            "headline": "We ranked crypto companies with Glassdoor — it opened a rabbit hole",
+            "content": "Kraken is once again suing an employee for leaving a Glassdoor review. How reliable is the platform for finding a job in crypto? You decide."
+        },
+        {
+            "headline": "After 45 years, Todd & Stevie Thompson to retire from Guaranteed Plants & Florist",
+            "content": "The Monmouth Journal is a digital news site serving the Two River area of Northern Monmouth County in New Jersey, including the towns of Red Bank,..."
+        },
+        {
+            "headline": "Florida Man Arrested For Beating Up Alligator to \"Teach It A Lesson\"",
+            "content": "A 32-year-old fisherman named William Hodge was arrested yesterday after officers watched him try to throw an alligator on top of a building in Daytona Beach..."
+        },
+        {
+            "headline": "Top 10 Free Resources To Learn Power BI In 2021",
+            "content": "In this article, we will highlight some of the free courses and resources to help you learn Microsoft Power BI."
+        },
+        {
+            "headline": "Who Owns How Much Of IPO-Bound One97 Communications",
+            "content": "Paytm intends to raise INR 16600 Cr in the IPO of which half will be through a fresh issue and the other half via offer for sale."
+        },
+        {
+            "headline": "Idaho Lottery Winners Over the Years for National Lottery Day",
+            "content": "National Lottery Day is the perfect day for you to try your luck. Take a look at previous Idaho winners and where they are now."
+        }
+    ],
+    "20210717": [
+        {
+            "headline": "Two New Mega Hancock Park Real Estate Listings",
+            "content": "Television producer Shonda Rhimes is selling her historic Hancock Park home for $25 million. If it sells, the beautifully renovated Elmer Grey designed home..."
+        },
+        {
+            "headline": "Merger Mania: Predicting the Future",
+            "content": "Looking back at the proposed 1983 merger between Southern Pacific and Santa Fe, executives had no idea that the Interstate Commerce Commission (predecessor..."
+        },
+        {
+            "headline": "Paytm eyes largest Indian IPO to raise Rs 16,600 crore",
+            "content": "India Business News: After months of speculation and hectic activities, digital payments major Paytm finally set the ball rolling to get listed through a Rs..."
+        },
+        {
+            "headline": "What cars do the world's top-10 richest persons drive? Here's the list",
+            "content": "From modest Honda Accord to Honda Jazz, the graph of luxury cars touches models such as Mercedes Maybach 62, Lexus LFA, Tesla Roadster and Porsche."
+        }
+    ],
+    "20210718": [
+        {
+            "headline": "Where to find deals on National Ice Cream Day",
+            "content": "OKLAHOMA CITY (KOKH) - With temperatures soaring this summer, everyone deserves a cold treat. Various restaurants and ice cream parlors across the country..."
+        },
+        {
+            "headline": "What Richard Branson and Warren Buffett Reveal About Personal Branding",
+            "content": "These two men illustrate the genius strategy of building a corporate brand from the founder's personality."
+        },
+        {
+            "headline": "Top 10 most valuable startups in the world",
+            "content": "There are 464 unicorn startups. Most of them are in China, the US and India. Here we take a look at the ten most valuable startups."
+        }
+    ],
+    "20210719": [
+        {
+            "headline": "Warren Buffett’s 15 Biggest Money Mistakes — and What You Can Learn From Them",
+            "content": "Despite his investing prowess, he has made a few mistakes over the years -- and he continues to make some major missteps."
+        },
+        {
+            "headline": "Buffett could double his money with Paytm IPO’",
+            "content": "Warren Buffett's Berkshire Hathaway is likely to double its investment in Paytm if the fintech's parent, One97 Communications, is valued at $21.5 billion."
+        },
+        {
+            "headline": "Venture Capital Investment In Brazil Reaches $5.2 Billion During H1 2021",
+            "content": "Brazilian startups attracted record levels of investment as the ecosystem matures with international funds rushing to seize opportunities in the Latin..."
+        },
+        {
+            "headline": "John and Patty Noel donate land to Schmeeckle",
+            "content": "Moses Creek Meadows is located near Yulga Park in the Town of Hull, at the headwaters of Moses Creek."
+        },
+        {
+            "headline": "Warren Buffett’s Latest Three New Investments",
+            "content": "Warren Buffett does not need any introduction. He is a very successful investor who is in charge of Berkshire Hathaway. He has an impressive track record..."
+        }
+    ],
+    "20210720": [
+        {
+            "headline": "Geodis Acquires Freight Brokerage Firm Velocity",
+            "content": "Geodis has acquired Plano, TX-based freight brokerage company Velocity Transport from Berkshire Hathaway subsidiary McLane Company."
+        },
+        {
+            "headline": "Richard Ferrari named new CEO of Douglas Elliman New York",
+            "content": "Richard Ferrari, an agent with 30 years experience, has been tapped to lead Douglas Elliman's New York and Northeast division."
+        },
+        {
+            "headline": "Kid Cudi purchases $7.7 million mansion in Calabasas: See photos",
+            "content": "Kid Cudi has reportedly purchased a new mansion in Calabasas, California for $7.7 million. Photo: Berkshire Hathaway HomeServices. According to the listing,..."
+        },
+        {
+            "headline": "Self-made billionaire Thomas Tull on becoming rich, and how Warren Buffett changed his thinking",
+            "content": "Billionaire Thomas Tull gets personal with CNBC Make It about everythhing from being raised by a single mothe to the habit he got from Warren Buffett."
+        },
+        {
+            "headline": "4 Things Gen Z Can Learn from Charlie Munger",
+            "content": "Meme stocks might look attractive, but the investment strategy of the Vice-Chairman of Berkshire Hathaway can provide some helpful advice for young..."
+        },
+        {
+            "headline": "Kid Cudi Buys $7.7 Million Mansion",
+            "content": "Kid Cudi has purchased a Mediterranean mansion in Calabasas, California for $7.7 million."
+        }
+    ],
+    "20210721": [
+        {
+            "headline": "Merry-Go-Round Never Stops for Falmouth’s Hand-Crafted Lion Motorcycle Rider",
+            "content": "Many folks in Cape Cod know of Lance Shinkle and his gorgeous, handcrafted wooden carousel horses, including the Carousel of Light in Falmouth."
+        },
+        {
+            "headline": "Private equity firm picks up Kirby vacuum company",
+            "content": "The manufacturer, a fixture in Cleveland business for more than a century, has been sold to Chicago-based Right Lane Capital by long-term owner Scott Fetzer..."
+        },
+        {
+            "headline": "Robinhood is fined $70 million over misleading customers and system outages. (Published 2021)",
+            "content": "The fine was the largest ever imposed by the Financial Industry Regulatory Authority, which is known as FINRA."
+        },
+        {
+            "headline": "JPMorgan hands Jamie Dimon a stock award potentially worth millions if he stays CEO for at least 5 more years",
+            "content": "The bank's board gave Dimon 1.5 million stock appreciation rights, which will pay off if JPMorgan stock rises over the next few years."
+        },
+        {
+            "headline": "Massive furniture store plans to set up shop in Idaho Falls",
+            "content": "RC Willey plans to build a home furnishing store on 21 acres just east of Interstate 15 and south of Sunnyside Road. This location will become the second store..."
+        },
+        {
+            "headline": "Jamaican Dancehall legend Buju Banton shares ‘Summer Body’: Listen",
+            "content": "Jamaican musical legend Buju Banton released a new track called 'Summer Body' today, right in time for all of our pandemic-safe celebrations."
+        },
+        {
+            "headline": "Total Stock Market Index Vs S&P 500: Which is better?",
+            "content": "A huge part of almost every equity investor's portfolio consists of large-cap stocks. But investors also want some exposure to mid-cap and small-cap stocks..."
+        }
+    ],
+    "20210722": [
+        {
+            "headline": "Warren Buffett Sold Kirby, Once Made up 5% of Berkshire Profits",
+            "content": "Buffett included Kirby in Berkshire's \"Sainted Seven\" businesses, along with the likes of See's Candies and Nebraska Furniture Mart."
+        },
+        {
+            "headline": "Dynamic duo boosts BHHS Luxury Collection",
+            "content": "Meet the creative force behind the Berkshire Hathaway HomeServices California Realty Luxury Collection Program: Sharan Schefrin and Lilly Dollenmayer."
+        },
+        {
+            "headline": "Hermiston home manufacturer sued for alleged civil rights violations",
+            "content": "State records show Marlette Homes denied similar allegations earlier this year, while admitting to racial slurs appearing in company bathrooms."
+        },
+        {
+            "headline": "Analysis: Former BNSF executive Matt Rose’s 2019 warning comes true",
+            "content": "BNSF Railway Executive Chairman Matt Rose warned that the other Class I railroads were inviting regulatory risk by adopting Precision Scheduled Railroading."
+        },
+        {
+            "headline": "Charlie Munger on the Limitations of Sector Rotation",
+            "content": "Berkshire Hathaway (BRK.A) (BRK.B) vice chairman Charlie Munger (Trades, Portfolio)'s views on sector rotation could be extremely insightful for investors."
+        },
+        {
+            "headline": "Colossal New Hampshire Boulder Is the Biggest of Its Kind in North America",
+            "content": "Madison Boulder in Madison, New Hampshire may just look like a really oversized rock, but it's in fact thought to be the largest glacial erratic in all of..."
+        },
+        {
+            "headline": "Gold Coast Estate Once Home to Ric Wake, John McEnroe Asks $6.75M",
+            "content": "The Gold Coast estate once home to tennis legend John McEnroe and later owned by Grammy and Oscar-winning record producer Ric Wake is listed for sale in..."
+        },
+        {
+            "headline": "America's Worst CEO-to-Worker Pay Ratios",
+            "content": "These 10 S&P 500 firms boast sky-high CEO-to-worker pay ratios that see their executives making thousands of times more than their median employee."
+        },
+        {
+            "headline": "On the Market: An Oceanside House in Mashpee with Sweeping Waterfront Views",
+            "content": "This home overlooking Nantucket Sound is a unique, contemporary take on the beach house with tall windows, a heated pool, and a guest house."
+        },
+        {
+            "headline": "The Real Reason Warren Buffett Allegedly Cut Off His Granddaughters",
+            "content": "Nicole told Reuters that Buffett allegedly disowned Erica, too, and as of 2008, she was living off of $40,000 a year from her paintings, which is ironic..."
+        }
+    ],
+    "20210723": [
+        {
+            "headline": "Projects of the Year: High-end finishes highlight new Berkshire Hathaway offices",
+            "content": "The renovation consists of high-end modern finishes including level 5 drywall finishes, glass curtain-wall office fronts, granite counters, crown molding and..."
+        },
+        {
+            "headline": "In 1999, Warren Buffett was asked what you should do to get as rich as him—his advice still applies today",
+            "content": "The Oracle of Omaha said that if he were graduating from college in 1999 and had $10000 to invest, he would be strategic about choosing where to put his..."
+        },
+        {
+            "headline": "Steve Jobs’ First Ever Job Application Is Up For Auction As An NFT",
+            "content": "The page-long application was written by Jobs after he dropped out of Reed College, three years before he co-founded Apple in 1976 alongside Steve Wozniak."
+        },
+        {
+            "headline": "Ant-backed Zomato's stellar debut sets pace for other Indian tech listings",
+            "content": "Indian food delivery firm Zomato Ltd (ZOMT.NS) surged 65.8% in its stock market debut on Friday, giving the startup a valuation of 988.49 billion rupees..."
+        },
+        {
+            "headline": "Downtown Manassas Midyear Market Report 2021",
+            "content": "For the first half of 2021, overall vacancy in Historic Downtown sat at 3.2%—well below the five-year average (4.9%)—hovering slightly above the historic low..."
+        },
+        {
+            "headline": "SPECIAL REPORT: How One Committee Is Set to Advance Wilton’s Housing Goals Amidst Changing Landscape",
+            "content": "The committee's purpose is to evaluate, define, and monitor the need for diverse housing options and affordable housing in Wilton."
+        },
+        {
+            "headline": "With Quebec rejecting a $14B LNG project, is the industry at a dead end in Canada?",
+            "content": "Quebec's environment minister recently cited environmental concerns as the reason to axe a proposed multibillion-dollar liquefied natural gas (LNG) project."
+        }
+    ],
+    "20210724": [
+        {
+            "headline": "Angels' Sandoval loses no-hit try with 1 out in 9th vs Twins",
+            "content": "Patrick Sandoval of the Los Angeles Angels has lost his no-hit bid with one out in the ninth inning against the Minnesota Twins."
+        },
+        {
+            "headline": "Northrop Realty, A Long & Foster Company",
+            "content": "Northrop Realty, the #1 Specialty Brokerage in America, is comprised of passionate real estate, marketing, and administrative professionals committed to…"
+        },
+        {
+            "headline": "Bill & Melinda Gates Foundation Faces Turmoil From Divorce",
+            "content": "Inside the turmoil at the Bill & Melinda Gates Foundation, where employees say divorce, Epstein, and vaccines have left some staffers polishing their résumés."
+        }
+    ],
+    "20210725": [
+        {
+            "headline": "15 Best Warren Buffett Stocks to Buy Now",
+            "content": "As you can see, investing in Berkshire Hathaway hasn't been a good idea over the last 10 years. However, our research has shown that there is a positive..."
+        },
+        {
+            "headline": "Christian County undersheriff Howard Buffett recognized for saving woman at southern border",
+            "content": "Christian County undersheriff, former Macon County sheriff Howard Buffett is credited with saving a woman while he was on a humanitarian trip."
+        },
+        {
+            "headline": "NV Energy reports power outages in Las Vegas area due to storm",
+            "content": "NV Energy is reporting more than 14000 customers are without power Sunday in Southern Nevada. Most of the outages appear to be due to area storms."
+        },
+        {
+            "headline": "How much should you invest in equities? Don't look at your age!",
+            "content": "In a 2013 letter to Berkshire Hathaway shareholders, Warren Buffett shared an investment plan for his wife which was in contradiction to not only the..."
+        }
+    ],
+    "20210726": [
+        {
+            "headline": "Warren Buffett Compared Investing to Olympic Diving, 100m: Best Quotes",
+            "content": "Warren Buffett has compared investing to Olympic diving, sprinting, and the high jump. Here are his 7 best quotes about the Games. · Warren Buffett has used the..."
+        },
+        {
+            "headline": "18 books billionaire Warren Buffett thinks everyone should read",
+            "content": "Buffett says that the former Secretary of the Treasury's book about the financial crisis is a must-read for any manager."
+        },
+        {
+            "headline": "These are the watches worn by Wall Street's most powerful men",
+            "content": "Oil magnate T. Boone Pickens also wears a yellow gold Rolex Day-Date that he purchased in 1964. Advertisement. Lloyd Blankfein, Goldman Sachs CEO."
+        },
+        {
+            "headline": "Tony Robbins, Richard Branson, and 28 other successful people share their best career advice for people in the",
+            "content": "Sheryl Sandberg: There is no straight path to where you are going. Sheryl Sandberg: There is no straight path to where you are going."
+        },
+        {
+            "headline": "12 investing books to read if you want to get rich",
+            "content": "'The Little Book of Common Sense Investing,' by Jack Bogle. Endorsed by Buffett in his 2014 Berkshire Hathaway shareholder letter, \"The Little Book of..."
+        },
+        {
+            "headline": "15 Frugal Billionaires Who Live Like Regular People",
+            "content": "Net worth: $9.4 billion. As the mastermind behind Facebook, Zuckerberg is a billionaire many times over. But the 28-year-old leads a surprisingly low-key..."
+        },
+        {
+            "headline": "Here's What 13 Famous CEOs Looked Like In High School",
+            "content": "In his freshman year of high school, Ballmer won a scholarship to Detroit Country Day School, a private and rigorous high school."
+        },
+        {
+            "headline": "The unusual hobbies of 14 rich and famous people",
+            "content": "In 2008, Jolie told W Magazine that her mom introduced her to daggers when she was a kid, and that she hopes to pass this hobby on to her son, Maddox."
+        },
+        {
+            "headline": "These Are The Most Expensive Things You Can Buy Online",
+            "content": "It's not all memorabilia, though – collectors are still nuts for baseball cards. Honus Wagner is one of the most famous baseball players in major league..."
+        }
+    ],
+    "20210727": [
+        {
+            "headline": "5 Undervalued Stocks Popular Among Gurus",
+            "content": "GuruFocus' Most Broadly Held model portfolio consists of the 25 stocks that have the highest number of guru owners, rebalanced annually."
+        },
+        {
+            "headline": "EXCLUSIVE 3G founders launch investment partnership with former Third Point co-CIO Islam",
+            "content": "Three Brazilian billionaires who cofounded investment firm 3G Capital are backing a veteran U.S. investor who played a key role in hedge fund Third Point's..."
+        },
+        {
+            "headline": "Dolphins’ Xavien Howard reports to camp despite unhappiness with contract",
+            "content": "All-Pro cornerback Xavien Howard has joined the Miami Dolphins at training camp after he sat out mandatory minicamp because he's unhappy about his contract."
+        },
+        {
+            "headline": "Is That Condo Building Structurally Sound?",
+            "content": "Florida real estate professionals share methods for evaluating property integrity after the collapse of Champlain Towers South in Surfside."
+        },
+        {
+            "headline": "Government seeks to drop federal charges in Pilot fraud case",
+            "content": "Mark Hazelwood, Scott Wombold and Heather Jones got their convictions tossed after an appeals court found evidence was improperly introduced against them."
+        },
+        {
+            "headline": "‘Baby Del’ mansion in Coronado on the market for $24 million",
+            "content": "A historic property known as “Baby Del” is on the market for $24 million. Carri Fernandez, the realtor behind the listing, invited FOX 5 to Coronado Tuesday..."
+        },
+        {
+            "headline": "Jamie Dimon Is Showing No Signs of Retiring. Here's Who Might Stick Around to Replace Him.",
+            "content": "A new stock award is added incentive for JPMorgan CEO Jamie Dimon to stick around. Here's what it means for retirement planning and succession."
+        },
+        {
+            "headline": "The Man On The Moon Settles Amongst The Stars: Rapper Kid Cudi Purchases $7.7M Calabasas Mansion",
+            "content": "Kid Cudi recently purchased a massive Calabasas mansion for $7.7M. Haute Residence dishes the details of his fabulous Californian paradise."
+        },
+        {
+            "headline": "Your ₹20,000 would have become ₹1 crore in this pharma stock in 18 years",
+            "content": "Multibagger stocks 2021: In just one year of its listing, the pharma stock rose up to ₹83.77 per stock mark — logging around 830 per cent rise in its share..."
+        }
+    ],
+    "20210728": [
+        {
+            "headline": "Cynthia York Shadian Joins Berkshire Hathaway HomeServices California Properties",
+            "content": "Share this: ... If anyone knows the real estate markets in Santa Barbara and Los Angeles Counties it's Cynthia York Shadian. With 25 years of sales and management..."
+        },
+        {
+            "headline": "CraftMaster Homes acquired by Berkshire Hathaway affiliate",
+            "content": "The 20-year-old firm will continue under its name as part of South Carolina-based Mungo Homes, which joined Warren Buffett's conglomerate in 2018."
+        },
+        {
+            "headline": "Did Christina Haack Get the Right Price for Her Newport Beach Home?",
+            "content": "Christina Haack, of “Christina on the Coast,” has sold her newly redesigned home in Newport Beach, CA. The deal closed for $5.35 million, but was it a flop?"
+        },
+        {
+            "headline": "The GEICO ESPN High School Football Kickoff Returns for 12th Year, August 26-29",
+            "content": "Seven Games Available Across ESPN, ESPN2, ESPNU and the ESPN App; Kickoff Features 37 Players ranked in ESPN 300 and ESPN Junior 300. The GEICO ESPN High..."
+        },
+        {
+            "headline": "Dayton ISD, chamber welcome new teachers",
+            "content": "The Dayton Chamber of Commerce hosted a new teacher luncheon on Tuesday to welcome the 87 new teachers who have joined Dayton ISD this school year."
+        },
+        {
+            "headline": "Who’s On? Sports shoe brand backed by Roger Federer makes its name",
+            "content": "Adidas has the Stan Smith shoe, Nike the Air Jordans, On has the Roger – and investment from Roger Federer, one of many sports pros won over by the Swiss..."
+        },
+        {
+            "headline": "Littlerock Dam capacity to increase",
+            "content": "The Palmdale Water District is moving closer to increasing its water storage capacity by removing more than a million cubic yards of sediment from the..."
+        },
+        {
+            "headline": "Private equity executive buys Coral Gables mansion for $14M (Photos)",
+            "content": "Correction/clarification: The seller is not an attorney at Greenberg Traurig, as was reported in an earlier version of this story. Cesar Alvarez and Iraida..."
+        }
+    ],
+    "20210729": [
+        {
+            "headline": "Real estate rundown ending July 30, 2021",
+            "content": "David Acosta joined Berkshire Hathaway HomeServices C. Dan Joyner Realtors as a sales associate in the company's North Pleasantburg office."
+        },
+        {
+            "headline": "Retail In Depth: The Perfect Present",
+            "content": "Fifth-generation jewelry retailer Marc Bridge and business partner Monica Chambers unwrap their new digital venture."
+        },
+        {
+            "headline": "Who's Jim Pattison? Empire builder and billionaire — just don’t call him 'Canada's Warren Buffett'",
+            "content": "It would be difficult to find a Canadian entrepreneur with more diverse business holdings. The Jim Pattison Group, owned 100-per cent by Pattison himself, is an..."
+        },
+        {
+            "headline": "5 most expensive Atlanta homes on the market right now",
+            "content": "Atlanta is home to a variety of homes, and that includes luxury ones. The city has high-priced abodes with massive square footage and plentiful rooms."
+        },
+        {
+            "headline": "PayPal and Revolut trail behind WeChat super app",
+            "content": "With an average of 43 applications downloaded on each smartphone in 2020, the idea of the super app, launched in 2010, is back with a vengeance."
+        }
+    ],
+    "20210730": [
+        {
+            "headline": "The Great Guide: What David Hume Can Teach Us About Being Human and Living Well",
+            "content": "Julian Baggini is an independent scholar, philosopher, and writer. He was the founding editor of The Philosophers' Magazine and is the author of many books,..."
+        },
+        {
+            "headline": "$17.5M home sale sets Las Vegas record at over $2K per square foot",
+            "content": "A buyer paid $17.5 million for a home in the Summit Club, which represents the highest per-square-foot price paid in Las Vegas for a single-family home."
+        },
+        {
+            "headline": "Top 10 world’s largest companies in 2021",
+            "content": "With multi-billion-dollar turnovers, some of the world's biggest companies not only survived the COVID-19 pandemic but thrived during it.According to the."
+        },
+        {
+            "headline": "Kenny G spotted bike riding in Malibu neighborhood",
+            "content": "The 65-year-old jazz saxophonist was seen enjoying a relaxing bike ride on Thursday around his Malibu neighborhood."
+        }
+    ],
+    "20210731": [
+        {
+            "headline": "9 ways Warren Buffett’s frugal habits can save you money",
+            "content": "9. He uses cash, not credit · 8. He finds creative ways to save · 7. He does what he loves · 6. He doesn't invest with borrowed money (anymore) · 5. He doesn't..."
+        },
+        {
+            "headline": "Browns notebook: Haslams have not spoken to Paul Dolan about minority baseball ownership",
+            "content": "Concentrating holdings in Ohio 'would make sense,' Jimmy Haslam says of Haslam Sports Group adding a third team to Browns, Columbus Crew SC."
+        },
+        {
+            "headline": "Zydeco Artist Chris Ardoin Hospitalized After Being Shot While Performing on Stage",
+            "content": "According to a post from his official Facebook page, Chris Ardoin was shot in the back while performing at an event in Colfax, LA."
+        }
+    ],
     "20210801": [
         {
             "headline": "Report: Bills ask for $1.1 billion to build new stadium, funded by public",

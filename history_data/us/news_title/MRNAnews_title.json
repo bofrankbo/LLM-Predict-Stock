@@ -1,4 +1,632 @@
 {
+    "20210701": [
+        {
+            "headline": "What are the long-term side effects of COVID vaccines? 3 things to know - The Reporter | UAB",
+            "content": "In his nearly 30 years studying vaccines, UAB's Paul Goepfert, M.D., director of the Alabama Vaccine Research Clinic, has never seen anything as effective..."
+        },
+        {
+            "headline": "Reports of Some Getting Pfizer, Moderna ‘Boosters’ After J&J Vaccine Prompts Calls for More Guidance",
+            "content": "Some Johnson & Johnson recipients are taking an additional shot from Pfizer or Moderna in the hopes of boosting their protection."
+        },
+        {
+            "headline": "mRNA Vaccines - Here's Everything You Need to Know",
+            "content": "What's inside an mRNA vaccine vial? How do mRNA vaccines differ from other approaches, and what's their promise for the future?"
+        },
+        {
+            "headline": "The new technology behind Pfizer and Moderna COVID-19 vaccines makes them highly effective, but difficult to produce and distribute",
+            "content": "The rapid development of multiple effective vaccines less than a year since the onset of the COVID-19 pandemic is an historic achievement."
+        },
+        {
+            "headline": "EU-approved vaccines appear to protect against Delta strain, says watchdog",
+            "content": "The four coronavirus vaccines being administered in the European Union appear to offer protection against the rapidly spreading Delta variant, the European..."
+        },
+        {
+            "headline": "Covid-19: What does vaccine efficacy really mean?",
+            "content": "India now has four vaccines against Covid-19, with the recent one to be approved for emergency use being the Moderna jab. Moderna has confirmed its shot has..."
+        },
+        {
+            "headline": "German health authority recommends switching from AstraZeneca to Pfizer vaccine for second dose",
+            "content": "Germany's vaccine committee recommends anyone who received an AstraZeneca first dose have Pfizer or Moderna shots as the second for better protection..."
+        },
+        {
+            "headline": "How Covishield, Covaxin, Sputnik V, ZyCoV-D, Moderna's mRNA-1273 differ from one another",
+            "content": "Each of these vaccines have different constituents and hence, the way they generate antibodies also differ."
+        },
+        {
+            "headline": "Covid-19 vaccines in India: Prices and doses to availability, your complete guide",
+            "content": "We bring you this one-stop Covid-19 vaccine guide that will provide you with all the details about the various shots approved in India."
+        },
+        {
+            "headline": "Which is the first mRNA vaccine, to get Emergency Use License in India?",
+            "content": "Moderna mRNA 1273 India approved its fourth Covid-19 vaccine, and its first mRNA vaccine, Moderna's mRNA-1273. It is sold under the brand name 'Spikevax' in..."
+        }
+    ],
+    "20210702": [
+        {
+            "headline": "Pakistan receives 2.5 million Moderna doses from U.S.",
+            "content": "Pakistan has received 2.5 million doses of Moderna Inc's (MRNA.O) COVID-19 vaccine from the United States, the Pakistani Foreign Ministry and the U.S...."
+        },
+        {
+            "headline": "Sen. Ron Johnson sends letters to Moderna, Pfizer CEOs seeking answers about COVID-19 vaccines",
+            "content": "Ben Haynes, a CDC spokesperson, told Fox News in a May 25 statement that \"myocarditis and pericarditis are side effects that can be seen following a viral..."
+        },
+        {
+            "headline": "Justin Trudeau Got a Moderna Booster Shot After His AstraZeneca Jab",
+            "content": "Canadian Prime Minister Justin Trudeau just got a second Moderna shot after getting his first COVID-19 vaccine from AstraZeneca."
+        },
+        {
+            "headline": "UNITED STATES DONATES 2.5 MILLION DOSES OF THE MODERNA COVID VACCINE TO PAKISTAN",
+            "content": "ISLAMABAD, July 2, 2021 – Today, 2.5 million doses of the Moderna COVID-19 vaccine donated by the United States arrived at Islamabad International Airport."
+        },
+        {
+            "headline": "Justin Trudeau gets Moderna for vaccine Dose 2",
+            "content": "Justin Trudeau gets Moderna for vaccine Dose 2. By July 2nd 2021. #1365 of 1611 articles from the Special Report: Coronavirus in Canada."
+        },
+        {
+            "headline": "Trudeau receives Moderna COVID-19 vaccine for 2nd dose",
+            "content": "Prime Minister Justin Trudeau and his wife, Sophie Gregoire Trudeau, received the AstraZeneca COVID-19 vaccine as their first dose."
+        },
+        {
+            "headline": "China, U.S. to send COVID-19 vaccine doses to El Salvador",
+            "content": "China will send 1.5 million Sinovac (SVA.O) COVID-19 vaccines to El Salvador, the Chinese Embassy there announced on Friday, hours after the White House..."
+        },
+        {
+            "headline": "Here’s how mRNA vaccines actually work",
+            "content": "In December 2020, Health Canada authorized two mRNA vaccines effective against COVID-19 from the pharmaceutical companies Moderna and Pfizer-BioNTech."
+        },
+        {
+            "headline": "Canadian PM takes second dose of Covid-19 vaccine",
+            "content": "Justin Trudeau opted for the Moderna vaccine after taking the AZ jab in April. He opted for the mRNA shot after Canadian health authorities updated guidance..."
+        },
+        {
+            "headline": "Pakistan receives 2.5mn doses of Moderna COVID vaccine from US",
+            "content": "Pakistan has received 2.5 million doses of Moderna COVID-19 vaccine donated by the United States at Islamabad International Airport today."
+        }
+    ],
+    "20210703": [
+        {
+            "headline": "How the Moderna Covid-19 mRNA vaccine was made so quickly",
+            "content": "The timeline: A vaccine in under a year. It is true that Moderna's mRNA vaccine was ready remarkably fast, as was Pfizer's. Chinese scientists put the genetic..."
+        },
+        {
+            "headline": "Coronavirus: Walk-in Covid vaccine clinics open in 'final push'",
+            "content": "It's hoped the appointment-free venues will encourage younger people to come forward for vaccination."
+        },
+        {
+            "headline": "Coronavirus: Week of June 27 to July 3, US promises 4m doses of Moderna to Indonesia",
+            "content": "Washington will donate 4 million Moderna vaccine doses to Indonesia for shipment via the World Health Organization-led COVAX initiative as soon as possible."
+        },
+        {
+            "headline": "Moderna vaccines for Canadian High Commission; 12,000 Sinopharm doses arrive",
+            "content": "A quantity of the US-made Moderna COVID-19 vaccines was ordered for staff and some contractors of the Canadian High Commission in Georgetown."
+        }
+    ],
+    "20210704": [
+        {
+            "headline": "UAE approves Moderna COVID-19 vaccine for emergency use",
+            "content": "The United Arab Emirates has approved Moderna Inc's (MRNA.O) COVID-19 vaccine for emergency use, the fifth vaccine to receive such approval by the Gulf Arab..."
+        },
+        {
+            "headline": "2.5 million doses of COVID-19 vaccine supplied through COVAX start being rolled out in Pakistan",
+            "content": "2.5 million doses of Moderna (mRNA-1273) COVID-19 vaccines supplied through the COVAX Facility's dose-sharing mechanism, and donated by the United States,..."
+        }
+    ],
+    "20210705": [
+        {
+            "headline": "South Korea in talks with mRNA vaccine makers to make up to 1 billion doses",
+            "content": "South Korea is in talks with mRNA vaccine makers including Pfizer and Moderna to produce COVID-19 shots in the country and is ready to offer the capacity to..."
+        },
+        {
+            "headline": "Vaccines too little, too late for Nepal?",
+            "content": "There is breaking news every other day: the United States donates 2 million Moderna shots to Bangladesh and Pakistan. Denmark announces 250,000 AstraZeneca..."
+        },
+        {
+            "headline": "Tajik authorities asks the United States to provide Tajikistan with Pfizer and Moderna vaccines",
+            "content": "The Tajik side has asked for help from the United States in providing the country with Pfizer and Moderna vaccines, the MoEDT press center said."
+        }
+    ],
+    "20210706": [
+        {
+            "headline": "Three things to know about the long-term side effects of COVID vaccines",
+            "content": "Many Americans say they want to “make sure the shot is safe” before getting vaccinated. That data is already in, and it is overwhelming."
+        },
+        {
+            "headline": "Moderna co-founder using mRNA technology to treat venomous snakebites",
+            "content": "Ophirex is working on a pill that targets a specific enzyme found in the venom of many snakes, and which is particularly harmful to the human body."
+        },
+        {
+            "headline": "Coronavirus vaccination: Covishield, Covaxin, Sputnik V or Moderna, which vaccine may be a better choice?",
+            "content": "Each vaccine we have, passes the WHO standard of approval, has tolerable efficacy rates and mitigates dangers. Yet, some may be more reliable than others and..."
+        },
+        {
+            "headline": "Covid vaccines: Are the jabs effective against the new Lambda variant? Study weighs in",
+            "content": "COVID vaccines: A study has delved into the effectiveness of the Pfizer and Moderna vaccines against the Lambda variant."
+        },
+        {
+            "headline": "Heart institute seeing patients with rare condition possibly linked to mRNA vaccines",
+            "content": "The University of Ottawa Heart Institute has admitted at least eight people with a rare condition called myocarditis that may be linked to the two mRNA..."
+        }
+    ],
+    "20210707": [
+        {
+            "headline": "Why we must remove barriers to trade to achieve vaccine equity (Step #3)",
+            "content": "To put an end to the pandemic, industry was tasked with manufacturing and supplying billions of COVID-19 vaccines, starting from zero."
+        }
+    ],
+    "20210708": [
+        {
+            "headline": "COVID-19 Vaccine for Ages 12 and Older",
+            "content": "The Centers for Disease Control recommends the updated 2023-2024 Pfizer-BioNTech and Moderna COVID-19 vaccines for kids ages 12 and older."
+        },
+        {
+            "headline": "Can we stretch existing Covid vaccines to inoculate more people? Experts are divided",
+            "content": "With the global supply of Covid-19 vaccine still woefully inadequate, vaccine makers are scouring the pharmaceutical landscape for partners to ramp up..."
+        },
+        {
+            "headline": "Batavia to Develop Clinical Process for RocketVax’s COVID-19 Vaccine",
+            "content": "After successful completion, Batavia will continue to scale-up and optimize the process for commercial scale."
+        },
+        {
+            "headline": "Moderna begins human trial for multi-strain mRNA flu vaccine",
+            "content": "WASHINGTON - US biotech firm Moderna said Wednesday it had dosed its first participants in a human study of an mRNA vaccine that targets multiple strains of..."
+        },
+        {
+            "headline": "McDonald's to insert pamphlets in takeout bags to promote vaccinations across Ontario",
+            "content": "Health Minister Christine Elliot says the province is expanding its COVID-19 vaccination efforts as 78% of adults have received one dose."
+        },
+        {
+            "headline": "Heart inflammation after Covid-19 jabs: What does it mean for you?",
+            "content": "Rare cases of heart inflammation have been reported with Covid-19 vaccines that use mRNA technology - namely the Pfizer-BioNTech and Moderna jabs, both..."
+        },
+        {
+            "headline": "Small amount of Moderna vaccines available at Health Ministry",
+            "content": "Dr. Leslie Ramsammy has urged people to visit the Ministry of Health since there is a small number of the US-made Moderna COVID-19 vaccines available for..."
+        },
+        {
+            "headline": "US donates more covid19 vaccines to Latin America – still none for Caribbean",
+            "content": "THE US has donated covid19 vaccines to two more Latin American countries, bringing the total to nine thus far. On Wednesday, White House assistant press..."
+        }
+    ],
+    "20210709": [
+        {
+            "headline": "mRNA-1273 COVID-19 vaccine effectiveness against the B.1.1.7 and B.1.351 variants and severe COVID-19 disease in Qatar",
+            "content": "The SARS-CoV-2 pandemic continues to be a global health concern. The mRNA-1273 (Moderna) vaccine was reported to have an efficacy of 94.1% at preventing..."
+        },
+        {
+            "headline": "The Moderna COVID-19 (mRNA-1273) vaccine: what you need to know",
+            "content": "SAGE recommends the use of the Moderna mRNA-1273 vaccine at a schedule of two doses (100 μg, 0.5 ml each) 28 days apart."
+        },
+        {
+            "headline": "Saudi Arabia approves Moderna's COVID vaccine -state news agency",
+            "content": "Saudi Arabia's Food and Drug Authority on Friday approved Moderna Inc's COVID-19 vaccine (MRNA.O) for use in the kingdom, the state news agency (SPA) said."
+        },
+        {
+            "headline": "A week after losing CEO to Moderna, Ogilvy Health taps new global chief from parent WPP",
+            "content": "Ogilvy Health named a new global CEO Thursday, just a week after Kate Cronin departed for Moderna."
+        },
+        {
+            "headline": "Heart inflammation link to Pfizer and Moderna jabs",
+            "content": "Heart inflammation link to Pfizer and Moderna jabs ... Heart inflammation is a \"very rare\" side-effect of the Covid vaccines made by Pfizer and Moderna, according..."
+        },
+        {
+            "headline": "Quarter-dose of Moderna COVID vaccine still rouses a big immune response",
+            "content": "Quarter-dose of Moderna COVID vaccine still rouses a big immune response. Results hint that dose stretching could help to address the world's acute vaccine..."
+        },
+        {
+            "headline": "EMA confirms possible Pfizer and Moderna link with myocarditis and pericarditis",
+            "content": "The Hague. The European Medicines Agency (EMA) confirmed Friday a “possible link” between the Pfizer/BioNTech and Moderna mRNA-based covid-19 vaccines and..."
+        },
+        {
+            "headline": "Thais snap up Covid-19 vaccine shots in seconds via Shopee sale",
+            "content": "It offered 1800 slots for doses of the Moderna vaccine at 1650 baht (S$68) apiece. Read more at straitstimes.com."
+        },
+        {
+            "headline": "Moderna COVID-19 vaccine approved for use in Saudi Arabia",
+            "content": "RIYADH: Saudi Arabia's Food and Drug Authority (SFDA) on Friday approved Moderna's coronavirus vaccine for use in the Kingdom. Moderna's is the fourth shot..."
+        },
+        {
+            "headline": "Coronavirus News Highlights: Working actively with Moderna to see how its COVID-19 vaccine can be made available in India, says govt",
+            "content": "Coronavirus Highlights: The ministry said over 40 lakh vaccine doses were administered in the last 24 hours."
+        }
+    ],
+    "20210710": [
+        {
+            "headline": "Over two million doses of Moderna COVID-19 vaccines arrive in Vietnam",
+            "content": "Vietnam on July 10 received over two million doses of Moderna vaccine donated to the COVAX Facility by the US government."
+        },
+        {
+            "headline": "Vietnam receives 2 million COVID-19 vaccines to fight worst outbreak",
+            "content": "Vietnam has received 2 million doses of the Moderna (MRNA.O) COVID-19 vaccine donated by the U.S. government, the American embassy in Hanoi said on Saturday..."
+        },
+        {
+            "headline": "Indonesian health workers to get Moderna jab as COVID-19 'booster'",
+            "content": "Indonesian health workers to get Moderna jab as COVID-19 'booster' - National - The Jakarta Post."
+        },
+        {
+            "headline": "US sends 500,000 doses of Moderna vaccine to Bhutan",
+            "content": "Three vaccines for consideration for the second dose. Younten Tshedup. The United States of America government yesterday announced that it has dispatched..."
+        }
+    ],
+    "20210711": [
+        {
+            "headline": "Can the Pfizer or Moderna mRNA COVID Vaccines Affect Your Genetic Code?",
+            "content": "Some people are concerned these vaccines can affect their genetic code. Here's why the chances of that happening are next to zero and some pointers to how the..."
+        },
+        {
+            "headline": "More than 3 million COVID-19 doses arrive in Indonesia via COVAX",
+            "content": "The Moderna vaccines, donated by the United States Government, will accelerate ongoing vaccination efforts amid a second wave of COVID-19."
+        },
+        {
+            "headline": "Sinopharm vaccine from tomorrow, Moderna the day after",
+            "content": "The Sinopharm vaccine will start being given to people all over the country from Monday. And from Tuesday, the Moderna vaccine will be given in 12 city..."
+        }
+    ],
+    "20210712": [
+        {
+            "headline": "Does the coronavirus delta variant mean I’ll need a vaccine booster?",
+            "content": "Is one J&J COVID-19 vaccine shot enough? Is a mixed vaccine regimen better? Here's what WHYY's Health Desk Help Desk found out."
+        },
+        {
+            "headline": "We got an exclusive look inside Moderna's labs, where the biotech upstart is planning what comes after its blockbuster coronavirus vaccine",
+            "content": "We got an exclusive look inside Moderna's labs, where the biotech upstart is planning what comes after its blockbuster coronavirus vaccine."
+        },
+        {
+            "headline": "Explainer: The difference between COVID-19 mRNA and Adenovirus-vector vaccines",
+            "content": "When COVID-19 invades our bodies, the virus tries to overcome the immune system. It attacks and multiplies in huge numbers readying itself for the."
+        },
+        {
+            "headline": "My husband had a stroke after his COVID vaccine. We gave our kid his shot anyway",
+            "content": "This opinion essay was first published in the San Francisco Chronicle on July 6, 2021.) A few days after receiving his second COVID vaccination, my."
+        }
+    ],
+    "20210713": [
+        {
+            "headline": "New Moderna clinical trial for children’s COVID-19 vaccines to launch in early August",
+            "content": "Researchers will begin testing the Moderna COVID-19 vaccine first on children ages 6 to 11, then eventually and toddlers as young as 6 months."
+        },
+        {
+            "headline": "Moderna accused of parking vaccine profits in tax havens: report",
+            "content": "The EU, which has ordered hundreds of millions of Moderna vaccine doses, pays the company's Swiss subsidiary, Moderna Switzerland GmbH, based in Basel,..."
+        },
+        {
+            "headline": "Pfizer/BioNTech, Moderna vaccine effect impacted by COVID-19 Lambda variant (NASDAQ:SVA)",
+            "content": "COVID-19 Lambda variant that was first identified in Peru in August 2020 has surged in prevalence in the country, accounting for 97% of all detected cases..."
+        },
+        {
+            "headline": "Guatemalan president threatens to crack down on protests Sputnik Moderna United States Guatemala City Russia",
+            "content": "The president of Guatemala is vowing to crack down on demonstrators complaining of mismanagement of the coronavirus pandemic and protesting delays in..."
+        },
+        {
+            "headline": "Bhutan receives 500,000 doses of COVID-19 vaccines through COVAX",
+            "content": "July 13, 2021, Thimphu: The much-anticipated hope for a long-term protection from COVID-19 comes to view as more vaccines begin to arrive Bhutan."
+        },
+        {
+            "headline": "National Gallery of Modern and Contemporary Art in Rome",
+            "content": "Galleria Nazionale d'Arte Moderna e Contemporanea displays over 20.000 artworks from different periods and styles next to Villa Borghese."
+        }
+    ],
+    "20210714": [
+        {
+            "headline": "Heterologous ChAdOx1 nCoV-19 and mRNA-1273 Vaccination",
+            "content": "Several European countries have recommended heterologous messenger RNA (mRNA) boost strategies for persons younger than 60 or 65 years of age who have received..."
+        },
+        {
+            "headline": "Moderna’s Next Act Is Using mRNA vs. Flu, Zika, HIV, and Cancer",
+            "content": "Moderna's next act is using mRNA vs. flu, zika, HIV, and cancer. The biotech has reached a $100 billion market cap. But after Covid, the challenges get even..."
+        },
+        {
+            "headline": "Haiti receives first COVID-19 vaccine doses from the U.S. amid political crisis",
+            "content": "The Biden administration delivered 500,000 doses of Moderna COVID-19 vaccines to Haiti on Wednesday, hoping to provide relief to the Caribbean nation roiled..."
+        },
+        {
+            "headline": "Should you get a booster if you had the J&J vaccine? Here's what experts say",
+            "content": "Some experts are advising additional shots, like Dr. Vin Gupta, a professor at the University of Washington's Institute for Health Metrics and Evaluation."
+        },
+        {
+            "headline": "COVID-19: Moderna vaccine to be available to all expectant mothers in Fiji – MOHMS",
+            "content": "Fiji's Ministry of Health and Medical Services says the Moderna COVID-19 vaccines will be available to pregnant women from next week."
+        },
+        {
+            "headline": "The Chelmsford pharmacies where you can get a walk-in vaccine this week",
+            "content": "Moderna walk-in and pre-bookable Covid-19 vaccinations are available at pharmacies in Chelmsford."
+        }
+    ],
+    "20210715": [
+        {
+            "headline": "Moderna to join S&P 500, shares jump after hours",
+            "content": "Moderna Inc (MRNA.O) will join the S&P 500 index (.SPX) as of the start of trading on July 21, replacing Alexion Pharmaceuticals (ALXN."
+        },
+        {
+            "headline": "What You Need to Know About COVID-19 Booster Shots",
+            "content": "Tests are currently underway to see whether booster doses of all three COVID-19 vaccines authorized in the U.S. will be needed in the future."
+        },
+        {
+            "headline": "The Moderna COVID-19 Vaccine: What you need to know?",
+            "content": "The Moderna vaccine has been shown to have an efficacy of approximately 94.1 per cent in protecting against COVID-19, starting 14 days after the first dose."
+        },
+        {
+            "headline": "Why The Covid Vaccine Is Causing High Anxiety In Young Women",
+            "content": "A week and a half after receiving the first dose of her Moderna vaccine, Kate Clancy, a professor of anthropology at the University of Illinois,..."
+        },
+        {
+            "headline": "Not Yet Vaccinated? Join the PreventCOVIDU Research Study",
+            "content": "The NIH is looking for people who have not been vaccinated against COVID-19 to join a research study to learn more about COVID-19 and how the Moderna vaccine..."
+        },
+        {
+            "headline": "Hackensack Meridian to require all doctors, nurses and staff to get COVID vaccine",
+            "content": "all of its staff — from physicians to janitors — to be full vaccinated against COVID-19 by Nov. 15, according to a memo sent to Hackensack Meridian Health..."
+        },
+        {
+            "headline": "Haiti - COVID : 500,000 vaccines in Haiti, 75% of Haitians do not want to be vaccinated",
+            "content": "On Wednesday, Haiti received 500000 doses of Covid-19 vaccine from the MODERNA Laboratory, a vaccine called « Spikevax » (since June 21, 2021),..."
+        }
+    ],
+    "20210716": [
+        {
+            "headline": "U.S. donates over 1.5 million Moderna COVID-19 vaccines to Sri Lanka",
+            "content": "The US has donated over 1.5 million doses of the Moderna COVID-19 vaccine to Sri Lanka. These vaccines, delivered through COVAX, will save lives."
+        },
+        {
+            "headline": "A COVID vaccine for kids",
+            "content": "Jeff Gerber, who is heading the clinical trial of the Moderna vaccine in kids under 12 at CHOP, speaks with Penn Today about the trial and why getting children..."
+        },
+        {
+            "headline": "US Group donated Moderna vaccines to Guyana- Health Minister",
+            "content": "A group from the United States (US) donated 1,100 doses of the US-made Moderna COVID-19 vaccines to Guyana, according to the Minister of Health Dr. Frank..."
+        }
+    ],
+    "20210717": [],
+    "20210718": [
+        {
+            "headline": "Moderna vaccine here – Reserved for pregnant women to protect them from COVID-19 virus",
+            "content": "Listen to this article: Speaking at a ceremony marking the arrival of the Moderna vaccines, US Embassy chargé d'affaires (CDA) Tony Greubel."
+        }
+    ],
+    "20210719": [
+        {
+            "headline": "More than 110,000 Covid-19 vaccine doses have been destroyed in Georgia since December",
+            "content": "More than 110000 doses of Covid-19 vaccine have been destroyed in Georgia since December 2020, when vaccines were first administered in the state,..."
+        },
+        {
+            "headline": "Health Ministry to administer Moderna vaccine to pregnant women in Viti Levu from Wednesday",
+            "content": "The Ministry of Health will begin administering the Moderna COVID-19 vaccine to pregnant women across Viti Levu from Wednesday."
+        },
+        {
+            "headline": "House of Ancestors- Vaccine Clinic",
+            "content": "PRINCE GEORGE - The First Nations Health Authority (FNHA) will hold a second dose Moderna vaccine clinic in Pr..."
+        }
+    ],
+    "20210720": [
+        {
+            "headline": "No Sign Of Pfizer, Moderna Covid Vaccines In Breast Milk, Study Shows",
+            "content": "Researchers have found no evidence for the presence of Pfizer or Moderna COVID-19 vaccines in human breast milk in a small study, suggesting that the mRNA..."
+        },
+        {
+            "headline": "Fact check: False claim that COVID-19 vaccine isn't effective because you're not charged for it",
+            "content": "Pointing to the high price of insulin, a post online falsely suggests the COVID-19 vaccine isn't effective because people are not charged for it."
+        },
+        {
+            "headline": "New research: No trace of mRNA vaccine in breast milk",
+            "content": "The study analysed the breast milk of seven women after they received mRNA vaccines from Pfizer or Moderna in the US."
+        },
+        {
+            "headline": "Moderna is best for second dose: PM",
+            "content": "The reason why he opted for the Moderna vaccine as his second dose after receiving AstraZeneca during the first was because of the efficacy of the mix-and-..."
+        },
+        {
+            "headline": "'Clock ticking' on thousands of Moderna doses at risk of expiring in Waterloo Region",
+            "content": "Thousands of Moderna doses in Waterloo Region are at risk of going bad, according to a vaccine expert at the University of Waterloo."
+        },
+        {
+            "headline": "Vaccine vacancy: thousands of Pfizer and Moderna shots are waiting to be administered to residents in Nova Scotia and New Brunswick",
+            "content": "The head of the vaccine rollout in Nova Scotia says the province is starting to see significant vacancies in appointments across the province."
+        }
+    ],
+    "20210721": [
+        {
+            "headline": "Tulane University, Children’s Hospital launch Moderna Covid-19 vaccine trial for children from 6 months to 11 years old",
+            "content": "Tulane University School of Medicine and Children's Hospital New Orleans are participating in a national clinical trial to test the effectiveness of..."
+        },
+        {
+            "headline": "Netanyahu speaks with Pfizer, Moderna CEOs behind Bennett’s back",
+            "content": "Israel's successful vaccination campaign was rolled out during Netanyahu's tenure, after he secured agreements that made Israel the world-leading country on..."
+        },
+        {
+            "headline": "FAMU offers $1M in prizes to encourage students, employees to get vaccinated",
+            "content": "Florida A&M University has launched a campaign offering up to $1 million in prize drawings to encourage students and employees to get vaccinated."
+        },
+        {
+            "headline": "More than 96,000 vaccinated on the first day of the second vaccination campaign",
+            "content": "More than 98 percent of people who received their second dose of Covid-19 vaccine yesterday went for the mix-and-match approach of vaccination."
+        }
+    ],
+    "20210722": [
+        {
+            "headline": "Coronavirus Updates Covid News: C.D.C. Chief Urges Caution for Unvaccinated Ahead of Memorial Day",
+            "content": "Despite gains against the virus, the C.D.C. director said the large segment of Americans who aren't vaccinated must remain careful. Moderna announced that..."
+        },
+        {
+            "headline": "Vietnam in talks with U.S. for local production of COVID-19 mRNA vaccine",
+            "content": "Vietnam is in talks with the United States on domestic production of mRNA vaccines, its foreign ministry said on Thursday, as the country looks to boost..."
+        },
+        {
+            "headline": "Wooster native on front lines in fight against COVID-19, flu and HIV",
+            "content": "From Wooster to North Carolina, Katherine Yarborough developed proteins and antibodies integral in the Moderna COVID-19 vaccine."
+        },
+        {
+            "headline": "COVID-19: Fiji PM – Approval for Moderna use should put some minds at ease",
+            "content": "The Moderna vaccine has been approved specifically in the US and by the W.H.O. for use by pregnant women, which should put some minds at ease, […]"
+        },
+        {
+            "headline": "COVID-19 Fiji: Pregnant women flock in numbers for Moderna dose",
+            "content": "Pregnant women in Lautoka flocked in numbers to the Girmit Centre today to get their first dose of the Moderna vaccine. Health care workers attended to..."
+        }
+    ],
+    "20210723": [
+        {
+            "headline": "Moderna Plans to Begin Testing Its Coronavirus Vaccine in Children (Published 2020)",
+            "content": "The company said the trial would involve children ages 12 through 17."
+        },
+        {
+            "headline": "EU watchdog approves Moderna jab for children aged 12 and above",
+            "content": "The European medicines watchdog on Friday approved the use of Moderna's coronavirus vaccine for children aged 12 to 17, making it the second jab for..."
+        },
+        {
+            "headline": "European Medicines Agency Approves Moderna's COVID Vaccine For Children Ages 12-17",
+            "content": "Moderna's COVID-19 vaccine was approved for use in children 12 to 17 years of age by the European Medicines Agency (EMA), making it the second vaccine."
+        },
+        {
+            "headline": "Korea is delaying second Pfizer, Moderna shots -- is it safe?",
+            "content": "Korea's top health agency decided Friday to delay the second doses of Pfizer and Moderna COVID-19 vaccines by up to six weeks, deviating from the..."
+        },
+        {
+            "headline": "Local COVID breakthrough patient thankful he was vaccinated",
+            "content": "Eileen Burns, 78, got the Moderna vaccine when it first rolled out in the Florida in the beginning of the year. Her grandson, Liam Storkerson, was hesitant at..."
+        },
+        {
+            "headline": "In the U.S., vaccines for the youngest are expected this fall. (Published 2021)",
+            "content": "Pfizer and Moderna are testing their vaccines in children under 12, and are expected to have results in hand by the end of the summer."
+        },
+        {
+            "headline": "Covid vaccine: Experts warn of refraining from exercise due to heart inflammation reports",
+            "content": "The US Food and Drug Administration will add a warning to the Covid vaccines produced by Pfizer/BioNTech and Moderna about rare cases of heart inflammation..."
+        },
+        {
+            "headline": "When will America stop buying lies about COVID vaccines? | Mike Kelly",
+            "content": "Battling COVID-19 may take more than medicine. It may take a battle over truth and lies on social media and cable news."
+        },
+        {
+            "headline": "European agency clears Moderna vaccine for children 12-17",
+            "content": "The European Medicines Agency has recommended authorising Moderna's Covid-19 vaccine for children ages 12 to 17, the first time the shot has been authorised..."
+        },
+        {
+            "headline": "North Pregnant Women May Take AstraZenec­a Shot: Dr Rachel Devi",
+            "content": "Pregnant women in the Northern Division may take the AstraZeneca vaccine instead of waiting for the availability of the Moderna vaccine."
+        }
+    ],
+    "20210724": [
+        {
+            "headline": "Three takes Sinopharm vaccine as second dose in Sarpang",
+            "content": "Nima | Gelephu. While the heterologous mixing of AstraZeneca and Sinopharm vaccines are not studied for use yet, three people have taken this mix-and-match..."
+        }
+    ],
+    "20210725": [
+        {
+            "headline": "Erwan Heussaff: Stop being picky about vaccines!",
+            "content": "TV and internet personality Erwan Heussaff is urging the public to just get vaccinated and not be picky with what type one gets."
+        }
+    ],
+    "20210726": [
+        {
+            "headline": "Moderna in talks with FDA to expand COVID-19 vaccine pediatric study",
+            "content": "Moderna Inc (MRNA.O) is in talks with U.S. regulators to expand the size of an ongoing trial testing its COVID-19 vaccines in children aged between five and..."
+        },
+        {
+            "headline": "Pfizer, Moderna to expand vaccine trials in children ages 5-11 at FDA request, report says",
+            "content": "At the urging of the Food and Drug Administration, Pfizer and Moderna will be expanding their COVID-19 vaccine trials in children ages 5 to 11 as a..."
+        },
+        {
+            "headline": "Will Dr. Fauci’s “Prototype” Vaccines Be Given to Pfizer and Moderna So that We Can Complain About Technology Creating Inequality?",
+            "content": "On This Page. The New York Times had an article about how Dr. Fauci wants the government to spend several billion dollars developing what he calls “prototype”..."
+        },
+        {
+            "headline": "1.5 million doses of Moderna Vaccines arrive in Tajikistan",
+            "content": "Tajikistan received Moderna vaccine donated to the COVAX Facility by the United States Government."
+        },
+        {
+            "headline": "Second Dose of COVID Vaccine Safe Even After Allergic Reaction",
+            "content": "Patients who experienced allergic or potentially allergic reactions to their first dose of mRNA vaccines for COVID-19 were able to tolerate the second dose, a..."
+        }
+    ],
+    "20210727": [
+        {
+            "headline": "Moderna says COVID-19 vaccine supply outside United States to slow down",
+            "content": "Moderna (MRNA.O) said on Tuesday its COVID-19 vaccine manufacturing partners outside the United States are facing delays due to laboratory testing..."
+        },
+        {
+            "headline": "Vaccination plan faces uncertainties due to Moderna supply issue",
+            "content": "The government's COVID-19 vaccination plan is facing uncertainties due to supply issues involving products from Moderna, with which the country has signed a..."
+        }
+    ],
+    "20210728": [
+        {
+            "headline": "U.S. to ship 4 mln COVID-19 vaccine doses to Nigeria, 5.66 mln to South Africa",
+            "content": "The U.S. government on Wednesday will ship nearly 10 million doses of COVID-19 vaccines to two of the most populous African countries - Nigeria and South..."
+        },
+        {
+            "headline": "COVID-19: MLHU facing over-supply of Moderna doses as vaccinations decline",
+            "content": "'The Health Unit and its partners currently have an excess of 21300 doses of thawed Moderna vaccine in fridges that needs to be used by August 12,' says the..."
+        },
+        {
+            "headline": "Moderna to resume COVID-19 vaccine shipments to Korea next week: gov't",
+            "content": "U.S. pharmaceutical company Moderna will resume provisions of COVID-19 vaccines to South Korea next week, the prime minister said Wednesday,..."
+        },
+        {
+            "headline": "Legal wrangles hold up U.S. vaccine donations to India",
+            "content": "Two months after India dropped local-trial rules for COVID-19 vaccines approved by developed countries, not a single dose has arrived as New Delhi dithers..."
+        },
+        {
+            "headline": "DRA approves emergency use of Moderna vaccine for children aged 12-17",
+            "content": "The Drug Regulatory Authority (DRA) authorised the emergency use of Moderna vaccine for children between 12 to 17 years in the country on July 26."
+        },
+        {
+            "headline": "Vaccine rollout at a rate of 400 doses per day",
+            "content": "Ross Kendall at the Moderna walk-in clinic yesterday. He had been put off from taking up the earlier option of the AstraZeneca vaccine because of news..."
+        }
+    ],
+    "20210729": [
+        {
+            "headline": "The great vaccine robbery: Pharmaceutical corporations charge excessive prices for COVID-19 vaccines while rich countries block faster and cheaper route to global vaccination",
+            "content": "Vaccine monopolies make cost of vaccinating the world against COVID at least 5 times more expensive than it could be."
+        },
+        {
+            "headline": "How to get vaccinated for COVID-19 in Indiana if you haven't yet",
+            "content": "The delta variant is spreading in Indiana. If you haven't gotten vaccinated yet, here's how to sign up, what you should bring and more."
+        },
+        {
+            "headline": "Leading MIT scientist hails ‘immunomics’ in Israel’s Immunai",
+            "content": "Immunai is working on developing a new generation of medicine using a combination of artificial intelligence and big data, with the goal of mapping the..."
+        },
+        {
+            "headline": "Community COVID-19 vaccine clinics offered throughout Portland metro area",
+            "content": "OHSU is working with community groups to provide vaccinations for COVID-19. All community members 12 and older are welcome to get a vaccine at these events."
+        },
+        {
+            "headline": "Two men developed PUS-FILLED bumps on their faces in rare side effect from Moderna COVID-19 vaccine",
+            "content": "Researchers believe the Moderna COVID-19 vaccine led the men to generate high levels of neutrophils, a type of white blood cell, which caused an immune..."
+        },
+        {
+            "headline": "We wanted the best for our people: Lyonchhen",
+            "content": "The prevailing view is that the government made a mistake by encouraging the country's adult population to take Moderna."
+        },
+        {
+            "headline": "Rossendale Interiors - your first choice when choosing a new kitchen",
+            "content": "Brought to you by. ROSSENDALE INTERIORS. Share. Moderna kitchens are 100 per cent made in the UK. With the pandemic causing us to spend more time at home,..."
+        }
+    ],
+    "20210730": [
+        {
+            "headline": "Arrival of One Million Doses of Moderna Covid-19 Vaccines Provided by the United States to Tunisia",
+            "content": "The United States delivered one million doses of the Moderna vaccine to Tunisia through the COVAX mechanism, as part of our ongoing partnership with the people..."
+        },
+        {
+            "headline": "US Donating Moderna COVID-19 Vaccine to the Philippines",
+            "content": "The White House official said the U.S. is not contributing the doses to the Philippines “with strings attached” but because, “It's the right thing morally, the..."
+        },
+        {
+            "headline": "COVID vaccine trial for kids on track, says KidCOVE principal investigator at UMass Chan",
+            "content": "Moderna's TeenCOVE and KidCOVE mRNA COVID-19 vaccine clinical trials are on track to expand the number of children in the Moderna KidCOVE trial,..."
+        },
+        {
+            "headline": "NL: Health Council recommends Moderna vaccine for teenagers",
+            "content": "Teenagers between the ages of 12 and 17 can also get the Moderna vaccine against Covid-19, the Dutch Health Council said in advice to the cabinet."
+        },
+        {
+            "headline": "Minors in Saba, Statia can now get Moderna vaccine",
+            "content": "Youngsters ages 12 to 17 in St. Eustatius and Saba can now also be inoculated with the COVID-19 vaccine Moderna."
+        }
+    ],
+    "20210731": [],
     "20210801": [
         {
             "headline": "Pfizer and Moderna raise prices for COVID-19 vaccines in EU- FT",
