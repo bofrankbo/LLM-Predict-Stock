@@ -1,4 +1,869 @@
 {
+    "20210501": [
+        {
+            "headline": "2x3090 NVLINK Owners: How do you enable SLI these days?",
+            "content": "Two Asus Strix RTX 3090's with an NVLINK on an MSI X570 Godlike Hardware-wise no problem, it's all detected I got this far, where NVIDIA Control Panel gave."
+        },
+        {
+            "headline": "NVIDIA shows off a custom GeForce RTX 3080 \"Overwatch\" graphics card",
+            "content": "NVIDIA GeForce China has commissioned a custom GeForce RTX 3080 Founders Edition with a theme from the Overwatch game."
+        },
+        {
+            "headline": "Nouveau Working On Bringing Up Some OpenGL Compute Shader Support For NV50 Era GPUs",
+            "content": "Open-source 'Nouveau' driver developers have been working on at least partial support for OpenGL compute within the NV50 Gallium3D driver that is used by..."
+        }
+    ],
+    "20210502": [],
+    "20210503": [
+        {
+            "headline": "NVIDIA Fixes 11 High-Severity Flaws in GPU and vGPU Display Drivers",
+            "content": "NVIDIA's first security update of 2021 releases fixes for 11 high-severity vulnerabilities in its GPUs and vGPU display drivers, that could possibly lead to..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3050 Ti Mobile GPU Specs Confirmed In GPU-Z Validation, Based On The Ampere GA107 GPU",
+            "content": "With the launch of new laptop models coming up, NVIDIA has released some of its GeForce RTX 30 series mobile GPUs, but the entry-level RTX 3050 and the RTX..."
+        },
+        {
+            "headline": "Custom Nvidia RTX 3080 Ti card listings suggest official launch is imminent",
+            "content": "A number of custom Nvidia RTX 3080 Ti graphics cards have shown up online, suggesting the flagship Ampere GPU is on track for an imminent release."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3050 Ti Laptop GPU Specs Revealed In Leak",
+            "content": "The RTX 3050 Ti has been fully leaked before its official announcement. It's said to have 2560 CUDA cores, 4GB of GDDR6 memory, and more."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3050 Ti GPU-Z leak suggests a moderately powerful mobile GPU with 2560 Ampere cores and a 1.5 GHz boost clock",
+            "content": "An anonymous user submitted a GPU-Z validation report for what seems to be a Clevo laptop sporting the as-yet unannounced Ampere NVIDIA GeForce RTX 3050 Ti."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3050 Ti mobile specs confirmed by GPU-Z validation",
+            "content": "The leak confirms the boost clock of RTX 3050 Ti of 1485 MHz and the memory clock of 1500 MHz. Since the graphics card features a 128-bit bus and uses 4GB..."
+        },
+        {
+            "headline": "Auburn HS grad Melissa Ruby took on teacher duties during COVID-19",
+            "content": "Last year, the Register Star reached out to Rock River Valley natives from all over the world to see how COVID-19 was affecting them and how the coronavirus..."
+        },
+        {
+            "headline": "Turining 2D Pictures of Cars Into 3D Models with NVIDIA",
+            "content": "The GANverse3D application inflates flat images into realistic 3D models that can be visualized and controlled in virtual environments."
+        }
+    ],
+    "20210504": [
+        {
+            "headline": "Crystal Ball Gazing at Nvidia: R&D Chief Bill Dally Talks Targets and Approach",
+            "content": "The answer is no, and sort of consists of three things. One of them is the the spiking representation, which is actually a pretty inefficient representation of..."
+        },
+        {
+            "headline": "NVIDIA's new datacenter roadmap indicates that MCM-based Lovelace could arrive next year, with a successor before 2024",
+            "content": "NVIDIA recently unveiled its 2021-2025 roadmap for the datacenter segment. The roadmap indicates that an Ampere successor, likely Lovelace, could arrive..."
+        },
+        {
+            "headline": "MSI Launches 11th Gen Intel Rocket Lake Powered Gaming Desktop PCs With NVIDIA GeForce RTX 30 GPUs & Resizable BAR Support",
+            "content": "MSI has launched latest Gaming Desktop PCs which feature Intel 11th Gen Rocket Lake CPUs along with NVIDIA GeForce RTX 30 GPUs."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3070 vs AMD Radeon RX 6700 XT Review",
+            "content": "The RTX 3070 is also better in content-creation tests. In Luxmark's Ball benchmark, the Nvidia card returned a score of around 52,2200, but the 6700 XT is..."
+        },
+        {
+            "headline": "Sneakers, Gaming, Nvidia Cards: Retailers Can Stop Shopping Bots",
+            "content": "Jason Kent, hacker in residence at Cequence Security, says most retailers are applying 1970s solutions to the modern (and out-of-control) shopping-bot problem,..."
+        },
+        {
+            "headline": "Razer Blade 14 gaming laptop may come with a mix of AMD and Nvidia hardware",
+            "content": "For instance, the RTX 3060 and Ryzen 5900HX that's rumored to power the new Razer Blade 14 can't hold up to the RTX 3080 and 10th gen Intel Core i7 of the..."
+        },
+        {
+            "headline": "GeForce RTX 3080 Ti and RTX 3070 Ti launch date delayed again; Nvidia likely to announce the graphics cards on May 31",
+            "content": "The tentative Nvidia GeForce RTX 3080 Ti and RTX 3070 Ti launch date has been pushed back once again. Nvidia is expected to unveil both SKUs on May 31."
+        },
+        {
+            "headline": "What can the full Ampere do? NVIDIA Quadro RTX A6000 with 48 GB VRAM as a 8K and 5K card in a first gaming test - pure decadence and a small victory against the GeForce RTX 3090",
+            "content": "What can the full Ampere do? NVIDIA Quadro RTX A6000 with 48 GB VRAM as a 8K and 5K card in a first gaming test – pure decadence and a small victory against the..."
+        },
+        {
+            "headline": "HP OMEN 17 refresh stars on Geekbench with an Intel Core i9-11900H, NVIDIA GeForce RTX 3070 and 32 GB of RAM",
+            "content": "There have been no leaks regarding the new OMEN 17's release date. The appearance of the OMEN 17-ck0xxx on Geekbench suggests that HP is within a month or two..."
+        }
+    ],
+    "20210505": [
+        {
+            "headline": "These Were Nvidia’s 5 Most Highly Compensated Executives Last Year",
+            "content": "CRN breaks down Nvidia's five highest compensated executives of 2020, all of whom received higher payouts than the previous year due to pandemic-induced..."
+        },
+        {
+            "headline": "Someone is already selling the Nvidia GeForce RTX 3080 Ti for $3,500",
+            "content": "The Nvidia GeForce RTX 3080 Ti has been spotted in a U.A.E. store, with an eyewatering $3500 price."
+        },
+        {
+            "headline": "NVIDIA hasn't even announced the RTX 3080 Ti, but it's allegedly been spotted for sale",
+            "content": "Leaked images show the NVIDIA GeForce RTX 3080 Ti for sale at a retailer weeks before the card is supposed to be available for purchase."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3080 Ti retail prices leak for considerably higher than reputed US$999 launch price; 12 GB of GDDR6X VRAM confirmed",
+            "content": "NVIDIA is expected to launch the GeForce RTX 3080 Ti for US$999, but leaked prices suggest that AIBs and retailers have other ideas."
+        },
+        {
+            "headline": "MSI GeForce RTX 3080 Ti SUPRIM X, Gaming X & Ventus 3X Custom Models Listed By Vietnamese Retailer For Over $3000 US",
+            "content": "The MSI GeForce RTX 3080 Ti graphics card lineup has been listed once again and this time by retailers that are based in Vietnam."
+        },
+        {
+            "headline": "Cooler Master MasterCase EG200 in hands-on test: Does an external GPU via Thunderbolt case make sense?",
+            "content": "We test the external graphics card case MasterCase EG200 from Cooler Master with Thunderbolt 3 port, 550 W power supply, laptop holder and hot-swap bay for..."
+        },
+        {
+            "headline": "EnvyUpdate is an open source tool that notifies you when an Nvidia driver update is available",
+            "content": "Get a notification when an Nvidia driver update is available with EnvyUpdaye. The open source tool also takes you to the driver download page."
+        }
+    ],
+    "20210506": [
+        {
+            "headline": "Rust: NVIDIA Reflex Gives Players A Free Upgrade, Reducing System Latency By Up To 38%",
+            "content": "NVIDIA Reflex is now available for Rust, reducing latency by up to 38%! Rust players with GeForce GPUs will get an upgrade by simply enabling Reflex through..."
+        },
+        {
+            "headline": "Tested: How Nvidia Reflex can make you a better esports gamer",
+            "content": "The Nvidia Reflex Low Latency Mode feature can drastically improve responsiveness if you like games to both look good and feel great."
+        },
+        {
+            "headline": "How AI is helping Nvidia improve U.S. Postal Service delivery",
+            "content": "Nvidia this week detailed a partnership with the US Postal Service to transform the latter's mail operations with AI."
+        },
+        {
+            "headline": "The Nvidia GeForce RTX 3080 Ti could be so expensive that even cryptominers avoid it",
+            "content": "They'll need all that Ethereum to afford one."
+        },
+        {
+            "headline": "Sharpening Its Edge: U.S. Postal Service Opens AI Apps on Edge Network",
+            "content": "The U.S. Postal Service (USPS) adopted edge AI to track millions of items, using NVIDIA EGX platforms and the NVIDIA Triton Inference Server."
+        },
+        {
+            "headline": "AMD RDNA 3 GPUs could 'take performance crown' from NVIDIA in 2022",
+            "content": "AMD is finding its footing with RDNA 3 and TSMC while NVIDIA struggles with Ampere and Samsung... RDNA 3 to take perf crown?!"
+        },
+        {
+            "headline": "A rogue Arm CEO and a centuries-old law are causing a headache for Nvidia's big deal",
+            "content": "If you thought a national security intervention was the top reason why Nvidia's purchase of Arm from Softbank may not go to plan, just wait until you hear this:..."
+        },
+        {
+            "headline": "NVIDIA GeForce 466.27 Driver Adds Reflex To Rust, Optimizes Metro Exodus Enhanced Edition",
+            "content": "If you're an NVIDIA user playing either Rust or Metro Exodus, you'll want to quickly go fetch the brand-new 466.27 GeForce driver which enhances performance..."
+        },
+        {
+            "headline": "How the USPS uses Nvidia GPUs and A.I. to track missing mail",
+            "content": "How the USPS uses Nvidia GPUs and A.I. to track missing mail ... The United States Postal Service, or USPS, is relying on artificial intelligence-powered by..."
+        },
+        {
+            "headline": "NVIDIA Releases Updates to CUDA-X AI Software",
+            "content": "NVIDIA CUDA-X AI is a deep learning software stack for researchers and software developers to build high performance GPU-accelerated applications."
+        }
+    ],
+    "20210507": [
+        {
+            "headline": "Nvidia GeForce RTX 3060 vs GTX 1060: is it time to upgrade?",
+            "content": "The GeForce RTX 3060 is way faster than the GTX 1060, but that should have been obvious – five years have passed since the 1060 came out, after all."
+        },
+        {
+            "headline": "AMD’s DLSS Competitor, FidelityFX Super Resolution, Allegedly Launching Next Month",
+            "content": "AMD's DLSS competitor, known as the FidelityFX Super Resolution, is coming to next-generation games in June 2021, alleges rumor."
+        },
+        {
+            "headline": "NVIDIA Graphics driver automatically uninstalls after reboot on Windows 11/10",
+            "content": "If the NVIDIA graphics driver automatically uninstalls after reboot on your Windows 11/10 device, follow our instructions below carefully to resolve the issue."
+        }
+    ],
+    "20210508": [
+        {
+            "headline": "Resident Evil Village at 8K: can the Nvidia RTX 3090 handle the horror?",
+            "content": "It actually hit an average of 37.6 fps, which is pretty impressive at 8K on high settings, with even the minimum framerates not going below 30 fps."
+        },
+        {
+            "headline": "Galax Launches First GeForce RTX 3080, RTX 3070 With Ethereum Nerf",
+            "content": "Galax has started to deploy GeForce RTX 3080 and RTX 3070 graphics cards with Nvidia's revised Ampere silicon."
+        }
+    ],
+    "20210509": [
+        {
+            "headline": "NVIDIA Marbles RTX Demo is now available for download",
+            "content": "Today, we are happy to report that the NVIDIA Marbles RTX tech demo is available for download."
+        },
+        {
+            "headline": "Road2 established as new innovation hub in Haifa for AI-based entrepreneurship",
+            "content": "The hub was established through a collaboration between MATI Haifa, NVIDIA, and the Israel Innovation Authority )"
+        }
+    ],
+    "20210510": [
+        {
+            "headline": "NVIDIA-Certified Systems Program Expands With More Partners, More GPUs, More Workloads",
+            "content": "NVIDIA-Certified Systems bring together NVIDIA GPUs and networking in systems from leading vendors that conform to best design practices."
+        },
+        {
+            "headline": "Upswift IoT Device Management Platform Announces Full Support for NVIDIA’s Jetson Product Line",
+            "content": "Upswift, a leading IoT device management software company, announced today full support for the famous, AI driven, Nvidia Jetson product line - Jetson."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3080 stock is coming — with a crypto mining limiter",
+            "content": "Nvidia GeForce RTX 3080 stock may get a boost as the first graphics cards with Nvidia's Ethereum mining limiter, designed to making GPUs gaming-only,..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 2080 Ti Graphics Cards Could Be Modded To Support Up To 22 GB GDDR6 Memory",
+            "content": "NVIDIA GeForce RTX 2080 Ti Graphics Cards Could Be Modded To Support Up To 22 GB GDDR6 Memory ... Russian modder, VIK-on, has once again showcased his modding..."
+        },
+        {
+            "headline": "Nvidia’s Marbles at Night RTX demo is now free to download",
+            "content": "During the Nvidia RTX 30 series announcement in September 2020, Nvidia showcased the ray-tracing capabilities of its newly announced graphics cards using..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3090 - Windows vs. Linux GPU Compute Performance",
+            "content": "The Linux performance for the flagship GeForce RTX 3090 graphics card compares to the Windows 10 performance in various GPU compute workloads."
+        },
+        {
+            "headline": "Someone built an NVIDIA GeForce RTX 3080 mining rig inside their BMW i8 to 'annoy gamers'",
+            "content": "Someone built an NVIDIA GeForce RTX 3080 mining rig inside their BMW i8 to 'annoy gamers' ... Just when you thought the graphics card situation couldn't get any..."
+        },
+        {
+            "headline": "GPU-Z 2.39 supports mobile RDNA 2 + NVIDIA's new CMP mining GPUs",
+            "content": "GPU-Z now supports integrated GPUs from Intel's new Rocket Lake CPUs, unreleased mobile RDNA 2 GPUs and NVIDIA's new mining GPUs."
+        },
+        {
+            "headline": "What is Nvidia DLSS and How Does it Improve Your Gameplay?",
+            "content": "DLSS (Deep Learning Super Sampling) is Nvidia's AI-based upscaling algorithm that uses dedicated Tensor Cores on RTX cards to boost frame rates without..."
+        },
+        {
+            "headline": "Galax to release RTX 3070 and RTX 3080 FG graphics cards with Nvidia’s anti-mining tech",
+            "content": "Galax confirms Nvidia is preparing the launch of RTX 3070 and RTX 3080 graphics cards with LHR chips. For now, these chips are only featured in Galax's..."
+        }
+    ],
+    "20210511": [
+        {
+            "headline": "NVIDIA Transforms Mainstream Laptops into Gaming Powerhouses with GeForce RTX 30 Series",
+            "content": "NVIDIA today announced a new wave of GeForce RTX™ laptops from the world's top manufacturers, delivering real-time ray tracing and AI-based DLSS to tens of..."
+        },
+        {
+            "headline": "Nvidia Unveils RTX 3050, 3050 Ti for Gaming Laptops as Little as $799",
+            "content": "Buying a new desktop video card can be murder right now. Thanks to the chip shortage and crypto price spike, you'd be lucky to find an Nvidia GeForce RTX..."
+        },
+        {
+            "headline": "New GeForce RTX Gaming and Studio Laptop Models Now Available - Over 140 In All, Including New RTX 3050 and 3050 Ti Models",
+            "content": "With over 140 models in all, there's a laptop for every need. Starting at $799, GeForce RTX 3050 laptops add immersive ray tracing to the latest games."
+        },
+        {
+            "headline": "NVIDIA Launches GeForce RTX 3050 and RTX 3050 Ti for Laptops",
+            "content": "The RTX 3050 series finally rounds out the rest of NVIDIA's laptop offering, introducing a mobile video card that's better suited for mid-power systems, and..."
+        },
+        {
+            "headline": "NVIDIA Energizes Thinner And Lighter Laptops With New GeForce RTX 3050",
+            "content": "There are actually two flavors of GeForce RTX 3050 laptop GPU being announced today, a standard RTX 3050 and a higher-end GeForce RTX 3050 Ti variant."
+        },
+        {
+            "headline": "Porsche To Work With Tech Company Nvidia On Autonomous Vehicle AI",
+            "content": "Porsche takes another step toward the future of the automobile with its new tech partner, Nvidia. The Santa Clara-based company made its name through..."
+        },
+        {
+            "headline": "Dell EMC PowerScale adds all-NVMe, Nvidia GPUDirect options",
+            "content": "The Dell EMC PowerScale family -- formerly known as Isilon -- added a faster new F900 model with all-NVMe flash storage that can scale from 46 TB to 368.6 TB..."
+        },
+        {
+            "headline": "Brains for autonomous driving",
+            "content": "Nvidia made its name with graphics cards for PCs – but in the last few years the company has become an important partner for the automotive industry."
+        },
+        {
+            "headline": "NVIDIA Launches GeForce RTX 3050 Ti & RTX 3050 Entry-Level Ampere GPUs For Gaming Laptops Starting at $799 US",
+            "content": "Starting with the specifications, the NVIDIA GeForce RTX 3050 Ti Laptop GPU will feature 2560 cores packed within 20 SM units. The GPU has a listed boost clock..."
+        },
+        {
+            "headline": "Nvidia’s RTX 3050 Ti can deliver 60fps gameplay in more budget-friendly laptops",
+            "content": "Nvidia has announced the RTX 3050 and 3050 Ti mobile graphics chips. The company says these will begin appearing in gaming laptops soon starting at $799,..."
+        }
+    ],
+    "20210512": [
+        {
+            "headline": "Valheim Nvidia RTX Build Solves Graphics Card Shortage",
+            "content": "Unable to buy themselves a real-life RTX 3080 because of the Nvidia GPU shortage, a Valheim player decided to build this wooden replica."
+        },
+        {
+            "headline": "New NVIDIA Studio laptops for photographers and video editors by Jose Antunes - ProVideo Coalition",
+            "content": "Creative aficionados that are into photography, graphic design or video editing can do more, faster, with new GeForce RTX 3050 Ti and 3050 laptops, and RTX..."
+        },
+        {
+            "headline": "What is the NVIDIA GeForce RTX 3060 GPU mining hashrate?",
+            "content": "You can expect to see a hashrate of around 24MH/s with the NVIDIA GeForce RTX 3060 with stock settings. If you manage to work around NVIDIA's limit, you'll..."
+        },
+        {
+            "headline": "NVIDIA Announces New Studio Laptops for 6.8x Faster Video Editing",
+            "content": "According to NVIDIA's blog about the release from senior product manager Gerardo Delgado, the GeForce RTX 3050 and 3050 Ti laptops will hugely increase the..."
+        }
+    ],
+    "20210513": [
+        {
+            "headline": "Nvidia RTX 3080 Ti leaks again — could arrive within days",
+            "content": "MSI may have leaked the imminent arrival of the Nvidia RTX 3080 Ti — Nvidia's latest 3000 series GPU..."
+        },
+        {
+            "headline": "GFN Thursday Set to Evolve as Biomutant Comes to GeForce NOW on May 25",
+            "content": "Biomutant, the new open-world action RPG from Experiment 101 and THQ Nordic, is coming to GeForce NOW when it releases on May 25."
+        },
+        {
+            "headline": "A desktop RTX 3050 Ti might join Nvidia’s RTX 3080 Ti and RTX 3070 Ti",
+            "content": "It looks like Nvidia has several new RTX 3000 graphics cards in the works."
+        },
+        {
+            "headline": "GALAX refreshes the GeForce RTX 30 series with NVIDIA's new ETH mining limits",
+            "content": "GALAX has confirmed NVIDIA's plans to re-release the GeForce RTX 30 series with revised ETH mining limits. All cards bar the GeForce RTX 3090 have received..."
+        },
+        {
+            "headline": "MSI quickly scrubs GeForce RTX 3080 Ti details from its website - Graphics - News",
+            "content": "MSI GeForce RTX 3080 Ti misfire. MSI's web developers seem to have been rather over eager in preparing for an upcoming Nvidia graphics card launch."
+        },
+        {
+            "headline": "How to play PC games on Mac, iPhone, or iPad with Nvidia GeForce Now",
+            "content": "GeForce NOW is a cloud-based gaming service which instantly transforms your Mac, iPhone or iPad into the gaming rig you've always dreamed of."
+        },
+        {
+            "headline": "Xiaomi Mi Notebook Pro X to launch in June with Nvidia RTX 3050 Ti GPU",
+            "content": "Xiaomi has just announced that its upcoming high end notebook will launch in June 2021. The laptop in question is the new Mi Notebook Pro X, which will feature..."
+        },
+        {
+            "headline": "Which NVIDIA 30-Series GPU Should You Buy? In 2025?",
+            "content": "We broke each of them down, looking at specs, price, and purpose (or use cases) to work out which will give you the best bang for your buck."
+        }
+    ],
+    "20210514": [
+        {
+            "headline": "Nvidia GeForce RTX 3080 Laptop GPU Review",
+            "content": "The RTX 3080 Laptop provides a decent performance improvement over the RTX 3070 depending on how CPU limited your gaming will be."
+        },
+        {
+            "headline": "A new Machinima age is nigh, with NVIDIA, AI, game effects and faces and poses",
+            "content": "When artists can get their hands on the latest NVIDIA GPUs, expect a bumper crop of AI-assisted poses and faces and music videos."
+        },
+        {
+            "headline": "Report: Galax Preps GeForce RTX 3060, 3060 Ti With Cryptomining Limiters",
+            "content": "Palit's Galax rounds up its LHR product family with GeForce RTX 3060, RTX 3060 Ti, RTX 3070,and RTX 3080 options."
+        },
+        {
+            "headline": "New references to the NVIDIA GeForce RTX 3050 Ti and GeForce RTX 3070 Ti emerge",
+            "content": "More GeForce RTX 30 series cards have been certified, this time the RTX 3050 Ti and RTX 3070 Ti. The RTX 3080 Ti has been certified once again too,..."
+        },
+        {
+            "headline": "Galax launches RTX 3060 and RTX 3060 Ti GPUs with crytomining limiter",
+            "content": "Galax has launched a new line of GeForce RTX 3060 and RTX 3060 Ti graphics cards that come kitted out with Nvidia's hash-rate limiter."
+        },
+        {
+            "headline": "NVIDIA GeForce Now NEW games: Major new release comes to streaming platform",
+            "content": "NVIDIA GeForce NOW subscribers can access more than a dozen new games as part of the package. The latest batch of games include new multiplayer release Hood:..."
+        }
+    ],
+    "20210515": [
+        {
+            "headline": "Nvidia RTX 3080 Ti and 3070 Ti GPUs could have 12GB and 8GB of VRAM respectively",
+            "content": "A fresh leak from a graphics card manufacturer reinforces previous speculation that Nvidia is about to unleash RTX 3080 Ti and RTX 3070 Ti models on the..."
+        },
+        {
+            "headline": "MSI GeForce RTX 3080 Ti 12 GB And RTX 3070 Ti 8GB ‘SUPRIM’ Series GPUs Leaked, Landing In June?",
+            "content": "The GPU market is pretty much an imaginary, unaffordable, dream right now but Videocardz has recieved confirmation of even more Ampere based cards from..."
+        },
+        {
+            "headline": "MSI RTX 3080 Ti and RTX 3070 Ti slides leak – VRAM capacities confirmed",
+            "content": "The Nvidia partner has practically confirmed that RTX 3080 Ti and RTX 3070 Ti graphics cards are in the works, revealing the company's planned SUPRIM series..."
+        },
+        {
+            "headline": "Ctrl+Alt+Delete: Why the Nvidia RTX 3050 laptops aren’t just for gamers",
+            "content": "The RTX 3050 GPUs provide superior performance compared to the most powerful 16-inch MacBook Pro and Intel's Iris Xe graphics."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3080 vs Radeon RX 6800 XT - which graphics card is right for you?",
+            "content": "The AMD Radeon RX 6800 XT has a much higher clock speed, and has a unique Infinity Cache that helps to more efficiently move data from the VRAM to the actual..."
+        }
+    ],
+    "20210516": [
+        {
+            "headline": "Nvidia के GeForce RTX 3050, GeForce RTX 3050 Ti गेमिंग जीपीयू हुए लॉन्च, जानें फीचर्स",
+            "content": "लैपटॉप और मोबाइल में प्रयुक्त होने वाली GeForce RTX 30 सीरीज की तरह ही एम्पीयर आर्किटेक्चर पर आधारित नई RTX 3050 और RTX 3050 Ti जल्द ही मार्केट में प्रवेश स्तर के लैपटॉप में भी देखने को मिलेगी · ये नए जीपीयू..."
+        }
+    ],
+    "20210517": [
+        {
+            "headline": "DiDi Chooses NVIDIA DRIVE for New Fleet of Self-Driving Robotaxis",
+            "content": "DiDi Autonomous Driving announced a partnership with Volvo Cars to develop a self-driving test fleet, equipped with NVIDIA DRIVE AGX Pegasus."
+        },
+        {
+            "headline": "Solutions & Reference Architectures for NVIDIA DGX A100 Systems",
+            "content": "The NVIDIA DGX POD reference architecture combines DGX A100 systems, networking, and storage solutions into fully integrated offerings that are verified and..."
+        },
+        {
+            "headline": "Nvidia Marbles: How To Download, Play, And Change Settings",
+            "content": "Marbles is a unique real-time tech demo that Nvidia showed off several years ago. It seems that it has always been Nvidia's intent to release this to the..."
+        },
+        {
+            "headline": "NVIDIA Omniverse Brings BMW a 30 Percent Boost in Production Planning Efficiency",
+            "content": "NVIDIA Omniverse Brings BMW a 30 Percent Boost in Production Planning Efficiency. NVIDIA Omniverse Brings BMW a 30 Percent Boost in Production Planning..."
+        },
+        {
+            "headline": "Microsoft and NVIDIA introduce parameter-efficient multimodal transformers for video representation learning",
+            "content": "We propose an approach to reduce the size of multimodal transformers up to 97 percent by weight sharing mechanisms."
+        },
+        {
+            "headline": "ET Deals: Dell XPS 8940 SE Intel Core i9 and Nvidia RTX 2060 Gaming Desktop for $1,499, Dell Vostro 14 5402 Core i5 Laptop for $639",
+            "content": "Today you can save over $600 on a gaming desktop from Dell that comes equipped with an Intel Core i9 processor and an Nvidia GeForce RTX 2060 graphics card."
+        }
+    ],
+    "20210518": [
+        {
+            "headline": "A Further Step to Getting GeForce Cards into the Hands of Gamers",
+            "content": "We're reducing the hash rate of newly manufactured GeForce RTX 3080, 3070 and 3060 Ti graphics cards so they're less desirable to miners."
+        },
+        {
+            "headline": "NVIDIA To Extend Ethereum Throttle to GeForce RTX 3080, 3070, & 3060 Ti “LHR” Cards",
+            "content": "NVIDIA's hash limiter throttles a card's Ethereum mining performance to 50% of its native rate, reducing (though not eliminating) a card's usefulness and..."
+        },
+        {
+            "headline": "Nvidia extends limits on crypto mining to newest gaming graphics cards",
+            "content": "The company said it would be applying a reduced Ethereum hash rate to its newly manufactured GeForce RTX 3080, RTX 3070 and RTX 3060 Ti graphics cards."
+        },
+        {
+            "headline": "Nvidia will add anti-mining flags to the rest of its RTX 3000 GPU series",
+            "content": "Yet shortly after that card's commercial launch, Nvidia released a developer-specific beta firmware driver that unlocked the GPU's full mining potential."
+        },
+        {
+            "headline": "NVIDIA DLSS: No Man’s Sky And 8 Other Games, Including The First VR Titles, Add Performance-Accelerating Tech This Month | GeForce News",
+            "content": "This month, DLSS comes to No Man's Sky, AMID EVIL, Aron's Adventure, Everspace 2, Redout: Space Assault, Scavengers, and Wrench."
+        },
+        {
+            "headline": "Nvidia Will Limit Crypto Mining on Newly Manufactured RTX GPUs",
+            "content": "After launching the RTX 3060 with capped hash rate to limit its attractiveness to miners, Nvidia has announced it will release new versions of other RTX..."
+        },
+        {
+            "headline": "Nvidia RTX 3080 Ti – everything we know about the future high-end GPU",
+            "content": "Nvidia's upcoming Ti-variant of the 3080 could be here soon - here's everything we know."
+        },
+        {
+            "headline": "Nvidia tries to stop its chips being used for crypto mining",
+            "content": "Chipmaker Nvidia intervened to prevent its most popular graphics cards being used for crypto mining."
+        },
+        {
+            "headline": "Image Processing with the Nvidia Jetson Nano (Part 1): Hardware and Software",
+            "content": "The Jetson Nano is a good platform for investigating AI and neural networks. Applications range from speech recognition to classifying objects in captured..."
+        },
+        {
+            "headline": "Nvidia is nerfing new RTX 3080 and 3070 cards for Ethereum cryptocurrency mining",
+            "content": "Nvidia is nerfing new RTX 3080, RTX 3070, and RTX 3060 Ti cards for cryptocurrency mining. The new cards will have an LHR identifier and will begin shipping..."
+        }
+    ],
+    "20210519": [
+        {
+            "headline": "What's New in Deep Learning & Artificial Intelligence from NVIDIA",
+            "content": "In this chapter, we go over the basics of getting started using the new RAPIDS Accelerator for Apache Spark 3.x that leverages GPUs to accelerate processing."
+        },
+        {
+            "headline": "The rest of Nvidia's RTX 30 GPUs are getting an anti-cryptomining refresh",
+            "content": "Nvidia have announced they're releasing new versions of their RTX 3070, RTX 3080 and RTX 3060 Ti GPUs with low hash rates to make them less desirable for..."
+        },
+        {
+            "headline": "Nvidia RTX 3000 Founders Edition graphics cards won’t get anti-cryptocurrency mining measures",
+            "content": "Nvidia RTX 3000 Founders Edition graphics cards won't get anti-cryptocurrency mining measures ... When you purchase through links on our site, we may earn an..."
+        },
+        {
+            "headline": "How Nvidia is Tackling GPU Shortages at the Source",
+            "content": "With the ongoing shortage of GPUs available, Nvidia has attempted to tackle the problem at its source by reducing mining power on GPUs."
+        },
+        {
+            "headline": "NVIDIA Omniverse Meets the Enterprise",
+            "content": "BMW and NVIDIA are partnering to use Omniverse to build a virtual factory to plan and improve its automotive production activities."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3080 will start fighting back against cryto miners — here's how",
+            "content": "Newer LHR models of the GeForce RTX 3060 Ti, RTX 3070 and RTX 3080 will be configured to be bad a crypto mining."
+        },
+        {
+            "headline": "Nvidia restricts the use of its gaming chips for cryptocurrency mining",
+            "content": "The restriction is aimed to prevent the shortage of Nvidia's GPU units for its gamer community."
+        },
+        {
+            "headline": "NVIDIA DLSS now available for No Man’s Sky and 8 other new games",
+            "content": "NVIDIA DLSS ecosystem is growing. The manufacturer has collaborated with game studios to add DLSS support to 9 additional games, which has extended the..."
+        },
+        {
+            "headline": "List of all NVIDIA GeForce RTX 3050 Ti GPU Laptops - TGPs, Dynamic Boost and Boost Clocks",
+            "content": "We offer a comprehensive list of laptops with RTX 3050 Ti graphics cards and their TGP, Dynamic Boost and GPU Boost clock values here."
+        },
+        {
+            "headline": "Days Gone now available as Nvidia releases a new driver but the game doesn’t feature Ray Tracing",
+            "content": "Days Gone for PC launches on Steam, Epic Games Store, price in India, gameplay, Nvidia Game Ready Driver update. Check out the latest on video games,..."
+        }
+    ],
+    "20210520": [
+        {
+            "headline": "Nvidia Stock Is Soaring. The Chip Giant May Have a Unique Opportunity in AI.",
+            "content": "Chip maker Nvidia is seeing shares rise after KeyBanc analyst John Vinh assumed coverage of the stock with a Buy rating. Vinh sees Nvidia stock going to..."
+        },
+        {
+            "headline": "GFN Thursday Plunges Into ‘Phantom Abyss,’ the New Adventure Announced by Devolver Digital",
+            "content": "GFN Thursday Plunges Into 'Phantom Abyss,' the New Adventure Announced by Devolver Digital. Seventeen games joining the GeForce NOW library this week, including..."
+        },
+        {
+            "headline": "NVIDIA's $24 Billion Advantage Over Advanced Micro Devices",
+            "content": "The GPU giant has continued to maintain its lead in graphics processing by spending far more on research and development (R&D) than AMD. NVIDIA has spent more..."
+        },
+        {
+            "headline": "Qualcomm Cloud AI 100 Is 3X More Efficient. What’s Missing?",
+            "content": "The AI100 performed admirably, delivering over 3.5 times the performance of the NVIDIA T4 (albeit a two year-old platform), while consuming roughly the same..."
+        },
+        {
+            "headline": "Nvidia will be at Computex, but don't expect an RTX 3080 Ti",
+            "content": "Nvidia has announced its Computex keynote, which will be happening on June 1, but we wouldn't expect gamers hold their breaths for a shiny new RTX 3080 Ti."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3070 Ti, 3080 Ti leaks seemingly confirm memory specs",
+            "content": "What you need to know · More specifications for the NVIDIA GeForce RTX 3070 Ti and 3080 Ti have leaked online · The leaks appear to confirm that the 3080 Ti..."
+        },
+        {
+            "headline": "Nvidia is desperately trying to stop its chips from being used for crypto mining",
+            "content": "Nvidia is a globally recognised chip maker specialising in GPUs (graphics processing units) and other essential components. The American giant leads the..."
+        },
+        {
+            "headline": "ASUS ROG Flow X13 upgraded to NVIDIA's latest GeForce RTX 30 series GPUs; 35 W SKUs only",
+            "content": "The ROG Flow X13 has received an upgrade to NVIDIA's latest RTX 30 series GPUs. The laptop remains available with AMD Ryzen 9 5000 APUs, which ASUS has..."
+        },
+        {
+            "headline": "NVIDIA: Founder Edition Cards will not get a Lite Hash rate Limiter SKU",
+            "content": "In the past week or so you've been able to see NVIDIA board partners release their LHR edition of the existing product line. The LHR version has limited..."
+        },
+        {
+            "headline": "GeForce RTX 3080 Ti Leak Galore: LEADTEK And PALIT RTX 3080 Ti 12GB Get Their RRA Certification",
+            "content": "The RRA certifications confirm two GPUS: RTX 3080 Ti Hurricane (from Leadtek) and RTX 3080 Ti GAMINGPRO OC D6X (from Palit)."
+        }
+    ],
+    "20210521": [
+        {
+            "headline": "NVIDIA Announces Four-for-One Stock Split, Pending Stockholder Approval at Annual Meeting Set for June 3",
+            "content": "NVIDIA today announced that its board of directors declared a four-for-one split of NVIDIA's common stock in the form of a stock dividend ..."
+        },
+        {
+            "headline": "Nvidia sets 4-for-1 stock split, shares rise",
+            "content": "Nvidia Corp (NVDA.O) on Friday announced a four-for-one stock split as it looks to make its stock less expensive for investors, sending the chipmaker's..."
+        },
+        {
+            "headline": "Better Buy: NVIDIA vs. Texas Instruments",
+            "content": "NVIDIA is the largest producer of high-end gaming and data center GPUs, while Texas Instruments manufactures lower-end analog and embedded chips for various..."
+        },
+        {
+            "headline": "Retailer Already Taking Pre-Orders For GeForce RTX 3080 Ti at Over $2700 US, RTX 3070 Ti For Over $2000 US",
+            "content": "A retailer based in Pakistan is taking pre-orders for NVIDIA's GeForce RTX 3080 Ti & GeForce RTX 3070 Ti graphics cards weeks before launch."
+        },
+        {
+            "headline": "How Diversity Drives Innovation: Catch Up on Inclusion in AI with NVIDIA On-Demand",
+            "content": "NVIDIA recently announced a three-year AI education partnership with the organization to create an AI Pathways Toolkit that Boys & Girls Clubs nationwide can..."
+        },
+        {
+            "headline": "Nvidia may release the RTX 3080 Ti and RTX 3070 Ti a week apart, starting June 3",
+            "content": "What has Nvidia got planned for the gaming and tech bonanza in June?"
+        },
+        {
+            "headline": "Nvidia GeForce GTX Titan X review",
+            "content": "Nvidia's flagship Titan X provides an unparalleled gaming experience, bulldozing every game we could throw in its path at 4K resolution with maximum detail."
+        },
+        {
+            "headline": "NVIDIA 470 Series To Be The Last Supporting GTX 600/700 Series Kepler",
+            "content": "The NVIDIA 470 series driver will be the last supporting Kepler GPUs while driver releases post-470 will only have Maxwell GPU support and newer."
+        },
+        {
+            "headline": "Watch Dogs: Legion Shines on an NVIDIA GeForce RTX 3080 Laptop",
+            "content": "Watch Dogs: Legion shines on an NVIDIA GeForce RTX 3080 laptop. With ray tracing enabled in 2K, it's just like returning to the big city in Watch Dogs: Legion."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3090 vs. AMD Radeon RX 6900 XT: Which GPU should you buy?",
+            "content": "Both the AMD Radeon RX 6900 XT and the NVIDIA GeForce RTX 3090 sit at the top of the current generation of GPUs. Whereas cards like the RX 6800 XT and RTX 3080..."
+        }
+    ],
+    "20210522": [
+        {
+            "headline": "NVIDIA To Retire Its Kepler GPU Architecture ‘GeForce 600 / 700 Series’ With R470 Drivers",
+            "content": "NVIDIA is going to retire its Kepler GPU architecture which has been supported since 2012 with the release of its R470 series drivers."
+        },
+        {
+            "headline": "NVIDIA Ada Lovelace ‘GeForce RTX’ & AMD RDNA 3 ‘Radeon RX’ Next-Generation GPUs Rumored To Be More Than Twice As Fast Than Ampere & RDNA 2",
+            "content": "It looks like AMD and NVIDIA will be offering double-digit performance gains with their next-generation GeForce RTX and Radeon RX graphics cards."
+        },
+        {
+            "headline": "HP Omen 25i gaming monitor can make your old school PC or console game look much more appealing, also features always-visible Dynamic Crosshairs",
+            "content": "The Omen 25i is a FHD 165 Hz display that offers several software enhancements including Dynamic Crosshair, Edge Precision, Eye Ease, and Shadow Vision."
+        },
+        {
+            "headline": "Unlock a Locked NVIDIA User Account (Fix)",
+            "content": "You can simply reset your account password. You can do this by clicking on the Need Help logging in option and selecting the option that says Forgot my..."
+        }
+    ],
+    "20210523": [
+        {
+            "headline": "Nvidia is preparing these older GPUs for the driver chopping block",
+            "content": "Nvidia will deliver LTS support through until 2024, keeping Kepler users safe from security holes for another few years yet – meaning that GTX 600 graphics..."
+        },
+        {
+            "headline": "Nvidia is preparing to end driver support for Kepler GPUs",
+            "content": "Nvidia has confirmed in their data center documentation that the Kepler architecture will be supported by only one more generation of drivers."
+        },
+        {
+            "headline": "Acer Nitro 5 (AN515-54) review",
+            "content": "The Acer Nitro 5 is a budget gaming laptop that makes strategic concessions to make room for the Nvidia RTX 2060 GPU."
+        }
+    ],
+    "20210524": [
+        {
+            "headline": "What Is Explainable AI (XAI)?",
+            "content": "Explainable AI, or XAI, is a set of tools and techniques that help people understand the math inside AI models to provide greater transparency on..."
+        },
+        {
+            "headline": "Nvidia Announces 4 for 1 Stock Split; Shares Jump 2.6%",
+            "content": "Nvidia Corporation (NVDA) announced that the board has declared a 4 for 1 stock split in the form of a stock dividend to make its shares more accessible to..."
+        },
+        {
+            "headline": "Report: NVIDIA Is Dropping Support for Its Older Graphics Cards",
+            "content": "Nvidia GTX 600 and 700 Are on the Way Out. According to Phoronix which took a look at Nvidia's data center CUDA documentation, the upcoming R470 graphics..."
+        },
+        {
+            "headline": "10 Tips to Get the Most Out of Your Nvidia Shield TV",
+            "content": "1. Attach a keyboard and mouse. Attaching a keyboard and mouse to your Nvidia Shield TV device can make entering passwords and search terms much easier."
+        },
+        {
+            "headline": "Nvidia outlines plan to end 600/700 series GPU support, but may have backtracked",
+            "content": "The R470 driver could be the last one to support most of Nvidia's GeForce 600 and 700 series graphics cards."
+        },
+        {
+            "headline": "First-Hand Experience: Deep Learning Lets Amputee Control Prosthetic Hand, Video Games",
+            "content": "The effort is detailed in a draft paper, or pre-print, titled “A Portable, Self-Contained Neuroprosthetic Hand with Deep Learning-Based Finger Control.” It..."
+        },
+        {
+            "headline": "Razer starts taking GeForce RTX 3070 Ti and RTX 3080 Ti pre-orders ahead of next week's anticipated launch",
+            "content": "Razer has started taking pre-orders for pre-built systems containing the RTX 3070 Ti and RTX 3080 Ti, confirming the impending launch of both cards."
+        },
+        {
+            "headline": "Nvidia's v470 driver series will be last to support Kepler GPUs - Graphics - News",
+            "content": "The updated CUDA documentation informs us that the v470 drivers will be the last to offer support for Nvidia Kepler GPUs."
+        },
+        {
+            "headline": "NVIDIA (NVDA) to Split Stock in Four to Attract More Investors",
+            "content": "The stock split will make NVIDIA's (NVDA) stock more affordable to employees and retail investors, thus boosting demand for its shares."
+        },
+        {
+            "headline": "Performance Analysis of Days Gone",
+            "content": "Days Gone is not a very demanding game. Even low-end GPUs such as the GeForce MX350 can handle it at 1080p on the low preset."
+        }
+    ],
+    "20210525": [
+        {
+            "headline": "Over 100 New NVIDIA GeForce RTX 30 Series Graphics Cards Submitted To EEC By ASUS",
+            "content": "In the ASUS EEC filing, they have submitted over 100 new NVIDIA GeForce RTX 30 series models including low hash rate models and more."
+        },
+        {
+            "headline": "NVIDIA Releases a Hotfix Driver for 4K 120Hz Displays",
+            "content": "Just take a look at this YouTube video, which shows how capable the GTX 1660 Super is at 4K. Compared to previous generation GPUs of the 1660's classification,..."
+        },
+        {
+            "headline": "LEADTEK’s Triple-Slot GeForce RTX 3080 Ti WinFast Hurricane 12 GB Custom Graphics Card Pictured",
+            "content": "LEADTEK is preparing a triple-slot GeForce RTX 3080 Ti custom variant known as the WinFast Hurricane which will be available during next week's launch."
+        }
+    ],
+    "20210526": [
+        {
+            "headline": "NVIDIA Announces Financial Results for First Quarter Fiscal 2022",
+            "content": "NVIDIA today reported record revenue for the first quarter ended May 2, 2021, of $5.66 billion, up 84 percent from a year earlier and up 13 percent from the..."
+        },
+        {
+            "headline": "Nvidia quarterly revenues grow 84% to $5.66B",
+            "content": "In original equipment manufacturer (OEM) and Other revenue, Nvidia said revenue was up 137% from a year ago and up 114% sequentially, primarily reflecting the..."
+        },
+        {
+            "headline": "Nvidia RTX 3080 Ti spotted as rumors about imminent GPU pile up",
+            "content": "It's looking increasingly likely that Nvidia is about to unleash an RTX 3080 Ti, plus a 3070 Ti."
+        },
+        {
+            "headline": "Nvidia’s Next Major Wave Of AI Revenues",
+            "content": "The company is hitting on all important cylinders, setting all-time records for sales of gear aimed at gaming, datacenter, and professional visualization."
+        },
+        {
+            "headline": "Nvidia: Could a Deceleration Be on the Horizon?",
+            "content": "Stay-at-home trends, a rise in crypto mining, and the in-demand Ampere gaming card have joined forces to help propel expectations on the Nvidia Corp."
+        },
+        {
+            "headline": "NVIDIA Announces Financial Results for First Quarter Fiscal 2022",
+            "content": "NVIDIA (NASDAQ: NVDA) today reported record revenue for the first quarter ended May 2, 2021, of $5.66 billion, up 84 percent from a year earlier and up 13..."
+        },
+        {
+            "headline": "Every single Tiger Lake-H and RTX 30 laptop announced this week",
+            "content": "Intel expanded its CPU lineup at the same time Nvidia added to its range of discrete GPUs - here are all the laptops confirmed to include both so far."
+        },
+        {
+            "headline": "The best Nvidia filters for Call of Duty: Warzone",
+            "content": "The following filters and settings are the best options, providing the best graphics for playing Warzone."
+        }
+    ],
+    "20210527": [
+        {
+            "headline": "Need for Speed: Researchers Switch on World’s Fastest AI Supercomputer",
+            "content": "NERSC will advance science on Perlmutter, an AI supercomputer packing six thousand NVIDIA A100 GPUs to deliver nearly four exaflops."
+        },
+        {
+            "headline": "Nvidia, NERSC claim Perlmutter is world’s fastest AI supercomputer",
+            "content": "Nvidia and the NERSC lab turn on Perlmutter, a supercomputer with its sights set on groundbreaking high-performance AI workload processing."
+        },
+        {
+            "headline": "Nvidia’s CEO sees a big wave coming for Enterprise AI",
+            "content": "The company is looking to leverage its channel partners to reach enterprise customers in industries \"far and wide.\" This week chipmaker Nvidia reported."
+        },
+        {
+            "headline": "The chip shortage is pitting bitcoin miners against gamers",
+            "content": "Gamers can't get their hands on NVIDIA's latest graphics cards because cryptocurrency miners have bought them all up."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3080 Ti Boasts 34 TFLOPS Of Graphics Horsepower And Matches RTX 3090 In CUDA Performance",
+            "content": "The RTX 3080 Ti will have 80 SMs for a net total of 10240 CUDA cores. The maximum frequency achieved by the graphics card is also given - which is 1.67 GHz."
+        },
+        {
+            "headline": "Marbles RTX Playable Sample Now Available in NVIDIA Omniverse",
+            "content": "Download and discover the iconic RTX demo, and explore real-time physics, dynamic lights and rich, physically based materials in the virtual collaboration..."
+        },
+        {
+            "headline": "Nvidia price discrimination between gamers and bitcoin mining working well",
+            "content": "Nvidia rolled out software drivers on its GeForce RTX 3060 gaming GPU to reduce the hash rate when it detects cryptocurrency mining, making them less..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3080 Ti final specifications confirmed",
+            "content": "The RTX 3080 Ti will feature 12GB of GDDR6X memory clocked at 1188 MHz (19008 MHz effective). With a memory bus 384-bit wide, RTX 3080 Ti will have a maximum..."
+        },
+        {
+            "headline": "Quake II RTX Performance For AMD Radeon 6000 Series vs. NVIDIA On Linux",
+            "content": "Here is a quick look at the Quake II RTX performance on Linux across various NVIDIA GeForce RTX graphics cards plus the Radeon RX 6000 series graphics cards I..."
+        },
+        {
+            "headline": "Acer Triton 500 SE packs Nvidia GeForce RTX 3080 power into a sleek gaming laptop",
+            "content": "Acer Triton 500 SE is a smart way to get Nvidia GeForce RTX 3080 and Intel 11th Gen power in a gaming laptop."
+        }
+    ],
+    "20210528": [
+        {
+            "headline": "Putting in a Good Word: GPU-Powered Crossword Solver Makes Best Showing Yet Against Humans",
+            "content": "A GPU-powered AI has beaten some of the world's most competitive word nerds at the crossword puzzles that are a staple of every Sunday paper."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3080 Ti Specifications Confirmed & Founder’s Edition Model Pictured",
+            "content": "The RTX 3080 Ti comes equipped with 10240 CUDA cores. The RTX 3080 Ti also comes equipped with 112 ROPs. This specific PALIT SKU features a base clock of 1365..."
+        },
+        {
+            "headline": "Nvidia RTX 3080 Ti GPU specs have leaked – and you won’t be disappointed",
+            "content": "Nvidia's RTX 3080 Ti specs have been rumored for some time now, and we've just seen what's claimed to be the final hardware configuration for this GPU which..."
+        },
+        {
+            "headline": "A Quick Look at Logging Into a Mellanox NVIDIA BlueField-2 DPU",
+            "content": "We have a quick piece to show how the NVIDIA BlueField-2 DPU is effectively a server on a PCIe card by logging into the DPU."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3080 Ti Full Specs Revealed Including 1665MHz Boost Clock",
+            "content": "A validated GPU-Z listing for NVIDIA's upcoming GeForce RTX 3080 Ti spills juicy details about the unannounced card."
+        },
+        {
+            "headline": "AMD and Nvidia to Power Four ExaFLOPS Supercomputer",
+            "content": "The Perlmutter system will use AMD's top-of-the-range 64-core EPYC 7763 processors as well as Nvidia's A100 compute GPUs to push out up to 180 PetaFLOPS of '..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3080 Ti Founders Edition pictured",
+            "content": "The RTX 3080 Ti FE looks just like RTX 3080. That's all there is to say really. Both cards feature an identical cooling solution, which is a 2-slot wide and..."
+        },
+        {
+            "headline": "NVIDIA will release a GeForce RTX 3080 Ti Founders Edition, and its design has already leaked",
+            "content": "NVIDIA is expected to announce the GeForce RTX 3080 Ti on May 31, its latest GA102-based graphics card. A leak has not only confirmed that NVIDIA plans to..."
+        },
+        {
+            "headline": "First Nvidia GeForce RTX 3080 Ti benchmarks leak - Graphics - News",
+            "content": "Monday, 31st May is widely expected to be the launch date for the latest Nvidia GeForce RTX 30 series graphics cards, namely the GeForce RTX 3070 Ti and..."
+        },
+        {
+            "headline": "Nvidia RTX 3080 Ti early benchmarks emerge, specifications confirmed on GPU-Z",
+            "content": "As the expected date for the RTX 3080 Ti launch comes closer, the first benchmark results have started to appear. Besides the results, there's also..."
+        }
+    ],
+    "20210529": [
+        {
+            "headline": "How Nvidia plans to own the data center with AI",
+            "content": "How Nvidia plans to own the data center with AI ... Nvidia Corp. wants to transform enterprise computing completely by making data centers run 10 times faster at..."
+        },
+        {
+            "headline": "A Custom GeForce RTX 3080 TI Model Has Been Leaked in a GPU-Z Screenshot",
+            "content": "GPU-Z has recently been updated to the 2.40.0 version, and this new version offers full support for the upcoming RTX 3080 Ti and RTX 3070 Ti graphics cards."
+        },
+        {
+            "headline": "Custom NVIDIA GeForce RTX 3080 Ti model appears in leaked GPU-Z screenshot",
+            "content": "NVIDIA RTX 3080 Ti with factory-overclocking French website reveals the specs of a custom model with GA102-225 GPU."
+        },
+        {
+            "headline": "Acer Predator X38 S improves upon the original Predator X38 with VESA DisplayHDR 600 certification and built-in NVIDIA Reflex Latency Analyzer",
+            "content": "The new Predator X38 S is now VESA DisplayHDR 600-certified and comes with a built-in NVIDIA Reflex Latency Analyzer."
+        }
+    ],
+    "20210530": [
+        {
+            "headline": "NVIDIA vs. AMD Linux Gaming Performance For End Of May 2021 Drivers",
+            "content": "With May quickly drawing to a close, here are some fresh Linux gaming benchmark figures for the latest AMD Radeon and NVIDIA GeForce graphics cards on their..."
+        },
+        {
+            "headline": "Even More NVIDIA GeForce RTX 3080 Ti GPUs Pictured: Colorful, ZOTAC and Lenovo",
+            "content": "Box art and images of custom RTX 3080 Tis by ZOTAC, Colorful and even Lenovo have been leaked by WhyCry."
+        },
+        {
+            "headline": "Why You Should Not Enable DLSS in Call of Duty: Warzone",
+            "content": "The update that introduced DLSS to Warzone is affected by a bug which negatively impacts player aim. Raven Software is aware of the issue."
+        },
+        {
+            "headline": "Here is a beautiful forest map in Unreal Engine 5 with Lumen and Nanite",
+            "content": "MAWI United has shared a video, showing its Birch Forest Map/Biome in Unreal Engine 5 with Nanite and Lumen."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3080 Ti vs RTX 3080 vs RTX 3090 Benchmarks – New leaks show the obvious, sitting in the middle of the two existing cards",
+            "content": "Tomorrow, on the 31st of May, it is expected Nvidia will launch their latest Nvidia GeForce RTX 30 series graphics cards, the Ti variants of the RTX 3080..."
+        }
+    ],
+    "20210531": [
+        {
+            "headline": "It’s Time for Ti: NVIDIA Introduces Gaming Flagship — the GeForce RTX 3080 Ti",
+            "content": "NVIDIA today unveiled two additions to the GeForce RTX™ family — the GeForce RTX 3080 Ti and GeForce RTX 3070 Ti — available soon from its global network of..."
+        },
+        {
+            "headline": "NVIDIA RTX Titles Jump To Over 130 - DOOM Eternal, Icarus, Red Dead Redemption 2, Rainbow Six Siege, DYING: 1983, And More Coming Soon | GeForce News",
+            "content": "We announce the addition of RTX technologies to a further 8 titles, including DOOM Eternal, Red Dead Redemption 2, Rainbow Six Siege, Icarus, LEGO Builder's..."
+        },
+        {
+            "headline": "It’s Time For Ti -- Announcing The GeForce RTX 3080 Ti, Our New Gaming Flagship, And The GeForce RTX 3070 Ti",
+            "content": "The NVIDIA Ampere Architecture gets even more powerful in June with the new GeForce RTX 3080 Ti and GeForce RTX 3070 Ti. The GeForce RTX 3080 Ti,..."
+        },
+        {
+            "headline": "NVIDIA At COMPUTEX 2021: GeForce RTX 3080 Ti & 3070 Ti, New Laptops, New RTX & Reflex Games, And Much More",
+            "content": "We announced the GeForce RTX 30 Series is getting even more powerful with two new graphics cards: the GeForce RTX 3080 Ti - our new gaming flagship - launching..."
+        },
+        {
+            "headline": "NVIDIA AI Enterprise Software Drives New Wave of Certified Systems from World’s Leading Manufacturers",
+            "content": "NVIDIA today announced dozens of new servers certified to run NVIDIA AI Enterprise software, marking a rapid expansion of the NVIDIA-Certified Systems™..."
+        },
+        {
+            "headline": "NVIDIA Base Command Platform Provides Enterprises with Fast Path to Scale Production AI",
+            "content": "NVIDIA today unveiled NVIDIA Base Command Platform, a cloud-hosted development hub that lets enterprises quickly move their AI projects from prototypes to..."
+        },
+        {
+            "headline": "NVIDIA Brings Gaming, Enterprise Innovations to COMPUTEX 2021",
+            "content": "New gaming flagship, new laptops, RTX momentum and AI for every company featured in a news-packed virtual keynote."
+        },
+        {
+            "headline": "NVIDIA Partners Unveil New Servers Featuring NVIDIA BlueField DPUs",
+            "content": "NVIDIA Partners Unveil New Servers Featuring NVIDIA BlueField DPUs. ASUS, Dell Technologies, GIGABYTE, QCT and Supermicro offer systems powered by BlueField..."
+        },
+        {
+            "headline": "From Hours to Minutes with New Rendering Powerhouses: GeForce RTX 3080 Ti and 3070 Ti",
+            "content": "These GPUs deliver massive time savings for freelancers and creatives specializing in video editing, 3D animation or architectural visualization."
+        },
+        {
+            "headline": "NVIDIA Reflex In 12 Of Top 15 Competitive Shooters – Coming Next To Escape From Tarkov, CrossFire HD, War Thunder, And More",
+            "content": "We're announcing that Reflex is coming to Escape From Tarkov, CrossFire HD, War Thunder and NARAKA: BLADEPOINT. Soon, 12 of the top 15 competitive shooters..."
+        }
+    ],
     "20210601": [
         {
             "headline": "SHIELD TV Now Streaming More Hit Movies and Shows with the Apple TV App",

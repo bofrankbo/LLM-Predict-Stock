@@ -16,10 +16,6 @@ class Index_UsableExpanding(FactorExpanding):
         self.price_his = price_his
         self.path_expand = f"out_stock/Expands/{env['path_folder']}/{env['stock_id']}/expand.json"    # 輸出 JSON 檔案
         
-        # history data path
-        self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"
-        
-        
     def expanding(self, factors):
         '''
             llm_factors: list of factors
