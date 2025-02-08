@@ -1,4 +1,223 @@
 {
+    "20210301": [
+        {
+            "headline": "Movandi Names Bill Ruehle as Chief Financial Officer",
+            "content": "William (Bill) Ruehle has joined as its chief financial officer (CFO). Ruehle brings more than 40 years of experience driving strategy and business performance."
+        },
+        {
+            "headline": "Raspberry Pi’s Ninth Birthday: 9 Things You Might Not Know",
+            "content": "Some surprising facts about everyone's favorite single-board computer, in honor of its 9th anniversary."
+        },
+        {
+            "headline": "Stephen Weissman",
+            "content": "A former top antitrust enforcer and accomplished defense lawyer, Steve brings exceptional experience and a practical approach to representing companies."
+        },
+        {
+            "headline": "C3.ai shares sell off despite fiscal Q3 revenue, EPS beat, higher forecast",
+            "content": "C3.ai said it added former SAP co-CEO Jim Snabe to its board of directors."
+        }
+    ],
+    "20210302": [
+        {
+            "headline": "Cognitive Systems Announces Availability of WiFi Motion Sensing across Complete Broadcom Advanced WiFi 6/6E AP Portfolio",
+            "content": "Cognitive Systems Corp. today announced that its patented WiFi Motion™ technology is now standard for customers developing products using Broadcom's n."
+        },
+        {
+            "headline": "ADAQ4003: 18-Bit, 2 MSPS, μModule® Data Acquisition Solution",
+            "content": "The device has a high-resolution SAR-ADC, a low noise, fully differential amplifier, a stable reference buffer, and the most critical passive components."
+        },
+        {
+            "headline": "Majlis approves RaajjeTV journalist Fazeen’s appointment to Broadcom",
+            "content": "The People's Majlis has approved Mohamed Fazeen's appointment to the vacancy at the Maldives Broadcasting Commission (Broadcom)."
+        }
+    ],
+    "20210303": [
+        {
+            "headline": "Threat actors spoof Japanese credit card services (JCB) in new phish wave",
+            "content": "Threat actors spoof Japanese credit card services (JCB) in new phish wave ... As observed recently by Symantec, threat actors have spoofed Japanese credit card..."
+        },
+        {
+            "headline": "Marvell Furthers Its 5G Push With Fujitsu And Facebook Connectivity",
+            "content": "Analyst Will Townsend of Moor Insights & Strategy shares his insights as he dives deeper into what he finds most compelling as Marvell next their next big..."
+        },
+        {
+            "headline": "Okta to acquire Auth0 for $6.5 billion",
+            "content": "Meanwhile, the cloud-based identity management firm reported better-than-expected Q4 results and gave an outlook for more than $1 billion in FY 2022 sales."
+        }
+    ],
+    "20210304": [
+        {
+            "headline": "Broadcom CEO Says Demand Is ‘Real’ as Chip Orders Flood In",
+            "content": "Broadcom Inc. Chief Executive Officer Hock Tan said customers are beefing up semiconductor orders at an unprecedented pace and tried to quell concern that..."
+        },
+        {
+            "headline": "RF front-end module industry -What are the technical choices made by Apple?",
+            "content": "“In the iPhone series from 2016 to 2020, Apple's strategy was to reduce the RF area size with a decrease of the board level at first until 2017."
+        }
+    ],
+    "20210305": [
+        {
+            "headline": "Broadcom Protected By Non-Cancellation Policy, Assures Genuine Chip Demand: Bloomberg",
+            "content": "Broadcom Inc (NASDAQ: AVGO) CEO Hock Tan raised concerns over a potential demand-supply imbalance upon semiconductor buffer build-up by customers via..."
+        }
+    ],
+    "20210306": [],
+    "20210307": [],
+    "20210308": [
+        {
+            "headline": "McAfee Sells Enterprise Security Business to Private Equity Firm STG -",
+            "content": "McAfee enterprise security software business acquired by private equity firm Symphony Technology Group (STG) for $4.0 billion."
+        },
+        {
+            "headline": "RF Front-End Module Industry: What Are the Technical Choices Made by Apple?",
+            "content": "System Plus Consulting and Yole present their vision of the latest innovations in the RF front-end module industry."
+        },
+        {
+            "headline": "Mohamed Fazeen appointed to Broadcom",
+            "content": "Mohamed Fazeen has been appointed to the Maldives Broadcasting Commission (Broadcom). President Ibrahim Mohamed Solih presented the former RaajjeTV journalist..."
+        },
+        {
+            "headline": "Motorola 4K Android TV Stick launched in India for Rs. 3999",
+            "content": "Flipkart has launched Motorola 4K Android TV Stick in India. It has a Cortex A53 quad-core 64-bit processor with Mali G31 MP2 GPU, runs Android 9.0 OS with..."
+        }
+    ],
+    "20210309": [
+        {
+            "headline": "Council Post: Destination BizOps: A Road Map To Get Started",
+            "content": "Serge Lucio is the GM of Broadcom Enterprise Software and a founding member of the BizOps Coalition. Business meeting in modern office later at night."
+        }
+    ],
+    "20210310": [
+        {
+            "headline": "Inside an Innovium Teralynx 7-based 32x 400GbE Switch",
+            "content": "We take a look at a 32x 400GbE switch based on the Innovium Teralynx 7 ASIC. This is the class of switch hyper-scalers are deploying today."
+        },
+        {
+            "headline": "Raspberry Pi 4 Internet-Connected RC Car Mod Is The Perfect Quarantine Project",
+            "content": "A modder has taken RC car racing to another level with a nifty Raspberry Pi mod."
+        }
+    ],
+    "20210311": [
+        {
+            "headline": "Cognitive Systems brings motion sensing to Broadcom's Wi-Fi 6/6E access points",
+            "content": "Cognitive Systems brings motion sensing to Broadcom's Wi-Fi 6/6E access points · Cognitive Systems Corp. · Cognitive Systems' software utilizes machine learning..."
+        },
+        {
+            "headline": "Cisco Fights The Merchant Network Chip Makers On Their Own Turf",
+            "content": "There is nothing wrong with buying a compute, storage, or networking appliance where the ASICs and software both come from the same supplier. There is,"
+        }
+    ],
+    "20210312": [],
+    "20210313": [],
+    "20210314": [],
+    "20210315": [
+        {
+            "headline": "Broadcom: Supply Chain Strength (NASDAQ:AVGO)",
+            "content": "Broadcom has done a good job balancing demand and supply in its end-user markets. The company is facing competition in 5G, but its wireless business is..."
+        },
+        {
+            "headline": "UCHealth’s Occupational Medicine program offers specially-tailored services for employers",
+            "content": "Employers benefit from occupational health services that include easy-to-access clinics, resources and infection prevention experts."
+        }
+    ],
+    "20210316": [],
+    "20210317": [],
+    "20210318": [
+        {
+            "headline": "The evolution of speed: Moore’s Law still applies to Wi-Fi",
+            "content": "by Claus Hetting, Wi-Fi NOW CEO & Chairman. The evolution of Wi-Fi speed is astounding and shows no signs of abating. A number of years ago a friend of mine..."
+        }
+    ],
+    "20210319": [
+        {
+            "headline": "Top 10 Encoders Manufacturers of the World",
+            "content": "Being the leading supplier of motion sensing optical encoders, Broadcom has made its name among the Top 10 Encoder Manufacturers of the world."
+        },
+        {
+            "headline": "Arris SB8200 Cable Modem Review",
+            "content": "This Arris SB8200 review will focus on examining the most important features a modem can have, including its design, performance, hardware, portability,..."
+        }
+    ],
+    "20210320": [],
+    "20210321": [],
+    "20210322": [
+        {
+            "headline": "Intel and Samsung Lead Global Semiconductor Production",
+            "content": "Intel holds the biggest semiconductor market share, accounting for 15.6 percent of global revenue. According to data from Gartner, Samsung is Intel's largest..."
+        },
+        {
+            "headline": "Synnex Downplays Layoff Risks Amid Tech Data Merger -",
+            "content": "Amid Synnex-Tech Data merger, Synnex downplays risk of layoffs, staff cuts and/or job losses in an FAQ shared with employees."
+        },
+        {
+            "headline": "These 8 Stocks Should Benefit as the Economy Starts to Recover",
+            "content": "Investors should prepare for an economic recovery and U.S. dollar reflation."
+        },
+        {
+            "headline": "Flex Logix has two paths to making a lot of money challenging Nvidia in AI",
+            "content": "The programmable chip company scores $55 million in venture backing, bringing its total haul to $82 million."
+        }
+    ],
+    "20210323": [
+        {
+            "headline": "Under the Hood: the Innovation-Rich Golf 8",
+            "content": "The Golf 8's Forward Collision Warning system (included in Front Assist) can help monitor traffic and can warn you, both audibly and visually, of a potential..."
+        }
+    ],
+    "20210324": [
+        {
+            "headline": "Broadcom simplifies mainframe costs, retires obsolete licensing model",
+            "content": "We introduced our Mainframe Consumption Licensing (MCL) Program in May 2019. This program was designed to complement IBM's Tailored Fit Pricing for IBM Z..."
+        },
+        {
+            "headline": "How To Install Android On Raspberry Pi 4?",
+            "content": "In this article, let's look at how to install Android on Raspberry Pi 4 using LineageOS 17.1. Before we get started here's a list of things that you'll need."
+        }
+    ],
+    "20210325": [
+        {
+            "headline": "Revenue of Top 10 IC Design (Fabless) Companies for 2020 Undergoes 26.4% Increase YoY Due to High Demand for Notebooks and Networking Products",
+            "content": "The top three IC design companies (Qualcomm, Broadcom, and Nvidia) all posted YoY increases in their revenues, with Nvidia registering the most impressive..."
+        },
+        {
+            "headline": "New Imagination Technologies CIO To Lead In-house Technology Incubator",
+            "content": "Tim Mamtora joined Imagination Technologies as chief innovation officer to head up an in-house technology incubator."
+        }
+    ],
+    "20210326": [],
+    "20210327": [],
+    "20210328": [
+        {
+            "headline": "Microchips Needed in Your Car, PlayStation and Phone Are In Short Supply",
+            "content": "Microchips needed for cars, smart phones and game consoles like the Xbox and Playstation are in short supply, as chipmakers are trying to match demand with..."
+        }
+    ],
+    "20210329": [
+        {
+            "headline": "Saudi Arabia drives its Wi-Fi 6E usage momentum",
+            "content": "Broadcom commends the CITC for this visionary move. By unleashing all 1,200 MHz of the band for Wi-Fi, the Kingdom has now allocated 2035 MHz of spectrum for Wi..."
+        }
+    ],
+    "20210330": [
+        {
+            "headline": "Amazon is reportedly working on custom networking chips",
+            "content": "Amazon wants the backbone of its networking infrastructure to be powered by its own custom chips, according to a report. The Amazon-built networking..."
+        }
+    ],
+    "20210331": [
+        {
+            "headline": "Broadcom's VDR tech keeps high accuracy without GNSS signals",
+            "content": "The BCM47765 can provide accurate location information in a GNSS-denied environment like a tunnel or an underground parking area."
+        },
+        {
+            "headline": "Amazon Web Services reportedly developing custom silicon for network switches",
+            "content": "Hyperscale cloud providers are all investing heavily in custom silicon to differentiate their platforms, lower costs, and cause vendor lock-in."
+        },
+        {
+            "headline": "President's preferences for BroadCom being reviewed by Majlis committee",
+            "content": "View the most latest, reliable and breaking news today for maldives at raajje.mv."
+        }
+    ],
     "20210401": [
         {
             "headline": "Nvidia announces plans to expand in Israel, recruit 600 engineers",

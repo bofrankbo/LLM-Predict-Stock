@@ -1,4 +1,1282 @@
 {
+    "20210301": [
+        {
+            "headline": "Locked out of Model X - Both Key Fobs not working",
+            "content": "If you think the fobs are bad you can take them to the Service Center for replacement or reprogramming. However, it might be some bad batteries."
+        },
+        {
+            "headline": "Tesla’s Little-Known Prehistory",
+            "content": "We go to Brighton, Michigan, to an engineer named Dave Piontek who was innocently building sports cars in his garage way back in the '80s."
+        },
+        {
+            "headline": "The End Of Tesla’s Convertible Era?",
+            "content": "It's the day in which holders of Tesla's convertible bonds issued back in 2014 will convert those bonds into shares, realizing whopping gains of more than 800%."
+        },
+        {
+            "headline": "Tesla Model S Prototype Spotted With Fabled Steering Yoke",
+            "content": "Several weeks ago, Tesla officially announced planned updates to the Model S and Model X as part of a comprehensive refresh. The vehicles would be getting..."
+        },
+        {
+            "headline": "Tesla Standard Range cars are shifting to LFP batteries, says Musk",
+            "content": "Tesla is transitioning its Standard Range car variants from Lithium-ion to LFP batteries. Read how it saves cost, time, and complexity for the automaker."
+        },
+        {
+            "headline": "Best Electric Vehicle Resale Value: 2021 Tesla Model X",
+            "content": "KBB predicts that after five years, you'll still be able to sell your Model X for 47.3% of what you paid for it."
+        },
+        {
+            "headline": "Fisker Wants To Challenge Tesla, VW With Affordable Electric Car",
+            "content": "It will have to be cheaper than the Fisker Ocean whose price is $37499 before incentives."
+        },
+        {
+            "headline": "Fancy your Tesla Model 3 with a limited-slip diff?",
+            "content": "Unplugged Performance will now fit an LSD to both the Model 3 and Model Y."
+        },
+        {
+            "headline": "Tesla China President Defends Vehicle Production Quality After Multiple Reported Issues",
+            "content": "Tesla's president for Greater China Zhu Xiaotong gave an interview to China Liberation Daily and Shangguan news. In the interview, he discussed Tesla's..."
+        },
+        {
+            "headline": "LG to produce Tesla’s new 4680 battery cell at Korean factory",
+            "content": "Tesla has recently introduced several battery innovations, including the new tabless 4680 cell, which it is believed to be producing in small quantities on..."
+        }
+    ],
+    "20210302": [
+        {
+            "headline": "Tesla vs. Lucid: Here's how the EV rivals are and aren't alike",
+            "content": "Here's how Lucid, which announced plans last week to go public through a SPAC deal, and Tesla compare with each other."
+        },
+        {
+            "headline": "Looking for some straight answers on Model 3 Performance Tires",
+            "content": "The Model 3 Performance that I ordered only comes with summer tires. I have a few questions. 1) Is it true you can't drive the Pirellis that come stock under..."
+        },
+        {
+            "headline": "Swedish electric car brand Polestar challenging Tesla in Cherry Creek",
+            "content": "The company said it expects to open in Denver by early spring. Polestar was founded by Volvo Cars and its parent company in 2017, and sells two..."
+        },
+        {
+            "headline": "New Tesla Solar Roof tiles spotted at test facility",
+            "content": "The product was originally offered in four different styles: Textured Glass Tile, Slate Glass Tile, Tuscan Glass Tile, and Smooth Glass Tile. Smooth glass..."
+        },
+        {
+            "headline": "Tesla Giga Texas production moves closer as paint shop machinery arrives",
+            "content": "A new drone video from a local resident shows Giga Texas's paint shop facility is set to begin construction soon as paint application machinery has arrived on..."
+        },
+        {
+            "headline": "US STOCKS Wall Street ends lower as Apple and Tesla retreat",
+            "content": "Wall Street ended lower on Tuesday, pulled down by Apple and Tesla, while materials stocks climbed as investors waited for the U.S. Congress to approve..."
+        },
+        {
+            "headline": "We Talk Tesla Connectors And Future Network Plans With EV Charging Network, EVgo",
+            "content": "EVgo first launched the integrated Tesla connectors at its locations in San Francisco and Los Angeles in December 2019, positioning itself as the first multi-..."
+        },
+        {
+            "headline": "PSA: Tesla Fixing Model 3/Y Heat Pump Sensors That ‘Can Fault Over Time’",
+            "content": "The fix is to “replace all 3 refrigerant P/T sensors”, says Tesla. While the company has yet to announce a specific fix date, Green recommends making an..."
+        },
+        {
+            "headline": "Logan police to become Ohio's first law enforcement agency with Tesla cruisers",
+            "content": "The Logan Police Department will become the first law enforcement agency in Ohio to include Tesla electric police cruisers."
+        },
+        {
+            "headline": "Tesla Cybertruck? Somebody Hold This Honda Ridgeline Rendering's Beer",
+            "content": "This Honda Ridgeline 2028 rendering is a very good example of how a design can be just as disruptive as the Cybertruck but in a very different way."
+        }
+    ],
+    "20210303": [
+        {
+            "headline": "Original owners of 2012/2013 Model S w/ 85 kWh pack: Has your main pack been replaced?",
+            "content": "Can I ask what you got for your '13 Tesla (w/ details (i.e., miles, options))? Did it take awhile (being that your warranty was pretty much over) to sell..."
+        },
+        {
+            "headline": "Tesla will be the most profitable player in electric vehicles for years to come, UBS analysts say",
+            "content": "The analysts estimate that Tesla will sell 2.3 million cars in 2025, more than quadruple the amount it sold in 2020."
+        },
+        {
+            "headline": "Fiat Chrysler spent over $300 million on green credits in Europe last year — mostly from Tesla",
+            "content": "Fiat Chrysler spent over $300 million on green credits in Europe last year — mostly from Tesla ... A Tesla car in London. ... Fiat Chrysler said Wednesday on an..."
+        },
+        {
+            "headline": "Review: 2021 Tesla Model S vs. Porsche Taycan",
+            "content": "The Tesla Model S debuted nearly a decade ago and instantly portended the future of electric vehicles. Here was a sleek-looking EV with intriguing new..."
+        },
+        {
+            "headline": "Tesla demand sees drastic rise in Japan after price adjustment",
+            "content": "Tesla demand sees drastic rise in Japan after price adjustment ... There has been a drastic increase in demand for the Tesla Model 3 in Japan recently. Delivery..."
+        },
+        {
+            "headline": "Tesla China Gigafactory Appears To Be Acquiring Over 100 More Acres",
+            "content": "Reports related to Tesla's energy business in China uncovered a land rights' transfer announcement that was filed for new energy vehicle manufacturing."
+        },
+        {
+            "headline": "Mom Gives Birth to Son in Front Seat of Tesla Near George Washington Bridge Exit",
+            "content": "Goldfarb, 33, and her husband Blake on Jan. 19, when their son Jordan Harris made his entrance into the world in the front seat of their Tesla."
+        },
+        {
+            "headline": "Why Did 70,000 People Buy NIO & Xpeng EVs Instead Of Teslas In China Last Year?",
+            "content": "The Xpeng P7 costs 229,900 yuan ($35,500) after subsidies, so has to appeal more on its merits against a Tesla Model 3, but it does have an NEDC-rated range of..."
+        },
+        {
+            "headline": "Tesla Showcases Third Generation Wall Connector that Connects to WiFi for Automatic Firmware Updates",
+            "content": "The new wall connector is now equipped with the function of wireless network connection, and is able to perform OTA (Over the Air) automatic updates for Tesla..."
+        },
+        {
+            "headline": "Exclusive | Xpeng to offer cheaper LFP battery option to cut price of P7 saloons",
+            "content": "A fast-charging lithium iron phosphate (LFP) battery pack will be available as an option on the P7 model starting in May as an alternative to the lithium nickel..."
+        }
+    ],
+    "20210304": [
+        {
+            "headline": "Nokian Hakkapeliitta R3",
+            "content": "Overall very pleased: I haven't seen a noticeable efficiency hit in the dry (trying apples to apples drives), and they really hook up great in the snow and ice."
+        },
+        {
+            "headline": "Tesla partners with nickel mine amid shortage fears",
+            "content": "Tesla partners with nickel mine amid shortage fears ... Getty Images Goro mine in New Caledonia. Getty Images. Goro mine in New Caledonia. Tesla has decided to..."
+        },
+        {
+            "headline": "Tesla Had a Record Quarter, so Why Did its Shares Just Nosedive?",
+            "content": "Shares for electric carmaker Tesla took a nosedive on Wednesday after the Elon Musk brainchild once again failed to meet production targets."
+        },
+        {
+            "headline": "Tesla's valuation will hit $1 trillion in 2021 as demand soars in China, Wedbush says",
+            "content": "\"Eye popping demand\" in China will drive Tesla's market cap significantly higher in 2021, according to Wedbush analyst Dan Ives."
+        },
+        {
+            "headline": "Tesla Supercharger Super Station Approved in Santa Monica",
+            "content": "The Santa Monica Planning Commission has approved a Tesla supercharger station on Santa Monica Blvd. The site will include 62 superchargers for Tesla vehicles..."
+        },
+        {
+            "headline": "Tesla and other carmakers want you to pay monthly for feature subscriptions",
+            "content": "Tesla connectivity services. Tesla already has a subscription model. The company switched off its free connectivity services at the beginning of 2020 and..."
+        },
+        {
+            "headline": "VW follows Tesla into over-the-air software updates, but customers need to go to dealership for 1st one",
+            "content": "The customer's vehicle always remains at the cutting edge of digital developments with the so-called “Over-the-Air” updates. The software version ID.2.1, which..."
+        },
+        {
+            "headline": "Tesla Yoke Steering Wheel Under Review By NHTSA ‘To Better Understand The New Technology’",
+            "content": "In a statement to Teslarati NHTSA said the organization is reviewing Tesla's use of the yoke steering wheel. For the review, Tesla has been providing the..."
+        },
+        {
+            "headline": "Why Tesla Stock Is Stuck in Reverse",
+            "content": "Tesla (TSLA -2.56%) stock remained in reverse gear Thursday morning, rolling toward its third straight day of losses with the share price down 1.3% as of..."
+        },
+        {
+            "headline": "See All The Differences Between A 2020 Tesla Model Y And 2021 Model Y",
+            "content": "The Tesla Model Y is a compact SUV (similar to a Toyota RAV4) with a third row that was designed for children and/or small adults."
+        }
+    ],
+    "20210305": [
+        {
+            "headline": "Tesla Center Caps for TSportline Satin Gray Wheels?",
+            "content": "T Sportline space gray wheels = exact same color/shade as Uberturbine wheels, so they're slightly darker than the factory Tesla Aero cap set."
+        },
+        {
+            "headline": "Ford’s Mustang Mach-E is eating into Tesla’s US sales",
+            "content": "A spokesman for Ford would not comment directly on Morgan Stanley's analysis. The company did say that 70% of the Mach-E buyers were new to Ford, making the car..."
+        },
+        {
+            "headline": "There's now a Tesla social media platform",
+            "content": "Yes, Tesla has launched a microsite that includes the ability to comment and \"Like\" what other people have to say."
+        },
+        {
+            "headline": "Tracking Tesla's revenue generator: the Fremont Factory",
+            "content": "As of Q4 2020, Tesla's Fremont plant is still the largest production site of Tesla vehicles, especially for Model X and Model S."
+        },
+        {
+            "headline": "Tesla Users React To New Engagement Platform & Closure Of Forums",
+            "content": "In one big swoop, Tesla has launched a new \"Engagement Hub\" and announced the end of its long-standing forums. Here's what all of it means."
+        },
+        {
+            "headline": "Tesla launches new social media platform to ‘engage’ its community and promote policies",
+            "content": "Tesla launches new social media platform to 'engage' its community and promote policies ... Tesla is launching today a new social media platform called “Engage..."
+        },
+        {
+            "headline": "Tesla share price plunge knocks $267bn off market value",
+            "content": "Tesla share price plunge knocks $267bn off market value ... A sharp decline in Tesla's share price has wiped more than $250bn (£193bn) off the value of the..."
+        },
+        {
+            "headline": "NHTSA Working With Tesla To See If Steering Yoke Is Legal",
+            "content": "Tesla took off the covers to the facelifted Model S and Model X in January and at the time, the NHTSA released a statement revealing it could not yet determine..."
+        },
+        {
+            "headline": "Elon Musk trolls GM, Chrysler on Twitter. Ford CEO responds with 1 word.",
+            "content": "Ford CEO Jim Farley used to respond to Tesla CEO Elon Musk on Friday. \"Tesla & Ford are the only American carmakers not to have gone bankrupt out of 1000's of..."
+        },
+        {
+            "headline": "Tesla contacts Model S, X owners for eMMC recall repair, offers reimbursement",
+            "content": "When the 8GB eMMC NAND flash memory device for the center display reaches lifetime wear, the eMMC controller will no longer be able to maintain the integrity of..."
+        }
+    ],
+    "20210306": [
+        {
+            "headline": "How Tesla’s Elon Musk will derail EV competition in 2021",
+            "content": "In this week's newsletter, I want to talk about what Elon Musk and Tesla can do in 2021 to combat an expanding EV market, and take momentum away from the..."
+        },
+        {
+            "headline": "The Tesla Bitcoin Correlation: What Sparked it?",
+            "content": "The Tesla Bitcoin correlation has online retail investors to thank ... As evidenced by the chart above, Bitcoin and Tesla prices are strongly correlated (aside..."
+        },
+        {
+            "headline": "YouTube Artist Imagines the $25,000 Tesla Model 2 Hatchback",
+            "content": "But the average Tesla fans are probably more curious to see if this is a cool car. After all, many other manufacturers make EVs as well, but they're usually..."
+        },
+        {
+            "headline": "Tesla Doubling Full Self-Driving (FSD) Beta Testers Now, 10x Increase Soon",
+            "content": "Tesla's Elon Musk announced that the Full Self-Driving (FSD) beta program size is doubling now with the new 8.2 software update."
+        },
+        {
+            "headline": "The Best Alternative Tesla Forums (Now Tesla Is Closing Its Own)",
+            "content": "Tesla is archiving the discussion forums on its website, meaning forum users will have to look elsewhere to chat about the company and its vehicles."
+        },
+        {
+            "headline": "Tesla Launches a New Social Platform for Owners and Fans of the Brand",
+            "content": "Tesla is shutting down its forums on March 15, and in its place, the company has launched a new social platform called the Tesla Engagement Platform. The..."
+        },
+        {
+            "headline": "New Caledonia agrees to sale of controversial nickel mine, with Tesla as partner",
+            "content": "Political leaders in French overseas territory New Caledonia have agreed new terms for the sale of the Brazilian-owned Goro nickel mine."
+        },
+        {
+            "headline": "‘Entourage’ star Kevin Connolly throws tantrum after his Tesla gets towed",
+            "content": "“Entourage” star Kevin Connolly threw a tantrum after his expensive car was towed from a flower shop. The store manager has now banned him from the premises."
+        },
+        {
+            "headline": "Standard Range Tesla Model Y’s with 7 seat configuration begin deliveries in Canada",
+            "content": "Tesla Canada has begun deliveries of the Standard Range Model Y with the optional 7 seat configuration in Toronto."
+        },
+        {
+            "headline": "For the fur babies: Did you know Tesla has a cool built-in ‘Dog Mode’ feature in its EVs?",
+            "content": "Tesla introduced the 'Dog Mode' software feature in 2019. • The feature uses the vehicle's air conditioning or heater when owners leave their pets in the car to..."
+        }
+    ],
+    "20210307": [
+        {
+            "headline": "Tesla is about to unveil an updated Cybertruck, Elon Musk says",
+            "content": "The company has been mostly silent about plans for its highly anticipated electric pickup. But CEO Elon Musk said an updated version of the Cybertruck might be..."
+        },
+        {
+            "headline": "Elon Musk's net worth fell by $27B last week as Tesla stock dropped 11.5%",
+            "content": "Elon Musk's net worth plunged last week as tech stocks got hammered and Tesla shares' stunning rise quickly unraveled."
+        },
+        {
+            "headline": "Tesla Model S Plaid builds spotted ready to leave Fremont Factory, deliveries imminent",
+            "content": "Deliveries of the new Tesla Model S Plaid are imminent after sightings of the flagship sedan show the all-electric vehicle is ready to roll out of the Fremont..."
+        },
+        {
+            "headline": "Tesla Model Y Vs Mustang Mach-E, Ioniq 5, VW ID.4: How Do They Stack Up?",
+            "content": "The Tesla Model Y, Mustang Mach-E, Hyundai Ioniq 5, & VW ID.4 are all fantastic for different reasons. This video may help you decide which one suits you."
+        },
+        {
+            "headline": "Singapore Warms to Electric Cars Two Years After Tesla’s Rebuke",
+            "content": "Singapore Warms to Electric Cars Two Years After Tesla's Rebuke · First Tesla owner was penalized for emissions during charging · Now city-state investing in..."
+        },
+        {
+            "headline": "Tesla To Unveil Updated Cybertruck In Coming Quarter",
+            "content": "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said over the weekend that an updated version of the upcoming Cybertruck will be unveiled in the next quarter."
+        },
+        {
+            "headline": "Tesla, Ford only carmakers in US not to have gone bankrupt, says Elon Musk",
+            "content": "As several carmakers bleed in the US and beyond, Tesla is profitable and according to Elon Musk, his electric car company and Ford are the only two..."
+        },
+        {
+            "headline": "Tesla Created a Platform for Tesla Stans to 'Take Meaningful Action' on Behalf of the Company",
+            "content": "Tesla is looking to harness the power of its stans to help it advance its goals. In recent days, it launched Tesla Engage, a social platform that brings."
+        },
+        {
+            "headline": "Pioneer Company Supplying Cutting Edge Companies Like Space-X & Tesla",
+            "content": "Toledo Tool and Die has a place for you in Pioneer, Ohio. Visit ToledoTool.com, or text 2KEXON to 22100 to take that first step on the road to your future."
+        },
+        {
+            "headline": "Connect Homes Creates Prefab Homes Like Apple and Tesla",
+            "content": "This prefab home maker run by a former Apple exec creates modular family homes for up to nearly $1 million — see how."
+        }
+    ],
+    "20210308": [
+        {
+            "headline": "21' Model Y Performance, rear spoiler repair estimate",
+            "content": "Using the Tesla app I requested a service appointment for the rear, carbon fiber spoiler coming unglued on one side and this is what the estimate was..."
+        },
+        {
+            "headline": "Tesla Is Plugging a Secret Mega-Battery Into the Texas Grid",
+            "content": "A Tesla subsidiary registered as Gambit Energy Storage LLC is quietly building a more than 100 megawatt energy storage project in Angleton, Texas, a town..."
+        },
+        {
+            "headline": "Tiny Volkswagen E-Up Shocks Tesla To Claim Top EV Spot In Germany",
+            "content": "Figures just released by Germany's KBA show both the plug-in hybrid (PHEV) and EV markets booming year-on-year, with the tiny Up leading the way with 2215 EV..."
+        },
+        {
+            "headline": "Several New Tesla Model S' Spotted At Fremont, Heading Out For Delivery",
+            "content": "Well, it's not February, but Tesla isn't far behind. At this point, it appears refreshed Model S sedans are about to be delivered."
+        },
+        {
+            "headline": "Tesla Confirms To California DMV That The Full Self-Driving Beta Will Never Be Full Self-Driving",
+            "content": "This past week, Elon Musk tweeted an announcement that the demand for Tesla's new Full Self-Driving Beta software — a Level 2 semi-autonomous driver assist..."
+        },
+        {
+            "headline": "Tesla Model S refresh spotted with potential third-row seats",
+            "content": "Tesla Model S refresh spotted with potential third-row seats ... A group of fresh Tesla Model S vehicles with the new design refresh has been spotted at Fremont..."
+        },
+        {
+            "headline": "Tesla is subtly building a giant battery to support Texas’ power grid",
+            "content": "A Tesla subsidiary registered as Gambit Energy Storage LLC is currently building a 100MW-plus battery storage system in Angleton, Texas, about 40 miles south..."
+        },
+        {
+            "headline": "Tesla to Allow Owners to Download Full Self-Driving Beta Soon",
+            "content": "CEO Elon Musk announced over the weekend that it will be available for download to any owner that requests it within about ten days. The mode should appear as a..."
+        },
+        {
+            "headline": "Elon Musk: Tesla EVs Not Connecting to Starlink Internet Due to Massive Network—Only for Aircraft, and MORE",
+            "content": "According to Elon Musk (@elonmusk), Tesla electric vehicles would not yet connect to Starlink's internet services due to several reasons."
+        },
+        {
+            "headline": "Elon Musk vs. Nikola Tesla",
+            "content": "Two individuals who have changed the world yet have very different styles. In the simplest of terms, one is hard and the other is soft—almost opposite..."
+        }
+    ],
+    "20210309": [
+        {
+            "headline": "60% Daily Charge",
+            "content": "You can charge to only 60% daily if you want; any charge level up to 80% daily is probably no worse for the long term health of th battery. A few times per year..."
+        },
+        {
+            "headline": "Tesla Tells California DMV that FSD Is Not Capable of Autonomous Driving",
+            "content": "After years of touting its long-awaited Full Self-Driving feature, Tesla is telling California regulators a different story about its capabilities."
+        },
+        {
+            "headline": "Tesla opening second Michigan service center in Grand Rapids suburb",
+            "content": "Tesla Motors is opening its second Michigan service center in the Grand Rapids area. The electric vehicle company is moving into 2919 29th St. SE."
+        },
+        {
+            "headline": "Tesla touts self-driving to consumers. To the DMV, it tells a different tale",
+            "content": "The DMV emails make clear that Full Self-Driving is, at best, a work in progress. In one letter to the DMV, Tesla attorney Williams noted that “there are..."
+        },
+        {
+            "headline": "Tesla surges almost 20%, biggest daily rise in a year",
+            "content": "Shares of electric vehicle maker Tesla Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data..."
+        },
+        {
+            "headline": "Tesla and LG in talks to produce 4680 battery cell at new factory",
+            "content": "Tesla and LG Energy Solutions are reportedly in talks to produce the automaker's new 4680 battery cell at a brand-new factory potentially in Europe or the US."
+        },
+        {
+            "headline": "Tesla Roars Toward Biggest Gain in Over a Year",
+            "content": "Investors rushed back into Tesla Inc. shares on March 9, putting a screeching halt to a five-day slump, and pushing the stock to its biggest gain in more..."
+        },
+        {
+            "headline": "Jacksonville man’s Tesla captures attempted carjacking on camera",
+            "content": "Draper Younce, a Navy sailor, was sitting in his car last week off of 103rd picking up a friend when a man tried to carjack him."
+        },
+        {
+            "headline": "Tesla China posts impressive sales and production results despite February challenges",
+            "content": "Tesla China posts impressive sales and production results despite February challenges ... Recently-released figures from the China Passenger Car Association (CPCA)..."
+        },
+        {
+            "headline": "Tesla: “Full self-driving beta” isn’t designed for full self-driving",
+            "content": "Tesla told California regulators the FSD beta lacks “true autonomous features.”…"
+        }
+    ],
+    "20210310": [
+        {
+            "headline": "2019 Free Unlimited Supercharging",
+            "content": "Free Supercharging will not transfer on any 2019s. It was only transferrable for vehicles ordered by January 15, 2017 and delivered by April 1, 2017 (even then,..."
+        },
+        {
+            "headline": "Why Do People Buy a Tesla? Not Because of Elon Musk, Survey Says",
+            "content": "A new survey from research firm Escalent suggests that's far from the real story. The real reason is simpler, and far more traditional: They like the cars."
+        },
+        {
+            "headline": "Tesla's lead in batteries will last through decade while GM closes in",
+            "content": "Tesla is expected to continue having the lowest costs in the EV industry through the end of this decade, with General Motors closing the gap."
+        },
+        {
+            "headline": "West Michigan gets first Tesla service center in Grand Rapids",
+            "content": "Tesla is setting up shop in Grand Rapids. The automaker signed a lease in November to rent space at 2919 29th St. SE near the border of Kentwood."
+        },
+        {
+            "headline": "If You Invested $1,000 In Tesla 10 Years Ago, Here's How Much You'd Have Now",
+            "content": "Have you ever thought about what your returns would be today if you invested in Tesla Motors (NASDAQ: TSLA) 10 years ago? Tesla Motors is an American..."
+        },
+        {
+            "headline": "Tesla Model S Plaid+ gets a $10,000 price increase",
+            "content": "Tesla Model S Plaid+ gets a $10,000 price increase ... The Tesla Model S Plaid+, the electric car maker's yet-to-be-released flagship vehicle that's expected to..."
+        },
+        {
+            "headline": "Hackers Breach Thousands of Security Cameras, Exposing Tesla, Jails, Hospitals",
+            "content": "A group of hackers say they breached a massive trove of security-camera data collected by Silicon Valley startup Verkada Inc., gaining access to live feeds..."
+        },
+        {
+            "headline": "Here’s What VW Could Have in Store for Its First-Ever Power Day",
+            "content": "Wolfsburg hints at battery tech breakthroughs in upcoming vehicles, as it takes a page from Tesla."
+        },
+        {
+            "headline": "Tesla connecting a Brazoria County battery storage facility to the Texas power grid",
+            "content": "The power station, known as Gambit Energy Storage Park, is located in Angleton at West Mulberry St. and Murray Ranch Road. The was 7.7-acre lot was purchased by..."
+        },
+        {
+            "headline": "Tesla’s Early Vehicles Are Becoming a Study on EV Battery Longevity",
+            "content": "The original Tesla Roadster was powered by 6,831 lithium-ion cells, packaged into 22 separate modules and arranged in a single pack. In total, this makes for a..."
+        }
+    ],
+    "20210311": [
+        {
+            "headline": "original black trim above rear door scratched slightly",
+            "content": "I cleaned the scratched areas with soap and water, then wiped them down with isopropyl alcohol, then wiped again with plain water. I then wiped them dry."
+        },
+        {
+            "headline": "Detroit 3 automakers may have found Tesla's weakness",
+            "content": "The Detroit automakers may have found Tesla's weakness as it faces repairing 130000 cars at 133 service centers, but that may not derail loyalists."
+        },
+        {
+            "headline": "Tesla increases prices on its cheapest and most expensive electric vehicles",
+            "content": "Tesla has increased prices on its cheapest and most expensive electric vehicles in a quiet overnight update to its online configurator."
+        },
+        {
+            "headline": "New Report Finds Tesla Most Popular Luxury Car Brand",
+            "content": "Tesla was responsible for 24237 new-car registrations in January, narrowly beating out Mercedes-Benz as the most popular luxury car brand in the U.S.."
+        },
+        {
+            "headline": "Tesla Faces New Reality of Tough Competition",
+            "content": "Tesla's market-share losses in the US and Europe could indicate those competitive dynamics are starting to play out."
+        },
+        {
+            "headline": "Tesla Model 3 and Model Y receive new round of price increases",
+            "content": "Tesla is rolling out a new set of price adjustments for the Model 3 and Model Y, its two most affordable vehicles available today."
+        },
+        {
+            "headline": "EV startup Canoo to challenge Tesla Cybertruck with flexible pickup",
+            "content": "Canoo has unveiled a flexible electric pickup truck packing up to 600 hp."
+        },
+        {
+            "headline": "2020 Tesla Model S vs. 2020 Tesla Model 3",
+            "content": "The S is much older, considerably bigger, and a lot more expensive than the 3, which likely explains why it's outsold by its smaller sibling."
+        },
+        {
+            "headline": "Fire at Tesla's Fremont factory under control, no injuries reported",
+            "content": "A fire at electric carmaker Tesla's factory in Fremont, California, was brought under control on Thursday evening and there were no immediate reports of..."
+        },
+        {
+            "headline": "Tesla Model S sees $10,000 price increase, Model Y and Model 3 cost more, too",
+            "content": "The new price for the most powerful Model S now sits at $149,990 before a $1,200 destination charge. For this lofty sum, buyers still get a promised 520-plus..."
+        }
+    ],
+    "20210312": [
+        {
+            "headline": "Garage Issue: Need Charger Placement Advice",
+            "content": "The issue I have is where to place the charger. The garage is a finished attached 2 car garage. The breaker box is on the exterior of the left garage wall."
+        },
+        {
+            "headline": "A federal agency warns Tesla tests unfinished driverless tech on its users",
+            "content": "\"Tesla recently released a beta version of its Level 2 Autopilot system, described as having full self-driving capability. By releasing the system, Tesla is..."
+        },
+        {
+            "headline": "Hundreds of covid cases reported at Tesla plant following Musk’s defiant reopening, county data shows",
+            "content": "Tesla's Bay Area production plant recorded hundreds of covid-19 cases following CEO Elon Musk's defiant reopening of the plant in May."
+        },
+        {
+            "headline": "Tesla Model Y closes in on Germany’s best in China’s premium SUV market",
+            "content": "The Tesla Model Y may be new in China's domestic auto market, and its production at Giga Shanghai may still be in the early stages. Still, the all-electric..."
+        },
+        {
+            "headline": "Tesla Model Y Performance vs. Ford Mustang Shelby GT500: Which Is Faster?",
+            "content": "If there's one thing the Shelby GT500 should be the best at, it's straight-line speed, but the Tesla Model Y Performance is no slouch."
+        },
+        {
+            "headline": "Tesla Shares Drop After Fire at EV Maker’s California Plant",
+            "content": "Tesla Inc. shares fell a day after firefighters responded to an incident at the company's factory in Fremont, Calif., containing a blaze in an area of the..."
+        },
+        {
+            "headline": "Tesla investor sues Musk, claims tweets violate SEC settlement",
+            "content": "Tesla Inc (TSLA.O) Chief Executive Elon Musk has been sued by a shareholder who accused him of violating his 2018 settlement with the U.S. Securities and..."
+        },
+        {
+            "headline": "After Elon Musk opened Tesla's Bay Area factory against local rules, around 450 workers got COVID-19",
+            "content": "After Elon Musk opened Tesla's Bay Area factory against local rules, around 450 workers got COVID-19 · Elon Musk reopened Tesla's Fremont, California, factory..."
+        },
+        {
+            "headline": "Op-Ed: Wouldn't It Be Nice If Tesla Offered More Colors For Its Cars?",
+            "content": "We'll look at the available colors for the Model S, and then I'll add my own ideas for some colors that could be worthy additions to the official palette."
+        },
+        {
+            "headline": "Audi e-tron & Tesla Model 3 Towing Large & Small Caravan",
+            "content": "FDEL's testers, Christian Nolsøe Nielsen and Martin Messer Thomsen, took the Audi e-tron on a trip and exposed it to both large and small caravans."
+        }
+    ],
+    "20210313": [
+        {
+            "headline": "Final costs of Tesla Y",
+            "content": "While fairly crude I always estimate about 10% over the sale price for sales tax and registration fees. But I'm in CA and it's a tax heavy state."
+        },
+        {
+            "headline": "Elon Musk Lashes Out at Officials Keeping Tesla Plant Closed Over Virus (Published 2020)",
+            "content": "Musk has issued several strident calls to reopen the Fremont plant. After local officials ordered the plant closed, he tried to keep the plant open but was..."
+        },
+        {
+            "headline": "Why Is Tesla’s Full Self-Driving Only Level 2 Autonomous?",
+            "content": "The autonomous abilities now in beta are only Level 2 – just one step above adaptive cruise control, and still requiring the driver to be attentive and ready..."
+        },
+        {
+            "headline": "Everything Tesla Drivers Can Do With The Tesla Mobile App",
+            "content": "It provides Tesla drivers with a range of information about their vehicles and allows them to carry out a variety of actions remotely."
+        },
+        {
+            "headline": "Elon Musk: Tesla FSD Beta Testers Double, Ones Not Paying Attention Removed, And No More Radar",
+            "content": "Elon Musk said Tesla has removed drivers who aren't paying attention from the company's FSD testing program. However, Tesla has also doubled the number of FSD..."
+        },
+        {
+            "headline": "Hundreds infected with COVID at Tesla Fremont plant, report shows",
+            "content": "There have been hundreds of cases of coronavirus among workers in Tesla's Fremont factory, according to a news report."
+        },
+        {
+            "headline": "Bitcoin Hits $60,000, Meaning Tesla Has Made a Lot of Money",
+            "content": "Bitcoin traded above $60000 Saturday. That means Elon Musk's bet on the cryptocurrency has netted Tesla more than a billion dollars."
+        },
+        {
+            "headline": "Tesla Adjusts Production Processes to Meet China Capacity Growth",
+            "content": "Tesla Inc. plans to make adjustments to the manufacturing processes in its Chinese factory to boost production capacity in the world's biggest car market."
+        },
+        {
+            "headline": "Security News This Week: Hackers Accessed Security Cameras Inside Tesla and Beyond",
+            "content": "Hackers breached the video surveillance services company Verkada on Monday, Bloomberg reported, gaining access to a “super admin” account that let them see more..."
+        },
+        {
+            "headline": "Hundreds of Tesla workers got Covid after Elon Musk reopened factory",
+            "content": "About 450 Covid cases at the factory were reported to the Alameda County Department of Public Health between May and December 2020."
+        }
+    ],
+    "20210314": [
+        {
+            "headline": "iPhone Blue Tooth Connection problems",
+            "content": "My iPhone never connects to the Tesla inside the car unless I do it manually. This is always connected: Sdf52c3592c58706fC and there is NO option to disconnect..."
+        },
+        {
+            "headline": "Tesla removed some drivers from its self-driving test for not paying attention",
+            "content": "Tesla has expanded its “full self-driving” software to roughly 2000 Tesla owners, but some drivers were revoked access for not paying close enough attention..."
+        },
+        {
+            "headline": "2021 Chevy Bolt Deals Open Gap With Tesla Model 3 On Price",
+            "content": "Rethink that Model 3 if you want to save a cool $10,000. Chevy is offering deals on 2021 Bolts that bring the price of the 259-mile-range EV to some of the..."
+        },
+        {
+            "headline": "Outgoing CEO says Panasonic must cut Tesla reliance as battery tie-up evolves -FT",
+            "content": "Panasonic Corp's (6752.T) outgoing Chief Executive Kazuhiro Tsuga said the company will need to reduce its heavy reliance on Tesla Inc (TSLA."
+        },
+        {
+            "headline": "How long does Tesla take to launch a car? We plot the timelines across 5 models",
+            "content": "We plot the timelines across 5 models. When it comes to the world's most popular EV manufacturer, what's the average time from vehicle announcement to on-sale..."
+        },
+        {
+            "headline": "Tesla's Forum Is Going Away, Is There A Worthy Alternative?",
+            "content": "Tesla retired the Tesla Forums (they're still available, but comments and posts are read-only) and replaced them with a new platform called Tesla Engage."
+        },
+        {
+            "headline": "Tesla releases video of its new electric semi truck prototype on test track",
+            "content": "Tesla has released a video of its new Tesla Semi electric truck prototype on the test track. The new prototype is believed to be Tesla's first vehicle to be..."
+        },
+        {
+            "headline": "Tesla factory had more than 400 COVID-19 cases after Elon Musk's defiant reopening: report",
+            "content": "Hundreds of COVID-19 cases were reported at Tesla Inc.'s production plant in Fremont, Calif., after it reopened last May in defiance of local health..."
+        },
+        {
+            "headline": "Can The Toyota RAV4 Prime PHEV Keep Up With A Tesla Model Y In Terms Of Total Emissions?",
+            "content": "The RAV4 can't keep up with a Tesla Model Y or 3. Using figures published by Tesla in its impact report, the RAV4 produces about 8 more tonnes of CO2 than a..."
+        },
+        {
+            "headline": "Shelby GT500 vs. Tesla Model Y Performance Drag Race Ends With Humiliation",
+            "content": "The Shelby GT500 may be more exciting in many more scenarios, but in a straight line on an unprepped surface, the Tesla Model Y Performance is faster."
+        }
+    ],
+    "20210315": [
+        {
+            "headline": "Tesla CFO title changed to ‘Master of Coin’",
+            "content": "“Master of Coin” is a reference to HBO's popular series Game of Thrones. Few other CFOs expect to follow Tesla's lead on the use of, and investment in,..."
+        },
+        {
+            "headline": "Model 3 Performance Changes [in suspension and tires]",
+            "content": "The new Uberturbine wheels are 0.5 inches too wide for the tire they are mounted on, so the tire is stretched to compensate."
+        },
+        {
+            "headline": "Elon Musk is now ‘Technoking’ of Tesla. Seriously",
+            "content": "In a filing with his least favorite regulator, the Securities and Exchange Commission, on Monday, Tesla disclosed that Musk is adding the title of “Technoking..."
+        },
+        {
+            "headline": "Tesla CEO Elon Musk Has A New Title: ‘Technoking’",
+            "content": "Effective as of March 15, 2021, the titles of Elon Musk and Zach Kirkhorn have changed to Technoking of Tesla and Master of Coin, respectively."
+        },
+        {
+            "headline": "Volkswagen Aims to Use Its Size to Head Off Tesla (Published 2021)",
+            "content": "Volkswagen Aims to Use Its Size to Head Off Tesla. The German carmaker outlined ambitious goals to build battery factories as it ties its fate to electric cars."
+        },
+        {
+            "headline": "Elon Musk changes job title to 'Technoking of Tesla'",
+            "content": "Elon Musk changes job title to 'Technoking of Tesla' ... Elon Musk has dropped his chief executive job title and crowned himself \"Technoking of Tesla\". Mr Musk..."
+        },
+        {
+            "headline": "Musk Adds ‘Technoking of Tesla’ Title; CFO Is Coin ‘Master’",
+            "content": "Tesla Inc.'s Elon Musk and his finance chief have added tongue-in-cheek titles while another one of the company's top executives changes roles."
+        },
+        {
+            "headline": "Review: Tesla Puddle Lights",
+            "content": "Now, back to the lights themselves they are ultra bright. I have checked out a few that you can really only see when it's pitch black dark outside.. The lights..."
+        },
+        {
+            "headline": "Now all he needs is a throne: Elon Musk assumes title of Technoking of Tesla",
+            "content": "Elon Musk will now be Technoking of Tesla, and chief financial officer Zach Kirkhorn will be Master of Coin."
+        },
+        {
+            "headline": "Elon Musk has officially been made the 'Technoking of Tesla'",
+            "content": "Tesla has officially given CEO Elon Musk the title of \"Technoking of Tesla\" in a new regulatory filing on Monday."
+        }
+    ],
+    "20210316": [
+        {
+            "headline": "What docs should I see in my account \"Glovebox\"?",
+            "content": "Well-Known Member ... Motor vehicle purchase agreement. I think it is the only document that specifies the vehicle mileage."
+        },
+        {
+            "headline": "Volkswagen could soon steal Tesla’s crown",
+            "content": "“We have more confidence than ever that Volkswagen will deliver the unique combination of volume growth, making them the world's largest [electric] carmaker,..."
+        },
+        {
+            "headline": "Tesla’s $25K car could herald more affordable EVs as Morgan Stanley analyst predicts $5K unit",
+            "content": "Tesla's $25K car could herald more affordable EVs as Morgan Stanley analyst predicts $5K unit ... Morgan Stanley analyst Adam Jonas believes electric vehicles in..."
+        },
+        {
+            "headline": "Tesla driver charged in crash involving semi truck that critically injured woman in Detroit",
+            "content": "Detroit Police Department Assistant Chief, David LeValley, recently spoke to Local 4 News about the crash that happened last Thursday involving a Tesla and..."
+        },
+        {
+            "headline": "Hidden Tesla Tricks Every EV Fan Should Know",
+            "content": "To activate the windshield wipers, for example, you have to tap the screen twice to turn them on and then a third time to change the speed."
+        },
+        {
+            "headline": "Tesla loyalist: Here are all the reasons why GM, Ford can't tempt me",
+            "content": "Humenny, 35, loves his two all-electric Tesla Model 3 cars and wouldn't trade them for the world. In some ways, he's the typical customer that General Motors..."
+        },
+        {
+            "headline": "The big one: Ford Mustang Mach-E vs Tesla Model Y",
+            "content": "Our winner is the Tesla Model Y. Not because of its speed and handling, but because it feels the fresher, more forward-looking product."
+        },
+        {
+            "headline": "Here's How Volkswagen Can Beat Tesla (It's Not With Software Or Batteries)",
+            "content": "The German automaker remains behind Elon Musk's company in some critical areas, including software, say some analysts, although VW holds an advantage when it..."
+        },
+        {
+            "headline": "U.S. highway safety agency investigating Tesla crash in Detroit after it T-boned semi-truck",
+            "content": "An incident last week when a Tesla drove straight into a semi-trucks, critically injuring both occupants, is similar to two other incidents in Florida that..."
+        },
+        {
+            "headline": "Federal Agencies Clash over How Much to Regulate Self-Driving Cars",
+            "content": "The National Transportation Safety Board is pointing to Tesla and Uber collisions as proof that NHTSA needs to better regulate self-driving-vehicle testing..."
+        }
+    ],
+    "20210317": [
+        {
+            "headline": "FUSC vs SC01",
+            "content": "SC01 and SC05 are the two option codes for free supercharging. FUSC is just shorthand that the community uses. There are various ways to find and decode your..."
+        },
+        {
+            "headline": "Broken Arrow greenlights purchase of $52k Tesla police car to save money",
+            "content": "Soon Broken Arrow will be one of only a handful of cities with a Tesla in the fleet. A Model Y to be exact. \"It's fiscally conservative to do it,\" said..."
+        },
+        {
+            "headline": "Tesla partners with Phoenix",
+            "content": "Tesla partners with Phoenix. Last month, Tesla officially made it possible for customers in Israel to order a Tesla and now the company is revealing its chosen..."
+        },
+        {
+            "headline": "Self-driving Tesla hits Michigan State Police car on freeway",
+            "content": "A Tesla on autopilot hit a Michigan State Police car with its emergency lights on at 1:12 am, March 17, 2021 on I-96 near Waverly Road in Eaton County."
+        },
+        {
+            "headline": "Photo Comparison: BMW i4 vs Tesla Model 3",
+            "content": "Now that the BMW i4 has been revealed, we take a look at how its design compares to that of the Tesla Model 3."
+        },
+        {
+            "headline": "Tesla Crash Suspected of Involving Autopilot Draws Investigation",
+            "content": "The driver of a Tesla Model Y had the vehicle's advanced driver-assistance system, known as Autopilot, engaged when he plowed into a police vehicle Wednesday."
+        },
+        {
+            "headline": "Tesla’s 2020 reopening led to hundreds of COVID-19 infections among workers, county health data show",
+            "content": "After nearly a year of stonewalling, Alameda County health officials released data demonstrating what workers knew all along: Tesla's illegal resumption of..."
+        },
+        {
+            "headline": "Volkswagen is the new Tesla",
+            "content": "Volkswagen chief executive Herbert Diess. The German carmaker has long planned to be the dominant force in the budding electric vehicle space."
+        },
+        {
+            "headline": "Tesla faces second NHTSA probe in Michigan this month",
+            "content": "A Model Y that was reportedly operating in Autopilot struck a stationary police car early Wednesday morning in Michigan, according to officials."
+        },
+        {
+            "headline": "Elon Musk: “TechnoKing Of Tesla” Really? Really!",
+            "content": "Elon Musk gave himself a new title: “TechnoKing of Tesla.” In the same filing, he dubbed the company's CFO Zach Kirkhorn “Master of Coin.”"
+        }
+    ],
+    "20210318": [
+        {
+            "headline": "No FSD but i just noticed Summon section in the Tesla App?",
+            "content": "Yes, you are wrong. Summon (all forms) only comes with Full self driving package currently. It also came with the ENHANCED autopilot package (not \"autopilot\",..."
+        },
+        {
+            "headline": "Tesla’s Beta “Self-Driving” Software Sure Seems Heavy on the Beta",
+            "content": "The drivers are obviously impressed and think the technology works well, particularly on suburban roads, but also clearly perturbed by its behavior in more..."
+        },
+        {
+            "headline": "Tesla Model X with over 400,000 miles gets turned into a piece of art by Kenny Scharf",
+            "content": "Tesla Model X with over 400,000 miles gets turned into a piece of art by Kenny Scharf ... A Tesla Model X with over 400,000 miles, making it one of the highest..."
+        },
+        {
+            "headline": "Tesla Model S, X Refresh brings closure to Tilburg, Netherlands plant",
+            "content": "After the electric automaker updated the vehicles earlier this year, the Tilburg plant is being deemed inferior as manufacturing the two new vehicles is “no..."
+        },
+        {
+            "headline": "V8 Tesla Model S Has A Name: ICE-T, Internal Combustion-Engined Tesla",
+            "content": "The first Tesla Model S powered by a V8 received a name: ICE-T, for Internal Combustion-Engined Tesla. It received new wiring harnesses and other parts."
+        },
+        {
+            "headline": "2022 BMW iX Electric SUV Priced to Take on the Tesla Model X",
+            "content": "The BMW iX is the Bavarian brand's newest EV, and its approximately $85000 starting sum is squarely in Tesla Model X territory."
+        },
+        {
+            "headline": "If Range Rover and Tesla Had a Baby, It Would Be This Stylish All-Electric Restomod",
+            "content": "E.C.D. Automotive Design has unveiled the world's first electric Range Rover Classic powered by a Tesla motor."
+        },
+        {
+            "headline": "Tesla on autopilot crashes into Michigan cop’s patrol car",
+            "content": "A Tesla on autopilot mode crashed into a Michigan state trooper's patrol car early Wednesday morning, according to a local report."
+        },
+        {
+            "headline": "Rivian to build exclusive fast charging network, similar to Tesla Superchargers",
+            "content": "The Rivian Adventure Network is designed to be for Rivian electric truck and SUV drivers what the Tesla Supercharger network is for Tesla drivers."
+        },
+        {
+            "headline": "The two Elon Musk fanboys behind Tesla’s first unofficial fan club in India",
+            "content": "He got in touch with Bhat in 2018 while looking for someone who shared the same passion for Tesla, and the duo decided to start a blog. Over time, they..."
+        }
+    ],
+    "20210319": [
+        {
+            "headline": "White interior — to protect or not to protect?",
+            "content": "No issues with the white interior simply using wet wipes and the odd clean with a general interior cleaning spray and soft cloth."
+        },
+        {
+            "headline": "ARK’s Price Target for Tesla in 2025 is $3,000 Per Share",
+            "content": "ARK's 2025 price target for Tesla is $3000. ARK's bear and bull case suggest it could be worth $1500 and $4000 per share, respectively."
+        },
+        {
+            "headline": "Tesla cars banned from China's military complexes on security concerns -sources",
+            "content": "The Chinese military has banned Tesla cars from entering its complexes, citing security concerns over cameras installed on the vehicles, two people who have..."
+        },
+        {
+            "headline": "China to Restrict Tesla Use by Military and State Employees",
+            "content": "The Chinese government has told some of its agencies to ask their employees to stop driving Tesla cars to work, the people said. Some of the people said Tesla..."
+        },
+        {
+            "headline": "Tesla Has A Temperature Problem",
+            "content": "The battery lost 30 miles. Because the cold saps the battery. In industry parlance, they call this “low temperature performance.”"
+        },
+        {
+            "headline": "How the TZero Electric Car Inspired Elon Musk and Helped Form Tesla",
+            "content": "The tZero, made by a company called AC Propulsion, led directly to the formation of Tesla and its first car, the Roadster."
+        },
+        {
+            "headline": "Tesla's \"Full Self Driving\" Beta Is Just Laughably Bad and Potentially Dangerous",
+            "content": "It is perhaps the best comprehensive video at illustrating just how morally dubious, technologically limited, and potentially dangerous Autopilot's \"Full Self..."
+        },
+        {
+            "headline": "Tesla Model 3 and Model Y are making serious waves in China’s most notable EV sector",
+            "content": "It is almost strange to see an automotive market open to vehicles of all segments being dominated by premium competitors. Yet this is precisely what seems..."
+        },
+        {
+            "headline": "Chinese Military's Tesla Car Ban and a Simple Solution",
+            "content": "China has restricted Tesla usage by military and state personnel in military complexes because of cameras and security concerns."
+        },
+        {
+            "headline": "Russian man pleads guilty in Nevada to plot to extort Tesla",
+            "content": "RENO, Nev. (AP) — A Russian man has pleaded guilty in the U.S. to offering a Tesla employee $1 million to cripple the electric car company's massive..."
+        }
+    ],
+    "20210320": [
+        {
+            "headline": "Can anyone suggest me good body shop in NJ",
+            "content": "I HIGHLY recommend Park Auto body in Elmwood Park. They have Tesla experience, do quality work, and do it affordably."
+        },
+        {
+            "headline": "Russian pleads guilty to Tesla ransomware plot",
+            "content": "Russian pleads guilty to Tesla ransomware plot ... A Russian man in the US has pleaded guilty to plotting to extort money from the electric car company Tesla."
+        },
+        {
+            "headline": "Power Day: Volkswagen’s Imitation Of Tesla Is The Sincerest Form Of Flattery",
+            "content": "Volkswagen is clearly copying Tesla's Battery Day with its recent Power Day. But that's a good thing for the future of electric vehicles."
+        },
+        {
+            "headline": "EV Startup Rivian Announces a Tesla-Style U.S. Charging Network",
+            "content": "Electric-vehicle startup Rivian announced this week that it is rolling out a North American \"Adventure Network.\" The charging network will be for the exclusive..."
+        },
+        {
+            "headline": "Cathie Wood's Ark expects Tesla stock to reach $3000 by 2025",
+            "content": "Cathie Wood's Ark Invest said it expects Tesla Inc's share price to reach the $3000 mark by 2025."
+        },
+        {
+            "headline": "Elon Musk denies Teslas used for spying after China's military bans cars from bases",
+            "content": "Elon Musk denies Teslas used for spying after China's military bans cars from bases ... Tesla chief executive Elon Musk says his company would be shut down if its..."
+        },
+        {
+            "headline": "This tiny car beat Tesla’s Model 3 as the best-selling EV in the world for January and February",
+            "content": "The Hong Guang Mini EV edged out Tesla's Model 3 as the top-selling electric vehicle in January and February, selling more than 56000 of the tiny cars,..."
+        },
+        {
+            "headline": "Tesla navigates through more skepticism over its self-driving systems",
+            "content": "It is tough being Tesla. In a world where cars are becoming electric, just as the company initially intended when its mission began 18 years ago, Tesla is..."
+        },
+        {
+            "headline": "Elon Musk denies Tesla cars are used for spying in China",
+            "content": "Elon Musk denies Tesla cars are used for spying in China ... Elon Musk, the chief executive of the US electric carmaker Tesla, says his firm would be \"shut down\"..."
+        },
+        {
+            "headline": "Tesla Model S Refresh lands in Lake Tahoe for more winter testing",
+            "content": "Deliveries of the Model S Refresh were expected to begin in February. However, some delays have stopped Tesla from getting the vehicles to owners in that..."
+        }
+    ],
+    "20210321": [
+        {
+            "headline": "\"Long-term Parking Setting?\"",
+            "content": "A single setting called something like \"Long-term Parking\" that tells the car to sleep, stay asleep, and do more-or-less nothing (except keep the 12 V battery..."
+        },
+        {
+            "headline": "My Honda Minivan Drives Itself Just as Well as a Tesla on Autopilot",
+            "content": "Here are my tips for leveraging existing functions to turn your basic car into one that can drive itself nearly as well as a Tesla on Autopilot."
+        },
+        {
+            "headline": "Cathie Wood's Ark Invest expects Tesla to soar to $3,000 per share by 2025 on robotaxi service",
+            "content": "Cathie Wood's Ark Invest expects Tesla to soar to $3,000 per share by 2025 on robotaxi service · Cathie Wood's Ark Invest now expects Tesla to soar 359% to..."
+        },
+        {
+            "headline": "Tesla begins installing IDRA Giga Press casting machine at Gigafactory Berlin",
+            "content": "Drone operator, Tobias Lindh captured the installation process of Tesla's Giga Press machines at Giga Berlin. There seems to be two 6,000-ton IDRA Giga Presses..."
+        },
+        {
+            "headline": "This Guy Adds A Solar Roof To His Tesla Model 3, And It Works",
+            "content": "This Tesla Model 3 owner didn't permanently attach solar panels to the roof of his car. Instead, to see how it worked, he just laid them over the car. Obviously..."
+        },
+        {
+            "headline": "Thunder Power Sedan Is Taiwan’s Take On The Tesla Model S",
+            "content": "The car is being produced by a power tool company from Taiwan, and the spec sheet is impressive. This Thunder Power Sedan is a rear-wheel-drive four-door that..."
+        },
+        {
+            "headline": "Elon Musk’s vision board for Tesla’s future",
+            "content": "We've distilled what's on Musk's mind for Tesla's future in a vision board we imagine only he could make. Let's break down each element."
+        },
+        {
+            "headline": "Drone Footage Of Tesla Making Unprotected Left Turns Is Seriously Terrifying",
+            "content": "You can watch the full video on Chuck Cook's YouTube channel, but this nine-minute video shows a side-by-side view of Cook behind the wheel, an overhead drone..."
+        },
+        {
+            "headline": "Elon Musk’s vision board for Tesla’s future",
+            "content": "This definitely real vision board contains all the things Elon Musk has been dreaming up for his electric car company (and beyond)."
+        },
+        {
+            "headline": "Cathie Wood's Ark expects Tesla stock price to reach $3000 by 2025",
+            "content": "Ark expects Tesla's market capitalization to reach as high as $4 trillion in the best-case scenario, according to a research note published here on Friday."
+        }
+    ],
+    "20210322": [
+        {
+            "headline": "Is my LR MY range/efficiency normal(~150 miles)?",
+            "content": "The answer is almost certainly not. New owners post a few new threads on this same topic every week, and much more during Winter."
+        },
+        {
+            "headline": "China, Worried about Cameras, Is Restricting Where Teslas Can Go",
+            "content": "Tesla vehicles are being restricted from military and some state-owned facilities because China fears cameras are collecting sensitive info,..."
+        },
+        {
+            "headline": "Tesla’s stock will rise 350% to $3,000 a share by 2025, analyst predicts",
+            "content": "Ark Invest, run by the influential Cathie Wood, expects Tesla shares to reach at least $3,000 by 2025. That's a rise of more than 350% from Friday's close — and..."
+        },
+        {
+            "headline": "Tesla whistleblower complaint about solar fires is part of evidence in federal safety investigation",
+            "content": "A former Tesla employee, Steven Henkes, filed a complaint related to risks of solar fires. The CPSC is considering it as evidence."
+        },
+        {
+            "headline": "Tesla investor tweets praise for Mustang Mach-E, trashes Ford",
+            "content": "Sergio Rodriguez, 41, a Tesla owner who has been profiled in the Free Press because he owns both a Tesla and a Mach-E, said, \"The truth just hurts Tesla..."
+        },
+        {
+            "headline": "Tesla Model S refresh inside look reveals V11 UI, “Drag Strip Mode,” “Smart Shift,” and more",
+            "content": "In a tweet, the Tesla CEO noted that the Model S refresh would be able to operate without a shifter. A later leaked email provided additional details on the..."
+        },
+        {
+            "headline": "Tesla: 9 Things You Didn't Know Your Touch Screen Could Do",
+            "content": "Climate Control ... The temperature, direction, and speed of airflow can be adjusted on the touchscreen instead of the standard settings. Further, there is a..."
+        },
+        {
+            "headline": "Tesla v11 software leaks in look inside refreshed Model S test vehicle",
+            "content": "Tesla v11 software leaks in look inside refreshed Model S test vehicle ... Someone managed to get inside a refreshed Tesla Model S test vehicle and take pictures..."
+        },
+        {
+            "headline": "Video Of Refreshed Tesla Model S Showcases New Features, UI, and Insane Mode Rebirth",
+            "content": "A new video by Reddit user FridayTheDog111 shows us refreshed Model S and X new UI with Insane Mode, Drag Strip Mode, and smart shift."
+        },
+        {
+            "headline": "Elon Musk responds to spying concerns in China: Trust us, we’re just like TikTok",
+            "content": "Tesla CEO Elon Musk says his company's cars would never be used for spying in China, in response to reports that the country's military has banned the vehicles..."
+        }
+    ],
+    "20210323": [
+        {
+            "headline": "Model Y horrible paint",
+            "content": "If an insurance company were evaluating your car for a settlement, they would take a deduction for that paintwork. You paid for a new car, you should get a car..."
+        },
+        {
+            "headline": "Tesla’s Autopilot Technology Faces Fresh Scrutiny (Published 2021)",
+            "content": "Federal regulators are investigating 23 recent accidents in which drivers were, or may have been, using the automatic steering and braking system."
+        },
+        {
+            "headline": "If Tesla can determine that drivers aren't paying attention, shouldn't it warn drivers in the moment?",
+            "content": "Tesla has had a driver-facing camera in most of its vehicles for years now, but the company wasn't using it. Instead, the automaker's only driver monitoring..."
+        },
+        {
+            "headline": "China's biggest car brand to launch rival to Tesla",
+            "content": "China's biggest car brand to launch rival to Tesla · Getty Images The first Zeekr model will be based on the \"Zero Concept\" car · Getty Images The Lotus Evija..."
+        },
+        {
+            "headline": "Geely Launches Zeekr Premium-EV Brand in China to Compete with Tesla",
+            "content": "Geely, one of the biggest automakers in China and the owner of Volvo, is launching a new premium electric vehicle brand that it is calling Zeekr."
+        },
+        {
+            "headline": "Op-Ed: BMW i4 - Finally A Worthy Tesla Model 3 Rival From An OEM?",
+            "content": "Now we know it doesn't ride on a bespoke EV platform, but the i4 is really impressive on paper, even though we don't have full specs yet."
+        },
+        {
+            "headline": "The End of Tesla’s Dominance May Be Closer Than It Appears",
+            "content": "The end of Tesla's dominance may be closer than it appears. Elon Musk's upstart still rules, but traditional automakers are catching up fast."
+        },
+        {
+            "headline": "Here's How Much It Costs to Buy a Tesla With Bitcoin",
+            "content": "At today's rate of roughly $55,800 per BTC, you can pick up a tricked-out Model S, Tesla's premier vehicle, for about 2.69 Bitcoin ($149,990)."
+        },
+        {
+            "headline": "Tesla stock is off its high, but it's not 'on sale': trader",
+            "content": "Tesla may be well off its lows but has yet to prove itself, says IDB's Alissa Coram."
+        },
+        {
+            "headline": "Elon Musk Confirms New Tesla Model S Seats 7, But These Questions Remain",
+            "content": "Elon Musk has confirmed the new Model S will be able to seat up to 7. However, there is so much we still have to learn about the new vehicles."
+        }
+    ],
+    "20210324": [
+        {
+            "headline": "Best M3 All-season tire - Crossclimate2?",
+            "content": "Conclusion: CC2 is a fine Grand Touring AS tire but PS4SS is a fine High Performance AS tire. CC probably better in the snow. When pushed, particularly on wet..."
+        },
+        {
+            "headline": "Tesla cars can be bought in Bitcoin",
+            "content": "Orders for new Tesla cars can now be secured with the equivalent of a $100 deposit in Bitcoin. The facility would be rolled out to other countries in the..."
+        },
+        {
+            "headline": "Tesla Now Accepts Bitcoin as Payment for Cars, Musk Says",
+            "content": "Having stunned the market with its audacious bet on Bitcoin earlier this year, Tesla Inc. will now start accepting the world's largest electronic currency..."
+        },
+        {
+            "headline": "Bitcoin: Elon Musk says you can now use it to buy a Tesla",
+            "content": "“You can now buy a Tesla with Bitcoin,” CEO Elon Musk said in a tweet on Wednesday. Bitcoin paid to Tesla (TSLA) will not be converted by the electric car..."
+        },
+        {
+            "headline": "Tesla Now Accepting Bitcoin As Payment",
+            "content": "After announcing plans to accept bitcoin as payment in February, the electric car manufacturer has added the option to its website."
+        },
+        {
+            "headline": "Elon Musk says people can now buy a Tesla with bitcoin",
+            "content": "Tesla CEO Elon Musk announced late Tuesday that it is now possible to buy Tesla vehicles in the U.S. with bitcoin."
+        },
+        {
+            "headline": "Tesla Invented a Problem and Solved It in a Really Dumb Way",
+            "content": "By eliminating the physical gear selector, Tesla created an issue that's bound to infuriate people."
+        },
+        {
+            "headline": "Tesla Model Y Vs Volvo XC40 Recharge: The Electric Man's Review",
+            "content": "The Volvo XC40 Recharge is a good EV for many reasons, but when compared to a Model Y, it's smaller, has less range, has an okay driver-assist system, doesn't..."
+        },
+        {
+            "headline": "Tesla interior cameras threaten driver privacy, Consumer Reports says",
+            "content": "Tesla includes in-cabin cameras that can record and transmit footage from inside the vehicle. Owners have the ability to opt out of this program."
+        },
+        {
+            "headline": "Tesla will accept Bitcoin as payment, Elon Musk says. (Published 2021)",
+            "content": "Elon Musk, the chief executive of Tesla, said on Twitter that the company would accept Bitcoin as payment for cars in the United States."
+        }
+    ],
+    "20210325": [
+        {
+            "headline": "Double-charged by Tesla?",
+            "content": "1) Tesla will only let you put a downpayment on a credit card ($56K?? I don't believe it) and 2) no way 2 charges went through that quick - the duplicate will..."
+        },
+        {
+            "headline": "Testing Tesla's Range Anxiety: Tesla Model Y, Model 3, VW ID.4, Ford Mach-E",
+            "content": "We brought three Teslas — a 2020 Model 3 Standard Range Plus, a 2021 Model 3 Long Range and a 2020 Model Y Performance — and two control vehicles..."
+        },
+        {
+            "headline": "2021’s Top Ten Tech Cars: Tesla Model Y",
+            "content": "It's a delight to drive. The Model Y's frisky handling and instant-on acceleration makes every time you pass and merge a pleasure. That kind of oomph comes from..."
+        },
+        {
+            "headline": "Tesla’s Touchscreen Shifter Is an Answer to a Question We Weren't Asking",
+            "content": "Tesla has come up with a new and even more complex shifting mechanism for the 2021.5Model S and Model X: the touchscreen."
+        },
+        {
+            "headline": "Inside Clean Energy: Well That Was Fast: Volkswagen Quickly Catching Up to Tesla",
+            "content": "Volkwagen “should come very close to Tesla's” sales in 2021, and “We see a good chance that VW could surpass Tesla's (all-electric vehicle) sales as soon as..."
+        },
+        {
+            "headline": "Tesla’s new touchscreen drive selector doesn’t violate the rules, NHTSA says",
+            "content": "NHTSA says that at this time there are no known issues with Tesla's new touchscreen gear selector. The new feature will be available in refreshed Tesla..."
+        },
+        {
+            "headline": "Tesla engaged in unfair labor practices, must reinstate fired worker and scrub Elon Musk tweet, NLRB says",
+            "content": "The board found that Tesla unlawfully interrogated workers over suspected unionization efforts, threatened workers with the loss of their stock options if they..."
+        },
+        {
+            "headline": "Tesla ordered to have Elon Musk delete anti-union tweet",
+            "content": "The NRLB has directed Tesla to ask Musk to remove his offending tweet, and to offer a job back to a terminated employee who participated in union..."
+        },
+        {
+            "headline": "Elon Musk teases Tesla Cybertruck update: ‘There will be no handle’",
+            "content": "Elon Musk teases Tesla Cybertruck update: 'There will be no handle' ... Tesla is due to unveil the updated version of its Cybertruck, and Elon Musk decided to..."
+        },
+        {
+            "headline": "Tesla 'sentry mode' camera catches Utah car burglar in the act",
+            "content": "A car burglar in a Utah gym parking lot probably didn't realize they were being recorded by a camera just a few feet away. Caption: KUTV: Jeremy Harris..."
+        }
+    ],
+    "20210326": [
+        {
+            "headline": "Rear glass cracked is tint a possible cause?",
+            "content": "I think the more important thing is that it's a stress crack and not from impact (which is not covered under warranty, they look at the crack to see it there..."
+        },
+        {
+            "headline": "Labor board orders Musk to delete a 3-year-old anti-union tweet",
+            "content": "The US labor law regulator ordered Musk to delete the tweet, and it ordered Tesla to rehire a union supporter who'd been fired."
+        },
+        {
+            "headline": "Tesla saves more range at 0% than other EVs, test finds",
+            "content": "This range buffer is more than just a few miles in Tesla models, though—and considerably more than those of other makes—Edmunds found in a recent comparison..."
+        },
+        {
+            "headline": "Tesla intern Fernanda Lopez is learning to lead and empowering others to follow",
+            "content": "Through her internship at Tesla, Fernanda Lopez has found her passion: empowering young women who are interested in technology."
+        },
+        {
+            "headline": "Tesla Giga Grünheide Delays Were Not Due To Rough Plans",
+            "content": "ZDF Frontal 21 is under attack by Tesla supporters and investors after its documentary showed the stumbling blocks ahead of Giga Grünheide."
+        },
+        {
+            "headline": "Tesla Sentry Mode again confirms burglars have no idea that cars can record them",
+            "content": "After several years worth of Sentry Mode clips being uploaded to the internet, vandals, robbers, and criminals still do not realize that breaking into a car..."
+        },
+        {
+            "headline": "Elon Musk tweets, deletes brag that Tesla will be biggest company ‘in a few months’",
+            "content": "Musk boasted early Friday to his nearly 50 million Twitter followers that his company could be “the biggest” in a few months."
+        },
+        {
+            "headline": "How These 6 Women Landed Their Dream Jobs at Tesla",
+            "content": "IN_THIS_ARTICLE: · Laurie Shelby, Vice President of EHS · Rebecca Vincent, Director of Service & Energy Planning & Distribution · Linsey Muller, Director of..."
+        },
+        {
+            "headline": "Underage teen gets in Tesla's back seat and claims it was self-driving after being pulled over by police",
+            "content": "The incident happened near Daytona Beach, Florida, where a Flagler County Sheriff's deputy pulled over a Tesla Model Y driving on the wrong side of the road."
+        },
+        {
+            "headline": "How the Tesla of chicken hit a ludicrous growth mode thanks to ghost kitchens",
+            "content": "How the Tesla of chicken hit a ludicrous growth mode thanks to ghost kitchens. Plant-based Nuggs embraced cloud kitchens as a way to just get product into..."
+        }
+    ],
+    "20210327": [
+        {
+            "headline": "Does your home consumption in Tesla app increase with production increase?",
+            "content": "Member ... If home consumption is being calculated from the difference between solar production and grid export then if there is a calibration issue with one set..."
+        },
+        {
+            "headline": "Tesla Model S with Yoke Steering Wheel, Plaid badge spotted near Fremont Factory",
+            "content": "The Tesla Model S Plaid was spotted near the Fremont Factory on Friday. Sporting a Yoke Steering wheel and a Plaid badge on the rear bumper."
+        },
+        {
+            "headline": "The Mormon Church's secretive $100 billion fund grew its Tesla stake by 3,500% last year",
+            "content": "The Mormon Church's secretive $100 billion fund grew its Tesla stake by 3,500% last year ... Elon Musk has hawked Tesla-branded tequila and short shorts, smoked..."
+        },
+        {
+            "headline": "Driven: VW ID.4 Is Here To Give Tesla Something To Think About",
+            "content": "Currently the only powertrain combinations is a 77kWh battery mated to one 201 hp electric motor driving the rear wheels. Volkswagen plans to add more ID.4..."
+        },
+        {
+            "headline": "Tesla-Swapped Range Rover Classic EV Came to Life After 2,200 Hours of Tinkering",
+            "content": "Tesla-Swapped Range Rover Classic EV Came to Life After 2,200 Hours of Tinkering ... Jaguar Land Rover has promised to reinvent itself for the upcoming green..."
+        },
+        {
+            "headline": "Tesla owner involved in >$100K legal battle as parking garage blames 'Autopilot' for Model 3 crash",
+            "content": "Tesla owner involved in >$100K legal battle as parking garage blames 'Autopilot' for Model 3 crash ... A Tesla owner has found himself in the middle of a battle..."
+        },
+        {
+            "headline": "Tesla Model 3 Performance vs Long Range vs Standard Plus, Hierarchy Established",
+            "content": "The Performance can launch from a standstill to 60 mph (96 km/h) in 3.1 seconds and can reach a top speed of 162 mph (260 km/h)."
+        },
+        {
+            "headline": "Locally-backed Lucid Motor's Air to take on Tesla",
+            "content": "Derek Jenkins, VP of Design at Lucid Motors, sought out inspiration for the luxury EV sedan from the state of California, where his team found limitless po."
+        }
+    ],
+    "20210328": [
+        {
+            "headline": "2021 Model 3 LR broke down and wouldn’t drive",
+            "content": "The car wouldn't go into drive and after about 1 hour of waiting for the tow truck car completely turns off including the screen and won't even go into tow..."
+        },
+        {
+            "headline": "See Three Tesla Model 3 Versions Drag Race Side-By-Side",
+            "content": "The tests include some surprising outcome when accelerating at higher speeds. · Performance (AWD), 457 hp and 660 Nm: 11.7 seconds · Long Range (AWD), 367 hp..."
+        },
+        {
+            "headline": "Take a look at the tiny, 2-door electric hatchback that’s been outselling Tesla's Model 3",
+            "content": "Tesla's Model 3 sedan was the world's best-selling electric car in 2020, but China's Wuling launched a tiny, two-door electric hatchback in July and outsold..."
+        },
+        {
+            "headline": "Charged Sibling Rivalry: Drag Race between Tesla Model 3 Performance Vs Long Range Vs Standard Plus",
+            "content": "Elon Musk's electric Tesla models have revolutionized the world of drag racing. Part of Musk's goal with his EVs was to immediately render..."
+        },
+        {
+            "headline": "2021 Tesla Model 3 Long Range review",
+            "content": "The Model 3 Long Range is now claimed to be capable of an impressive 657km; this doesn't make it the long-distance EV king."
+        },
+        {
+            "headline": "Tesla Using In-Car Cameras In Legal Crash Disputes",
+            "content": "Consumer Reports is raising concerns over Tesla in-car cameras that record drivers and passengers before and during a crash."
+        }
+    ],
+    "20210329": [
+        {
+            "headline": "When is First Scheduled Maintenance for Model 3",
+            "content": "Member ... Every year or 20k km. @house9 quoted this part of the manual in post #7 in this thread."
+        },
+        {
+            "headline": "Tesla double-charged some customers for new cars, leaving them desperate for refund details",
+            "content": "The company had charged them twice, taking tens of thousands of dollars from their bank accounts without authorization or warning, then giving them a..."
+        },
+        {
+            "headline": "Watch Tesla Full Self-Driving Beta navigate through the eye of the system in impressive video",
+            "content": "Tesla is looking to expand the FSD Beta to many more owners in the coming months, and CEO Elon Musk says that he remains confident Tesla will achieve level 5..."
+        },
+        {
+            "headline": "Tesla’s Cybertruck strategy is paving the way for pilot production that’s closer to home than e...",
+            "content": "It appears that Tesla may have a plan to ensure that Cybertruck production in Gigafactory Texas does not get too delayed."
+        },
+        {
+            "headline": "Rumor: Tesla and Toyota may be in talks to develop an electric SUV platform",
+            "content": "The two car companies could be about to embark on a new partnership."
+        },
+        {
+            "headline": "Watch Burglar Steal From One Car, Try To Break Tesla Double Pane Glass But Fail",
+            "content": "Check out this video of a burglar just casually breaking the window of a parked car (that looks like a Hyundai Elantra) and grabbing a purse from one of the..."
+        },
+        {
+            "headline": "Tesla signs $12 million lease for Santa Monica service center",
+            "content": "Tesla signs $12 million lease for Santa Monica service center ... Elon Musk's electric vehicle maker has leased an industrial warehouse and office property at..."
+        },
+        {
+            "headline": "Tesla is double-billing some customers for their cars, report says",
+            "content": "Several buyers who have opted to pay for their cars outright using Tesla's new ACH service have found themselves double-billed for their vehicle."
+        },
+        {
+            "headline": "Tesla Model Y’s Third-Row Is Ideal For Its Mission - Parents of Four Explain Why",
+            "content": "The third-row seat in Tesla's Model Y crossover is a perfect option for families. We let one family who owns a Model Y with three rows explain why Tesla has..."
+        },
+        {
+            "headline": "Tesla drastically increases price of Solar Roof",
+            "content": "Now the Tesla Solar Roof configurator shows prices between $79,938 and $100,621 for the same size roof: While this is a sharp increase in..."
+        }
+    ],
+    "20210330": [
+        {
+            "headline": "Navigation not updating arrival time/estimate",
+            "content": "ETA info is not updating/not accurate (at all)--with 5.8 miles left in my trip the time estimate is 37 minutes until arrival."
+        },
+        {
+            "headline": "Tesla and Toyota rumored to be partnering on electric SUV based on super weak report",
+            "content": "Tesla and Toyota are rumored to be partnering on a new electric SUV, but it is based on a report that doesn't have a lot of credibility."
+        },
+        {
+            "headline": "The Obscure Government Office That Launched Tesla Is Open for Business (Again)",
+            "content": "The agency's dormant Loan Programs Office (LPO) - which counts Tesla as part of its legacy - could hold the answer."
+        },
+        {
+            "headline": "New Planned Cuts To UK's Electric Car Incentives Exclude Tesla",
+            "content": "This article comes to us courtesy of EVANNEX, which makes and sells aftermarket Tesla accessories. The opinions expressed therein are not necessarily our..."
+        },
+        {
+            "headline": "Tesla’s Planned $25k Car Could End Up Being Half That Price When Incentives Kick In",
+            "content": "Tesla has been thinking of creating a $25000 model for a long time. This car would be called the Model 2. Incentives and gas savings have the potential to..."
+        },
+        {
+            "headline": "How to find out what tires your Tesla has and which you need in winter",
+            "content": "With the data sheet I confirmed I had the \"All Season\" tires. With the picture of the tire I confirmed they are good in Mud and Snow. See the \"M . S\" symbol."
+        },
+        {
+            "headline": "Kia Debuts Tesla-Fighting EV6 Electric SUV",
+            "content": "Competes with: Chevrolet Bolt EUV, Ford Mustang Mach-E, Hyundai Ioniq 5, Nissan Ariya, Tesla Model Y, Volkswagen ID.4. Looks like: A more angular,..."
+        },
+        {
+            "headline": "Tesla & Toyota consider joint SUV development",
+            "content": "Tesla & Toyota consider joint SUV development ... Tesla and Toyota are reportedly negotiating the joint development of a platform for a small electric SUV."
+        },
+        {
+            "headline": "Tesla and Toyota to revisit old partnership for new EV development: report",
+            "content": "Back in the early days of Tesla, the company partnered with Toyota to help build one of the Japanese carmaker's compliance cars for California, the RAV4 EV. The..."
+        },
+        {
+            "headline": "Tesla Semi production line at new Nevada building is coming up with a goal of 5 electric trucks per week",
+            "content": "Tesla Semi production line at new Nevada building is coming up with a goal of 5 electric trucks per week ... Tesla is building a new Tesla Semi production line at..."
+        }
+    ],
+    "20210331": [
+        {
+            "headline": "Rust in centre hub of new Model 3",
+            "content": "hub rust is normal but it does appear like you have a little more than expected. If it really bothers you, use a wire brush to clean the area and existing..."
+        },
+        {
+            "headline": "Elon Musk says hiring for Tesla's Austin factory could hit 10,000 workers",
+            "content": "Tesla CEO Elon Musk said in a tweet Wednesday afternoon that Austin's future Tesla manufacturing facility will hire over 10000 people through 2022."
+        },
+        {
+            "headline": "Tesla's range put to the test",
+            "content": "Every Tesla the team tested in 2020 came up short of matching the EPA's range estimate. Almost all other EVs Edmunds tested met or exceeded those estimates."
+        },
+        {
+            "headline": "Oishii sees itself as ‘the Tesla of vertical farming.’ Here’s how it’s cracking CEA strawberries",
+            "content": "Oishii is growing strawberries in vertical farms with the help of bees - and founder Hiroki Koga is taking his cue from none other than Elon Musk."
+        },
+        {
+            "headline": "Tesla Autopilot tries valiantly before asking for help in Vietnam’s crowded streets",
+            "content": "So Autopilot in its current form will work on those highways in Vietnam, but don't expect FSD to improve anything for places like Saigon. What's necessary in..."
+        },
+        {
+            "headline": "Tesla Cars Fell Behind Their EPA Range in Edmunds Safety Buffer Study",
+            "content": "Some Tesla cars, including the Model Y Performance, fell behind their EPA range in a new study that even took their safety buffer into account ... The real..."
+        },
+        {
+            "headline": "Elon Musk sends tweet urging people to move to Austin for Tesla jobs",
+            "content": "After previously tweeting the praises of the Starbase SpaceX community in South Texas, Elon Musk is now trying to entice people to move to Austin for work..."
+        },
+        {
+            "headline": "Sag Harbor ZBA Will Not Approve Tesla Solar Roof For Historic Home Unless Code Changes",
+            "content": "By Brendan J. O'Reilly After previously leaning toward approval of a Tesla Solar Roof in the village's historic district, the Sag Harbor Village Zoning..."
+        },
+        {
+            "headline": "Tesla's touchscreen gear selector raises concerns in the auto industry",
+            "content": "The new gear selector on the touchscreen could be dangerous."
+        },
+        {
+            "headline": "Wuling’s MINI tops Tesla in China’s electric vehicle revolution",
+            "content": "The Wuling Hongguang MINI EV is the hit of the moment and has already broken sales records. In fact, it is revolutionising the electric car market."
+        }
+    ],
     "20210401": [
         {
             "headline": "Why is the Model S so expensive compared to Model 3...",

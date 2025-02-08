@@ -1,4 +1,1298 @@
 {
+    "20210301": [
+        {
+            "headline": "From the seas, to more ZZZs: Your new Pixel features",
+            "content": "The ability to easily access and share audio recordings, a new way to use the Pixel Camera app underwater and new wallpapers to celebrate International Women's..."
+        },
+        {
+            "headline": "Ginny Marvin joins Google as its new Ads Product Liaison",
+            "content": "In her new role, the veteran PPC journalist and former Third Door Media editor-in-chief will be helping marketers learn about Google Ads' products and..."
+        },
+        {
+            "headline": "Google Is Paying for More Information in a Break With Its Past",
+            "content": "Google is under growing pressure to pay for information that, for two decades, the search provider snipped from the web -- and made a mint from -- without..."
+        },
+        {
+            "headline": "Google-Free Android Smartphones Are Now Available in the US",
+            "content": "There's one company offering Android devices that are free of Google, and those smartphones are now available to US customers."
+        },
+        {
+            "headline": "Google Photos warns against using its compressed 'high quality' mode – here’s why",
+            "content": "Google warns that photos uploaded in 'High Quality' images could appear heavily pixelated in comparison to 'Original' ones."
+        },
+        {
+            "headline": "Google Photos Contradicts ‘High Quality’ Promises With Recent Messaging",
+            "content": "In a recent subscriber email, Google goes back on original promises and states “high quality” may not actually be high quality."
+        },
+        {
+            "headline": "Ford and Google Partner to Reinvent the Connected Vehicle Experience",
+            "content": "Ford and Google come together in first-of-its-kind partnership to create unique services and capabilities for Ford and Lincoln customers."
+        },
+        {
+            "headline": "Google's Pixel 4a 5G drops to an all-time low at Amazon and B&H",
+            "content": "At $499, Google's Pixel 4a 5G was already a pretty good deal if you wanted a pure Android experience, excellent cameras and, of course, 5G connectivity."
+        },
+        {
+            "headline": "Why Google Photos Says You Shouldn't Save Your Photos In 'High Quality'",
+            "content": "Google Photos has advised users that saving photos in Original Quality avoids pixelation, which some may feel is at odds with previous guidance."
+        },
+        {
+            "headline": "Elementor Raises Eyebrows with Google Ads Targeting Full-Site Editing",
+            "content": "Elementor, a popular page builder used by more than five million websites, has caught some attention recently for its Google ads that target “full-site editing..."
+        }
+    ],
+    "20210302": [
+        {
+            "headline": "Create a space for yourself in Chrome",
+            "content": "When you share a computer, or need to separate personal from work, Chrome can help you create your own space with a new profile experience."
+        },
+        {
+            "headline": "Alphabet's Verily joins Highmark, Google Cloud project Living Health",
+            "content": "Verily will offer digitally enabled solutions for chronic care management as well as a clinical insights platform that Highmark can use to guide members through..."
+        },
+        {
+            "headline": "The Whole Web Pays For Google And Facebook To Be Free",
+            "content": "Google and Facebook make a lot of noise about how their main services are free to use. And it's true, they are. But what they don't highlight is their role..."
+        },
+        {
+            "headline": "How YouTube swallowed the world",
+            "content": "YouTube is a place where you can watch everything — great stuff, dumb stuff, useful stuff, dangerous stuff. And it's a place where you can upload almost..."
+        },
+        {
+            "headline": "Munich Re, AGCS & Google Cloud partner on cyber insurance solution",
+            "content": "Munich Re, Allianz Global Corporate and Specialty (AGCS) and Google Cloud have announced a collaboration designed to provide customers with increased."
+        },
+        {
+            "headline": "New tools make children's books easier to read",
+            "content": "Google Play Books recently introduced a set of tools to help new readers and their families enjoy the process of learning how to read."
+        },
+        {
+            "headline": "Google Stadia: Best & Worst Things About Stadia Pro",
+            "content": "One of the best advantages of having a Stadia Pro subscription is access to free games on a monthly basis."
+        },
+        {
+            "headline": "Google-free /e/ OS is now selling preloaded phones in the US, starting at $380",
+            "content": "The e Foundation's smartphone strategy is to sell refurbished Samsung devices with /e/ preloaded. In the US, there are only two phones right now."
+        },
+        {
+            "headline": "How to Avoid Fake Transparent Images on Google Images",
+            "content": "How to Avoid Fake Transparent Images on Google Images · google image results · image with fake transparency · search for an image · click tools · select Color."
+        },
+        {
+            "headline": "Google revamps Chrome user profiles to make PC sharing easier — here is what's new",
+            "content": "Google Chrome revamps the user-profile experience. Google acknowledged that Chrome users who share PCs can sometimes have a \"frustrating and messy\" experience."
+        }
+    ],
+    "20210303": [
+        {
+            "headline": "Google charts a course towards a more privacy-first web",
+            "content": "Our web products will be powered by privacy-preserving APIs which prevent individual tracking while still delivering results for advertisers and publishers."
+        },
+        {
+            "headline": "Google’s FLoC Is a Terrible Idea",
+            "content": "FLoC is designed to help advertisers perform behavioral targeting without third-party cookies. A browser with FLoC enabled would collect information about its..."
+        },
+        {
+            "headline": "'We will not build alternate identifiers': In drastic shift, Google will end behavioral targeting, profile-building in its ad products",
+            "content": "'We will not build alternate identifiers': In drastic shift, Google will end behavioral targeting, profile-building in its ad products."
+        },
+        {
+            "headline": "Google is done with cookies, but that doesn’t mean it’s done tracking you",
+            "content": "Google is done with cookies, but that doesn't mean it's done tracking you. A third-party cookie ban won't hurt the search giant's healthy first-party data ad..."
+        },
+        {
+            "headline": "Google to Stop Selling Ads Based on Your Specific Web Browsing",
+            "content": "Citing privacy concerns, Google says it won't use technologies that track individuals across multiple websites ... Google plans to stop selling ads based on..."
+        },
+        {
+            "headline": "Allianz Global Corporate & Specialty partners with Google Cloud and Munich Re to provide cyber risk management solution for cloud customers",
+            "content": "Allianz Global Corporate & Specialty, the corporate insurer of Allianz SE, and Munich Re have jointly developed a new commercial cyber risk insurance..."
+        },
+        {
+            "headline": "How to create a poll in Google Meet to engage meeting attendees and gather reactions",
+            "content": "You can create a poll in Google Meet by going to the \"Activities\" menu in the top-right of your meeting screen on certain types of accounts."
+        },
+        {
+            "headline": "Apple, Google app store fights move to the states",
+            "content": "Software developers have found a new place to fight against the fees and restrictions imposed by Apple's and Google's app stores — state capitols from..."
+        },
+        {
+            "headline": "Google’s VR dreams are dead: Google Cardboard is no longer for sale",
+            "content": "Today the company stopped selling the Google Cardboard VR viewer on the Google Store, the last move in a long wind-down of Google's once-ambitious VR efforts."
+        },
+        {
+            "headline": "Brave takes on Google with privacy-focused search engine",
+            "content": "But Tailcat could show there is room for financial success with a business that puts privacy first. The Brave browser has grown steadily since its initial..."
+        }
+    ],
+    "20210304": [
+        {
+            "headline": "Google’s approach to historically Black schools helps explain why there are few Black engineers in Big Tech",
+            "content": "Google for years has been celebrated for trying to fix Silicon Valley's race gap. But while Google had a head start on building relationships with HBCUs,..."
+        },
+        {
+            "headline": "What Google Is – And Isn’t Saying – When It Says It Won’t Build Alternative IDs After The Death Of Third-Party Cookies",
+            "content": "Google is saying that it will not build alternate identifiers to track individuals on Chrome and also won't use them in its products, by which one can assume..."
+        },
+        {
+            "headline": "Google Ads mobile app adds custom and performance insights notifications",
+            "content": "To configure custom notifications, navigate to the Settings page within the app and agree to notifications. Next, select custom notifications to set up your..."
+        },
+        {
+            "headline": "How to Back Up Your iPhone or Android Device With Google One",
+            "content": "The Google One app will back up your photos, videos, contacts, and calendar. You can back up data from a phone or tablet, so Google One works across all your..."
+        },
+        {
+            "headline": "Learn how Bitcoin is 100 times More Powerful than Google",
+            "content": "Read the story Bitcoin is 100 times More Powerful than Google posted in our category on CCN.com here."
+        },
+        {
+            "headline": "Google’s Move Away From Individual Web Tracking Signals Another Shift For Digital Advertising",
+            "content": "Google plans to stop tracking individual users' web browsing habits or selling ads based on them. Today, the Alphabet-owned search engine said it will phase..."
+        },
+        {
+            "headline": "Google Crushed Many Digital Ad Rivals. But a Challenger Is Rising.",
+            "content": "Google has crushed almost all its competitors in the world of digital-advertising technology. But one rival is emerging as the best hope to challenge the tech..."
+        },
+        {
+            "headline": "Reputation Matters: Google Reviews Driving More Healthcare Decisions, Especially for Millennials",
+            "content": "A new study finds that online reviews are increasingly important in healthcare decision-making, but 50% of health systems lacked online reviews in 2020."
+        },
+        {
+            "headline": "EXCLUSIVE: Inside Google's top-secret project to give you superhuman hearing. Code name: 'Wolverine.'",
+            "content": "X, Alphabet's moon-shots factory, has been working on a device that it believes could be the future of hearing, and the project is picking up speed."
+        },
+        {
+            "headline": "Google Fiber secures office, retail space in West Des Moines ahead of internet launch",
+            "content": "Google Fiber will occupy the ground floor of the nearly complete Junction House, 329 Fifth St., in Valley Junction."
+        }
+    ],
+    "20210305": [
+        {
+            "headline": "PAIRED: A New Multi-agent Approach for Adversarial Environment Generation",
+            "content": "Posted by Natasha Jaques, Google Research and Michael Dennis, UC Berkeley The effectiveness of any machine learning method is critically dependent ..."
+        },
+        {
+            "headline": "How to set up any Google Home device and personalize your preferences using the Google Home app",
+            "content": "To set up your Google Home, choose \"Set up device.\" IMG_6502 Tap \"Set up device,\" then \"Set up new devices in your home.\""
+        },
+        {
+            "headline": "Timnit Gebru was fired from Google — then the harassers arrived",
+            "content": "On December 4th, Jeff Dean, Google's head of AI, published his views on Gebru's dismissal. He said she had resigned — a fact she openly disputed — and that her..."
+        },
+        {
+            "headline": "Google Pay: Is it safe? Yes, and here’s how to use the payment app",
+            "content": "Google Pay will never sell your data to third parties or share your transaction history with the rest of Google for targeted ads."
+        },
+        {
+            "headline": "Google Ditching Third Party Cookies for Good – What Comes Next?",
+            "content": "Google looks to remove data tracking cookies to protect user privacy, while still providing anonymous data to advertizers."
+        },
+        {
+            "headline": "You can now use Google Assistant on Windows 10, but there's a catch",
+            "content": "An unofficial client for Google Assistant is now available. The client is also available on macOS and Linux."
+        },
+        {
+            "headline": "The Google Pixel 5a’s Release Date Might Have Just Leaked",
+            "content": "A new report says Google is releasing its next smartphone on June 11, 2021. Here's why it's likely the Pixel 5a and what's known about it so far."
+        },
+        {
+            "headline": "A mini kudos gives a major boost to motivation",
+            "content": "Googler Jeff Gaston developed a mobile app to measure his efficiency. Through it he discovered that positive feedback boosted his productivity."
+        },
+        {
+            "headline": "Google makes it easier to test experimental features in Chrome",
+            "content": "As of this week, the browser's Canary version includes a beaker icon where you can enable experimental features, as well as send feedback to the Chrome..."
+        },
+        {
+            "headline": "Google Photos on the web gets Explore and Favorites tabs",
+            "content": "The redesign introduces an Explore tab that is the equivalent of the Search tab on the mobile app. Here, you'll be able to sift through your media with the..."
+        }
+    ],
+    "20210306": [
+        {
+            "headline": "Why You Shouldn’t Use The Gmail App On Your iPhone After New Privacy Disclosure",
+            "content": "Google's stark new data harvesting disclosures should serve as a serious warning. You should delete the app from your phone today—here's why..."
+        },
+        {
+            "headline": "Transferring photos from iCloud to Google Photos is finally possible. Here's how",
+            "content": "Apple built a tool that will automatically transfer all of your pictures and videos from iCloud to Google."
+        },
+        {
+            "headline": "Google Fit’s camera-based heart and breathing rate trackers arrive March 8th",
+            "content": "You'll have to prop up the phone on a stable surface, sit and make sure your head and chest are in the frame. The feature then calculates your breaths per..."
+        },
+        {
+            "headline": "[Update: Official] Google releases three new Nest Hub and Hub Max clocks",
+            "content": "Google has released three new clock faces for the Nest Hub and Hub Max. These additions join the existing eight Fullscreen clock background."
+        },
+        {
+            "headline": "Google Chrome Simplifies Testing Experimental Features",
+            "content": "First spotted by 9to5Google, Google Chrome's head of design Alex Ainslie highlighted the feature on Twitter. As you can see above, the beaker icon shows you the..."
+        },
+        {
+            "headline": "How to Enable the New Full Dark Mode in Google Maps on Android",
+            "content": "Launch the app and then look in the top right corner for your profile picture. Tap it and in the menu that shows up on the screen, go to Settings."
+        },
+        {
+            "headline": "How to sideload an app on the Chromecast with Google TV",
+            "content": "Looking for an app on your Chromecast with Google TV, but can't find it? Sideloading to the rescue! There's one little trick you need to know before you can..."
+        },
+        {
+            "headline": "Google Is Making It Easier to Test Experimental Chrome Features",
+            "content": "If you like Chrome's experimental features, Google's now going to make it easier for you to enable and disable these features in your browser."
+        },
+        {
+            "headline": "With Apple's ProRaw format, I now reach for my iPhone instead of my Pixel for photos",
+            "content": "The iPhone 12's ProRaw photo feature has won over a Pixel fan (The Daily Charge, 3/1/2021). CNET senior reporter and shutterbug Stephen Shankland shares his..."
+        },
+        {
+            "headline": "Google Pixel 5 - Review 2021",
+            "content": "The primary 12.2MP sensor does a solid job in all lighting conditions. In good light, the Pixel 5 takes crisp shots with excellent detail and depth of field. In..."
+        }
+    ],
+    "20210307": [
+        {
+            "headline": "Google advised mental health care when workers complained about racism and sexism",
+            "content": "Benjamin Cruz was one of 10 Google employees who were told to take a mental health leave after they reported problems with race discrimination at the company."
+        },
+        {
+            "headline": "Google puts lid on cookie jar and ends an internet era | Commentary",
+            "content": "Technological change also fueled the cookie's demise. Consumers have spent years flocking to mobile devices and apps, which don't accommodate web-based cookie-..."
+        },
+        {
+            "headline": "Google workers explain why they unionized",
+            "content": "We talk to current and former Google employees about how years of labor organizing at the company have helped shape the newly formed union's guiding values."
+        },
+        {
+            "headline": "How to use Google's 'Chrome Labs' to test new browser features",
+            "content": "To access these experiment flags, users can go to chrome://flags in the address bar, which will open an 'Experiments' page with all the hidden Chrome features..."
+        },
+        {
+            "headline": "The new Google Pay repeats all the same mistakes of Google Allo",
+            "content": "New Google Pay, like Allo, doesn't use your Google account (at least, not for payments). Instead, you have to sign up for the new Google Pay using your..."
+        },
+        {
+            "headline": "Google Maps Updates for Android and Android Auto Released, New Feature Included",
+            "content": "Google has released new updates for Google Maps on Android as part of the stable and beta channels, with the new dark mode now available for all."
+        },
+        {
+            "headline": "44 Free Tools to Help You Find What People Search For",
+            "content": "It's important to know what people are searching for and why. Check out these tools to help target keywords easily and understand users better."
+        },
+        {
+            "headline": "How to Export and Delete Saved Passwords in Chrome",
+            "content": "Google Chrome's built-in password manager is better than nothing, but it's not the most secure. If you're planning to move to a dedicated password manager,..."
+        },
+        {
+            "headline": "Google Chrome Extension Brings \"X-Ray for Movies\" to Netflix",
+            "content": "Google Chrome Extension Brings “X-Ray for Movies” to Netflix ... One of the few excellent features that Amazon Prime Video can boast about above all of its..."
+        },
+        {
+            "headline": "Google Maps Street View: Girl caught in nasty fall after embarrassing mishap",
+            "content": "Google has snapped a girl in the middle of a highly embarrassing fall. An image snapped by the online mapping service shows the girl as she takes a spectacular..."
+        }
+    ],
+    "20210308": [
+        {
+            "headline": "Get the full news story with Full Coverage in Search",
+            "content": "We're launching Full Coverage on Search so users can explore all aspects of a story through top news, in-depth pieces, explainers and more."
+        },
+        {
+            "headline": "Unified ID 2.0 Is Facing Roadblocks (And Not Just To Do With Google)",
+            "content": "Unified ID 2.0 Is Facing Roadblocks (And Not Just To Do With Google) ... Google isn't a fan of email-based identifiers, but that isn' Paper cut Envelope with..."
+        },
+        {
+            "headline": "Google employee group urges Congress to strengthen whistleblower protections for AI researchers",
+            "content": "Google employee group urges Congress to strengthen whistleblower protections for AI researchers. Khari Johnson@kharijohnson March 8, 2021 5:45 AM"
+        },
+        {
+            "headline": "Google’s scrapping third-party cookies – but invasive targeted advertising will live on",
+            "content": "Republish our articles for free, online or in print, under a Creative Commons license. ... Google has announced plans to stop using tracking cookies on its Chrome..."
+        },
+        {
+            "headline": "After Building Google’s Advertising Business, This Founder Is Creating An Ad-Free Alternative",
+            "content": "Ramaswamy is planning on a subscription model for Neeva, the search engine he cofounded in 2019 in Mountain View, Calif., just down the road from Google's..."
+        },
+        {
+            "headline": "Westside Pavilion transforms into a Google office campus",
+            "content": "The $475-million project, called One Westside, is being developed as a joint venture between Hudson Pacific and Macerich. The 1980 mall's eastern wing - located..."
+        },
+        {
+            "headline": "Google Is Taking Away the Cookies and Plans to FLoC Us All Instead",
+            "content": "Google currently uses third-party cookies to make more-relevant ads. The company is doing away with that in favor of a new system called Federated Learning of..."
+        },
+        {
+            "headline": "How Google's ad tracking decisions could reshape digital advertising",
+            "content": "While conceding in its recent blog post that other internet providers may continue using more targeted tracking methods, Google said advances in data..."
+        },
+        {
+            "headline": "Google TV for everyone in the family",
+            "content": "We're taking our first step in delivering family features on Google TV with the introduction of kids profiles."
+        },
+        {
+            "headline": "UK businesses caught buying five-star Google reviews",
+            "content": "It created a fake business listing which it called \"five-star reviews\", and searched online for companies advertising paid-for Google reviews. It then spent..."
+        }
+    ],
+    "20210309": [
+        {
+            "headline": "Chromebooks announces new features for 10th birthday",
+            "content": "We've redesigned key parts of the Chromebook experience based on your feedback and added new features that make it easy to get things done fast."
+        },
+        {
+            "headline": "How to take advantage of Google Slides on your Galaxy smartphone",
+            "content": "If you want to make quick changes to a particular slide, tap it with your finger or S Pen. Google Slides will then highlight what you've selected, displaying..."
+        },
+        {
+            "headline": "Google Pixel Fold concept gives the Galaxy Z Fold 2 a run for its money",
+            "content": "Sooner or later, every single smartphone vendor is going to jump on the foldable phone fad. Whether or not foldable phones are still a going concern in two..."
+        },
+        {
+            "headline": "The key insight Google gleaned over 10 years designing Chrome OS",
+            "content": "As Chrome OS turns 10, we talked to Jenn Chen, the UX lead on Chrome OS, about what the team has learned during her last nine years working on the platform."
+        },
+        {
+            "headline": "Google Poly Sees New Life At Sketchfab With ‘Poly To Sketchfab’",
+            "content": "Google Poly closed in 2020. Sketchfab has launched 'Poly to Sketchfab,' a tool that allows users to upload Google Poly libraries."
+        },
+        {
+            "headline": "9 Android Apps On Google Play Caught Distributing AlienBot Banker and MRAT Malware",
+            "content": "Researchers have discovered a new malware dropper contained in as many as 9 Android apps distributed via Google Play Store that deploys a second stage malware."
+        },
+        {
+            "headline": "Parents of Google co-founder donate $9 million to UMD",
+            "content": "Parents of Google co-founder donate $9 million to UMD ... COLLEGE PARK, Md. (WJLA) — When she was small, Maria De Barros thought she'd become an actress, but in..."
+        },
+        {
+            "headline": "Clast82 – A new Dropper on Google Play Dropping the AlienBot Banker and MRAT",
+            "content": "Clast82 – A new Dropper on Google Play Dropping the AlienBot Banker and MRAT ... Check Point Research (CPR) recently discovered a new Dropper spreading via the..."
+        },
+        {
+            "headline": "Here's Another Thing I Miss From Google Play Music",
+            "content": "Recently, I talked about missing Google Play Music's auto cache function. No service appears to offer something exactly like it, but when I wrote that up, a..."
+        },
+        {
+            "headline": "Rapt Studio Taps into the Senses for New Google Learning Center",
+            "content": "The Schoolhouse, with its 6800-square-foot interior, is a collaboration between Rapt Studio's David Galullo and Google's Maya Razon, a self-described..."
+        }
+    ],
+    "20210310": [
+        {
+            "headline": "Epic Games files legal proceedings against Google in Australia",
+            "content": "Epic Games announced that it has filed a legal claim against Google with the Federal Court of Australia, continuing its pursuit for fairer digital platforms..."
+        },
+        {
+            "headline": "Google Cloud makes Healthcare Consent Management API generally available",
+            "content": "When a provider or researcher application offers privacy options to a user, the application creates or revises a corresponding consent record within the..."
+        },
+        {
+            "headline": "How to take advantage of Google Sheets on your Galaxy smartphone",
+            "content": "In the Google Sheets mobile app, you can make quick changes to your spreadsheets with a few taps of your finger or S Pen."
+        },
+        {
+            "headline": "Music, Makers & Machines",
+            "content": "Music, Makers & Machines, the new exhibit from Google Arts & Culture and YouTube, celebrates the history of electronic music: its inventors, artists, sounds..."
+        },
+        {
+            "headline": "How to integrate Google Drive with Microsoft Office so you can easily share files and collaborate across platforms",
+            "content": "You can integrate Google Drive with Microsoft Office for convenient file sharing and editing with a team."
+        },
+        {
+            "headline": "Fortnite creator Epic Games launches Australian legal action against Google",
+            "content": "Epic's court battle with Google over being banned from the Play Store, mirrors one it has launched against Apple over its App Store removal."
+        },
+        {
+            "headline": "How Content Creators Can Use Search Console to Increase Traffic to Old Posts",
+            "content": "Here she's sharing her expertise in Google Search Console to help you increase traffic to older content."
+        },
+        {
+            "headline": "Alphabet is repurposing Google TPUs for quantum computing simulations",
+            "content": "Google parent company Alphabet plans to launch an API, Floq, that enables developers to use TPUs for quantum simulation."
+        },
+        {
+            "headline": "How to add a second Google account to your Android phone",
+            "content": "We'll show you just how easy it is to add a second (or third, or fourth) Google account to your Android phone."
+        },
+        {
+            "headline": "Google Pixel 6 leak just revealed two big upgrades",
+            "content": "The Google Pixel 6 is set to get some major front-camera upgrades including 4K video recording and a central punch-hole camera."
+        }
+    ],
+    "20210311": [
+        {
+            "headline": "Three new ways anyone can update Google Maps",
+            "content": "We're introducing three new Google Maps features that will help make sharing and finding local recommendations and information easier."
+        },
+        {
+            "headline": "How Google’s New Career Certificates Could Disrupt the College Degree (Exclusive)",
+            "content": "New certificate programs that are designed to help people bridge any skills gap and get qualifications in high-paying, high-growth job fields."
+        },
+        {
+            "headline": "How one employee’s exit shook Google and the AI industry",
+            "content": "Timnit Gebru, then co-leader of the ethical AI team at Google, sent a private message on Twitter to Emily Bender, a computational linguistics professor."
+        },
+        {
+            "headline": "Inside Google’s Bid to Get Granular on Renewable Energy Credits",
+            "content": "The tech giant is working with a startup to verify renewables purchases on an hourly basis in quest for around-the-clock carbon-free energy."
+        },
+        {
+            "headline": "Google Maps update lets you draw in missing roads. Here's how",
+            "content": "You can draw lines and rename roads, as well as realigning incorrect roads on the map."
+        },
+        {
+            "headline": "Google denies data centre fire caused Russia outage",
+            "content": "Google denies data centre fire caused Russia outage ... Google has denied that recent problems with its services in Russia were the result of a fire at cloud..."
+        },
+        {
+            "headline": "Sumser: Google’s AI ethics problem just got even worse",
+            "content": "John Sumser is the principal analyst at HRExaminer. He researches the impact of data, analytics, AI and associated ethical issues on the workplace."
+        },
+        {
+            "headline": "Google Looks For More Crowdsourced Photos And Reviews To Better Compete With Yelp",
+            "content": "The new features seem to be aimed at bolstering Google's database of crowdsourced reviews and photos, by using the Maps app. These features appear to encourage..."
+        },
+        {
+            "headline": "Google Maps introduces a way for users to add and edit roads (again)",
+            "content": "When you see a road missing on maps.google.com, simply click on the side menu button, go to \"Edit the map,\" and select \"Missing Road.\" Now the power to map is..."
+        },
+        {
+            "headline": "Career certificates and more ways we're helping job seekers",
+            "content": "At Google, our mission has always been to make sure that information serves everyone in important moments, whether it's helping you find a COVID vaccine..."
+        }
+    ],
+    "20210312": [
+        {
+            "headline": "Free audiobooks on Google Home: Here's how to listen to both paid and free options",
+            "content": "Here are all the myriad ways you can listen to audiobooks on a Google Home, starting with our go-to service. (Hint: it isn't Audible.)"
+        },
+        {
+            "headline": "Google Pixel 4a review: The best camera under $400, and a great budget phone",
+            "content": "The Pixel 4a is the budget camera quality leader — but it doesn't stop there. It has a larger screen than the 3a, but in a still-compact body, and is filled..."
+        },
+        {
+            "headline": "A Local Guide uses Google Maps to help those without homes",
+            "content": "Ashley started creating lists for people in need. She made lists of resources for young people experiencing homelessness, food banks and restaurants that..."
+        },
+        {
+            "headline": "Toronto swaps Google-backed, not-so-smart city plans for people-centred vision",
+            "content": "A year after ditching a Google tie-up to create a tech-heavy waterside development, Canada's largest city is stressing affordability and sustainability."
+        },
+        {
+            "headline": "AirPods Pro vs. Google Pixel Buds 2",
+            "content": "The AirPods Pro is the clear winner. The wireless buds offer great audio, blink-and-you'll-miss-it pairing, sweat resistance, and there's even an EQ."
+        },
+        {
+            "headline": "Here’s how you can draw a missing road on Google Maps",
+            "content": "the big G has recognized the issue, and now lets you draw these roads on the map yourself — paving the way for future app-reliant travelers..."
+        },
+        {
+            "headline": "Google & Coursera Launch Career Certificates That Prepare Students for Jobs in 6 Months: Data Analytics, Project Management and UX Design",
+            "content": "Available in Data Analytics, Project Management, and User Experience (UX) Design, “each certificate is completely online, self-paced, and costs $39 per month” —..."
+        },
+        {
+            "headline": "One-time password auto-delete in Google Messages is arriving in beta",
+            "content": "A teardown of version 6.7.067 reveals Google is working on a way to delete one-time passwords after 24 hours."
+        },
+        {
+            "headline": "Google Pay to let users in India share their transaction data for personalised offers and rewards",
+            "content": "Google Pay users in India will soon be able to share their transaction data with the firm to receive more personalised offers and rewards."
+        },
+        {
+            "headline": "Google Maps will let you add new roads",
+            "content": "Google announced that users will also be able to rename roads, change road directionality and alter or delete existing roads."
+        }
+    ],
+    "20210313": [
+        {
+            "headline": "Why I agree with the Google-Fitbit decision",
+            "content": "The novelty is not the existence of data, but the ability to collect it in a systematic manner, store it and analyse it. Some observers fear that the..."
+        },
+        {
+            "headline": "Google Must Face Suit Over Snooping on ‘Incognito’ Browsing",
+            "content": "(Bloomberg) -- Google failed to kill a lawsuit alleging that it secretly scoops up troves of internet data even if users browse in “Incognito” mode to keep..."
+        },
+        {
+            "headline": "Google Lens: how to use Google's super-useful AI camera app",
+            "content": "We've rounded up some of our favorite Google Lens tricks here to show you how it can save you time and bother, or instantly search for things that you come..."
+        },
+        {
+            "headline": "How to create a family calendar on Google",
+            "content": "First you've got to create a family on Google. This sounds like something out of the Sims, but it's really just gathering together friends, bandmates, book..."
+        },
+        {
+            "headline": "Google Must Face Suit Over Snooping on ‘Incognito’ Browsing",
+            "content": "Google Must Face Suit Over Snooping on 'Incognito' Browsing ... This article is for subscribers only. Google failed to kill a lawsuit alleging that it secretly..."
+        },
+        {
+            "headline": "Google Messages just gave us the Android texting feature we've wanted forever",
+            "content": "Here's how to schedule a text message down to the exact minute, so you'll never forget to say happy birthday to Mom again."
+        },
+        {
+            "headline": "Google might ask questions about AI ethics, but it doesn't want answers",
+            "content": "The departure of two members of the tech firm's ethical artificial intelligence team exposes the conflict at the heart of its business model."
+        },
+        {
+            "headline": "NMSU amplifies success with Google Tech Exchange program",
+            "content": "The university has participated in the Google Tech Exchange program for three of the four years that the program has been in existence."
+        },
+        {
+            "headline": "Open the Google Search calculator for a fun Pi Day easter egg",
+            "content": "Google is celebrating with an easter egg when you open Search's built-in calculator. It tests how well you know the mathematical constant."
+        },
+        {
+            "headline": "How to use Google Assistant to identify songs",
+            "content": "1. With your phone in hand, activate Google Assistant by saying \"OK, Google\" or by using your on-screen or button trigger."
+        }
+    ],
+    "20210314": [
+        {
+            "headline": "How You Can Use Google Maps Like a Social Network",
+            "content": "From configuring your Google Maps profile to helping other travelers, these are all the social networking features now available in the app."
+        },
+        {
+            "headline": "Google must face $5B lawsuit over tracking private internet use, judge rules",
+            "content": "Google must face $5B lawsuit over tracking private internet use, judge rules. Judge finds tech giant didn't notify users their data could still be collected in..."
+        },
+        {
+            "headline": "How to Propose a New Time for a Google Calendar Event",
+            "content": "How to Propose a New Time for a Google Calendar Event · Click Propose a New Time · Click the Date or Time to Pick a New One · Click Send Proposal with the New..."
+        },
+        {
+            "headline": "How to Change the Google Background Image",
+            "content": "How to change the Google background image · 1. Open Chrome · 2. Go to Chrome preferences · 3. Choose Appearance · 4. Go to the Chrome Web Store · 5. Find a..."
+        },
+        {
+            "headline": "Did Google Offer a Pi Calculator to Test Your Mathematical Savviness?",
+            "content": "Google decided to test your math skills with an internet \"Easter egg\" hidden in the top left corner of its online calculator."
+        },
+        {
+            "headline": "Korea falling to Google as Naver loses ground in search",
+            "content": "Naver is still king when it comes to Korea's digital culture, offering a seemingly endless functions and services, including shopping, webtoons, reservations,..."
+        },
+        {
+            "headline": "Google celebrates Pi Day with a special easter egg",
+            "content": "Though Google didn't exactly mention an end date for this easter egg, we imagine it will disappear tomorrow, so shoot your shot while you can. π is an..."
+        },
+        {
+            "headline": "Google's latest Easter egg is a fun (and infuriating) Pi Day game found on the calculator",
+            "content": "Google has marked the occasion of Pi Day this year with a little Easter egg of a game on its calculator (which can be found by, yup, googling the word..."
+        },
+        {
+            "headline": "[Funding alert] Google's assistant investment programme invests in mental health startup Wysa",
+            "content": "Wysa is an AI-based 'emotionally intelligent' bot — a virtual coach that combines empathetic listening with evidence-based therapeutic techniques like CBT,..."
+        },
+        {
+            "headline": "Google Celebrates Pi Day With This Cute Calculator Easter Egg",
+            "content": "Google hid a nerdy little Easter egg in Chrome's calculator. To pull it up, search for “pi”, “pi day”, or simply “calculator” in Google."
+        }
+    ],
+    "20210315": [
+        {
+            "headline": "A guide to Google Meet for parents and guardians",
+            "content": "Google Meet is Google's secure and easy-to-use video conferencing solution that is available to schools for free through Google Workspace for Education."
+        },
+        {
+            "headline": "Google’s AI advertising revolution: More privacy, but problems remain",
+            "content": "Google is using artificial intelligence to collect and process user data in a way that produces more nuanced and detailed information about our activities..."
+        },
+        {
+            "headline": "Google fails to quash Incognito mode user tracking, privacy lawsuit",
+            "content": "Google fails to quash Incognito mode user tracking, privacy lawsuit. The company may now have to fight against user privacy violation claims in court. ... Google..."
+        },
+        {
+            "headline": "Google will develop RPA with Automation Anywhere",
+            "content": "A partnership between Google Cloud and Automation Anywhere will see the vendors jointly create RPA-powered products to tackle industry-specific..."
+        },
+        {
+            "headline": "Ministry of the Interior approves Google Luxembourg data center, but more still needed",
+            "content": "Ministry of the Interior approves Google Luxembourg data center, but more still needed ... A long-proposed Google data center project in Bissen, Luxembourg, took..."
+        },
+        {
+            "headline": "How to Save Your Favorite Places in Google Maps",
+            "content": "How to Save Your Favorite Places in Google Maps · select a location. Next, underneath the \"Overview\" tab, tap the \"Save\" button. · tap the save button. This..."
+        },
+        {
+            "headline": "A senior director at Google who leads a team of 30 and has 2 young kids shared her daily pandemic routine with us, from Peloton workouts in the garage to 10 daily video calls",
+            "content": "A senior director at Google who leads a team of 30 and has 2 young kids shared her daily pandemic routine with us, from Peloton workouts in the garage to 10..."
+        },
+        {
+            "headline": "How to Create a Google Calendar Event From a Gmail Message",
+            "content": "Here's how to generate a Google Calendar event based on an email containing information about the event in a browser or the mobile Gmail app."
+        },
+        {
+            "headline": "See everything Google knows about you with one search",
+            "content": "You can see everything Google knows about you or thinks it knows about you with one search. We'll show you how."
+        },
+        {
+            "headline": "Google to Face $5B Lawsuit Over Tracking Users in Incognito Mode",
+            "content": "Google is ordered to face a $5 billion lawsuit alleging Chrome's Incognito browsing mode collects users' web history."
+        }
+    ],
+    "20210316": [
+        {
+            "headline": "Need a better night’s sleep? Meet the new Nest Hub",
+            "content": "A little over two years ago, I was part of the team that created Nest Hub, Google's first smart display. Since then, we've been exploring ways to make these..."
+        },
+        {
+            "headline": "Google's next-gen Nest Hub debuts with contactless sleep monitoring and analysis features",
+            "content": "Google's next-gen Nest Hub debuts with contactless sleep monitoring and analysis features. The new Sleep Sensing feature integrates with Google Fit and is the..."
+        },
+        {
+            "headline": "How Washington fumbled the future",
+            "content": "A decade ago, a surging Silicon Valley giant was making plans to dominate the internet. Given a chance to stop it, regulators chosen by Barack Obama misread..."
+        },
+        {
+            "headline": "Google will reduce Play Store cut to 15 percent for a developer’s first $1M in annual revenue",
+            "content": "Google is changing its Play Store policies: starting on July 1st, developers will only pay a 15 percent fee on their first $1 million in Play Store sales..."
+        },
+        {
+            "headline": "Google moves further into health and wellness monitoring with updated Nest Hub that tracks sleep",
+            "content": "Tech giant Google is ramping up its focus on health and wellness by adding sleep tracking to its Nest Hub smart home device."
+        },
+        {
+            "headline": "The Secret Auction That Set Off the Race for AI Supremacy",
+            "content": "How the shape of deep learning—and the fate of the tech industry—went up for sale in Harrah's Room 731, on the shores of Lake Tahoe."
+        },
+        {
+            "headline": "Google My Business releases tool to manage your reviews",
+            "content": "The new tool. You can access this new tool here. Step one is to select your business, then select if you want to check the status of a reported review or if you..."
+        },
+        {
+            "headline": "Council Post: How To Increase Your Chances Of Getting On Google Discover",
+            "content": "Here are my tips, based on what I did for my website: Use high-quality images and videos. Every Google Discover story is displayed with an image or a video."
+        },
+        {
+            "headline": "Google and Headspace collaborate on new mindfulness resources for kids",
+            "content": "New weekly video series with Headspace and Google shares mindfulness techniques to help children and families navigate the digital world."
+        },
+        {
+            "headline": "Google Play drops commissions to 15% from 30%, following Apple’s move last year",
+            "content": "starting July 1, it is reducing the service fee for Google Play to 15% — down from 30% — for the first $1 million of revenue developers earn using Play billing..."
+        }
+    ],
+    "20210317": [
+        {
+            "headline": "Google takeaways from navigating the pandemic",
+            "content": "we've asked Google execs from around the world about how a year of disruption affected their work — and how they're moving forward. Here's what they had to say..."
+        },
+        {
+            "headline": "Accenture Named a Leader in Everest Group’s PEAK Matrix for Google Cloud Platform System Integrators 2021",
+            "content": "Accenture (NYSE: ACN) has been named a Leader in Everest Group's PEAK Matrix® for Google Cloud Platform (GCP) System Integrators 2021 report."
+        },
+        {
+            "headline": "Easily ingest and analyze Google Analytics data with Upsolver and Amazon AppFlow",
+            "content": "In this post, we focus on a solution for easily ingesting, transforming, and analyzing Google Analytics data using Amazon AppFlow and Upsolver."
+        },
+        {
+            "headline": "Interrogating China’s “Google Maps” to Investigate the Xinjiang Detention Centers",
+            "content": "A series of investigations into the detention centers being built by China in Xinjiang, where the region's Uighur and other minority groups have been sent for..."
+        },
+        {
+            "headline": "Google Maps for the Older Adult Brain",
+            "content": "These tools take hundreds of brain scans and identify the structures, connections, and patterns of brain function that are most common, mapping out the average..."
+        },
+        {
+            "headline": "Google Chrome’s Incognito Mode Isn’t What You Think",
+            "content": "The lawsuit alleges that Google continues to track users in Chrome, even when they use incognito mode, and asks for as much as $2 billion in damages."
+        },
+        {
+            "headline": "Google Confirms Free Unlimited Google Photos Will Continue, But Not For Everyone",
+            "content": "Google Photos recently retired its long-standing free unlimited storage option, much to the dismay of millions of users who rely on the service."
+        },
+        {
+            "headline": "Our annual Ads Safety Report",
+            "content": "At Google, we actively look for ways to ensure a safe user experience when making decisions about the ads people see and the content that can be monetized..."
+        },
+        {
+            "headline": "Google searches reveal people are growing very worried about inflation",
+            "content": "People outside of Wall Street appear to be growing worried about the prospect for inflation, Deutsche Bank finds."
+        },
+        {
+            "headline": "St. Patrick's Day Google Doodle Celebrates Ireland's Geography and History",
+            "content": "The letters in the word Google have been replaced with artworks symbolizing the Claddagh ring and the Celtic knot."
+        }
+    ],
+    "20210318": [
+        {
+            "headline": "Chrome can now caption audio and video",
+            "content": "Now with Live Caption on Chrome, you can automatically generate real-time captions for media with audio on your browser."
+        },
+        {
+            "headline": "Google to bring new engineering hub to Durham, up to 1,000 jobs as part of US expansion",
+            "content": "Google announces it will open office for Google Cloud engineering team that will be one of top five hubs in country. It will be located in Durham North..."
+        },
+        {
+            "headline": "Google invests in Texas office space, including Austin",
+            "content": "On Thursday, Google announced plans to invest $50 million in Texas office space, including Austin. It's first office will be in Houston."
+        },
+        {
+            "headline": "Google New York: Tech giant to invest $250 million in jobs, office space",
+            "content": "Google plans to invest $250 million in New York City this year and will grow its headcount in the city to 14000 over the next few years, up from 11000..."
+        },
+        {
+            "headline": "Google to invest $10 million in Mississippi",
+            "content": "Google plans to invest..."
+        },
+        {
+            "headline": "Google to invest $50M in Texas and shares new details on its upcoming Houston office",
+            "content": "Google will occupy one floor totaling 11,000 square feet in the One Buffalo Heights building at 3663 Washington Ave. The tech giant announced the Houston office..."
+        },
+        {
+            "headline": "Google to invest $50M to expand in Austin and across Texas",
+            "content": "Google has announced it plans to invest $50 million in Texas this year in office space and data center sites, the company confirmed to KVUE."
+        },
+        {
+            "headline": "GOOGLE ANNOUNCES PLANS TO INVEST $50M IN TEXAS THIS YEAR",
+            "content": "Google announced plans to invest $50M in Texas office and data center sites in 2021. Nationally, Google plans to invest more than $7 billion."
+        },
+        {
+            "headline": "JUST IN: Google to lease more space at Reston Station",
+            "content": "Google is leasing up more space at Reston Station near the Wiehle-Reston East Metro Station. The technology giant plans to lease an additional floor of..."
+        },
+        {
+            "headline": "Google to invest $250 million into NYC this year, plans to hire low-income BIPOC New Yorkers",
+            "content": "Google announced that it plans to invest over $250 million into New York throughout 2021. During the year, Google plans to continue to build out Google's..."
+        }
+    ],
+    "20210319": [
+        {
+            "headline": "Google adds 2 more floors to occupy full office building in San Diego",
+            "content": "Google, which first opened a satellite office in San Diego about five years ago, said Thursday that it is modestly boosting the size of its footprint in the..."
+        },
+        {
+            "headline": "How to enable cookies in Google Chrome on any device to improve your web browsing experience",
+            "content": "To enable cookies, click the circle beside either \"Allow all cookies\" or \"Block third-party cookies in Incognito,\" which will only block such cookies when you'..."
+        },
+        {
+            "headline": "How Covid-19 Supercharged the Advertising ‘Triopoly’ of Google, Facebook and Amazon",
+            "content": "The triopoly increased their share of the U.S. digital-ad market from 80% in 2019 to a range approaching 90% in 2020, GroupM estimates. It's a surge that comes..."
+        },
+        {
+            "headline": "Google’s $7 Billion Real Estate Plan Shows Not All Tech Firms Want To Go Fully Virtual",
+            "content": "Google's real estate portfolio is now worth more than $50 billion and includes asset classes ranging from multi-family to offices."
+        },
+        {
+            "headline": "Google expands in Bakery Square, signs deal with city to use Google Cloud",
+            "content": "Google expands in Bakery Square, signs deal with city to use Google Cloud ... Google Pittsburgh has offices in Bakery Square. Pittsburgh is already home to one of..."
+        },
+        {
+            "headline": "This Might be Google's Best Pixel Video of All Time",
+            "content": "Google posted a video today called “How to mindfully switch to the New Google Pixel,” and friends, it is must see. Think of it as a zen-like walkthrough of..."
+        },
+        {
+            "headline": "Google Maps app rolls out edit feature to add new streets",
+            "content": "The popular mapping app will allow you to notify its team about newly built neighborhoods and streets in your area."
+        },
+        {
+            "headline": "5 awesome things didn’t know you could do with Google Chrome",
+            "content": "Below are a list of Google Chrome features and tricks that you probably didn't even know were available."
+        },
+        {
+            "headline": "Google unveils $7bn plan for data centre business in 2021",
+            "content": "Google unveils $7bn plan for data centre business in 2021 ... Sundar Pichai has unveiled Google's ambitious infrastructure expansion plans for the year, marking a..."
+        },
+        {
+            "headline": "How to Use Google Meet",
+            "content": "Follow this guide to learn exactly how to use Google Meet and get started connecting to your friends, family, and co-workers."
+        }
+    ],
+    "20210320": [
+        {
+            "headline": "Why You Shouldn’t Use Google Chrome After New Privacy Disclosure",
+            "content": "This isn't complicated. The fact is that Chrome collects more data than any of the other browsers, yet is the only one that doesn't appear to collect any data..."
+        },
+        {
+            "headline": "Despite pandemic, Google announces massive Bay Area expansion plans",
+            "content": "Google officials say they plan to invest a whopping $1 billion in new and existing sites across California in 2021 alone, much of it centered in the Bay Area..."
+        },
+        {
+            "headline": "Google Maps Rival Explains Why Android Auto Is a Killer App",
+            "content": "Google Maps Rival Explains Why Android Auto Is a Killer App ... Sygic is currently one of the largest companies offering navigation solutions for drivers, and..."
+        },
+        {
+            "headline": "How the granola company that fed Google weathered the pandemic",
+            "content": "The pandemic has forced the founder of gr8nola to branch out from her formerly reliable business-to-business channel."
+        },
+        {
+            "headline": "Hands on with Google Chrome's new Tab Search feature - Rolling out now",
+            "content": "Google is rolling out a new 'Tab Search' feature that allows you to search through your list of open tabs among all open browser windows to find a specific..."
+        },
+        {
+            "headline": "Wikipedia Contracts With Apple, Google Could Fund Global Initiatives",
+            "content": "The new enterprise contracts would transform the free encyclopedia's relationship with corporations and level the playing field with tech giants like Apple and..."
+        },
+        {
+            "headline": "Google Stadia vs. Shadow",
+            "content": "Shadow takes the lead in controller support, visual quality, game selection, and extra features. It's hard to compete with the capabilities of a PC, even a..."
+        },
+        {
+            "headline": "How to Disable and Remove the Google Chrome Reading List",
+            "content": "Starting in Chrome 90, you can hide the Reading List button without using a flag. This is a much more easy method for removing the Reading List without the..."
+        },
+        {
+            "headline": "Why is Google celebrating the Spring equinox?",
+            "content": "The spring equinox - the day marking that spring has arrived - is being celebrated with a Google Doodle."
+        },
+        {
+            "headline": "Google’s Ethical Dilemma",
+            "content": "This isn't the first time Google has come under scrutiny for its AI tech and ethical issues. In 2015, the company was interrogated for its racist Photos app,..."
+        }
+    ],
+    "20210321": [
+        {
+            "headline": "End Game for Urban GNSS: Google’s Use of 3D Building Models",
+            "content": "Google has deployed a system that solves this problem. Using Google's vast database of 3D building models, the asymmetric NLOS propagations are modeled."
+        },
+        {
+            "headline": "Ex-Trump aide tweets 'executive orders' after Google lists him as president",
+            "content": "Google describes Richard Grenell, ex-intelligence chief and possible candidate for California governor, as 'president since 2021'"
+        },
+        {
+            "headline": "Google Translate and the end of language",
+            "content": "Google Translate, for example, started out using statistical machine translation that systematically compared documents in different languages from online..."
+        },
+        {
+            "headline": "Need a better night’s sleep? Meet Google’s new Nest Hub",
+            "content": "Google's next internet-connected home device will test whether consumers trust the company enough to let it snoop on their sleep. Advertisement."
+        },
+        {
+            "headline": "How to Transfer Your Pictures From Apple Photos and iCloud to Google Photos",
+            "content": "Here's how to transfer your pictures from Apple Photos to Google Photos on your Mac: Switch to the Cloud tab and enable the option for Download Originals."
+        },
+        {
+            "headline": "Google Pixel 4a 5G alternatives: 6 other phones that deserve a look",
+            "content": "One of the best Google Pixel 4a 5G alternatives is the Samsung Galaxy A71 5G. This is the current top-of-the-line mid-range phone from Samsung."
+        },
+        {
+            "headline": "Google Maps dark theme for Android is FINALLY out - and it's been worth the wait",
+            "content": "IT'S been a long time coming but dark mode has finally arrived in the Google Maps app for Android devices."
+        },
+        {
+            "headline": "How to Recharge Your FASTag Using Google Pay App",
+            "content": "It lets you easily recharge your FASTag account that you can use to make seamless toll payments while crossing city borders in India."
+        },
+        {
+            "headline": "Google Maps Street View: Sinister figure lurks behind window in very creepy photo",
+            "content": "Google Maps introduce their new 'Live View' feature ... Google Maps Street View looks to have captured a very sinister scene. The tool has photographed a very..."
+        },
+        {
+            "headline": "How to Use Google Meet on Mac for Group Video Calls",
+            "content": "How to Use Google Meet on Mac for Group Video Calls."
+        }
+    ],
+    "20210322": [
+        {
+            "headline": "Google expands in Moncks Corner with $500 million investment",
+            "content": "“Google has been proud to call Berkeley County home for more than a decade,” Google Head of Southeast Public Affairs Lilyn Hester said. “Our additional..."
+        },
+        {
+            "headline": "Why Google Is Leaving Silicon Valley Behind",
+            "content": "The expansion will include new data centers in Nebraska, South Carolina, and Texas, and offices in Atlanta, Washington D.C., New York, and Chicago. An..."
+        },
+        {
+            "headline": "Google Doubles Down on Commercial Real Estate With $7 Billion Nationwide Investment",
+            "content": "The massive tech company has just announced plans to spend over $7 billion this year on offices and data centers across the US."
+        },
+        {
+            "headline": "Using Google Trends to assess COVID-19 related web search behaviour in Arabian Peninsula",
+            "content": "Google Trends is a freely accessible online tool that allows the user to analyze trends in public Google searches during a given period and across a specified..."
+        },
+        {
+            "headline": "Google Adding 10,000 Jobs This Year, Including Some In Chicago",
+            "content": "Google already has 1400 workers in Chicago."
+        },
+        {
+            "headline": "Google payments chief quits after 15 years at company",
+            "content": "Caesar Sengupta, Google's General Manager of Payments and Vice President leading the Next Billion Users (NBU) initiative, poses for a picture after an..."
+        },
+        {
+            "headline": "Google to set up chip team in Israel led by former Intel exec",
+            "content": "US tech giant says in blog it is 'doubling down' on designing and building custom chips to boost performance; newly appointed Uri Frank will build..."
+        },
+        {
+            "headline": "How to use speech-to-text in Google Docs",
+            "content": "To begin voice typing, click on the Tools menu option and then Voice Typing. You can also open the Voice Typing window by using the keyboard shortcut Ctrl+..."
+        },
+        {
+            "headline": "Choose the right Google Cloud serverless service",
+            "content": "We will take a look at the three Google Cloud serverless offerings: Cloud Run, Cloud Functions and App Engine, as well as a quick peek at Google Kubernetes..."
+        },
+        {
+            "headline": "Google Says The SOC Is The New Motherboard",
+            "content": "Google has demonstrated perhaps more than any other company that the datacenter is the new computer, what the search engine giant called a “warehouse-scale..."
+        }
+    ],
+    "20210323": [
+        {
+            "headline": "Google Delays Return to Office and Eyes ‘Flexible Work Week’ (Published 2020)",
+            "content": "Google has pushed back the planned return to the office by a few months, to September 2021. But even as it extends the remote work period for most of its staff."
+        },
+        {
+            "headline": "5 ways Search can help you learn",
+            "content": "Here are a few ways Search's products are helping students, teachers and parents throughout the STEM learning journey."
+        },
+        {
+            "headline": "5 Trillion Searches Show Google Keeps 65% Of Visits To Itself",
+            "content": "Two thirds of all searches on Google start and end on Google without a click outside the Google universe and Google ecosystem of knowledge and data and..."
+        },
+        {
+            "headline": "Google commits $7B to offices, data centers in 2021",
+            "content": "Google opened a new office in Rochester, Minnesota earlier this year, and its data centers in New Albany, Ohio, and Papillion, Nebraska, are now operational."
+        },
+        {
+            "headline": "How Google Aims To Dominate Artificial Intelligence",
+            "content": "Google is announcing TensorFlow, its open source platform for machine learning, giving anyone a computer and internet connection (and casual background in deep..."
+        },
+        {
+            "headline": "Google hires Intel's Uri Frank as it \"doubles down\" on cloud computing chips",
+            "content": "Google hires Intel's Uri Frank as it \"doubles down\" on cloud computing chips ... Google has hired twenty-year Intel design veteran Uri Frank to lead an effort to..."
+        },
+        {
+            "headline": "Google confirms massive Atlanta expansion in new Midtown tower",
+            "content": "The technology giant announced it will occupy 19 stories, or 500000 square feet, of 1105 West Peachtree office tower in Midtown."
+        },
+        {
+            "headline": "Google Assistant Now Finds Your Contacts Who Share Their Location on Google Maps When Asked",
+            "content": "Google Assistant is integrating the Google Maps location sharing feature into its abilities and can now pull up their location.."
+        },
+        {
+            "headline": "Google fixes crashing Android app issues",
+            "content": "The problem was caused by an update to the system that allows apps to display web content."
+        },
+        {
+            "headline": "How Google became a ‘click cannibal’",
+            "content": "Sina Estavi, chief exec of Bridge Oracle, a Malaysia-based blockchain company, placed the winning bid on Monday. \"This is not just a tweet!\" Estavi declared,..."
+        }
+    ],
+    "20210324": [
+        {
+            "headline": "Google and Wix Partner to make it easier for Wix users to manage their Business Profile on Google",
+            "content": "Wix's integration with Google My Business enables business owners to create and manage their Business Profile on Google Search and Maps seamlessly and..."
+        },
+        {
+            "headline": "Google hogs traffic for itself, according to data showing nearly two-thirds of searches ended without a click in 2020",
+            "content": "Google hogs traffic for itself, according to data showing nearly two-thirds of searches ended without a click in 2020 ... Almost two-thirds of Google search..."
+        },
+        {
+            "headline": "This is what happens when ICE asks Google for your user information",
+            "content": "Google may hand over personal information to DHS unless it receives within seven days a copy of a court-stamped motion to quash the request."
+        },
+        {
+            "headline": "Google offered a professor $60,000, but he turned it down. Here’s why",
+            "content": "All of this came into sharp focus for Stark on Wednesday, March 10, when Google sent him a congratulatory note, offering him $60,000 for his proposal for a..."
+        },
+        {
+            "headline": "Forecasting influenza-like illness trends in Cameroon using Google Search Data",
+            "content": "2012 to 2018 trends of reported ILI cases in Cameroon, using Google searches for influenza symptoms, treatments, natural or traditional remedies as well as,..."
+        },
+        {
+            "headline": "This is how Google Translate actually works",
+            "content": "Google Translate worked by translating the required text first into English as an intermediary step language and then into the target language."
+        },
+        {
+            "headline": "How AI helps volunteers support LGBTQ youth in crisis",
+            "content": "The Trevor Project is using a new AI-based tool called the Crisis Contact Simulator to help train crisis volunteers supporting LGBTQ youth."
+        },
+        {
+            "headline": "Google to make its own custom server chips as well",
+            "content": "Google has announced that it plans to design its own SoCs for use in servers. To assist in the design process, the company has hired Intel veteran Uri."
+        },
+        {
+            "headline": "Google Hires Intel CPU Expert, Doubles Down on SoCs as the “New Motherboard”",
+            "content": "“The SoC Is the New Motherboard”. In Google's most recent announcement on Uri Frank's new position, the tech giant also offered a window into the direction of..."
+        },
+        {
+            "headline": "Google Chrome will use HTTPS as default navigation protocol",
+            "content": "Google Chrome will switch to choosing HTTPS as the default protocol for all URLs typed in the address bar, starting with the web browser's next stable..."
+        }
+    ],
+    "20210325": [
+        {
+            "headline": "Facebook, Twitter, Google CEOs Testify Before Congress: 4 Things To Know",
+            "content": "Facebook's Mark Zuckerberg, Google's Sundar Pichai and Jack Dorsey of Twitter will testify about the steps they have taken to deal with misinformation about..."
+        },
+        {
+            "headline": "Google’s Vice President of Marketing Adrienne Hayes joins GLAAD’s National Board of Directors",
+            "content": "GLAAD announced that Google's Vice President of Marketing Adrienne Hayes has joined the organization's National Board of Directors. Members of GLAAD's Board..."
+        },
+        {
+            "headline": "How to blur your background in Google Meet",
+            "content": "Look to the bottom right of your screen where you'll see three dots. Click those dots to open the Settings menu."
+        },
+        {
+            "headline": "Google, Facebook Twitter grilled in US on fake news",
+            "content": "Google, Facebook Twitter grilled in US on fake news ... Tech bosses Mark Zuckerberg, Sundar Pichai and Jack Dorsey are being grilled by US politicians over the..."
+        },
+        {
+            "headline": "Facebook, Google, Twitter CEOs face House grilling",
+            "content": "Lawmakers from both parties attacked online platforms for causing offline harm to children, public health and democracy at a House hearing."
+        },
+        {
+            "headline": "Google Search Console users experience crawl stats report data issue",
+            "content": "Between March 10th and March 23rd there was a data issue with the crawl stats report, no Google Search performance issues were associated with this data bug."
+        },
+        {
+            "headline": "Former Google CEO gives $150M for research in biology, AI",
+            "content": "Former Google CEO Eric Schmidt and his wife, Wendy, have given $150 million to a research institute to establish a “new era of biology” aimed at battling..."
+        },
+        {
+            "headline": "Google Scholar’s open-access move ‘sends a powerful message’",
+            "content": "Google's search engine for scholarly literature has begun to include information on open-access publishing in its author profiles."
+        },
+        {
+            "headline": "Takeaways from House hearing on disinformation with Facebook, Google and Twitter CEOs",
+            "content": "The chief executives of Facebook, Google and Twitter testified before Congress on Thursday about handling online misinformation on their companies' platform."
+        },
+        {
+            "headline": "Why Evan Fournier’s nickname is ‘Don’t Google’: Five things to know about newest Boston Celtics guard",
+            "content": "Basketball reference has “Don't Google” as Fournier's nickname, which on first impression sounds strange since it's nowhere close to the Frenchman's real name."
+        }
+    ],
+    "20210326": [
+        {
+            "headline": "Google’s top security teams unilaterally shut down a counterterrorism operation",
+            "content": "Google's top security teams unilaterally shut down a counterterrorism operation. The decision to block an “expert” level cyberattack has caused controversy..."
+        },
+        {
+            "headline": "‘The talent is here.’ A closer look at Google’s plans to bring 1,000 jobs to the Triangle",
+            "content": "Durham could be one of Google's five largest cloud engineering hubs, only trailing offices in places like the Bay Area, New York and Seattle."
+        },
+        {
+            "headline": "Google ex-CEO has a plan for US to stay ahead of China’s government-backed tech",
+            "content": "Former Google CEO Eric Schmidt, pictured in 2015, suggests a hybrid government-industry approach to technology innovation for national security."
+        },
+        {
+            "headline": "Larry Page - Biography, Co-Founder of Google, Entrepreneur",
+            "content": "Larry Page is an internet entrepreneur and computer scientist who teamed up with grad school buddy Sergey Brin to launch the search engine Google in 1998."
+        },
+        {
+            "headline": "How to use Google Search to solve complex math problems and practice STEM concepts like a boss",
+            "content": "Google gave some tips on how students could leverage Search to get help with complex math problems, practice STEM concepts, and more."
+        },
+        {
+            "headline": "How to Clear Google Maps Search History on iPhone and iPad",
+            "content": "How to Delete Google Maps Search History in iOS · Launch Google Maps on your ‌iPhone‌ or ‌iPad‌. · Tap your Google profile icon in the top-right corner of the..."
+        },
+        {
+            "headline": "25 Things Google Home Can Do You Had No Idea About",
+            "content": "25 Things Google Home Can Do You Had No Idea About · Call you by a different name · Turn off your morning alarm · Make your coffee · Open your curtains · Draw..."
+        },
+        {
+            "headline": "Can Google Add Annotations To Search Console Reports?",
+            "content": "Annotations are great in Google Analytics and other tools. You can make a note in the reporting tools on a specific day or data point what happened that you..."
+        },
+        {
+            "headline": "Qualcomm Snapdragon 780G could supercharge the Google Pixel 6",
+            "content": "Designed to replace the Snapdragon 765G and 768G — the former can be found in the Google Pixel 5 — the 780G gets a suite of features that have filtered down..."
+        },
+        {
+            "headline": "How to Setup Google Meet Breakout Rooms in Google Calendar",
+            "content": "You can schedule your Breakout rooms through Google Calendar using events. You already have options for Google Meet calls, but you need to add more..."
+        }
+    ],
+    "20210327": [
+        {
+            "headline": "Google Was Interested In Acquiring This Short Video Startup. Now, They’re The “Decentralized TikTok”",
+            "content": "Think of it as a decentralized version of TikTok. The company has raised $55 million to date, including early investments from Lightspeed Venture Partners and..."
+        },
+        {
+            "headline": "Going Google-less: How to install a custom Android ROM with no Google apps or services",
+            "content": "The simplest solution is using the ROM provided by the microG developers: They offer a custom version of LineageOS that comes with microG out of the box."
+        },
+        {
+            "headline": "Gmail and other Android apps crashing on phones: Here's Google's simple fix",
+            "content": "If you used this workaround while waiting for Google to fix the problem, you should reinstall WebView to restore full functionality to your phone, as well as..."
+        },
+        {
+            "headline": "Google Pixel 5, 4a and 4a 5G down to their cheapest UK prices on Amazon",
+            "content": "All three of Google's 2020 smartphones are available for their cheapest prices ever, with discounts of up to 20% in Amazon's spring sale."
+        },
+        {
+            "headline": "Google AI Introduces a New System for Open-Domain Long-Form Question Answering (LFQA)",
+            "content": "Google.ai present a new system for open-domain long-form question answering (LFQA) that utilizes two recent advances in NLP."
+        },
+        {
+            "headline": "Google supports digital aspirations in Thailand",
+            "content": "Google and its strategic partners have worked together on the Saphan Digital programme, which is meant to support digital skills training for local small and..."
+        },
+        {
+            "headline": "Google Maps Street View: Horrifying accident captured as 'dead' girl spotted at roadside",
+            "content": "Google Maps introduce their new 'Live View' feature ... Google Maps Street View appears to have caught a horrendous accident on camera. A grisly image shows a..."
+        },
+        {
+            "headline": "14 Quick Ways to Fix Google Contacts Not Syncing on Android",
+            "content": "In this article, we'll tell you some easy and quick ways to fix Google Contacts not syncing on your Android phone."
+        }
+    ],
+    "20210328": [
+        {
+            "headline": "Google Aims to Be the Anti-Amazon of E-Commerce. It Has a Long Way to Go. (Published 2021)",
+            "content": "Google is trying to present itself as a cheaper and less restrictive option for independent sellers. And it is focused on driving traffic to sellers' sites, not..."
+        },
+        {
+            "headline": "What Does a Google Partnership Mean for Wix?",
+            "content": "Wix.com ... Why this small development could be a massive help to Wix users. On March 24, Wix.com (WIX -1.13%), the website development and hosting platform,..."
+        },
+        {
+            "headline": "Android TV: Everything You Need to Know About the World’s Fastest Growing Video Operating System",
+            "content": "From pay TV set-tops to smart TVs to the latest OTT devices, how Google's increasingly popular middleware is popping up everywhere."
+        },
+        {
+            "headline": "Google Discover is increasingly showing old news and content for some",
+            "content": "Something appears to have recently changed with Google Discover as more than a few users are increasingly being served old news and more evergreen articles."
+        },
+        {
+            "headline": "How To Change Google Assistant's Voice On Android",
+            "content": "There are 10 main Google Assistant voices that users can choose at any time, including Red, Orange, Amber, Green, Cyan, Blue, Purple, Pink, British Racing Green..."
+        },
+        {
+            "headline": "Google Photos adds 'In the spotlight' memory for shows and concerts",
+            "content": "\"In the spotlight\" seems to be automatically detecting all kinds of stages and crowds, filling with musical performances, plays, and even some more flashy..."
+        },
+        {
+            "headline": "Some Google Maps and Waze Features Need to Be Disabled Right Now, Experts Say",
+            "content": "Researchers from CARRS-Q warn that both Google Maps and Waze shouldn't allow drivers to report the location of police on the map."
+        },
+        {
+            "headline": "Android TV Starts Turning into Google TV with Latest UI Update",
+            "content": "Google has released an update for Android TV devices around the world that brings their user interfaces more into line with the Google TV operating system."
+        },
+        {
+            "headline": "How To Delete Google Search History & Activity",
+            "content": "' Click 'Data & personalization,' and then click 'Manage your activity controls' under the section called 'Activity controls.' There are then 'Auto-delete'..."
+        },
+        {
+            "headline": "How to share Google Chrome web page with a QR code",
+            "content": "Step 1: Open the Chrome browser on your mobile phone/tablet. Step 2: Open the web page you want to share. Step 3: Next to the toolbar, tap on the three dot-..."
+        }
+    ],
+    "20210329": [
+        {
+            "headline": "Sustainable first-party data strategy",
+            "content": "First-party data helps brands build direct relationships with their customers, create value, and boost their advertising performance."
+        },
+        {
+            "headline": "The ABCs of spelling in Google Search",
+            "content": "A is for All about common spelling mistakes. Our spelling mistakes tend to fall into two main categories: conceptual and slip-of-finger mistakes."
+        },
+        {
+            "headline": "Google Search Trends in Digital Banking, Payments & Fintech",
+            "content": "The Intersection of COVID, Cash and Retail Banking Channels. After mid-2015, searches for \"nearest ATM\" have consistently come in higher than searches for \"..."
+        },
+        {
+            "headline": "Secure Access to Your Google Chrome Enterprise With Duo",
+            "content": "Organizations that use Google Workspace and Chromebooks can quickly and easily secure workforce access with Duo. Duo's out-of-box integrations with Google..."
+        },
+        {
+            "headline": "Google Discover starts showing users old news, but there may be a good explanation",
+            "content": "Google Discover has begun to do the same. Posted just yesterday, the user shows a Doom graphics mod article that was posted five days prior."
+        },
+        {
+            "headline": "Google Earth didn’t block people from seeing the Suez Canal",
+            "content": "There is nothing nefarious about Google Earth's imagery of the canal, which was there before the ship blockage occurred. The program does not operate in real..."
+        },
+        {
+            "headline": "Google Maps allows residents to report cut-though traffic",
+            "content": "Residents can report incorrect directions, such as cut-throughs, on Google Maps by following these steps from your computer."
+        },
+        {
+            "headline": "T-Mobile will switch to YouTube TV and end its own live TV services in expanded Google partnership",
+            "content": "T-Mobile will switch to YouTube TV and end its own live TV services in expanded Google partnership · Previous Story · Next Story. Amazon employees, bots or..."
+        },
+        {
+            "headline": "These 6 hidden Google Chrome tricks might change the way you use Chrome",
+            "content": "We're back with a brand new list of tips and tricks that will take your Google Chrome mastery to the next level."
+        },
+        {
+            "headline": "How to Disable and Remove the \"Apps\" Button in Google Chrome",
+            "content": "Right-click anywhere on the Bookmarks Bar or the \"Apps\" button itself. This will open a menu, from which you should unselect \"Show Apps Shortcut.\""
+        }
+    ],
+    "20210330": [
+        {
+            "headline": "Redefining what a map can be with new information and AI",
+            "content": "We're on track to bring over 100 AI-powered improvements to Google Maps so you can get the most accurate, up-to-date information about the world, exactly when..."
+        },
+        {
+            "headline": "Google Is Testing Its Controversial New Ad Targeting Tech in Millions of Browsers. Here’s What We Know.",
+            "content": "Google launched an “origin trial” of Federated Learning of Cohorts (aka FLoC), its experimental new technology for targeting ads."
+        },
+        {
+            "headline": "Albertsons Companies and Google Partner to Reinvent the Future of Grocery Shopping",
+            "content": "Albertsons Companies and Google today announced a multi-year partnership to make shopping easier and more convenient for millions of customers nationw."
+        },
+        {
+            "headline": "Google Nest Hub 2nd-gen review: We should all be sleeping with Google",
+            "content": "Combining its metrics – duration of sleep and quality of sleep – with tracking your schedule, its smart alarm clock features and smart home integrations, the..."
+        },
+        {
+            "headline": "Google collects 20 times more telemetry from Android devices than Apple from iOS",
+            "content": "Academic research published last week looked at the telemetry traffic sent by modern iOS and Android devices back to Apple and Google servers and found that..."
+        },
+        {
+            "headline": "Google, BMW, AB Volvo, Samsung back environmental call for pause on deep-sea mining",
+            "content": "Google, BMW, AB Volvo Group and Samsung SDI are the first global companies to sign up to a World Wildlife Fund call for a moratorium on deep-sea mining,..."
+        },
+        {
+            "headline": "Albertsons, Google eye easier grocery shopping in major partnership",
+            "content": "Albertsons and Google noted that they have been collaborating behind the scenes for the past year. The partnership joins the nation's second-largest supermarket..."
+        },
+        {
+            "headline": "Migrate terabytes of data quickly from Google Cloud to Amazon S3 with AWS Glue Connector for Google BigQuery",
+            "content": "In this post, we learned how to easily customize an AWS Glue ETL job that connects to a BigQuery table and migrates a large amount of data (1.9 TB) into Amazon..."
+        },
+        {
+            "headline": "Is Google coming to Houston? What you can expect to see in May",
+            "content": "Google is expected to complete its first Houston office in May, according to InnovationMap."
+        },
+        {
+            "headline": "Google Is Putting Money Into That Fast Undersea Internet Cable Between Eureka and Singapore, and They Think It'll be Done by 2023",
+            "content": "Google Is Putting Money Into That Fast Undersea Internet Cable Between Eureka and Singapore, and They Think It'll be Done by 2023. Surely a first: Google has..."
+        }
+    ],
+    "20210331": [
+        {
+            "headline": "Say \"Hey Google...\" to the new Fiat 500 Family",
+            "content": "The new Fiat 500 Family Hey Google will soon be available in three models — 500, 500X and 500L — in 10 European countries, including Italy, the..."
+        },
+        {
+            "headline": "The Emotional Intelligence of Google CEO Sundar Pichai",
+            "content": "I found Pichai to be extremely intelligent and ready to share invaluable experience--yet naturally curious and a great listener."
+        },
+        {
+            "headline": "Google rejigs remote working as it reopens offices",
+            "content": "Google rejigs remote working as it reopens offices ... Getty Images Google worker walking into office. Getty Images. Google is changing its work-from-home policy..."
+        },
+        {
+            "headline": "Google cancels April Fools",
+            "content": "Google's infamous, elaborate April Fools pranks will not be a thing in 2021, just as they were not a thing in 2020. They've been canceled yet again,..."
+        },
+        {
+            "headline": "Assessing how much data iOS and Android share with Apple and Google",
+            "content": "The School of Computer Science and Statistics in Dublin, Ireland, has begun investigating how much user data iOS and Android send to Apple and Google,..."
+        },
+        {
+            "headline": "Do you obey public-access mandates? Google Scholar is watching",
+            "content": "What counts as freely available? We simply check whether a public version of an article is free to read. We do not check if it has an open-access licence or..."
+        },
+        {
+            "headline": "Threatened By Amazon, Albertsons Partners With Google To Digitalize The Grocery Shopping Experience",
+            "content": "Albertsons Companies and Google today announced a multi-year partnership to make shopping easier and more convenient for millions of customers nationwide."
+        },
+        {
+            "headline": "Google Maps will start showing you slower routes. Here’s why",
+            "content": "Google will fundamentally change the logic of Google Maps. Instead of showing you the fastest route from point A to point B by default, it will show you the..."
+        },
+        {
+            "headline": "Have your students show their learning with Google Slides",
+            "content": "Students can create things such as infographics, memes, graphic organizers, flow charts, and labeled and interactive images that will force them to process and..."
+        },
+        {
+            "headline": "Google says US employees may start returning to the office in April, and encourages workers to get vaccinated",
+            "content": "Google intends to start reopening its US offices to some employees in the next month, its HR chief announced in an internal memo on Wednesday."
+        }
+    ],
     "20210401": [
         {
             "headline": "Google Wants Workers To Return To The Office Ahead Of Schedule: This Looks Like A Blow To The Remote-Work Trend",
