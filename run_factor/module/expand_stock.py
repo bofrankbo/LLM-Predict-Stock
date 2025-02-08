@@ -17,7 +17,7 @@ class FactorExpanding:
         # history data path
         self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"
 
-    def show_sig(self):
+    def show_sig(self, individual=None):
         if os.path.exists(self.path_expand):
             with open(self.path_expand, "r", encoding="utf-8") as f:
                 expand_data = json.load(f)
@@ -28,7 +28,10 @@ class FactorExpanding:
         key = expand_data["output_data"].keys()
         for k in key:
             print(f"{k.rjust(10)} => ", end="")
-            for k2 in expand_data["output_data"][k]["skeleton"].keys():
+            for idx, k2 in enumerate(expand_data["output_data"][k]["skeleton"].keys()):
+                if individual is not None:
+                    if individual[idx] == 0:
+                        continue
                 print(f"{str(expand_data['output_data'][k]['skeleton'][k2]['sig']).rjust(3)}", end=" ")
             print()
     

@@ -3,7 +3,8 @@ from .GA import GeneticAlgorithm
 from .GA_MOV import GeneticAlgorithmMOV
 from .GA_Volatility import GeneticAlgorithmVIX
 
-from .generator import FactorGenerator
+from .generator_stock import FactorGenerator
+from .generator_idx import Generator_Index
 from .generator_usable import UsableGenerator
 from .generator_embd import GeneratorEmbd
 

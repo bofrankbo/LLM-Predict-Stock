@@ -98,11 +98,17 @@ class Index_UsableExpanding(FactorExpanding):
                             ("system", "You are an expert in the financial field and will answer users' questions about stock movment."),
                             ("human",
                             textwrap.dedent(f"""
-                            This is the possible stock price change factor {factor}
-                            Please consider the following news. Will stocks rise or fall because of {factor}?
-                            This is today's news: {text_news}
-                            Please answer yes if it is likely to rise, answer no if it is likely to fall, and answer unknown if it is impossible to determine or irrelevant.
+                            If bad news affects the stock price but does not significantly impact the company’s future outlook, it is often a good investment opportunity.
 
+                            Please evaluate the following news:
+                            Will it severely impact the future economy due to {factor}?
+
+                            Today’s news: {text_news}
+
+                            If the future economic outlook is not seriously challenged, reply yes.
+                            If the economy will face severe negative impacts in the future, reply no.
+                            If it is uncertain, reply unknown.
+                            
                             Respond in the following format. You only need to give a single judgment based on all the news headlines:
                             Judgment: #yes/#no/#unknown. Try to avoid answering "unknown."
                             Reason: Provide a **very brief** explanation in 1-2 sentences!

@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 from sklearn.cluster import KMeans
 from langchain_openai import ChatOpenAI
 
-from .generator import FactorGenerator
+from .generator_stock import FactorGenerator
 
 class GeneratorEmbd(FactorGenerator):
     '''

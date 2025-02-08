@@ -12,8 +12,8 @@ from langchain_openai import ChatOpenAI
 from langchain_openai import OpenAIEmbeddings
 
 from eval import EvalOvernight
-from module import FactorGenerator
-from module import FactorExpanding
+from module import Generator_Index
+from module import Index_UsableExpanding
 from module import GeneticAlgorithm
 from factor import Factor
 
@@ -51,8 +51,8 @@ class FactorON_Index(Factor):
         
     def run(self):
         # preprocess
-        fac_gen = FactorGenerator(self.env, self.price_his, self.llm4o)
-        fac_exp = FactorExpanding(self.env, self.llm, self.price_his)
+        fac_gen = Generator_Index(self.env, self.price_his)
+        fac_exp = Index_UsableExpanding(self.env, self.llm, self.price_his)
         self.factors = fac_gen.generate_factors()
         self.exp_data = fac_exp.expanding(self.factors)
         
@@ -141,14 +141,14 @@ class FactorON_Index(Factor):
             
         return list_date, list_bnh_rtn, list_stag_rtn
     
-    def show_sig(self):
-        fac_exp = FactorExpanding(self.env, self.llm, self.price_his)
-        fac_exp.show_sig()
+    def show_sig(self, individual=None):
+        fac_exp = Index_UsableExpanding(self.env, self.llm, self.price_his)
+        fac_exp.show_sig(individual)
         
     def show_individual(self, mode):
         individuals = self.get_individual(mode)
         
-        fac_gen = FactorGenerator(self.env, self.price_his, self.llm4o)
+        fac_gen = Generator_Index(self.env, self.price_his)
         factors = fac_gen.generate_factors()
         
         i = 0
