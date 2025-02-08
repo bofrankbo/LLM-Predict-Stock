@@ -1,4 +1,170 @@
 {
+    "20210401": [
+        {
+            "headline": "Nvidia announces plans to expand in Israel, recruit 600 engineers",
+            "content": "US semiconductor giant Nvidia announced this week that it will set off on an expansion of its Israel operations, including the recruitment of 600 new software..."
+        }
+    ],
+    "20210402": [],
+    "20210403": [],
+    "20210404": [
+        {
+            "headline": "Mark Cuban on the company that made him a billionaire: Why I knew it would succeed despite many naysayers",
+            "content": "Mark Cuban became a billionaire after selling his company, Broadcast.com, to Yahoo in 1999. But, before he achieved success, Cuban faced many critics."
+        }
+    ],
+    "20210405": [],
+    "20210406": [
+        {
+            "headline": "VMware adds support for 80-core Ampere Altra chips to its experimental Arm hypervisor",
+            "content": "VMware has released an update of the mostly experimental cut of its flagship ESXi hypervisor for the Arm architecture, adding support for 80-core server..."
+        }
+    ],
+    "20210407": [
+        {
+            "headline": "Is AWS Making The Switch To Homegrown Network ASICs?",
+            "content": "Amazon Web Services, the juggernaut of cloud computing, may be forging its own path with Arm-based CPUs and associated DPUs thanks to its 2015 acquisition."
+        }
+    ],
+    "20210408": [
+        {
+            "headline": "Tech: Chip designer Oppstar Technology eyes listing to raise at least RM100 mil",
+            "content": "OPERATING at the front end of the semiconductor value chain, Oppstar Technology Sdn Bhd is one of the very few home-grown semiconductor contract design..."
+        }
+    ],
+    "20210409": [],
+    "20210410": [],
+    "20210411": [],
+    "20210412": [],
+    "20210413": [
+        {
+            "headline": "New Bluefield DPUs Drill Deeper into the Data Center",
+            "content": "Top Stories of the Week .. >> GTC 2021 digital issue. NVIDIA is stepping up its challenge in part of the data center market dominated by Broadcom, Intel,..."
+        }
+    ],
+    "20210414": [
+        {
+            "headline": "Cloud Security Software Market Is Booming Worldwide | Broadcom, Qualys, Cloudpassage, Avanan, Sophos",
+            "content": "Press release - HTF Market Intelligence Consulting Pvt. Ltd. - Cloud Security Software Market Is Booming Worldwide | Broadcom, Qualys, Cloudpassage, Avanan,..."
+        },
+        {
+            "headline": "VMware and Dell Technologies Reach Agreement Regarding Spin-Off",
+            "content": "The terms include significant simplification to the corporate ownership structure and an $11.5B to $12.0B special cash dividend recommended by the independent..."
+        },
+        {
+            "headline": "Nvidia Reveals First Data Center CPU with Project Grace",
+            "content": "Nvidia used its annual GTC event to launch Project Grace, its first AI-capable data center CPU, which will power a supercomputer underdevelopment by HPE."
+        },
+        {
+            "headline": "South Sumter Middle School student wins first place at state science fair",
+            "content": "South Sumter Middle School eighth-grader Alynza McBride won first place in Earth and Environmental Sciences at the State Science and Engineering Fair of..."
+        }
+    ],
+    "20210415": [
+        {
+            "headline": "Dell Technologies to Spin Off Majority Stake in VMware; Michael Dell Quoted",
+            "content": "Dell Technologies (NYSE: DELL) plans to spin off its 81 percent ownership of VMware (NYSE: VMW) as part of efforts to simplify capital structures."
+        }
+    ],
+    "20210416": [
+        {
+            "headline": "The 7 Best Near Field Communication Stocks To Buy",
+            "content": "Near field communication (NFC) is a technology that enables two electronic devices to communicate with each other when they are within close proximity."
+        }
+    ],
+    "20210417": [],
+    "20210418": [],
+    "20210419": [
+        {
+            "headline": "Sumeet Mathur joins ServiceNow as VP - Engineering and Country Head - IDC",
+            "content": "Mathur takes over in the role following Rao Surapaneni's return to the US and appointment as leader of ServiceNow's unified Product & Service Management..."
+        }
+    ],
+    "20210420": [
+        {
+            "headline": "Northforge Innovations Signs Representative Agreement for Broadcom Software Development Services",
+            "content": "Northforge Innovations signed an agreement with Avnet and EBV Elektronik to promote Northforge to Broadcom customers in North America and EMEA."
+        }
+    ],
+    "20210421": [
+        {
+            "headline": "Innovium Hitches Its Switches To SONiC’s Boom",
+            "content": "Breaking into the datacenter compute or networking ASIC business is about as easy as trying to start up a new global car company. It can be done, as Elon."
+        }
+    ],
+    "20210422": [
+        {
+            "headline": "Comcast speed test shows 4Gbps upstream and downstream over cable",
+            "content": "Comcast has demonstrated internet speeds greater than 4 gigabits per second (Gbps) in both directions using a Broadcom chip."
+        },
+        {
+            "headline": "Comcast takes another step toward '10G' with test of a multigigabit chip",
+            "content": "This live lab test will pave the way for Comcast to deliver multigigabit upload and download speeds over its hybrid-fiber coaxial (HFC) network."
+        },
+        {
+            "headline": "Comcast offers tantalizing hint of a future with upload speeds above 35Mbps",
+            "content": "Lab test produces 4Gbps upload speeds but actual uploads are still 3 to 35Mbps."
+        },
+        {
+            "headline": "Committee approves to appoint Shifla to MBC",
+            "content": "The Parliament Committee on Independent Institutions has approved to appoint TV presenter, Shifla Ibrahim as a member of Maldives Broadcasting Commission."
+        }
+    ],
+    "20210423": [
+        {
+            "headline": "TSMC to expand capacity for 28nm process at China fab",
+            "content": "TSMC's board of directors has approved a budget of about US$2.89 billion for installation of mature technology capacity, the pure-play foundry announced on..."
+        }
+    ],
+    "20210424": [],
+    "20210425": [
+        {
+            "headline": "The Time and the Place: The Power and the Magic of L5",
+            "content": "L5 signals are more accurate, more reliable, and are currently available in sufficient numbers, between 16 GPS satellites plus Galileo and BeiDou, to support..."
+        }
+    ],
+    "20210426": [
+        {
+            "headline": "Samsung’s Highest Performing SAS Enterprise SSD to take Server Storage Performance to Next Level",
+            "content": "As the industry's first 24G SAS storage based on 100+ layer vertical NAND, the PM1653 will provide maximum speed and capacity to effectively handle AI and..."
+        }
+    ],
+    "20210427": [
+        {
+            "headline": "Samsung now shipping samples of speedy SAS SSD",
+            "content": "Samsung has re-implemented its 2016-era PM1643 SAS SSD as the PM1653, doubling its speed and more than doubling its layer count."
+        },
+        {
+            "headline": "Samsung’s Highest Performing SAS Enterprise SSD to Take Server Storage Performance to Next Level",
+            "content": "As the industry's first 24G SAS storage based on 100+ layer vertical NAND, the PM1653 will provide maximum speed and capacity to effectively handle AI and..."
+        }
+    ],
+    "20210428": [
+        {
+            "headline": "Broadcom Is A Freak Of Nature",
+            "content": "Broadcom is a freak of nature. Apr. 28, 2021 6:13 AM ET. Broadcom Inc. (AVGO) Stock. 28 Comments 43 Likes."
+        }
+    ],
+    "20210429": [
+        {
+            "headline": "U.S. Army Futures Command Partners with VMware to Create Software Factory",
+            "content": "VMware Tanzu to empower soldiers to use modern cloud technologies and DevSecOps practices; solve problems through agile and more secure software."
+        },
+        {
+            "headline": "FS S5860-20SQ Switch Review 20x10GbE 4x25GbE 2x40GbE 1U - Page 3 of 4",
+            "content": "In our FS S5860-20SQ review, we see what this switch offers alongside 20x SFP+ 10GbE ports, 4x SFP28 25GbE ports, and 2x QSFP+ 40GbE ports."
+        }
+    ],
+    "20210430": [
+        {
+            "headline": "How Broadcom’s Henry Samueli Is Giving Away Billions",
+            "content": "Samueli and his wife Susan together run the Samueli Foundation. It funds a variety of programs including those focused on science, technology, engineering, and..."
+        },
+        {
+            "headline": "Shifla receives parliament approval for MBC membership",
+            "content": "The parliament has approved to appoint Shifla Ibrahim to the Maldives Broadcasting Commission (MBC). President Ibrahim Mohamed Solih nominated Shifla's name..."
+        }
+    ],
     "20210501": [],
     "20210502": [],
     "20210503": [
