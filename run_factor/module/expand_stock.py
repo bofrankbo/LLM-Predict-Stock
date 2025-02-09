@@ -11,8 +11,7 @@ class FactorExpanding:
         self.env = env
         self.llm = llm
         self.price_his = price_his
-        self.path_out =  f"{env['path_folder']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
-        self.path_expand = f"out_stock/Expands/{self.path_out}/expand.json"    # 輸出 JSON 檔案
+        self.path_expand = f"out_stock/Expands/Factor/{env['start_date']}_{env['end_date']}/{env['stock_id']}/expand.json"    # 輸出 JSON 檔案
         
         # history data path
         self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"

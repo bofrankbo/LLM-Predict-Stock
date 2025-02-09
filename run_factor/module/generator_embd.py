@@ -19,9 +19,7 @@ class GeneratorEmbd(FactorGenerator):
     def __init__(self, env, price_his):
         self.env = env
         self.price_his = price_his
-        self.path_out =  f"{env['path_folder']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
-        self.path_factors = f"out_stock/Factors/{self.path_out}/factors.json"    # 輸出 JSON 檔案
-        self.path_clustered_summaries = f"out_stock/Cluster_summmaries/{self.path_out}/embeddings.json"    # 輸出 JSON 檔案
+        self.path_factors = f"out_stock/Factors/Embd/{env['start_date']}_{env['end_date']}/{env['stock_id']}/factors.json"    # 輸出 JSON 檔案
         
         # history data path
         self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"

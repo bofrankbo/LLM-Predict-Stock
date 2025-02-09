@@ -1,4 +1,337 @@
 {
+    "20210201": [
+        {
+            "headline": "Acknowledgements",
+            "content": "Published annually since 1973, Freedom in the World reports on 195 countries and 15 related and disputed territories are used by policymakers, the media,..."
+        },
+        {
+            "headline": "Facebook Tests Pop-Up for iPhone Users Before Ad Tracking Update",
+            "content": "Facebook Inc. is testing a new full-screen prompt for iPhone users about the social network's data collection in an effort to get ahead of a similar pop-up..."
+        }
+    ],
+    "20210202": [
+        {
+            "headline": "Apple, Its Control Over the iPhone, and The Internet",
+            "content": "An essay on platforms, power, prosperity, principles, and profits."
+        },
+        {
+            "headline": "‘Hollyboob’ Was a Statement Against Instagram Censorship",
+            "content": "In the middle of the afternoon on Monday, six people climbed to the Hollywood sign in Los Angeles. They threw a big letter B over the W, and added a white..."
+        }
+    ],
+    "20210203": [
+        {
+            "headline": "Meta to Display eBay Listings on Marketplace Following EU Fine",
+            "content": "Kraft Heinz is nearing a deal to sell its Planters brand to Spam owner Hormel for roughly US$3 billion, The Wall Street Journal reported Tuesday,..."
+        }
+    ],
+    "20210204": [
+        {
+            "headline": "Harvard’s metalens technology enters commercial development",
+            "content": "A startup company founded by applied physicists at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) intends to transform consumer..."
+        },
+        {
+            "headline": "Myanmar coup: How Facebook became the 'digital tea shop'",
+            "content": "It is widely said that, in Myanmar, Facebook is the internet, so when the military asked for it to be blocked for the sake of stability it sent a shockwave..."
+        },
+        {
+            "headline": "Harvard’s metalens technology enters commercial development",
+            "content": "Mass. startup Metalenz, Inc., to bring flat optics to consumer electronics and more."
+        },
+        {
+            "headline": "Hadjipateras-backed alternative finance platform targets $162m bulker investment",
+            "content": "An alternative ship finance platform backed by London's Hadjipateras family hopes to raise around $162m to acquire an initial portfolio of eight bulk carriers."
+        },
+        {
+            "headline": "Nigerian separatist Nnamdi Kanu's Facebook account removed for hate speech",
+            "content": "Nnamdi Kanu posted video of a militia attack amid a bitter dispute between cattle herders and farmers."
+        }
+    ],
+    "20210205": [],
+    "20210206": [],
+    "20210207": [],
+    "20210208": [
+        {
+            "headline": "EU ready to follow Australia’s lead on making Big Tech pay for news",
+            "content": "EU lawmakers overseeing new digital regulation in Europe want to force Big Tech companies to pay for news, echoing a similar move in Australia."
+        }
+    ],
+    "20210209": [
+        {
+            "headline": "Minesweeper automates root cause analysis as a first-line defense against bugs",
+            "content": "Minesweeper is a new technique for automating root cause analysis (RCA) that identifies the causes of bugs based on their symptoms."
+        },
+        {
+            "headline": "Instagram says its algorithm won’t promote Reels that have a TikTok watermark",
+            "content": "Instagram's newest guidance for creators makes one thing clear: the platform wants people to stop posting recycled TikToks to Reels."
+        },
+        {
+            "headline": "South Korean company MAXST launches spatial Augmented Reality platform ‘MAXST VPS’ for 3D mapping",
+            "content": "MAXST, a provider of an augmented reality (AR) software development kit (SDK) based in South Korea, has today announced the launch of its spatial AR platform,..."
+        },
+        {
+            "headline": "Fulgent optimistic as footwear orders still going strong",
+            "content": "Fulgent Sun International Holding Co (鈺齊國際), which supplies sports shoes and functional outdoor shoes to global brands, yesterday posted consolidated..."
+        }
+    ],
+    "20210210": [
+        {
+            "headline": "Council Post: Meta-Game: The Game Beyond The Game — And The Key To Fueling Engagement",
+            "content": "Any app that hosts multiple games under an ecosystem fully understands the crucial value of meta-gaming."
+        },
+        {
+            "headline": "Reducing Political Content in News Feed",
+            "content": "We're working to understand people's preferences for political content and find a better balance of content in News Feed."
+        },
+        {
+            "headline": "Announcing MetaHuman Creator: Fast, High-Fidelity Digital Humans in Unreal Engine",
+            "content": "Today we revealed a first look at MetaHuman Creator, a new browser-based app that empowers game developers and creators of real-time 3D content to slash the..."
+        },
+        {
+            "headline": "Epic Games' MetaHuman Creator lets developers create realistic digital humans within minutes",
+            "content": "Epic Games has unveiled its MetaHuman Creator, a new browser-based app that enables game developers and creators of real-time content to slash the time it..."
+        },
+        {
+            "headline": "Epic Games MetaHuman Creator Character Demo: Watch How to Create Digital Humans in Minutes!",
+            "content": "As video games as well as simulations become even more realistic, so are the characters that need to populate these platforms. This leaves a notably heavier..."
+        },
+        {
+            "headline": "Epic’s new MetaHuman tool lets you craft realistic faces inside a browser",
+            "content": "Epic Games, the creator of Fortnite, has a new software tool called the MetaHuman Creator that's powered by its Unreal Engine platform."
+        }
+    ],
+    "20210211": [
+        {
+            "headline": "An Update on the Situation in Myanmar",
+            "content": "We are expanding our ban of the Myanmar military (“Tatmadaw”) and will now also remove Pages, Groups and accounts representing military-controlled businesses."
+        },
+        {
+            "headline": "Meet the eerily realistic digital people made with Epic’s MetaHuman Creator",
+            "content": "Epic showed off a preview of its new MetaHuman Creator platform, which could help creators make ridiculously detailed human models—right down to individual..."
+        },
+        {
+            "headline": "Expedia CEO Talks Vrbo: We ‘Removed Vrbo from Google’s Vacation Rental Meta Product’",
+            "content": "Kern shared that Expedia had bumped up performance marketing spend for Vrbo in Q4, but that it had pulled Vrbo's inventory from Google's Vacation Rental meta..."
+        },
+        {
+            "headline": "Update on Our Progress on AI and Hate Speech Detection",
+            "content": "97% of hate speech taken down from Facebook was spotted by our automated systems before any human flagged it, up from 94% in the previous quarter and 80.5% in..."
+        }
+    ],
+    "20210212": [
+        {
+            "headline": "Inside the Making of Facebook’s Supreme Court",
+            "content": "Kate Klonick on Facebook's Oversight Board, created to adjudicate the company's speech regulation, including a recent decision to ban Donald Trump from the..."
+        },
+        {
+            "headline": "Ultra-high- Q resonances in plasmonic metasurfaces",
+            "content": "We report a plasmonic metasurface with a quality-factor (Q-factor) of 2340 in the telecommunication C band by exploiting surface lattice resonances (SLRs)."
+        },
+        {
+            "headline": "Robotic pancreaticoduodenectomy provides better histopathological outcomes as compared to its open counterpart: a meta-analysis",
+            "content": "The aim of this meta-analysis was to evaluate whether robotic pancreaticoduodenectomy (PD) may provide better clinical and pathologic outcomes compared to..."
+        }
+    ],
+    "20210213": [
+        {
+            "headline": "How to Fix Error 4109 (Trade Is Not Allowed) in MT4",
+            "content": "Error 4109 — Trade Is Not Allowed — is a very common error when working with expert advisors in MetaTrader 4. The error is, more often than not,..."
+        }
+    ],
+    "20210214": [],
+    "20210215": [
+        {
+            "headline": "Meet Epic Games' Metahumans In VR With Amazing Free Demo",
+            "content": "Meet the first Metahumans in VR. YouTuber ETR VR has done a fantastic job adding in VR support for the samples that Epic released last week."
+        },
+        {
+            "headline": "Epic Games Launches MetaHuman Creator to Generate Hyperrealistic Virtual Humans",
+            "content": "Epic Games has released a new software platform for creating very realistic virtual humans. The MetaHuman Creator uses the Unreal Engine to make the faces and..."
+        }
+    ],
+    "20210216": [],
+    "20210217": [
+        {
+            "headline": "Changes to Sharing and Viewing News on Facebook in Australia",
+            "content": "In response to Australia's proposed new Media Bargaining law, we'll restrict publishers and people in Australia from sharing or viewing news on Facebook."
+        },
+        {
+            "headline": "Unreal Engine's MetaHuman Creator, Analyzed and Explained",
+            "content": "hey actually f***ing did it. How mental is that?\" were the words of a CGI artist streaming the sample of Unreal Engine's new MetaHuman Creator platform when..."
+        },
+        {
+            "headline": "Facebook blocks Australian users from viewing or sharing news",
+            "content": "Facebook has blocked Australian users from sharing or viewing news content on the platform, causing much alarm over public access to key information."
+        },
+        {
+            "headline": "2021 - The most important year to develop your brand's visual identity - Jacaranda FM",
+            "content": "Five lessons from Jacaranda FM's marketing manager, Leith Smith..."
+        }
+    ],
+    "20210218": [
+        {
+            "headline": "Optoelectronic Gas Sensing Platforms: From Metal Oxide Lambda Sensors to Nanophotonic Metamaterials",
+            "content": "A comprehensive review of the evolution of optoelectronic gas sensing technologies is presented, not just focusing on a device-level perspective but also..."
+        },
+        {
+            "headline": "Facebook ban on news in Australia provokes fierce backlash",
+            "content": "Facebook's decision to block the sharing of news in Australia prevented the public from accessing critical information on government health and emergency..."
+        },
+        {
+            "headline": "Australia news code: What’s this row with Facebook and Google all about?",
+            "content": "A law that would force tech firms to pay for news is being closely watched globally. We explain why."
+        },
+        {
+            "headline": "Tesla lowers base Model 3 and Model Y prices",
+            "content": "The base models are now $1000 and $2000 cheaper, respectively."
+        },
+        {
+            "headline": "How ‘fact-checking’ can be used as censorship",
+            "content": "When Donald Trump said last May he was “confident” that a vaccine would be ready by the end of 2020, the US president was upbraided by NBC with what has..."
+        }
+    ],
+    "20210219": [
+        {
+            "headline": "Facebook ‘behaving like North Korea’ as Australia wakes up to news ban",
+            "content": "Facebook's failure to notify Australia's government or publishers before pulling the plug on content has provoked a furious reaction in the country."
+        },
+        {
+            "headline": "WhatsApp to go ahead with changes despite backlash",
+            "content": "The messaging app is making a second attempt to convince users to accept its new privacy policy."
+        },
+        {
+            "headline": "MetaHuman Creator allows anyone to create realistic digital people \"in minutes\"",
+            "content": "Software and gaming company Epic Games has created an app that can build lifelike virtual humans for games and movies. Named MetaHuman Creator, the app has..."
+        },
+        {
+            "headline": "Black Country: Facebook censored local dish chat",
+            "content": "Members of the Pensnett, Brierley Hill and Black Country Now And Then History Group had been discussing minced pork liver and heart wrapped in bacon when..."
+        }
+    ],
+    "20210220": [],
+    "20210221": [],
+    "20210222": [
+        {
+            "headline": "FOQS: Scaling a distributed priority queue",
+            "content": "Facebook Ordered Queueing Service (FOQS) supports the asynchronous computing workloads that run many of Facebook's services at scale."
+        },
+        {
+            "headline": "Reconfigurable all-dielectric metalens with diffraction-limited performance",
+            "content": "In this paper, we introduce an active metasurface platform combining phase tuning in the full 2π range and diffraction-limited performance using an all-..."
+        },
+        {
+            "headline": "WhatsApp to switch off messages for all who reject new terms",
+            "content": "WhatsApp users who do not accept its updated terms and conditions by the 15 May deadline will be unable to receive or send messages until they do so."
+        },
+        {
+            "headline": "What happens to your WhatsApp account if you don’t accept Facebook-owned company’s new privacy policy update",
+            "content": "WhatsApp privacy policy: Despite global backlash, instant messaging platform WhatsApp has announced that it would go ahead with its controversial new..."
+        },
+        {
+            "headline": "SIGN: Stop Animal Torture on Facebook",
+            "content": "Animal cruelty videos are being allowed to spread like wildfire on Facebook, promoting horrific violence against monkeys, dogs, cats, and other species."
+        },
+        {
+            "headline": "Free Forex VPS for Trading with Admiral Markets",
+            "content": "Admiral Markets is happy to bring you a Virtual Private Server service (VPS), so you can take advantage of its powerful trading platform anywhere, any time,..."
+        }
+    ],
+    "20210223": [
+        {
+            "headline": "Preventing Child Exploitation on Our Apps",
+            "content": "Our industry-leading efforts to combat child exploitation focus on preventing abuse, detecting and reporting content that violates our policies, and working..."
+        },
+        {
+            "headline": "Facebook Agrees to Restore Australian News Pages After Amendments to Government Code",
+            "content": "Facebook has agreed to restore the Pages of Australian news publishers on its platform after the Australian Government added some new amendments to its..."
+        },
+        {
+            "headline": "Facebook reverses ban on news pages in Australia",
+            "content": "Facebook has announced it will restore news content to its users in Australia. The tech giant has blocked news to Australians on its platform since last..."
+        },
+        {
+            "headline": "Facebook Shop launches in the UK in latest ecommerce push",
+            "content": "Facebook has launched ecommerce tool Facebook Shop in the UK and Canada, the social media giant's latest move into the online shopping market."
+        },
+        {
+            "headline": "From Iceland — Iceland's Political Parties: Who Are These People?",
+            "content": "A handy overview of who the parties are. The following is based on their stated platforms, voting records, analysis of their activities over the years, and our..."
+        }
+    ],
+    "20210224": [
+        {
+            "headline": "The Real Story of What Happened With News on Facebook in Australia",
+            "content": "Facebook announced it was stopping the sharing of news on its service in Australia. This has now been resolved following discussions with the Australian..."
+        },
+        {
+            "headline": "Harnessing technological solutions for childhood obesity prevention and treatment: a systematic review and meta-analysis of current applications",
+            "content": "Recent technology-based interventions for the treatment of pediatric obesity show small effects on weight; however, evidence is inconclusive on the efficacy."
+        },
+        {
+            "headline": "Myanmar coup: Facebook, Instagram place immediate ban on military",
+            "content": "Social media giant Facebook has banned Myanmar's military and its affiliates from its platforms. The company said it acted after deciding the risks of allowing..."
+        },
+        {
+            "headline": "El Shaddai: Ascension of the Metatron Finally to Launch on PC Soon",
+            "content": "Cult classic video game El Shaddai: Ascension of the Metatron will be coming to the PC platform. In a surprise announcement by Game Producer Sawaki Takeyasu..."
+        }
+    ],
+    "20210225": [
+        {
+            "headline": "Facebook and Google news law passed in Australia",
+            "content": "Australia has passed a world-first law aimed at making Google and Facebook pay for news content on their platforms."
+        },
+        {
+            "headline": "Facebook Touts The Benefits Of Personalized Advertising In New Ad Campaign",
+            "content": "Here's something meta for you: Facebook is running a targeted ad campaign to promote the importance of … targeted advertising."
+        },
+        {
+            "headline": "After Facebook’s news flex, Australia passes bargaining code for platforms and publishers",
+            "content": "The country's parliament has approved legislation that makes it mandatory for platform giants like Facebook and Google to negotiate to remunerate local news..."
+        }
+    ],
+    "20210226": [
+        {
+            "headline": "FB: Down 4% in 2021, Will Facebook Stock Rebound?",
+            "content": "Meta Platforms, Inc.(NASDAQ:FB): Social media giant Facebook (FB) is in limelight for all the wrong reasons — from Apple's (AAPL) new privacy changes..."
+        },
+        {
+            "headline": "Media blackout: why Facebook pulled the plug on news in Australia",
+            "content": "It was cast as a battle between Facebook and Australia, as the world's largest social network stripped all news from its platform in protest at a new law..."
+        },
+        {
+            "headline": "Stock Market Today: Tech Gets Respite From Recent Selling",
+            "content": "Treasury yields cooled off Friday, and so did the Dow and S&P 500, while the recently maligned Nasdaq and several of its tech components enjoyed a modest..."
+        },
+        {
+            "headline": "#MarketingMasterminds: Blue Robot | Facebook Marketing Partner | Kyle Oosthuizen",
+            "content": "Blue Robot is a marketing and social automation company that delivers experiences, chatbots, and technical services across platforms like Facebook and WhatsApp."
+        }
+    ],
+    "20210227": [
+        {
+            "headline": "How to Work With MetaMask – The Simple Guide",
+            "content": "MetaMask is a cryptocurrency wallet developed as a browser extension. It enables users to interact with blockchains — most notably Ethereum..."
+        },
+        {
+            "headline": "Judge approves $650 million Facebook privacy settlement over facial recognition feature",
+            "content": "A judge in California gave final approval to a $650 million Facebook class action privacy settlement and ordered the 1.6 million members of the class to be..."
+        },
+        {
+            "headline": "Why content moderation costs billions and is so tricky for Facebook, Twitter, YouTube and others",
+            "content": "After the riots at the Capitol in January, debate is swirling over how platforms like Facebook and Twitter moderate content and what's protected as free..."
+        },
+        {
+            "headline": "Best Streaming Platforms For Classic Films Lovers",
+            "content": "Meta-Description: Are you a fan of vintage or classic films? Don't know where to watch old movies? The experts have shared the best streaming platforms..."
+        }
+    ],
+    "20210228": [
+        {
+            "headline": "Why Facebook is losing friends in Hong Kong",
+            "content": "Policy and privacy changes and fears of censorship and bias are pushing users from across Hong Kong's political divides to leave Facebook for MeWe, Weibo,..."
+        }
+    ],
     "20210301": [
         {
             "headline": "Hua Nan Financial eyes expansion in operations",

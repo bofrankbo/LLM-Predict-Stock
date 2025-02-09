@@ -14,7 +14,7 @@ class Index_UsableExpanding(FactorExpanding):
         self.env = env
         self.llm = llm
         self.price_his = price_his
-        self.path_expand = f"out_stock/Expands/{env['path_folder']}/{env['stock_id']}/expand.json"    # 輸出 JSON 檔案
+        self.path_expand = f"out_stock/Expands/FactorUsable/{env['stock_id']}/expand.json"    # 輸出 JSON 檔案
         
     def expanding(self, factors):
         '''

@@ -1,4 +1,992 @@
 {
+    "20210201": [
+        {
+            "headline": "Hunt: Showdown – Bounty-Hunting Online Shooter Now Includes NVIDIA Highlights",
+            "content": "With the latest Early Access game update and NVIDIA Game Ready Driver, you can automatically save all of your hunter-related kills and deaths, and then edit..."
+        },
+        {
+            "headline": "Nvidia Clears up G-Sync Ultimate Confusion",
+            "content": "A G-Sync monitor paired with a system running an Nvidia graphics card will fight off screen tearing and offer other gaming benefits, depending on the type of G-..."
+        },
+        {
+            "headline": "How to run Nvidia GeForce Now in a Chrome browser",
+            "content": "First, you need to head to play.geforcenow.com using the latest version of Chrome. Now, click \"Agree & Continue\" on any version notes that appear."
+        },
+        {
+            "headline": "Chip Stocks at Cusp of Intermediate Correction",
+            "content": "The PHLX Semiconductor Index (SOX) has gained about 3% so far in 2021 but is losing altitude at a rapid pace, dropping 8% off Jan."
+        },
+        {
+            "headline": "Comparing the Nvidia RTX 3070 to the RTX 2070 Super",
+            "content": "The RTX 3070 is about a 25-30 percent overall improvement over the RTX 2070 Super in terms of rendering benchmarks on average."
+        },
+        {
+            "headline": "NVIDIA GA106 ‘Ampere’ GPU For GeForce RTX 3060 12 GB Graphics Card Pictured",
+            "content": "The GeForce RTX 3060 Ti, unlike the existing GeForce RTX 30 products, is going to make use of a brand new Ampere GPU known as the GA106."
+        },
+        {
+            "headline": "Best Single Board Computers for AI and Deep Learning Projects",
+            "content": "The list below consists of some of the best SBCs that have been developed for edge computing. The list is in no particular order of ranking."
+        },
+        {
+            "headline": "GeForce Now is finally available on Chrome for Windows and Mac",
+            "content": "No need to download an app anymore. GeForce Now has been available for Android phones and Chromebooks for quite some time now and macOS and Windows users..."
+        },
+        {
+            "headline": "Die Shots of Nvidia's Mid-Range GA106 Ampere Core Exposed",
+            "content": "This core is believed to be the fully enabled GA106 die, with a total of 3840 CUDA cores. If true then this means the RTX 3060 mobile features the fully enabled..."
+        }
+    ],
+    "20210202": [
+        {
+            "headline": "Immersive Design Studios Delivers Legendary Interactive Virtual Experiences with NVIDIA RTX",
+            "content": "Immersive Design Studios Delivers Legendary Interactive Virtual Experiences with NVIDIA RTX. From esport tournaments to virtual seminars, Immersive Design..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 Laptop GPU Review",
+            "content": "We'll be testing two variants of the RTX 3060 mobile GPU: one with a base power rating of 80W, and another with a base power of 115W."
+        },
+        {
+            "headline": "Nvidia Turing: release date, news and features",
+            "content": "Nvidia Turing release date. All of the currently-announced Nvidia Turing GPUs are now out in the wild – from the GTX 1660 and 1660 Ti to the RTX Super cards:..."
+        },
+        {
+            "headline": "Nvidia: Arm Acquisition Will Increase Share Price By 18% (NASDAQ:NVDA)",
+            "content": "The integration with Arm's workstation GPUs and Arm's CPU for workstations could further grow by 8.2% for a total growth rate of 18.8%. Data Center: This..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3060 laptops are now available",
+            "content": "The RTX 3060 which is being formally launched today (reviews and sales) features GA106 GPU, making it the first NVIDIA product to be available with this..."
+        },
+        {
+            "headline": "Asus ROG XG Mobile Review",
+            "content": "The Asus ROG XG Mobile fits an Nvidia GeForce RTX 3080 and an expansion dock into a stylish, portable enclosure, but this external GPU doesn't boost..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 Laptop GPU in Gigabyte G5 KC delivers promising OpenCL score +8% higher than the RTX 2070 desktop graphics card",
+            "content": "A Gigabyte G5 KC gaming laptop with an Intel Core i7-10870H and Nvidia GeForce RTX 3060 Laptop GPU has been spotted on Geekbench turning out a terrific..."
+        },
+        {
+            "headline": "GeForce RTX 3060 Laptops Available Now, Starting At $999",
+            "content": "Availability of GeForce RTX 3060 laptops begins today, starting at just $999. Models from our OEM partners pack the powerful GeForce RTX 3060 Laptop GPU into..."
+        },
+        {
+            "headline": "This Nvidia RTX 3090 by Galax smashes 16 world records with epic overclock",
+            "content": "World-beating power. But reaching speeds of 3.0 GHz isn't the only record overclockers have broken using the GeForce RTX 3090 HOF. Galax announced that the RTX..."
+        },
+        {
+            "headline": "Comprehensive list of all laptops featuring the NVIDIA GeForce RTX 3060 Laptop GPU along with corresponding TGPs",
+            "content": "We offer a comprehensive list of laptops with RTX 3060 graphics cards and their TGP, Dynamic Boost and GPU Boost clock values here."
+        }
+    ],
+    "20210203": [
+        {
+            "headline": "The DMS Disaster at Mobileye and Nvidia",
+            "content": "Let us begin with a direct comparison of the DMS offerings from Seeing Machines and Nvidia by revisiting two videos, one from each supplier."
+        },
+        {
+            "headline": "GeForce RTX 3060 Ti, RTX 3080, and RTX 3090 all make strong appearances in latest Steam hardware survey as Nvidia GPUs claim 18 out of the top 20 places",
+            "content": "Nvidia looks impressively strong in the PC video card usage chart in Steam's latest monthly Hardware & Software survey. There are new entries for both the..."
+        },
+        {
+            "headline": "GeForce GTX ENERGY: Drink Up. Game On.™",
+            "content": "Improved response times. Faster input speeds. Longer, more focused gaming sessions. GeForce GTX ENERGY is the world's first energy drink designed..."
+        },
+        {
+            "headline": "ASUS ROG Strix NVIDIA GeForce RTX 3090 OC Edition Review - Page 2 of 6",
+            "content": "In our ASUS ROG Strix NVIDIA GeForce RTX 3090 OC Edition review, we see how this unit out-performs the NVIDIA-branded card for AI/DL training."
+        },
+        {
+            "headline": "GeForce RTX 3060 Vs. 3080: Is The New $329 Nvidia Card A Better Deal?",
+            "content": "The RTX 3060 is designed for budget gamers, while the RTX 3080 sits at the higher end of the spectrum below the flagship RTX 3090."
+        },
+        {
+            "headline": "Nvidia Ampere GA106 die (GeForce RTX 3060) pictured - Graphics - News",
+            "content": "The picture above shows the GA106 flanked by six memory modules of 2GB each, adding up to the 12GB total. These K4ZAF3258M-HC16 memory chips are said to be..."
+        },
+        {
+            "headline": "UK and EU to open probes into Nvidia’s $40bn acquisition of Arm",
+            "content": "Rivals to US chipmaker lobby regulators to block deal to acquire UK chip designer."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3000 series presented: Which is the right graphics card for you?",
+            "content": "The RTX 3090 is currently proving to be the fastest graphics card from Nvidia. It has over 10.000 CUDA processing units, reaches a boost clock of 1,7 GHz and..."
+        },
+        {
+            "headline": "The GALAX GeForce RTX 3090 HOF hits 3 GHz and breaks no less than 16 world records",
+            "content": "The GALAX GeForce RTX 3090 HOF was pushed from 1.8 GHz to over 3 GHz and it broke multiple benchmark records, including 3DMark Vantage Extreme, Port Royal,..."
+        },
+        {
+            "headline": "What Is Ray Tracing? Everything You Need To Know",
+            "content": "Our comprehensive look breakdown of what is ray tracing - taking a look at performance, supportive games, and graphics cards."
+        }
+    ],
+    "20210204": [
+        {
+            "headline": "Achievement Unlocked: Celebrating Year One of GeForce NOW",
+            "content": "One year ago to the day we launched GeForce NOW and all month long we'll be celebrating GFN members with a series of rewards and giveaways."
+        },
+        {
+            "headline": "The Truck Stops Here: How AI Is Creating a New Kind of Commercial Vehicle",
+            "content": "Autonomous trucks are commercial self-driving vehicles that integrate long-range, high-resolution sensors, a range of deep neural networks and..."
+        },
+        {
+            "headline": "GFN Thursday: Apex Legends Season 8, Outriders Demo, & More on GeForce NOW",
+            "content": "GFN Thursday — 30 Games Coming in February, 13 Available Today. Coming soon to GeForce NOW: Valheim, Werewolf: The Apocalypse - Earthblood, Outriders demo and..."
+        },
+        {
+            "headline": "Dishonored 2, Titanfall 2, Call of Duty: Infinite Warfare Game Ready Driver Released",
+            "content": "To experience Titanfall 2 at 4K at 60 FPS, with every setting maxed out, Respawn Entertainment is recommending gamers equip their systems with a NVIDIA..."
+        },
+        {
+            "headline": "ASUS Updates Listings To Include TGP And Clock Speeds On Laptops Featuring Nvidia GeForce RTX 30 Series Laptop GPUs",
+            "content": "The ROG Zephyrus Duo 15 SE comes equipped with 115W TGP variants of the RTX 30 Series cards. The G15 or TUF Dash F15 will offer up to 80W TGP GeForce RTX..."
+        },
+        {
+            "headline": "Nvidia GeForce Now streamed over 175 million hours in its first year",
+            "content": "Cloud gaming goes beyond just Stadia and xCloud. Nvidia's GeForce Now has been an excellent option for playing PC games in the cloud,..."
+        },
+        {
+            "headline": "Nvidia GeForce Now game streaming service lands on M1 Macs",
+            "content": "Its GeForce Now game streaming service is now available to use on M1 Macs, through the dedicated app. This has been 'translated' using Apple's Rosetta 2..."
+        }
+    ],
+    "20210205": [
+        {
+            "headline": "NVIDIA GeForce RTX 3060 Ti Founders Edition Review: Flagship 1440p Ultra and austere 4K gaming for US$400",
+            "content": "The RTX 3060 Ti's performance is in the same ballpark as an RTX 2080 Super and can be up to 32% faster than an RTX 2060 Super while trailing the RTX 3070 by..."
+        },
+        {
+            "headline": "Nvidia is making it less confusing to buy an RTX 30-series gaming laptop",
+            "content": "When RTX 30-series laptops started shipping earlier this month, Nvidia found itself in hot water over the fact that it was no longer adding “Max-Q” labels to..."
+        },
+        {
+            "headline": "Microsoft-backed Graphcore calls on UK regulator to block Nvidia’s Arm acquisition",
+            "content": "Microsoft-backed Graphcore has objected to Nvidia 's $40 billion acquisition of Arm Holdings, according to a key member of the British chipmaker's early..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3080 Laptop GPU Review",
+            "content": "The NVIDIA GeForce RTX 3080 Laptop GPU is a high-end 1440p beast. And it's as efficient as it is impressive."
+        },
+        {
+            "headline": "NVIDIA now REQUIRES laptop makers to list clocks and TGP for GeForce RTX 30 Laptop GPUs",
+            "content": "NVIDIA has confirmed that listing of clock speeds and power (TGP) is now a requirement. We're requiring OEMs to update their product pages to the Max-Q..."
+        },
+        {
+            "headline": "Change Windows 10 Graphics Settings to Solve Display Problems on Devices with Dual GPUs",
+            "content": "To change the graphics processor preference settings for an application, you need to go to Graphics settings in the Settings app."
+        },
+        {
+            "headline": "FreeSync and G-Sync: What You Need to Know",
+            "content": "Adaptive sync display technologies from Nvidia and AMD have been on the market for a few years now and gained plenty of popularity with gamers thanks to..."
+        },
+        {
+            "headline": "Best GPUs For Workstations: Viewport Performance of CATIA, SolidWorks, Siemens NX, Blender & More",
+            "content": "It's been a while since our last in-depth viewport performance look, so we're going to get up to speed with the latest drivers and software."
+        },
+        {
+            "headline": "MSI GS66 Stealth RTX 3080 gaming laptop review",
+            "content": "There's a price to pay dropping Nvidia's new RTX 3080 16GB GPU into a thin gaming laptop. And it's not just in dollar terms."
+        },
+        {
+            "headline": "ASUS updates its product pages with TGPs and clock speeds for its NVIDIA GeForce RTX 30 series laptops; ROG Zephyrus G14 has a 60 W RTX 3060",
+            "content": "The abolition of Max-Q branding has made purchasing GeForce RTX 30 series laptops complicated. The RTX 3060 offers a higher TGP than the RTX 3080 in some..."
+        }
+    ],
+    "20210206": [
+        {
+            "headline": "NVIDIA requires RTX 30 laptop makers to be transparent on specs",
+            "content": "NVIDIA now requires that laptop makers using RTX 30 graphics be transparent about their GPU specs to avoid confusion."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3080 Laptop GPU Review: Improved Performance With Mobile Ampere and Other Features",
+            "content": "Every laptop manufacturer that you can think of is currently updating, refining and redesigning their 2021 list of products around NVIDIA's new Ampere-based..."
+        },
+        {
+            "headline": "New leak says that the Nvidia GeForce RTX 3080 Ti will feature 12GB of GDDR6X VRAM and 10,240 CUDA cores",
+            "content": "The Nvidia GeForce RTX 3080 Ti is now speculated to come with 12GB of GDDR6X VRAM and 10240 CUDA cores. Its 320-bit memory interface will allow for 730Gb/s..."
+        },
+        {
+            "headline": "NVIDIA Makes It Necessary For Laptop Makers To List Down Full GeForce RTX 30 GPU Specs Including Clocks & TGPs",
+            "content": "NVIDIA has made it an official requirement for all laptop vendors to list down proper GeForce RTX 30 GPU specifications such as TGP & clocks."
+        },
+        {
+            "headline": "NVIDIA's GeForce RTX 3080 Ti with 12 GB memory expansion is considered set, as it was before the launch in 2020",
+            "content": "A GeForce RTX 3080 Ti with 20 GB memory expansion was long rumored, although the first leaks had already spoken a different language in the summer of 2020."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3090 FE - High-end graphics power at a premium price!",
+            "content": "Verdict - Big, quiet, and fast ... Nvidia's flagship, the GeForce RTX 3090, is undoubtedly one of the fastest graphics cards on the market. However, the Founders..."
+        },
+        {
+            "headline": "Chinese GPU Miners Now Rushing After NVIDIA GeForce RTX 30 Laptops, Ethereum Cryptocurrency Mining Farm Pictured",
+            "content": "NVIDIA's GeForce RTX 30 desktop graphics cards are being gobbled up by miners due to the crypto mining capabilities they have to offer."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 30 series laptop shortages likely as Ethereum hunters in China turn to mobile mining",
+            "content": "A financial blogger on Chinese social media has posted various images of Nvidia GeForce RTX 30 series laptops being used for cryptocurrency mining."
+        }
+    ],
+    "20210207": [
+        {
+            "headline": "NVIDIA GeForce RTX 3080 Ti Now Rumored To Launch in April With 12 GB GDDR6X Memory & 10240 CUDA Cores",
+            "content": "New specifications for NVIDIA's upcoming GeForce RTX 3080 Ti graphics card have emerged from Kopite7kimi. The graphics card has been in the rumors even..."
+        },
+        {
+            "headline": "Nvidia RTX 3080 Ti GPU could arrive in April with 12GB VRAM",
+            "content": "Nvidia RTX 3080 Ti GPU could arrive in April with 12GB VRAM ... When you purchase through links on our site, we may earn an affiliate commission. Here's how it..."
+        },
+        {
+            "headline": "NVIDIA's DLSS 2.0 can be easily integrated into Unreal Engine 4.26, provides huge performance gains",
+            "content": "As you may already know by now, NVIDIA's DLSS (Deep Learning Super Sampling) is an AI rendering technology that takes the visual fidelity to a whole new..."
+        },
+        {
+            "headline": "NVIDIA requires listing of RTX 30-series laptop chip specs",
+            "content": "NVIDIA is finally putting a requirement for laptop manufacturers to list out the specs of the new RTX 30-series GPUs found in the latest slew of laptops."
+        },
+        {
+            "headline": "Hitman 3 Performance Analysis",
+            "content": "Just like previous games in the Hitman series, the latest instalment encourages creativity and exploration. Our peformance analysis reveals the system..."
+        },
+        {
+            "headline": "Tehran Faces Power Outages Due To Massive Crypto Mining Operations Consuming Up To 450 Megawatts, That Much Power Can Power A City Of 100K People",
+            "content": "In Iran, authorities investigated the cause of power outages and found out the root cause was GPU mining farms taking huge amounts of power."
+        }
+    ],
+    "20210208": [
+        {
+            "headline": "Startup Couples AI with OR Video to Sharpen Surgeon Performance, Improve Patient Outcomes",
+            "content": "Theator wants to stop surgeries before any mistakes. And it's doing this by analyzing video taken of surgeries being performed all over the world."
+        },
+        {
+            "headline": "Nvidia RTX 30-Series GPU Availability to Worsen in Q1: Report",
+            "content": "Nvidia is having trouble sourcing the resources for its RTX 3000 cards, which will lead to terrible Q1 availability."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3060 12 GB Graphics Card Officially Launches on 25th February, $329 US Starting Price For Mainstream Ampere",
+            "content": "NVIDIA's GeForce RTX 3060 12 GB graphics card is officially going to launch on the 25th of February for a starting price of $329.99 US."
+        },
+        {
+            "headline": "Nvidia's RTX 3060 12GB looks set to launch on February 25",
+            "content": "A launch date for the Nvidia GeForce RTX 3060 has surfaced, and it looks like the 12GB GDDR6 GPU will be hitting us later this month."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3060 to launch on February 25th",
+            "content": "NVIDIA reportedly will launch its GeForce RTX 3060 graphics card on February 25th. The graphics card is the first GA106 based model with 3584 CUDA cores..."
+        },
+        {
+            "headline": "Nvidia Shield TV (2019) Review",
+            "content": "The Nvidia Shield TV 2019 offers seamless game-streaming, fast-loading 4K HDR content and ambitious AI upscaling for 1080p video."
+        },
+        {
+            "headline": "Which motherboards are compatible with NVIDIA GeForce GTX 1660 Ti?",
+            "content": "As long as you have a full-sized PCIe 3.0 slot available then whatever motherboard you choose will be fine, whether it's AMD or Intel."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 likely to be launched on February 25",
+            "content": "A new report from Wccftech speculates that the Nvidia GeForce RTX 3060 will be launched in February 26. Some of its key features include a GA-106-200 GPU,..."
+        },
+        {
+            "headline": "Nvidia RTX 30 laptop product pages become more informative - Graphics - News",
+            "content": "Nvidia announced its GeForce RTX 30 series laptop GPUs at CES 2021. I added a summary of the new offerings in a table inserted at the end of my Asus laptop..."
+        },
+        {
+            "headline": "AMD Radeon RX 6800 vs. NVIDIA RTX 30 Linux Performance Heating Up Review",
+            "content": "F1 2017 as the latest in the F1 franchise with a native Linux (Vulkan powered) port, the Radeon RX 6800 series was competing with the GeForce RTX 3080. Back in..."
+        }
+    ],
+    "20210209": [
+        {
+            "headline": "NVIDIA GeForce RTX 3060 Being Sold in Pakistan Weeks Before Launch, Priced at an Outrageous $750 US By Official Dealers",
+            "content": "NVIDIA's GeForce RTX 3060 is being sold by official distributors of Palit graphics cards in Pakistan for an outrageous price of $750 US."
+        },
+        {
+            "headline": "Nvidia RTX 3060 goes on sale as retailer apparently jumps the gun",
+            "content": "The GPU has been spotted in store ahead of rumored February release."
+        },
+        {
+            "headline": "How Nvidia's Making It Easier To Buy RTX 30-Series Gaming Laptops",
+            "content": "When it comes to Nvidia's RTX 30-series, there are plenty of options to choose from, but the decision gets even harder when buying a gaming laptop."
+        },
+        {
+            "headline": "Report: Nvidia RTX 3060 release date reported for February 25th",
+            "content": "A new report suggests the release date of the Nvidia RTX 3060 graphics card will be February 25th."
+        },
+        {
+            "headline": "Which motherboards are compatible with NVIDIA GeForce GTX 1080 Ti?",
+            "content": "As long as you have a full-sized PCIe 3.0 x16 slot available then your motherboard will be fine whether it's AMD or Intel. In both cases, ASUS has a great..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 12GB rumoured to launch 25th Feb - Graphics - News",
+            "content": "Last month HEXUS reported upon the approximate release date of the Nvidia GeForce RTX 3060 12GB. At the time we heard that the upcoming graphics card model..."
+        },
+        {
+            "headline": "Hundreds of NVIDIA GeForce RTX 30 gaming laptops spotted in a mining farm",
+            "content": "A cryptocurrency mining farm in China has uploaded a video showing hundreds of laptops from this brand already deployed or about to be deployed in the mining..."
+        },
+        {
+            "headline": "Retailer warns of worsening NVIDIA GeForce RTX 30 series stock levels amid further price rises",
+            "content": "According to a major European retailer, the NVIDIA GeForce RTX 30 series will become even harder to purchase between now and April. Prices of NVIDIA's..."
+        },
+        {
+            "headline": "AMD RDNA 3 Navi 31 160 CU MCM internal performance target to be 2.5x RDNA 2 Radeon RX 6900 XT, Navi 33 will still be monolithic; NVIDIA Lovelace has RDNA 3 and Intel Xe firmly in sight",
+            "content": "AMD seems to be internally looking at a 2.5x performance increase for RDNA 3 compared to RDNA 2, flagship-to-flagship."
+        },
+        {
+            "headline": "Nintendo Switch gets (unofficial) Android 10 support via LineageOS 17.1",
+            "content": "Thanks to the SwitchRoot team, Android 10-based LineageOS 17.1 can now be easily installed on the Nintendo Switch console. In the past, this popular game..."
+        }
+    ],
+    "20210210": [
+        {
+            "headline": "Nvidia’s US$40 billion deal to buy Arm is all but dead – it’s a classic example of geopolitics killing innovation",
+            "content": "US tech giant Nvidia's takeover of British chip designer Arm for US$40 billion (£29 billion) would have sailed through without registering beyond the computing..."
+        },
+        {
+            "headline": "NVIDIA is now resupplying 4-year old GeForce GTX 1050 Ti Pascal GPUs to AIBs",
+            "content": "NVIDIA re(launching/stocking) GeForce GTX 1050 Ti. The GTX 1050 Ti series had launched on October 25th, 2016. More than 4 years later, NVIDIA has decided to..."
+        },
+        {
+            "headline": "Alienware Aurora gaming desktops now come with Nvidia RTX 3080 and RTX 3090 GPUs",
+            "content": "Laptops with incredible 360Hz refresh rates also coming."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 release date, price, performance and more",
+            "content": "The GeForce RTX 3060 was launched February 25, 2021. It's available to buy right now, thought low stock haven't made that easy, so check our buying guide for..."
+        },
+        {
+            "headline": "NVIDIA Ampere RTX 30 Laptop GPUs: TGP woes apart, OEMs may also decide boost clocks on their own",
+            "content": "When it comes to NVIDIA's Ampere laptop GPUs, variation in TGPs is just one conundrum. Apparently, NVIDIA is keeping mum on Dynamic Boost 2.0 clocks due to..."
+        },
+        {
+            "headline": "NVDA: Why Broadcom is a Better Semiconductor Play than NVIDIA",
+            "content": "NVIDIA Corporation (NVDA) and Broadcom Inc. (AVGO), two of the world's prominent chip makers, generated hefty returns for investors last year. However, we..."
+        },
+        {
+            "headline": "Nvidia GTX 1050 Ti goes from end of life to best seller in months",
+            "content": "The GTX 1050 Ti is officially returning to meet market demand, which we all know is through the roof right now."
+        },
+        {
+            "headline": "NVIDIA and HP Labs showcase GVDB sample app for 3D printing",
+            "content": "On May 8, just as the 2017 NVIDIA GPU Technology Conference (GTC) was kicking off, a notice popped up in the NVIDIA DesignWorks forum."
+        },
+        {
+            "headline": "Nvidia RTX 3080 is about to get EVEN harder to find - here's why",
+            "content": "How deep can the stock crisis get surrounding Nvidia GeForce RTX 3080 GPUs? A never-ending cycle of updates, sightings, and price hikes."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3060: An official distributor is already selling the GA106 graphics card for over 2x its MSRP",
+            "content": "The NVIDIA GeForce RTX 3060 is already available to purchase through official channels and at more than double its MSRP. NVIDIA's first GA106 card will be..."
+        }
+    ],
+    "20210211": [
+        {
+            "headline": "Fetching AI Data: Researchers Get Leg Up on Teaching Dogs New Tricks with NVIDIA Jetson",
+            "content": "Researchers Jason Stock and Tom Cavey built an NVIDIA Jetson-based AI system to recognize and reward dogs for responding to commands."
+        },
+        {
+            "headline": "Nvidia is bringing back old RTX 2060 and GTX 1050 Ti GPUs to deal with global chip shortage",
+            "content": "Nvidia has confirmed that it's releasing older GPUs like the RTX 2060 and GTX 1050 Ti to its board partner manufacturers in an attempt to help satisfy the..."
+        },
+        {
+            "headline": "Confirmed: Nvidia taps the GTX 1050 Ti to battle graphics card shortages",
+            "content": "Confirmed: Nvidia taps the GTX 1050 Ti to battle graphics card shortages. We explain why it's a smart move. ... The rumors are true: Nvidia is supplementing the..."
+        },
+        {
+            "headline": "Crypto Mining Farm Spotted Using Nvidia RTX 30 Gaming Laptops: Report",
+            "content": "Images have surfaced on Twitter reportedly showing a crypto-mining operation using laptops fitted with high-end Nvidia RTX 30-series graphics cards."
+        },
+        {
+            "headline": "Unreal Engine Gets NVIDIA DLSS Plugin",
+            "content": "Epic Games released an NVIDIA DLSS plugin allowing users to implement a deep learning neural network that uses the power of the NVIDIA RTX Tensor Cores."
+        },
+        {
+            "headline": "GFN Thursday Shines Ray-Traced Spotlight on Sweet Six-Pack of RTX Games",
+            "content": "GFN Thursday is the new official beginning of the weekend. New games, plus six great titles Founders can play with RTX ON."
+        },
+        {
+            "headline": "Nvidia GeForce GTX 1050 Ti GPUs are being resupplied to board partners",
+            "content": "Nvidia is resupplying AiBs with GeForce GTX 1050 Ti GPUs and some retailers have begun re-stocking them to help meet demand for entry-level graphics cards."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 laptops from Hasee snapped up by the hundreds for a single crypto mining farm in China as business booms",
+            "content": "New images and a video of Nvidia GeForce RTX 3060 gaming laptops being used for cryptocurrency mining have been shared on Chinese social media."
+        },
+        {
+            "headline": "ASUS ROG Strix GA35 and Strix GT35 gaming desktops with NVIDIA GeForce RTX 3080 GPU launched in India",
+            "content": "ASUS has launched two new gaming focused ROG Strix desktops for Indian consumers, called the Strix GA35 and Strix GT35."
+        },
+        {
+            "headline": "A Capital Calculator: Upstart Credits AI with Advancing Loans",
+            "content": "AI models from Upstart approved more than 620000 personal loans so far for a total $7.8 billion at interest rates 16 percent below average."
+        }
+    ],
+    "20210212": [
+        {
+            "headline": "NVIDIA’s GeForce RTX 3060 Gets a Release Date: February 25th",
+            "content": "The mainstream(ish) video card, previously revealed at CES 2021 with a late February release date, has now been locked in for a launch on February 25 th , with..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3060 Launches February 25 At $329 USD",
+            "content": "NVIDIA GeForce RTX 3060 Launches February 25 At $329 USD We first had official confirmation of the RTX 3060 (non-Ti) from NVIDIA at their RTX Game On event."
+        },
+        {
+            "headline": "Nvidia RTX 3060 GPU Will be Released in Late February for $329",
+            "content": "Nvidia's considerably more affordable RTX 3060 GPU finally has a hard release date."
+        },
+        {
+            "headline": "NVIDIA brings back the GTX 1050 Ti to mitigate the global GPU shortage",
+            "content": "NVIDIA's relatively ancient GTX 1050 Ti GPU is coming back due to an acute shortage of graphics chips."
+        },
+        {
+            "headline": "Nvidia turns to the RTX 2060 and GTX 1050 Ti as GPU shortages bite",
+            "content": "PCWorld's Brad Chacos spoke to an Nvidia spokesperson via email about the rumors that it would be reviving GPUs from older generations and releasing them to..."
+        },
+        {
+            "headline": "NVIDIA hopes to stabilize GPU shortages by releasing stocks of RTX 2060, GTX 1050 Ti",
+            "content": "NVIDIA has now reportedly planned to address the increased demand of its RTX 30-series graphics cards by releasing stock of its older GPUs to board partners."
+        },
+        {
+            "headline": "Nvidia Opens the Door for More PC Games to Use Frame-Rate Boosting DLSS Tech",
+            "content": "Nvidia originally limited the technology to a select group of game developers. But on Friday, the company made the DLSS support open to all developers on..."
+        },
+        {
+            "headline": "NVIDIA confirms GeForce RTX 3060 launches on February 25th",
+            "content": "NVIDIA has now confirmed to the press that its next graphics card from the Ampere series will launch in more than two weeks, on February 25th."
+        },
+        {
+            "headline": "DLSS is going mainstream: NVIDIA's DLSS 2.0 tech is now available as a plugin on the Unreal marketplace",
+            "content": "NVIDIA recently launched a DLSS plugin on the Unreal Marketplace, potentially kicking off widespread adoption of its AI-based upscaling technology."
+        },
+        {
+            "headline": "Unreal Engine 4 Will Now be Able to Support Nvidia's DLSS Natively",
+            "content": "Nvidia says it will be bringing DLSS (Deep Learning Super Sampling) support to the Unreal Engine 4 for better upscaling with no loss of frame rates."
+        }
+    ],
+    "20210213": [
+        {
+            "headline": "Nvidia RTX 3000 Graphics Card Scarcity Problem Will Get Worse",
+            "content": "2021 is supposed to usher in a new era for PC gamers, or at least that's the conclusion one would come to as Nvidia continues to introduce new graphics..."
+        },
+        {
+            "headline": "Over 14,000 NVIDIA GPUs Have Been Sold On eBay This Year Alone And The Resale Price Is Going Up As Time Goes On",
+            "content": "Over 14000 sales of NVIDIA GPUs have happened this year on eBay and the resale price keeps risings with outside factors affecting supply."
+        },
+        {
+            "headline": "NVIDIA confirms that the GeForce RTX 3060 will launch on February 25; MSRP remains at US$329",
+            "content": "NVIDIA has formally announced that the GeForce RTX 3060 will arrive on February 25, following confirmation from various sources. The GA106 card is slated to..."
+        },
+        {
+            "headline": "How To Open Nvidia Control Panel (& What To Do If It's Disappeared)",
+            "content": "Users can launch the app by clicking on its icon in the system tray or, if that's not visible, right-clicking the desktop and selecting the Nvidia Control..."
+        },
+        {
+            "headline": "Qualcomm stands firmly against Nvidia's acquisition of Arm",
+            "content": "Qualcomm has expressly stated that it believes the only way Nvidia could fully capitalize on the deal would require them gating-off ARM technology in one way..."
+        },
+        {
+            "headline": "‘NVIDIA’s Cambridge-1 supercomputer will be a force for life sciences’",
+            "content": "The supercomputer will be focused on health and life sciences, in collaboration with GSK and AstraZeneca and others including NHS organisations."
+        },
+        {
+            "headline": "Qualcomm, Microsoft, Google oppose Nvidia’s acquisition of Arm Ltd",
+            "content": "A group of tech giants including Qualcomm, Microsoft and Google have reportedly informed regulators around the world that they are against Nvidia's acquisition..."
+        }
+    ],
+    "20210214": [
+        {
+            "headline": "Retailers In Europe Hike Prices Of The Upcoming NVIDIA RTX 3060 Up To $853",
+            "content": "NVIDIA's upcoming RTX 3060 was an excellent value proposition. With 3584 CUDA cores, its performance was firmly positioned between the RTX 2080 and RTX 2080..."
+        },
+        {
+            "headline": "Nvidia RTX 3060 release date revealed -- here's when you can buy it",
+            "content": "Nvidia has announced that its entry-level RTX 3060 graphics card will go on sale on Thursday, February 25,, confirming an earlier rumor."
+        },
+        {
+            "headline": "Retailers already increasing pricing on GeForce RTX 3060 before it is even released",
+            "content": "European retailers are now listing GeForce RTX 3060 graphics cards at 490 EUR. Retailers offering GeForce RTX 30 graphics cards have now significantly..."
+        }
+    ],
+    "20210215": [
+        {
+            "headline": "Nvidia RTX 3070 vs 3080: how much faster is Nvidia's flagship GPU?",
+            "content": "The RTX 3080 was a good 20fps in front of the RTX 3070, although some games such as Assassin's Creed Valhalla and Final Fantasy XV saw this gap narrow to just..."
+        },
+        {
+            "headline": "Nvidia RTX 3060 prices are spiralling upwards – and the GPU isn’t even out yet",
+            "content": "Nvidia's incoming RTX 3060 graphics card, which goes on sale later in February, is seeing its prices hiked even while the GPU is waiting in the wings,..."
+        },
+        {
+            "headline": "NVIDIA’s GeForce RTX 3060 is being listed at inflated prices by retailers, even before its release",
+            "content": "The company had announced the GPU with a price tag of just $329, marking it as one of the bargain options because of the value it would bring at that low price."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 prices hiked as high as €699.90 (US$849) before February 25 launch as gamers blame crypto miners for retailer gouging tactics",
+            "content": "There have been reports of computer part retailers in Europe hiking prices of GeForce RTX 3060 AIB boards before the graphics card is even launched."
+        },
+        {
+            "headline": "NVIDIA Reveals More GeForce RTX 3060 Specs Ahead Of Feb 25 Debut",
+            "content": "The GeForce RTX 3060 will have just 3584 CUDA Cores compared to 4864 for its Ti counterpart. The GeForce RTX 3060 has a lower base clock (1320 MHz versus 1410..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 set to launch on Feb 25; native DLSS support out for Unreal Engine 4",
+            "content": "Nvidia GeForce RTX 3060 GPU launch date, specifications, features, AIB cards, price in India, VRAM, graphics cards. Check out the latest on video games,..."
+        },
+        {
+            "headline": "Google, Microsoft, Qualcomm Protest Nvidia’s Acquisition of Arm Ltd.",
+            "content": "Google, Microsoft, Qualcomm Protest Nvidia's Acquisition of Arm Ltd. - The acquisition would give Nvidia control over a critical supplier that licenses..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 12GB release date confirmed - Graphics - News",
+            "content": "From 9am PT (5pm GMT) on Thursday 25th February, retailers will be allowed to sell the newest Ampere consumer graphics card."
+        },
+        {
+            "headline": "Opinion: Why NVIDIA removed Max-Q distinction and why I think it’s better",
+            "content": "By removing the Max-P and Max-Q distinction, laptop manufacturers have total granularity to maximize all of the available power for performance and tune it up..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 12GB releases on 25th Feb",
+            "content": "We saw the Nvidia GeForce RTX 3060 12GB launched in early January at the CES 2021. At the time Nvidia touted a rough release date of the end of February."
+        }
+    ],
+    "20210216": [
+        {
+            "headline": "Field Notes: Streaming VR to Wireless Headsets Using NVIDIA CloudXR",
+            "content": "In this blog post, we show you how to stream a full-fidelity VR experience from a computer on AWS to a wireless headset such as the Quest."
+        },
+        {
+            "headline": "The Nvidia RTX 3070 Ti might actually release after cancellation rumor",
+            "content": "The Nvidia GeForce RTX 3070 Ti has surfaced in rumors occasionally since the launch of Ampere in September 2020, but the mid-range graphics card may have got..."
+        },
+        {
+            "headline": "How to optimize NVIDIA GeForce Now settings for best performance",
+            "content": "NVIDIA GeForce Now brings high-quality PC gaming to any PC using the power of the cloud. While you don't need to spend time running benchmarks and adjusting..."
+        },
+        {
+            "headline": "Why There's Suddenly More Stock Of Older Nvidia RTX & GTX GPUs",
+            "content": "Nvidia is bringing popular older GPUs to market in larger quantities in the hope it helps alleviate newer RTX 30 graphics card stock shortages."
+        },
+        {
+            "headline": "HWiNFO Will Soon Sense Peak 'Hotspot' Temp of Nvidia GPUs",
+            "content": "The temperature and sensor monitoring program's next beta will come with a feature to monitor the Hotspot temperature of Nvidia GPUs."
+        },
+        {
+            "headline": "Nvidia reveals more RTX 3060 specs ahead of next week's release",
+            "content": "Nvidia has been pretty tight-lipped about the RTX 3060's full specs since it was announced at CES in January. We heard earlier this week that the card..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 prices surge before release — this is madness",
+            "content": "Some RTX 3060 cards are listed at up to 50% above the MSRP. European retailer ProShop, for instance, is selling the graphics card for €499, not the MSRP of €..."
+        },
+        {
+            "headline": "ET Deals: Dell Alienware Aurora R11 Intel Core i7 and Nvidia RTX 3070 Gaming Desktop for $1,799",
+            "content": "You can get a Dell Alienware gaming desktop that's marked down $over $300 and comes equipped with a powerful Intel Core i7 processor and an Nvidia RTX 3070..."
+        },
+        {
+            "headline": "The NVIDIA GeForce RTX 3070 Ti with 16 GB GDDR6 VRAM appears in a retailer listing",
+            "content": "News about the RTX 3070 Ti has been quiet in recent weeks, with FinalWire adding support for the card to AIDA64 Extreme in December."
+        },
+        {
+            "headline": "PS5 and Xbox Series X Ray-Tracing Tech More Flexible Than Nvidia RTX 30 Series – 4A Games",
+            "content": "PS5 and Xbox Series X Ray-Tracing Tech More Flexible Than Nvidia RTX 30 Series – 4A Games · 4A Games CTO Oleksandr Shyshkovtsov says that though Nvidia's ray-..."
+        }
+    ],
+    "20210217": [
+        {
+            "headline": "NVIDIA GeForce RTX 3080 tested in fanless mode",
+            "content": "We have a first look at GeForce RTX 3080 graphics card performing under a full load without fans. It wouldn't be correct to say that this is the first RTX 3080..."
+        },
+        {
+            "headline": "Microsoft and Google Dispute Nvidia Arm Acquisition",
+            "content": "Tech giants Microsoft and Google object to Nvidia's acquisition of microchip designer Arm, and call upon the FTC to block the sale."
+        },
+        {
+            "headline": "HWiNFO monitor to expose Nvidia GPU hotspot temperatures",
+            "content": "AMD RDNA 2 GPUs are already monitorable in this way, with older versions of HWiNFO sharing the hotspot temperature, which can be 12 to 20°C hotter than other..."
+        },
+        {
+            "headline": "Check out this RTX 3080 rig with absolutely no active cooling",
+            "content": "The Nvidia GeForce RTX 3080, no matter how hard it is to find right now, is an incredible graphics card – even if it requires a ton of power and cooling to..."
+        },
+        {
+            "headline": "Alleged NVIDIA GeForce RTX 3070 Ti Appears In Lenovo Pre-Built PC",
+            "content": "NVIDIA's GeForce RTX 3060 desktop graphics card has yet to make its official debut, yet the rumour mill still churns and leaks continue to spring forth..."
+        }
+    ],
+    "20210218": [
+        {
+            "headline": "GeForce Is Made for Gaming, CMP Is Made to Mine",
+            "content": "We're limiting the hash rate of GeForce RTX 3060 GPUs so they're less desirable to miners and launching NVIDIA CMP for professional mining."
+        },
+        {
+            "headline": "Nvidia limits crypto-mining on new graphics card",
+            "content": "Nvidia's latest graphics card will deliberately slow down if used to mine a popular crypto-currency."
+        },
+        {
+            "headline": "NVIDIA Announces CMP 30HX, 40HX, 50HX and 90HX GPUs For Mining, Cripples Hash Rate Of RTX 3060",
+            "content": "NVIDIA is announcing a total of 4 CMP (GPUs?) out of which two, the NVIDIA CMP 30HX and 40HX will launch in Q1 and CMP 50HX and 90HX will launch in Q2."
+        },
+        {
+            "headline": "Nvidia launches CMP, cryptocurrency mining processor, may alleviate gaming chip shortages",
+            "content": "Nvidia has seen gaming GPU shortages because the processors were being used to mine cryptocurrency. Now Nvidia is giving miners what they want with Nvidia..."
+        },
+        {
+            "headline": "NVIDIA Nerfs Ethereum Hash Rate & Launches CMP Dedicated Mining Hardware",
+            "content": "RTX 3060: Halving the Mining Rate. One of the key drivers as to why the new graphics cards are being sold is because they are so good at doing the mining..."
+        },
+        {
+            "headline": "AMD RX 6700 XT could arrive in March to challenge Nvidia’s mid-range GPUs",
+            "content": "AMD's Radeon RX 6700 XT could arrive on March 18 according to the latest from the rumor mill regarding the supposedly inbound graphics card."
+        },
+        {
+            "headline": "New editions of the AMD Radeon RX 6800 and NVIDIA GeForce RTX 3060 emerge with 8 GB of VRAM",
+            "content": "AMD and NVIDIA may have new 8 GB cards on the way, albeit versions of ones that they have already released. For one reason or another, an NVIDIA board..."
+        },
+        {
+            "headline": "NVIDIA's new drivers detect GPU crypto mining, punish hash rate by 50%",
+            "content": "NVIDIA's new GeForce RTX 3060 driver will limit cryptocurrency mining performance, will drag hash rates down by a huge 50%."
+        },
+        {
+            "headline": "NVIDIA announces Crypto Mining Processor series, GeForce RTX 3060 driver will limit mining performance",
+            "content": "NVIDIA announces Crypto Mining Processor (CMP) HX series · KEY FEATURES Designed for professional mining operations · Optimized for best mining performance"
+        },
+        {
+            "headline": "The Sky’s No Longer the Limit: GFN Thursday Celebrates Indie Breakthroughs — Valheim, Terraria and More",
+            "content": "Eleven new game releases, Mount & Blade II Bannerlord DLSS update and Worms Rumble free weekend round out GFN Thursday updates."
+        }
+    ],
+    "20210219": [
+        {
+            "headline": "Autodesk 3ds Max Connector Now Available on NVIDIA Omniverse",
+            "content": "NVIDIA Omniverse users can now use the Autodesk 3ds Max Connector, a leading software application for 3D modeling, animation and rendering."
+        },
+        {
+            "headline": "Why NVIDIA Stock Can Zoom Higher This Earnings Season",
+            "content": "The graphics card specialist is going into its fiscal 2021 Q4 earnings report with impressive catalysts."
+        },
+        {
+            "headline": "Nvidia Limits RTX 3060 Crypto Speeds, Tells Miners to Buy New CMP Cards",
+            "content": "If you're looking to mine cryptocurrency with midrange cards, Nvidia would really rather you bought one of its new CMPs, not a GPU."
+        },
+        {
+            "headline": "Nvidia says its cryptocurrency mining limiter 'cannot be hacked'",
+            "content": "Nvidia says its cryptocurrency mining limiter 'cannot be hacked' ... Nvidia says its Ethereum mining limiter requires a secure handshake between drivers, GPU, and..."
+        },
+        {
+            "headline": "Nvidia plans Cryptocurrency Mining Processor for Ethereum, will artificially limit mining capabilities of upcoming GPUs",
+            "content": "GPU giant Nvidia plans to release a processor designed for mining cryptocurrency Ethereum, and will put artificial limits on how effective its future GPUs are..."
+        },
+        {
+            "headline": "Nvidia says it will not limit the mining performance of GPUs already sold",
+            "content": "Yesterday brought news that the new release drivers for the RTX 3060, which arrives on February 25, can detect \"specific attributes of the Ethereum..."
+        },
+        {
+            "headline": "Nvidia to Launch GPUs Specifically for Mining, Feature No Video Outputs",
+            "content": "Nvidia has announced that it will be launching a new range of graphics cards that will be used just for mining."
+        },
+        {
+            "headline": "Watch NVIDIA's GeForce RTX 3060 Crypto Mining Hash Rate Nerfing In Real-Time",
+            "content": "The GeForce RTX 3060 appears to be the first GPU from NVIDIA with this crypto mining detection integrated into the BIOS."
+        },
+        {
+            "headline": "Tutorial: Install Kubernetes and Kubeflow on a GPU Host with NVIDIA DeepOps",
+            "content": "In this post, we go through the installation process of Kubeflow, an open source machine learning platform that takes advantage of Kubernetes capabilities."
+        },
+        {
+            "headline": "NVIDIA nerfs GeForce RTX 3060’s mining — announces NVIDIA CMP for miners",
+            "content": "NVIDIA announces NVIDIA CMP for miners, while also nerfing the mining performance of the GeForce RTX 3060 cards via drivers."
+        }
+    ],
+    "20210220": [
+        {
+            "headline": "Nvidia really needs to refresh its entire Ampere graphics card lineup",
+            "content": "Opinion: Whether it's Super cards or not, we need new Nvidia GPUs."
+        },
+        {
+            "headline": "Nvidia RTX 3080 stock disaster — here’s why there’s finally hope",
+            "content": "Continues the Nvidia GeForce RTX 30-series stock disaster: retailers are near-constantly sold out, resellers hawk the cards at ludicrously inflated prices."
+        }
+    ],
+    "20210221": [
+        {
+            "headline": "NVIDIA explains 50% crypto mining hash rate drop on GeForce RTX 3060",
+            "content": "NVIDIA discusses crypto mining crippling on GeForce RTX 3060, and it's not just a driver limit -- it's much more than that."
+        },
+        {
+            "headline": "How to Set Up Three Monitors with Nvidia Surround on iRacing?",
+            "content": "Go to the Nvidia Control Panel · Then, check Span displays with Surround and select Configure. · Now, you can select your Resolution, Bezel Correction and..."
+        }
+    ],
+    "20210222": [
+        {
+            "headline": "Nvidia announces official “anti-cryptomining” software drivers",
+            "content": "RTX 3060 software drivers are designed to detect specific attributes of the Ethereum cryptocurrency mining algorithm, and limit the hash rate."
+        },
+        {
+            "headline": "Nvidia RTX A6000 review",
+            "content": "In terms of performance, the Nvidia RTX A6000 delivered a phenomenal 53 frames per second (FPS) for an incredibly smooth experience. This is around 1.39 times..."
+        },
+        {
+            "headline": "Nvidia Earnings: What Happened With NVDA",
+            "content": "Nvidia's data center revenue grew just 1.7% for all of FY 2020, declining in each of the first three quarters of the year before rising 42.6% in Q4 FY 2020."
+        },
+        {
+            "headline": "Nvidia RTX 3060 GPU could somehow end up pricier than the RTX 3060 Ti",
+            "content": "Nvidia's GeForce RTX 3060 graphics card is out later this week on February 25, but we've just caught another glimpse of purported pricing – and it's not..."
+        },
+        {
+            "headline": "Nvidia (NASDAQ:NVDA): The Post-COVID Outlook",
+            "content": "Summary · Nvidia's strong product portfolio has turned a negative COVID macro into an over 50% revenue growth in 2020. · RTX 3000 family becomes mainstream in..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3080 review: welcome to the next level",
+            "content": "We can share a more complete picture of RTX 3080 performance, all the way from 1080p and 1440p to 4K in a much wider range of titles."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3060 is 19% faster than RTX 2060 in Ashes of the Singularity",
+            "content": "With an average score of 6700 points, the Ampere-based GeForce RTX 3060 is 19% faster than its predecessor, the RTX 2060. The graphics card is actually even..."
+        },
+        {
+            "headline": "Asus ROG Strix G15 G513QR laptop review: AMD and Nvidia combined",
+            "content": "The Asus ROG Strix G15 is one of the latest gaming laptops equipped with an RTX 3000 GPU and a Ryzen 5000 CPU."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 graphics cards appear on Belarusian online marketplace before official launch for the equivalent of over US$1,000 each",
+            "content": "Three Nvidia GeForce RTX 3060 cards have appeared for sale on a Belarusian online marketplace days before the boards are officially launched."
+        },
+        {
+            "headline": "AMD Radeon RX 6700XT 12GB vs. NVIDIA RTX 3060 12GB - Why DLSS is so important for NVIDIA | Performance Prediction and Update",
+            "content": "The RX 6700XT is clearly more powerful than the new Ampere card, even in the reference design with the pure rasterization, and the RX 5700XT is then EOL."
+        }
+    ],
+    "20210223": [
+        {
+            "headline": "NVIDIA DLSS Available Now In Nioh 2 - The Complete Edition and Mount & Blade II: Bannerlord. Plus, Unreal Engine 4 DLSS Plugin Released",
+            "content": "To bring DLSS to more games and gamers, we have recently released NVIDIA DLSS as a free plugin via the Unreal Engine marketplace. Once enabled, your players can..."
+        },
+        {
+            "headline": "Nvidia RTX 3060 cards are listed with 8GB as well as 6GB configs",
+            "content": "Nvidia RTX 3060 cards are listed with 8GB as well as 6GB configs ... Palit and Gainward are working on lower-spec versions of Nvidia's latest mainstream graphics..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3060 Graphics Card On Par With A RTX 2070 SUPER In Leaked Ashes of The Singularity Benchmark, 19% Faster Than RTX 2060",
+            "content": "The graphics card is up to 19% faster than its predecessor and up to 9% faster than the RTX 2070. This should put it on par with the GeForce RTX 2070 SUPER. The..."
+        },
+        {
+            "headline": "Gigabyte Launches EPYC Server With 4 Nvidia A100",
+            "content": "The G262-ZR0 machine is one of the industry's first servers with four Nvidia A100 compute GPUs. The 2U system will be cheaper when compared to Gigabyte's and..."
+        },
+        {
+            "headline": "NVDA: Is The Semiconductor Shortage Bullish Or Bearish For Intel And NVIDIA?",
+            "content": "There's a semiconductor chip shortage due to a combination of strong demand and supply tightness. Andy Hecht breaks down whether this circumstance is bullish..."
+        },
+        {
+            "headline": "Graphics Card Comparison - Head 2 Head",
+            "content": "The Intel Xe Graphics G7 (Tiger-Lake U GPU with 96 EUs) is a integrated graphics card in the high end Tiger-Lake U CPUs (15 - 28 Watt)."
+        },
+        {
+            "headline": "MSI GeForce RTX 3060 GAMING X PCB with NVIDIA Ampere GA106 GPU pictured",
+            "content": "The RTX 3060 GAMING X is a full custom model with factory-overclocking at 1837 MHz (+60 MHz). In comparison to GAMING X TRIO, this SKU is slightly slower (-15..."
+        },
+        {
+            "headline": "Feelin’ Like a Million MBUX: AI Cockpit Featured in Popular Mercedes-Benz C-Class",
+            "content": "With the redesigned C-Class, the NVIDIA-powered AI cockpit is now in Mercedes-Benz' most popular model in the mid-size sedan segment."
+        },
+        {
+            "headline": "Nioh 2 and Mount & Blade II: Bannerlord get DLSS support",
+            "content": "The number of games that support Nvidia's performance-boosting DLSS tech has grown by two today, with Nioh 2 - The Complete Edition and Mount & Blade II:..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 variant with 6GB VRAM reportedly in the works",
+            "content": "A new leak suggests that Nvidia could launch a 6GB variant of the GeForce RTX 3060 graphics cards soon. The Palit-branded graphics card showed up on the..."
+        }
+    ],
+    "20210224": [
+        {
+            "headline": "Nvidia beats earnings expectations, but stock dips as CEO downplays crypto play",
+            "content": "Nvidia beat elevated analyst expectations for both earnings and revenue for the fourth quarter of its fiscal year, which ended in December."
+        },
+        {
+            "headline": "NVIDIA Closes Out Q4 & FY2021 With Another Round of Record Earnings",
+            "content": "NVIDIA booked just over $5B in revenue with a profit of $1457M, marking NVIDIA's first five billion dollar quarter, and setting earning records across the..."
+        },
+        {
+            "headline": "Infographic: Nvidia (NVDA) Q4 revenue up 61%; earnings beat",
+            "content": "Nvidia Corporation (NASDAQ: NVDA) Wednesday said its fourth-quarter revenues and profit increased in double-digits amid elevated demand."
+        },
+        {
+            "headline": "Here's How Much Nvidia's Executives Made in 2020 Compensation",
+            "content": "Nvidia beat analyst expectations for the fourth quarter. From $3 million to $11.5 million, here's how much the firm paid its executives in 2020."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3060 Release Time, Date and Best Tips for Ordering One",
+            "content": "NVIDIA GeForce RTX 3060 is expected to go on sale on February 25 for $329. Here are some places you can pre-order one, as well as a few tips to ensure you..."
+        },
+        {
+            "headline": "Nvidia sales surge as it struggles to keep gaming chips in stock",
+            "content": "Nvidia Corp forecast better-than-expected fiscal first-quarter revenue on Wednesday, with its flagship gaming chips expected to remain in tight supply for..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3060 3DMark and Superposition Performance leaked",
+            "content": "NVIDIA GeForce RTX 3060 Performance. An exclusive first look at Geforce RTX 3060 synthetic benchmark results. NVIDIA's first GA106 based desktop graphics card..."
+        },
+        {
+            "headline": "Pliops completes $65 million investment round led by KDT and Nvidia",
+            "content": "Pliops completes $65 million investment round led by KDT and Nvidia · The Israeli company aims to improve data center efficiency with its soon to be launched..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 2080 Ti “Mining” GPU benchmarked in several AAA PC games, shows reduced performance",
+            "content": "Recently a YouTube channel @Testing Games posted some gaming benchmarks of a used mining card, the Nvidia GeForce RTX 2080 Ti."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3060 3DMark & Superposition Synthetic Benchmarks Leak Out, On Par With RTX 2070",
+            "content": "So talking about performance numbers, the NVIDIA GeForce RTX 3060 scores 10284 points in the 3DMark Fire Strike Extreme, 5012 points in the 3DMark Fire Strike..."
+        }
+    ],
+    "20210225": [
+        {
+            "headline": "GeForce RTX 3060 Out Today",
+            "content": "For the complete lowdown on the GeForce RTX 3060's capabilities, head here. And be sure to check out reviews for the card from your favorite sites and channels..."
+        },
+        {
+            "headline": "Launching Today: NVIDIA’s GeForce RTX 3060 - Aiming For Mainstream At $329",
+            "content": "RTX 3060 cards will go on sale a bit later this morning – at 9am Pacific – with prices starting at $329."
+        },
+        {
+            "headline": "Nvidia RTX 3060 review: A fine $329 GPU, but ho-hum among the 3000 series",
+            "content": "It's a good 1080p card with 1440p room to flex, but it's not the next-gen jump in its Nvidia price category we've grown accustomed to."
+        },
+        {
+            "headline": "Nvidia’s GeForce RTX 3060 Is Fine, but Seriously, Just Splurge on the 3060 Ti",
+            "content": "The RTX 3060 is not a bad card. It gets superb 1080p and 1440p performance in the majority of games, and can hit over or close to 60 frames per second with ray..."
+        },
+        {
+            "headline": "NVIDIA GeForce RTX 3060 12 GB $329 US Graphics Card Now Official, Here’s Where To Buy!",
+            "content": "MSI GeForce RTX 3060 Gaming X Trio OC - $534.99 US · MSI GeForce RTX 3060 Gaming X OC - $514.99 US · ASUS GeForce RTX 3060 ROG STRIX OC - $509.99 US · ZOTAC..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 is a solid video card, if the price is right",
+            "content": "The EVGA card I tested delivered excellent 1080p performance at high-plus quality settings. For many games it should also excel at 1440p, even without DLSS."
+        },
+        {
+            "headline": "EVGA GeForce RTX 3060 XC Black Gaming 12G",
+            "content": "With the launch of the RTX 3060 GPU, Nvidia's \"Ampere\" sees a rare fumble."
+        },
+        {
+            "headline": "The Datacenter Is Just A Big Game For Nvidia",
+            "content": "Nvidia wants to be a much bigger player in how the datacenter is transformed into the new computer, something we talked with Huang about at length in April..."
+        },
+        {
+            "headline": "NVIDIA RTX 3060 Review: A Little Bit of Everything",
+            "content": "The RTX 3060 is a completely different GPU. This Ampere-based offering is built on the 8nm GA106 platform versus the GA104 that the RTX 3060 Ti is built on."
+        },
+        {
+            "headline": "Better Buy: NVIDIA vs. Texas Instruments",
+            "content": "Like NVIDIA, Texas Instruments is a semiconductor manufacturer. However, instead of GPUs, the company primarily designs analog chips and embedded processors. An..."
+        }
+    ],
+    "20210226": [
+        {
+            "headline": "What Is Cloud Gaming?",
+            "content": "Cloud gaming uses powerful PCs inside secure data centers to stream your favorite games over the internet, so you can play the latest games on nearly any..."
+        },
+        {
+            "headline": "The RTX 3060 Will Be the First of Nvidia’s New Graphics Cards to Get a Frame Rate Boost",
+            "content": "Those who were able to purchase one of Nvidia's new RTX 3060 graphics cards yesterday now have access to the company's long-awaited Resizable BAR support,"
+        },
+        {
+            "headline": "Download Nvidia’s Omniverse and Omniverse Create",
+            "content": "Omniverse is available as a free public beta for Windows 10 and CentOS 7/Ubuntu 18.04 Linux. It requires a current-gen Nvidia RTX GPU. You can find system..."
+        },
+        {
+            "headline": "NVIDIA’s Resizable BAR rolls out with support for new AMD and Intel processors",
+            "content": "NVIDIA has confirmed more details around the launch of Resizable BAR that enable the GPU memory to have direct access to the CPU."
+        },
+        {
+            "headline": "Nvidia RTX 3060 GPU comes with bonus tech that’ll make some games run faster",
+            "content": "Nvidia has introduced support for resizable BAR, which delivers a nice frame rate boost in some games, with its just-launched GeForce RTX 3060 graphics card."
+        },
+        {
+            "headline": "NVIDIA DLSS takes Virtual Production to the next level by Jose Antunes - ProVideo Coalition",
+            "content": "Deep Learning Super Sampling is an asset for the content creation industry, as it allows to enhance all kinds of workflows including virtual production,..."
+        },
+        {
+            "headline": "PNY Lists Mini-ITX GeForce RTX 3060 With an Incredibly Long Name",
+            "content": "Not a lot of companies have announced Mini-ITX versions of their Nvidia GeForce RTX 3060-based graphics cards so far, but among them is PNY, one of Nvidia's..."
+        },
+        {
+            "headline": "Nvidia GeForce RTX 3060 Ti leak reveals custom triple-fan GPU design",
+            "content": "Our closest glimpse of the RTX 3060 Ti comes by way of a recent leak from VideoCardz that was reported by Wccftech. It shows the card with a triple-fan design..."
+        },
+        {
+            "headline": "Mageia 8 Released with Linux 5.10 LTS, Better Support for NVIDIA Optimus Laptops",
+            "content": "The Mageia 8 operating system is now available for download powered by Linux kernel 5.10 LTS and featuring improved support for NVIDIA Optimus laptops."
+        },
+        {
+            "headline": "In the Drink of an AI: Startup Opseyes Instantly Analyzes Wastewater",
+            "content": "AI startup Opseyes is using deep learning to almost instantly analyze images, taken through microscopes, of wastewater samples."
+        }
+    ],
+    "20210227": [
+        {
+            "headline": "Review: Nvidia GeForce RTX 3090 GPU",
+            "content": "But for DCC work, it's one of the best GPUs that money can buy. With a massive increase in CUDA core count and a new generation of ray tracing and machine..."
+        },
+        {
+            "headline": "Nvidia begins rolling out Resizable BAR support for RTX 3000 GPUs",
+            "content": "Nvidia has finally begun rolling out Resizable BAR support, beginning with the desktop RTX 3060 and a select few RTX 3000-series equipped laptops."
+        },
+        {
+            "headline": "GPU Shortages May Continue Until 2022",
+            "content": "Reports are indicating that the short supply of AMD and Nvidia graphics cards may continue until 2022, which is likely to be bad news for PC gamers."
+        },
+        {
+            "headline": "NVIDIA Crypto Mining Processor 90HX card is based on Ampere GA102-100 GPU",
+            "content": "Only one out of four CMP HX graphics cards will feature Ampere architecture, which means that only one card will utilize Samsung 8nm process. The CMP 90HX is..."
+        },
+        {
+            "headline": "NVIDIA's CMP 90HX Crypto Mining Card Reportedly Based On GeForce RTX 3080",
+            "content": "The CMP 90HX features the GA102, which means that it's most closely aligned with the current Ampere-based GeForce RTX 3080."
+        },
+        {
+            "headline": "Intel DG2 Xe-HPG specs leak, 512-EU part with 16 GB GDDR6 VRAM can potentially challenge NVIDIA GeForce RTX 3070 and AMD Radeon RX 6800",
+            "content": "DG2 Xe-HPG variants start from 96 EUs and 4 GB GDDR6 VRAM and will top-out at 512 EUs with 16 GB GDDR6 VRAM to take on NVIDIA GA104 and AMD RX 6800 offerings."
+        },
+        {
+            "headline": "Yes, You Can Run NVIDIA CUDA On Intel GPUs And Libraries For It Have Hit Github",
+            "content": "The developers behind ZLUDA describe it as a drop-in replacement for CUDA on systems with Intel GPUs from the Skylake family and later."
+        },
+        {
+            "headline": "NVIDIA RTX A6000 professional graphics card already supports Resizable BAR",
+            "content": "NVIDIA GeForce RTX 3060 is not the only graphics card with Resizable BAR support. NVIDIA announced that their RTX 3060 card will be the first gaming desktop..."
+        }
+    ],
+    "20210228": [
+        {
+            "headline": "NVIDIA GeForce Resizable BAR Tested With EVGA RTX 3060 XC Black",
+            "content": "Resizable BAR removes the tight restriction on the amount of data that can flow between the CPU and the GPU Memory and can sometimes allow for substantial..."
+        },
+        {
+            "headline": "GeForce RTX 30 Series: How Resizable BAR Support Improves Performance",
+            "content": "Nvidia's highly-rated GeForce RTX 30 series graphics cards just got even better with a new resizable BAR feature that allows better performance."
+        },
+        {
+            "headline": "Apple M1 vs Nvidia Ethereum Hash Rate Comparison: Which Is More Capable for Crypto Mining?",
+            "content": "Apple M1 chip is capable of 2 MH/s hash rate at ~17W to 20W (GPU only) rated power. Nvidia 30HX chip is capable of 26 MH/s at 125W rated power."
+        },
+        {
+            "headline": "GeForce RTX 3090 blower-style cards discontinued, because of miners?",
+            "content": "It looks like NVIDIA GeForce RTX 3090 graphics cards with blower-style coolers are very silently being discontinued."
+        },
+        {
+            "headline": "Blower GeForce RTX 3090 graphics cards are quietly being discontinued",
+            "content": "NVIDIA board partners quietly remove blower type RTX 3090 graphics cards from their web pages. Our readers have noticed that board partners have recently..."
+        },
+        {
+            "headline": "How To Record Fortnite on the PC",
+            "content": "This tutorial will show you two ways to record Fortnite on the PC with Nvidia Shadowplay and Epic's own replay feature."
+        }
+    ],
     "20210301": [
         {
             "headline": "Nvidia is “not limiting the performance of GPUs already sold” to nerf mining",

@@ -1,4 +1,772 @@
 {
+    "20210201": [
+        {
+            "headline": "From Bundeswehr to Banking — My Career Journey",
+            "content": "Stefan Leschonski had been with the Bundeswehr for 12 years when he decided to apply for J.P. Morgan's Military Transition Program in London. Today, he is..."
+        },
+        {
+            "headline": "Challenger Bank Chime Reaches The 12 Million Customer Mark",
+            "content": "A recent study from Cornerstone Advisors and StrategyCorps estimates that 12 million US consumers are now customers of online bank Chime."
+        },
+        {
+            "headline": "IWBI Crosses Major Global Milestones in Advancing Health and Well-Being",
+            "content": "The International WELL Building Institute (IWBI), the global authority on how we can use our buildings and communities to advance the health and well-"
+        },
+        {
+            "headline": "Feeding Westchester Welcomes Five New Board Members",
+            "content": "Feeding Westchester, Westchester County's largest nonprofit hunger-relief organization, is pleased to announce the addition of Davis John Abraham (of Yonkers),..."
+        },
+        {
+            "headline": "Underrated or overrated? Executives rank the business world’s top CEOs",
+            "content": "Business leaders weigh on which of their peers get too little credit, and which ones get too much."
+        }
+    ],
+    "20210202": [
+        {
+            "headline": "JPMorgan controller named corporate and investment bank CFO",
+            "content": "JPMorgan Chase has named Nicole Giles, its firm-wide controller, CFO of its corporate and investment bank, according to an internal memo obtained by CFO..."
+        },
+        {
+            "headline": "Narmi, a fintech that helps banks up their digital game, is looking to double headcount this year after nabbing $20 million from a backer of Salesforce and Plaid",
+            "content": "Narmi, a fintech startup that helps small banks offer their own online banking services, raised $20.4 million from investors including NEA."
+        },
+        {
+            "headline": "Jeff Bezos stepping down as Amazon CEO, will be succeeded by Andy Jassy",
+            "content": "Amazon founder Jeff Bezos will step down from his role as chief executive later this year and transition to the role of executive chair, the company said..."
+        },
+        {
+            "headline": "Blockchain 50 2021",
+            "content": "Our third annual Blockchain 50 features companies that lead in employing distributed ledger technology and have revenue or a valuation of at least $1 billion."
+        },
+        {
+            "headline": "Jarden lures JPMorgan real estate banker",
+            "content": "Barrenjoey Capital isn't the only firm cherry picking JPMorgan's talent. Jarden Australia has signed up a JPMorgan real estate banker."
+        },
+        {
+            "headline": "onePULSE Foundation Launches Educational Programming With Conversation Series",
+            "content": "Series marks launch of Foundation's onePULSE Academy, which is committed to positively impact change at the individual, group and community levels."
+        },
+        {
+            "headline": "Oatly Launches Vegan Cream Cheeses as it Prepares for IPO",
+            "content": "Sweden's plant-based milk leader, Oatly, has released its first vegan cream cheese range. The Creamy Oat Spreads will hit the shelves in the UK, as rumours."
+        },
+        {
+            "headline": "4 largest US banks join BMO to offer paid time off for COVID-19 vaccine",
+            "content": "UPDATE: March 5, 2021: Wells Fargo joined its three largest peers in offering workers eight hours paid time off to get vaccinated against the coronavirus,..."
+        },
+        {
+            "headline": "Stung by GameStop stock surge, Hornets investor seeks to renovate Miami Beach mansion",
+            "content": "A company owned by Melvin Capital head Gabe Plotkin purchased the property for $44 million in 2020."
+        }
+    ],
+    "20210203": [
+        {
+            "headline": "Gemini launches crypto-based savings product offering up to 7.4% yield",
+            "content": "The cryptocurrency exchange Gemini on Tuesday launched a savings product, dubbed Earn, that lets customers move their holdings in Bitcoin, or any of the 26..."
+        },
+        {
+            "headline": "Global Payment Gateways Market Research 2020-2024 | COVID-19 Industry Planning Structure | Technavio",
+            "content": "The payment gateways market is poised to grow by USD 23.45 billion during 2020-2024, progressing at a CAGR of almost 17% during the forecast period."
+        },
+        {
+            "headline": "Barings adds another new exec as chief risk officer",
+            "content": "Asset management firm Barings named another executive to its C-suite this week."
+        },
+        {
+            "headline": "Decimated JPMorgan turns to LinkedIn for investment banking MD",
+            "content": "JPMorgan's investment banking team has been savagely denuded by Barrenjoey Public Relations Partners in recent weeks."
+        },
+        {
+            "headline": "Samsung Electronics ranks 49th on list of world’s most admired companies",
+            "content": "According to US business magazine Fortune, Samsung ranked 49th on a list of the World's Most Admired Companies, which the magazine updated for 2021 on Feb. 2."
+        },
+        {
+            "headline": "Jeff Bezos is stepping down as Amazon CEO",
+            "content": "Amazon founder Jeff Bezos will step down from his role as chief executive later this year and transition to the role of executive chair."
+        }
+    ],
+    "20210204": [
+        {
+            "headline": "U.S. Bank Hires Wealth Management Executive From JPMorgan Chase",
+            "content": "Most recently, he served as a regional director of wealth management at JPMorgan Chase, overseeing its largest wealth region, New York. Before joining JPMorgan..."
+        },
+        {
+            "headline": "JPMorgan Chase renovates Woodlawn branch into ‘community anchor’ as part of $30B investment in underserved communities",
+            "content": "The newly renovated JPMorgan Chase branch in the Woodlawn neighborhood, which will host free financial education workshops and community events,..."
+        },
+        {
+            "headline": "JPMorgan’s ESG Debt Head Expects Sustainability-Linked Bond Boom",
+            "content": "Debt that rewards borrowers for hitting environmental or social targets is the next frontier for sustainable finance, according to JPMorgan Chase & Co,..."
+        },
+        {
+            "headline": "Pandemic won't slow Chase Bank's branch expansion plans in Kansas City",
+            "content": "JPMorgan Chase Bank continues its expansion plans in Kansas City, with two new bank branches in the works."
+        },
+        {
+            "headline": "How a teen entrepreneur grew a pop-up cookie shop into a thriving enterprise",
+            "content": "Cory Nieves turned to making cookies to adjust to a new city and help his Mom make ends meet. He built a thriving business in the process."
+        },
+        {
+            "headline": "Fintech, explained",
+            "content": "Successful fintechs possess four kinds of expertise: entrepreneurial, computational, financial, and regulatory. Here's how it all comes together."
+        },
+        {
+            "headline": "Metro United Way president and CEO to step down after more than 4 years at helm",
+            "content": "Theresa Reno-Weber will step down from her post this summer, Metro United Way announced Thursday. Her last day will be July 30."
+        },
+        {
+            "headline": "Not pleased with the fees, NCB",
+            "content": "I am being charged US$20 in intermediary fees for a wire transfer from my Jamaican US account to an account at JP Morgan Chase Bank in New York."
+        },
+        {
+            "headline": "BookMyShow's Head of Marketing Kapil Mehta moves on",
+            "content": "Kapil Mehta, Head Of Marketing at BookMyShow has put in his papers. Mehta took to LinkedIn to announce his exit."
+        }
+    ],
+    "20210205": [
+        {
+            "headline": "UBS Hires Giant J.P. Morgan Private Bank Team in LA",
+            "content": "UBS Wealth Management USA on Friday underscored its focus on hiring high-end private banking teams with a group from JPMorgan Chase that was generating $26..."
+        },
+        {
+            "headline": "Wells Fargo’s Head Of Tech Plots A Strategy For Innovation",
+            "content": "Saul Van Beurden is the Head of Technology for Wells Fargo, a role he has had for nearly two years, after having spent time as the Chief Information Officer of..."
+        },
+        {
+            "headline": "Alarm Permits",
+            "content": "For residences and businesses that have alarm systems within our jurisdiction, a permit is required per Chapter 68 of the Travis County Procedures."
+        },
+        {
+            "headline": "13 Biggest Microfinance Companies in the United States",
+            "content": "In this article we are going to list the 13 biggest microfinance companies in the United States. Click to skip ahead and jump to the 5 biggest microfinance..."
+        },
+        {
+            "headline": "Who cares about independent chairs?",
+            "content": "As Jeff Bezos moves to executive chair at Amazon, there are few corporate governance purists left."
+        }
+    ],
+    "20210206": [
+        {
+            "headline": "BofA Divided as Bankers Cry Foul Over Special Bonus Treatment",
+            "content": "(Bloomberg) -- Anger is building in the senior ranks at Bank of America Corp. after the company waived an unpopular new bonus policy for top traders and..."
+        },
+        {
+            "headline": "Melvin Capital, GameStop and the road to disaster",
+            "content": "Hedge fund faces questions over risk management after losing half its money in a Reddit trading frenzy."
+        },
+        {
+            "headline": "100 Highest Paid CEOs in America",
+            "content": "We all know there is a vast discrepancy between the salaries of the country's top-earning CEOs and the average worker within those companies,..."
+        }
+    ],
+    "20210207": [
+        {
+            "headline": "Reddit-led market turmoil hits big quant hedge funds",
+            "content": "Two Sigma Investments and DE Shaw, two of the biggest names in the hedge fund industry, have posted losses after an army of retail investors on Reddit upended..."
+        },
+        {
+            "headline": "Apple may discontinue iPhone 12 mini in Q2 this year: Report",
+            "content": "Yang lowered the production volume of iPhone 12 and iPhone 12 mini by 9 million units and 11 million units, respectively, reports AppleInsider."
+        }
+    ],
+    "20210208": [
+        {
+            "headline": "Santander Strengthens Senior Leadership in Commercial Banking",
+            "content": "Santander Bank, NA today announced the appointments of Taryn Phelan as Commercial Banking Chief Experience Officer and Michael McDonough as Head of Trade &..."
+        },
+        {
+            "headline": "A cognitive dissonance in bonus pay",
+            "content": "Bank of America walked back “cliff vesting” for its investment bankers but left it in place for others. Even if the bank keeps its bonus pool level,..."
+        },
+        {
+            "headline": "Council Post: Will Crypto Replace Gold As The Go-To Inflation Hedge In 2021?",
+            "content": "If you're an entrepreneur, perhaps the worst thing you can do is sit on nothing but cash savings."
+        },
+        {
+            "headline": "Dating app Bumble, founded by SMU grad, aims to raise $1.8 billion in initial stock offering",
+            "content": "Austin-based Bumble Inc., the dating app where women make the first move, is targeting to raise as much as $1.8 billion from its US initial public offering."
+        },
+        {
+            "headline": "Karyn Miller",
+            "content": "Karyn Miller, the newly named managing director and market manager of Regional Commercial Banking for New Jersey, Pennsylvania and Delaware, will be charged..."
+        },
+        {
+            "headline": "The self-improvement strategy the CEO of internet company GoDaddy uses to find success at work and in life",
+            "content": "Bhutani looks at self-improvement as a constant competition with himself. He advises other aspiring leaders to do the same."
+        },
+        {
+            "headline": "Former Walmart Neighborhood Market Sold for $2.5M",
+            "content": "The million-dollar transactions this week make a clockwise circuit from Maumelle to North Little Rock to east Pulaski County to west Little Rock."
+        },
+        {
+            "headline": "IT company comes to Columbus with one goal: Hiring people on the autism spectrum",
+            "content": "Auticon, a Berlin, Germany-based company that exclusively employs adults on the autism spectrum as IT consultants, has begun hiring workers in Columbus."
+        },
+        {
+            "headline": "Alvin Man joins Colliers International as Finance Director | Hong Kong",
+            "content": "Alvin joins Colliers from a Hong Kong-based hotel operator where he was the Commercial Director overseeing all financial aspects of the company's businesses."
+        },
+        {
+            "headline": "Apple may discontinue iPhone 12 mini in Q2 this year: Report",
+            "content": "Apple may consider halting its production in the second quarter this year, according to multiple reports based on the new forecast note by JP Morgan Chase."
+        }
+    ],
+    "20210209": [
+        {
+            "headline": "JPMorgan's Wall Street chief gives his call for the stock market, SPACs, fintech and CEO succession",
+            "content": "JPMorgan co-president Daniel Pinto gives his outlook for the U.S. stock market and opines on the fintech threat, the return to offices and succession..."
+        },
+        {
+            "headline": "Michael J. Cavanagh, ’88 B.A., J.D.",
+            "content": "Michael J. Cavanagh serves as president of Comcast Corporation, a Fortune 30 global media and technology company that reaches hundreds of millions of customers."
+        },
+        {
+            "headline": "Jamie Dimon, other CEOs meet with President Biden at White House as relief plan advances",
+            "content": "President Biden met at the White House on Tuesday with JPMorgan Chase chief executive Jamie Dimon and other leading business executives to discuss the..."
+        },
+        {
+            "headline": "Hong Kong exchange appoints JPMorgan’s Aguzin as chief executive",
+            "content": "HKEX, the world's most valuable bourse operator, has appointed one of JPMorgan Chase & Co's top private bankers as its chief executive."
+        },
+        {
+            "headline": "Hong Kong Exchange Names JPMorgan’s Aguzin New CEO",
+            "content": "Hong Kong's stock exchange named Nicolas Aguzin, who heads JPMorgan Chase & Co.'s international private bank, as its new chief executive officer."
+        },
+        {
+            "headline": "Chuka Umunna joins JPMorgan to oversee ESG efforts",
+            "content": "JPMorgan has hired Chuka Umunna to oversee its European environmental, social and governance advisory efforts, making the former Labour MP the latest..."
+        },
+        {
+            "headline": "Hong Kong stock exchange names JPMorgan banker as chief executive",
+            "content": "Nicolas Aguzin, chief executive of JPMorgan's international private bank, will take the helm at Hong Kong Exchanges and Clearing."
+        },
+        {
+            "headline": "Globe First in the World to Use J.P. Morgan’s RTT Service - Globe Newsroom",
+            "content": "Philippine telecommunications leader Globe became the first company in the world to adopt and implement JP Morgan's real-time treasury (RTT) application..."
+        }
+    ],
+    "20210210": [
+        {
+            "headline": "JPMorgan appoints new International Private Bank CEO",
+            "content": "JPMorgan has named Martin Marron as the new CEO of its International Private Bank (IPB), replacing Alejandro Nicolas Aguzin."
+        },
+        {
+            "headline": "Biden's meeting with CEOs focused on equalizing economic recovery, skills training, wage gap",
+            "content": "President Joe Biden met with the heads of some of America's biggest companies on Tuesday as part of his push for a $1.9 trillion economic relief package."
+        },
+        {
+            "headline": "Grandma wins $19M case against J.P. Morgan and 2 advisors (her grandsons)",
+            "content": "A wealthy grandmother won a $19 million arbitration award against J.P. Morgan Securities and two former brokers — her grandsons — over alleged unauthorized..."
+        },
+        {
+            "headline": "Cathie Wood Is Heating Up Wall Street’s Exotic Bond Business",
+            "content": "Lenders have issued about 50 structured products tied to Ark's ETFs in the past three months, according to SEC filings."
+        },
+        {
+            "headline": "Biden backs stricter income limits for US stimulus checks",
+            "content": "U.S. President Joe Biden and U.S. Vice President Kamala Harris, accompanied by U.S. Treasury Secretary Janet Yellen attend a meeting with business leaders..."
+        },
+        {
+            "headline": "JP Morgan hires Chuka Umunna for senior sustainability role",
+            "content": "The 42-year-old former Labour MP is given European position by US bank."
+        },
+        {
+            "headline": "Four Stocks Invested in Equality and Diversity",
+            "content": "The following companies are at the forefront of the good fight against institutional racism. Although currently overvalued, their stocks also represent..."
+        }
+    ],
+    "20210211": [
+        {
+            "headline": "Can Jane Fraser Fix Citigroup? (Published 2021)",
+            "content": "A big repair job. Next month, Jane Fraser will take over Citigroup — and a major turnaround effort. “The sprawling institution has been limping along in..."
+        },
+        {
+            "headline": "Venture Global secures funds for Plaquemines LNG",
+            "content": "US LNG export project developer Venture Global LNG, has secured a $500 million loan for its Plaquemines project."
+        },
+        {
+            "headline": "Wells Fargo Raids Financial Services Rivals for Legal Team Trio",
+            "content": "Wells Fargo & Co. has recruited new deputy general counsels from three of its major competitors—American Express Co., Barclays PLC, and JPMorgan Chase & Co..."
+        },
+        {
+            "headline": "Why Recruiting for Investment-Banking Internships Is Starting Earlier",
+            "content": "If you want to work on Wall Street, chances are your path will begin with a competitive summer internship before you start your senior year of college."
+        },
+        {
+            "headline": "2 Nigerians Azuonwu, Amadi posing as Bruno Mars scam Texas woman of $100K [Photos]",
+            "content": "Two Nigerians, Chinwendu Azuonwu and Basil Amadi facing trial in Houston, after scamming a 63-year-old woman of $100000 in a romance scam."
+        }
+    ],
+    "20210212": [
+        {
+            "headline": "Bitcoin Now Worth More Than JPMorgan Chase, Bank of America and Wells Fargo Combined",
+            "content": "Bitcoin's market cap has surpassed $900 billion for the first time."
+        },
+        {
+            "headline": "Feeling the heat from employees, Wall Street banks get closer to adopting bitcoin",
+            "content": "The banking industry is being forced to contend with bitcoin as its latest dizzying ascent and increased adoption among investors, corporations and fintech..."
+        },
+        {
+            "headline": "Big government, runaway inflation and a market bubble?",
+            "content": "What are some important questions investors have today? Read on as we dispel the three biggest concerns on investors' minds."
+        },
+        {
+            "headline": "KRVN 880 – KRVN 93.1 – KAMI - ABC News Category: business",
+            "content": "(WASHINGTON) -- Housing prices are soaring twice as fast as overall inflation. The average rate on a 30-year mortgage topped 7% in January for the first..."
+        },
+        {
+            "headline": "With new office investments on the line, banks remain committed to downtown Denver",
+            "content": "Bank of Colorado's David Finkelstein, director of marketing and Jonathan Rogers, market president visit the new site at McGregor Square."
+        },
+        {
+            "headline": "Virginia-based bank provides Bitcoin access at ATMs",
+            "content": "Anyone can use the bank's ATMs to buy and sell Bitcoin as long as their ATM card is accepted, BluePoint ATM Solutions CEO Wade Zirkle told the Richmond Times-..."
+        },
+        {
+            "headline": "Jack Dorsey and Jay Z announce bitcoin fund as cryptocurrency goes mainstream",
+            "content": "Bitcoin's big week got bigger with an announcement from rapper Jay Z and Twitter CEO Jack Dorsey that the pair are establishing a bitcoin development fund."
+        },
+        {
+            "headline": "Elder Mack Arthur Walker Obituary - Houston, TX",
+            "content": "Celebrate the life of Mack Walker, leave a kind word or memory and get funeral service information care of Carl Barnes Funeral Home."
+        },
+        {
+            "headline": "Driven Brands IPO hits $751M with underwriters exercising option",
+            "content": "Charlotte-based Driven Brands is the parent company of a number of automobile service franchises, including Meineke Car Care Centers, Maaco and Car Wash..."
+        }
+    ],
+    "20210213": [
+        {
+            "headline": "Case Studies",
+            "content": "Learn from companies that have responded to COVID-19 by encouraging vaccination, advancing health equity, and strengthening public health in their..."
+        }
+    ],
+    "20210214": [
+        {
+            "headline": "Eric Smith",
+            "content": "Eric is responsible for working with the US Commercial Banking team and across other lines of business to develop the bank's strategy and product capabilities."
+        }
+    ],
+    "20210215": [
+        {
+            "headline": "JPMorgan chief says \"we will have to be involved\" with Bitcoin",
+            "content": "Daniel Pinto – co-president of JPMorgan Chase & Co – has admitted the finance giant “will have to be involved” in cryptocurrency."
+        },
+        {
+            "headline": "Springfield bank to close one location as part of consolidation efforts",
+            "content": "The Springfield Burnett Plaza KeyBank branch at 402 S. Burnett Road will consolidate into the downtown Springfield branch at 1 S. Fountain Ave., the bank said."
+        },
+        {
+            "headline": "Bitcoin on the path to $50,000 as Wall Street’s interest grows",
+            "content": "More companies are beginning to add services for cryptocurrencies, although the asset class remains lightly regulated."
+        },
+        {
+            "headline": "Ex-UniCredit CEO Jean Pierre Mustier said to plan SPAC",
+            "content": "Ex-UniCredit SpA chief executive officer Jean Pierre Mustier plans to raise funds for a special purpose acquisition company, the latest former top banker to..."
+        }
+    ],
+    "20210216": [
+        {
+            "headline": "Chase doubles housing grant program as American banks reckon with low minority homeownership",
+            "content": "JPMorgan's Chase Bank will double its Chase Homebuyer Grant in an effort to foster homeownership among Black and Latino communities."
+        },
+        {
+            "headline": "How I Got Here: Programmer Terrell Singletary's path from pandemic layoffs to JPMorgan Chase",
+            "content": "Singletary put himself through Tech Elevator's 14-week software development bootcamp in Java. The recent grad just secured a programming position with JPMorgan..."
+        },
+        {
+            "headline": "Warren Buffett sells JPMorgan Chase stock and buys Verizon",
+            "content": "The industrial conglomerate no longer owns shares of JPMorgan Chase (JPM), PNC (PNC) or M&T Bank (MTB). The shares were sold sometime in the fourth quarter of..."
+        },
+        {
+            "headline": "Citi, Bank of America cut CEOs’ compensation",
+            "content": "Citi cut CEO Michael Corbat's compensation 20.7% in 2020 to $19 million, the bank reported Friday in a Securities and Exchange Commission (SEC) filing."
+        },
+        {
+            "headline": "Construction firms nab $13.7B total in PPP loans so far this year",
+            "content": "Construction firms received $13.7 billion in loans under the latest version of the Paycheck Protection Program, making the industry second in total loan..."
+        },
+        {
+            "headline": "Goldman Sachs Launches Marcus Invest—Wealth Management for the Little Guy.",
+            "content": "Marcus Invest, the company's new digital investment manager, is part of the Wall Street giant's shift to offering financial services to the full spectrum of..."
+        },
+        {
+            "headline": "Is Warren Buffett a Stock Buyer or Seller? Yes.",
+            "content": "The famed investor is still hesitant about stocks generally, with his Berkshire Hathaway Inc. back to hoarding cash while riding out a market that's been..."
+        },
+        {
+            "headline": "Warren Buffett's Latest Three New Investments",
+            "content": "Warren Buffett does not need any introduction. He is a very successful investor who is in charge of Berkshire Hathaway. He has an impressive track record..."
+        },
+        {
+            "headline": "10 Stocks Warren Buffett Is Buying (And 11 He's Selling)",
+            "content": "Berkshire Hathaway CEO Warren Buffett continued his bank bloodletting in Q4 2020, but he also initiated a few exciting new positions."
+        },
+        {
+            "headline": "This serial entrepreneur is behind Techvio, one of Delaware’s newest tech companies",
+            "content": "Vijaya Rao, former CEO of DeliveryCircle, has a new startup dedicated to helping small and medium-sized businesses navigate technology needs."
+        }
+    ],
+    "20210217": [
+        {
+            "headline": "Akoya adds JPMorgan Chase to its Data Access Network",
+            "content": "Akoya LLC announced today that JPMorgan Chase has joined the Akoya Data Access Network. Fintechs, data aggregators and other data recipients can now request..."
+        },
+        {
+            "headline": "JPMorgan+Chase+%26+Co.%E2%80%99s+regional+director+getting+to+know+Upstate",
+            "content": "Nation was named to her regional role last July and has been with the firm for more than 15 years. She previously served as market director for Chase's consumer..."
+        },
+        {
+            "headline": "JPMorgan (JPM) Breaks Out to All-Time High",
+            "content": "Dow component JPMorgan Chase & Co. (JPM) broke out to an all-time high in Tuesday's session, completing a 14-month inverse head and shoulders pattern that..."
+        },
+        {
+            "headline": "'What Black History Month means to me’",
+            "content": "2020 was a defining year for challenging the injustices faced by Black people around the world, and in 2021 we remain focused on making meaningful change..."
+        },
+        {
+            "headline": "At 93, She Waged War on JPMorgan—and Her Own Grandsons",
+            "content": "Beverley Schottenstein said two grandsons who managed her money at JPMorgan forged documents, ran up commissions with inappropriate trading and made her miss..."
+        },
+        {
+            "headline": "Linklaters senior partner Charlie Jacobs joins JPMorgan",
+            "content": "JPMorgan has appointed Charlie Jacobs, the senior partner at top law firm Linklaters, as its new co-head of investment banking in the UK."
+        },
+        {
+            "headline": "Ariel Investments Introduces First Private Investment Initiative, Ariel Alternatives",
+            "content": "Companies to Support Fortune 500 Supply Chain Diversity. JPMorgan Chase & Co. Commits $200 Million to Co-Invest Alongside Project Black in Future..."
+        },
+        {
+            "headline": "Lincoln Project Founder Paid Off Mortgage Days After NYT Reported on Weaver Scandal",
+            "content": "Rick Wilson paid off a mortgage for his Florida home a full 16 years ahead of schedule. Public records show that JPMorgan Chase Bank recently issued a..."
+        },
+        {
+            "headline": "Mercy Housing to Convert Hotel into Permanent Supportive Housing",
+            "content": "Mercy Housing California is transforming a century-old hotel into permanent supportive housing for individuals who are experiencing homelessness in Sacramento,..."
+        },
+        {
+            "headline": "Warren Buffett's Berkshire cuts Apple’s holding but reveals three new secret buys",
+            "content": "Business Tycoon Warren Buffet's Berkshire Hathaway has bought new stakes in Verizon stock, Chevron (CVX) and Marsh & McLennan, according to a regulatory..."
+        }
+    ],
+    "20210218": [
+        {
+            "headline": "JPMORGAN CHASE BECOMES NAMING RIGHTS PARTNER OF CHASE FIELDHOUSE",
+            "content": "JPMorgan Chase that rebrands the state-of-the-art multisport arena in Wilmington and home to the Blue Coats as Chase Fieldhouse, effective immediately."
+        },
+        {
+            "headline": "Chase buys naming rights to 76ers Fieldhouse",
+            "content": "The 76ers Fieldhouse will now be known as the Chase Fieldhouse after JPMorgan Chase bought the naming rights to the G-League Delaware Blue Coats' home."
+        },
+        {
+            "headline": "Score! 76ers Arena Has A Whole New Name And Sponsor: Chase Fieldhouse",
+            "content": "The Philadelphia 76ers announced Thursday that their Wilmington arena will be renamed the Chase Fieldhouse as part of a partnership with JPMorgan Chase."
+        },
+        {
+            "headline": "CIBC Becomes the First Canadian Bank To Join RMI’s Center for Climate-Aligned Finance",
+            "content": "Partnership focused on furthering sustainable finance options for corporate clients. TORONTO, Feb 18, 2021/CNW/ – CIBC (TSX: CM) NYSE: CM) today announced..."
+        },
+        {
+            "headline": "Interior design company Westwing makes B3 IPO",
+            "content": "Brazilian interior design company Westwing has hired two Skadden, Arps, Slate, Meagher & Flom LLP offices and Lefosse Advogados in São Paulo to raise 1 billion..."
+        },
+        {
+            "headline": "Schottenstein grandsons accused of scamming grandmother, mismanaging her $80-million-plus estate",
+            "content": "Grandsons Evan and Avi Schottenstein, and their employer, JPMorgan Securities, for mishandling an account worth more than $80 million."
+        },
+        {
+            "headline": "So … Is Bitcoin Going to Replace the Dollar?",
+            "content": "Not a chance, says Fed's Bullard, invoking history to slam alternate currencies to a dominant greenback."
+        },
+        {
+            "headline": "RELOCATION STATION: Plano got 23 corporate relocations, expansions in 2020 — here's the list",
+            "content": "Plano city official explains how the company attracted so many corporate relocations and expansions during the pandemic."
+        },
+        {
+            "headline": "It’s time for crypto to stop thinking small: An interview with Meltem Demirors",
+            "content": "The outspoken chief strategy officer of CoinShares believes the crypto community has forgotten it willed Bitcoin into reality, worries government-issued..."
+        },
+        {
+            "headline": "JP Morgan makes Linklaters partner its co-head of UK investment banking",
+            "content": "Charlie Jacobs, the senior partner of Magic Circle law firm Linklaters, will join JP Morgan as co-head of UK investment banking."
+        }
+    ],
+    "20210219": [
+        {
+            "headline": "Chase Bank plans to move into south Fargo Village Inn location; Moorhead Village Inn likely to reopen this spring",
+            "content": "JPMorgan Chase will open its third Fargo branch sometime late in the third quarter of this year."
+        },
+        {
+            "headline": "Tammy Jones on Building a More Diverse Commercial Real Estate Pipeline",
+            "content": "Tammy Jones, co-founder and CEO of Basis Investment Group, talks with Chad Tredway, Head of Real Estate Banking, about how she got started in the industry..."
+        },
+        {
+            "headline": "JPMorgan Names New Leaders in North America Investment Banking",
+            "content": "JPMorgan Chase & Co. filled investment-banking roles that had been vacant and promoted two veteran managers to its executive committee of global chairs."
+        },
+        {
+            "headline": "How to build a more inclusive L.A. County through small businesses",
+            "content": "As L.A. County navigates the pandemic, here are four critical steps to help small businesses and to build an economy that works for everyone."
+        },
+        {
+            "headline": "Why Haven's Encounter With Reality Proved Fatal",
+            "content": "When they made their bold announcement in mid 2018, three corporate powerhouses -- Berkshire Hathaway, Amazon, and JP Morgan Chase -- were going to..."
+        },
+        {
+            "headline": "Wharton Class President Shares How To Find Your Magic And Accelerate Your Career",
+            "content": "Chanel Alexander shares how activating your network, gaining personal clarity, and believing in your own magic can help unlock your potential."
+        },
+        {
+            "headline": "Wow! Warren Buffett Sold These 37 Stocks in 2020",
+            "content": "This is highly unusual behavior from a historically passive investor -- but there is an explanation."
+        }
+    ],
+    "20210220": [
+        {
+            "headline": "The reflation euphoria has a dark side for emerging markets",
+            "content": "\"If a particular allocation across the risky markets spectrum should be low confidence this year, it is the EM overweight,\" JPMorgan's John Normand wrote in..."
+        },
+        {
+            "headline": "Big tech employees opened wallets for Biden campaign",
+            "content": "Google, Microsoft, Amazon, Apple and Facebook made up the biggest source of donations to Democrat Joe Biden among corporate employees."
+        },
+        {
+            "headline": "Apple employees were major donators to Biden election campaign",
+            "content": "The presidential campaign of Joe Biden received considerable donations from employees of tech companies, campaign finance records reveal, with Apple..."
+        }
+    ],
+    "20210221": [
+        {
+            "headline": "Desi Pilla finished his MS in Data Science at UD in one year",
+            "content": "Mr. Desi Pilla finished his MS in Data Science at UD over the 2020 calendar year–what a time to do your MS in one year!"
+        },
+        {
+            "headline": "Tesla’s Bitcoin Buy Was Watershed Moment for Cryptocurrency",
+            "content": "By adding bitcoin to its balance sheet, Tesla confirmed a new dawn for the crypto industry and propelled BTC to a new all-time high."
+        }
+    ],
+    "20210222": [
+        {
+            "headline": "JPMorgan invests in private stock trading venue with Palantir link amid demand for pre-IPO shares",
+            "content": "JPMorgan Chase is taking a stake in a private stock trading platform with links to Palantir to boost the bank's efforts to connect buyers and sellers of hot..."
+        },
+        {
+            "headline": "M&T Bank to buy People’s United Financial in $7.6bn deal",
+            "content": "M&T Bank has agreed to acquire smaller rival People's United Financial for $7.6bn, the latest in a series of regional US banking mergers."
+        },
+        {
+            "headline": "M&T Bank acquiring Bridgeport-based People’s United in $7.6B deal",
+            "content": "The parent company of Bridgeport-based People's United Bank is taking a $7.6 billion buyout from rival M&T Bank."
+        },
+        {
+            "headline": "What tenants pay Fisher Brothers & JPMorgan at 605 Third Avenue",
+            "content": "Here's what tenants are paying at Fisher Brothers & JPMorgan's 605 Third Avenue, a Midtown East building popular with diplomatic missions."
+        },
+        {
+            "headline": "M&T Bank Agrees To Acquire People’s United Financial In Latest Tie-Up Of Regional Lenders",
+            "content": "The M&T-People's deal is valued at $7.6 billion."
+        },
+        {
+            "headline": "HSBC to move top executives from UK back to Hong Kong: Report",
+            "content": "Europe's biggest bank is paring back its global ambitions and refocusing its efforts on Asia."
+        },
+        {
+            "headline": "SBI joins JPMorgan's blockchain-based payment network",
+            "content": "State Bank of India has tied up with JPMorgan to use the US bank's blockchain technology to speed up overseas transactions."
+        },
+        {
+            "headline": "The Goodyear/Cooper combination’s synergies; global headquarters to be in Akron",
+            "content": "Explaining the rationale behind Goodyear's multi-billion dollar acquisition of Cooper Tire, executives said the combination offers “compelling strategic and..."
+        },
+        {
+            "headline": "As Toast IPO rumor swirls, restaurant owners express support for the tech firm",
+            "content": "Toast declined to comment on the IPO rumors, saying it doesn't discuss “speculated financial transactions.”"
+        },
+        {
+            "headline": "Canada's big banks to release quarterly results, potentially providing insight into economic recovery",
+            "content": "Canada's biggest banks will report their quarterly financial results this week, and analysts say they will be listening for hints as to how bank executives..."
+        }
+    ],
+    "20210223": [
+        {
+            "headline": "JPMorgan Chase to push for economic policy changes for first time",
+            "content": "It's advocating for raising the federal minimum wage, though it didn't say by how much."
+        },
+        {
+            "headline": "JPMorgan and Google launch program to help minority-owned banks",
+            "content": "JPMorgan Chase and Google launched a program Tuesday to help banks owned and led by people of color increase their lending capabilities."
+        },
+        {
+            "headline": "Liberty Bank CEO says JPMorgan investment will mean $150M more community lending",
+            "content": "Liberty Bank CEO Alden McDonald said an investment from JPMorgan Chase that was announced Tuesday will mean his 49-year-old community bank will be able to make..."
+        },
+        {
+            "headline": "State Bank Of India Joins Liink, JPMorgan’s Blockchain Network",
+            "content": "The State Bank of India (SBI) is joining Liink, J.P. Morgan's peer-to-peer blockchain-based data network."
+        },
+        {
+            "headline": "MUFG Launches Green Deposits, Enabling Clients to Direct Bank Deposits into ESG Projects",
+            "content": "MUFG Union Bank, part of the Mitsubishi UFJ Financial Group, announced today the launch of Green Deposits, enabling commercial and corporate clients to direct..."
+        },
+        {
+            "headline": "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform",
+            "content": "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series."
+        },
+        {
+            "headline": "Morgan Stanley Faces $5 Million Claim from NBA Star Chandler Parsons",
+            "content": "Professional basketball player Chandler Parsons has brought a claim for $5 million in damages against Morgan Stanley Wealth Management."
+        },
+        {
+            "headline": "Bain & Company adds senior advisors to financial services team",
+            "content": "Bain & Company has boosted its Financial Services practice in the UK with a quartet of new hires. Graeme Jeffery, Nishma Gosrani and Jeff Tijssen join as..."
+        },
+        {
+            "headline": "Cushman & Wakefield hires two land professionals from Berkadia",
+            "content": "Kristen McDade and Matthew Davis have a combined 26 years of experience."
+        },
+        {
+            "headline": "The ties that bind ASIC, Korn Ferry and JPMorgan",
+            "content": "Without a hint of irony, Austrade turned to Swiss headhunter Egon Zehnder as Australia's dedicated export marketing agency searched for a new chief..."
+        }
+    ],
+    "20210224": [
+        {
+            "headline": "Black-owned restaurants have supported their neighbors. Now they need help",
+            "content": "Black-owned restaurants are struggling during the pandemic, but the PPP's new focus on minority-owned businesses for COVID loans and other tools to help..."
+        },
+        {
+            "headline": "The Schottenstein Family And Elder Abuse",
+            "content": "A financial industry arbitrator in early February sided with Beverley Schottenstein in an elder abuse case, ordering her two grandsons and JP Morgan Chase to..."
+        },
+        {
+            "headline": "Goldman Sachs' CEO David Solomon Wants People Back in the Office",
+            "content": "Firms like Goldman Sachs are still unsure how long remote work will last — but David Solomon said that he's not a fan of it."
+        },
+        {
+            "headline": "At new BankonBuffalo branch, a banking team comes together",
+            "content": "BankOnBuffalo let a Business First reporter hang around as it opened its latest bank branch in East Amherst."
+        },
+        {
+            "headline": "Sezer Sherif: from a humble background to leading a thriving company",
+            "content": "Diversity in social class, culture and gender is helping to spur the growth of Vector Capital Group, as Founder and CEO Sezer Sherif reveals."
+        },
+        {
+            "headline": "Notable Past + Present Residents of ‘Billionaire’s Dirt Road’ in North Salem, NY",
+            "content": "From film stars to hedge fund wizards, North Salem's Billionaire's Dirt Road is a hidden gem for the rich and powerful."
+        },
+        {
+            "headline": "‘Zoom-fatigue’ and lack of social activities could increase university dropouts",
+            "content": "Students may be left with fewer vital life skills after pandemic has 'decimated' academic experience, charity says."
+        }
+    ],
+    "20210225": [
+        {
+            "headline": "Launch of New Chase Lounge at the Russell Center Will Help Fuel Path to Success for Black Business Owners and Entrepreneurs in Atlanta",
+            "content": "ATLANTA, February 25, 2021 – Chase and the Russell Innovation Center for Entrepreneurs (RICE), the largest nonprofit center for Black entrepreneurs and..."
+        },
+        {
+            "headline": "JPMorgan Chase opens at University Plaza",
+            "content": "The first JPMorgan Chase Bank in the New York Southern Tier region, located at University Plaza in Vestal, opened its doors on Feb. 16."
+        },
+        {
+            "headline": "JPMorgan Chase's Duckett to depart for top job at TIAA",
+            "content": "The CEO of Chase Consumer Banking and a member of JPMorgan's leadership team, Thasunda Brown Duckett has been tapped to replace Roger Ferguson as CEO of the..."
+        },
+        {
+            "headline": "TIAA Names JPMorgan Chase's Duckett Its First Woman CEO",
+            "content": "Thasunda Brown Duckett comes to TIAA from Chase Consumer Banking, where she led a banking network with $800 billion in deposits and nearly 5000 branches."
+        },
+        {
+            "headline": "JPMorgan’s Thasunda Duckett named TIAA chief executive",
+            "content": "Duckett succeeds Roger Ferguson Jr., who had announced his plans to retire. She was most recently CEO of Chase Consumer Banking."
+        },
+        {
+            "headline": "TIAA names Thasunda Brown Duckett as CEO",
+            "content": "TIAA on Thursday named Thasunda Brown Duckett as its new chief executive officer. Duckett comes to the financial services firm from JPMorgan Chase,..."
+        },
+        {
+            "headline": "Chase opens lounge at Russell Center to provide resources to Black entrepreneurs",
+            "content": "The Chase Lounge will have a dedicated community manager to provide one-on-one consultations and develop financial education programs."
+        },
+        {
+            "headline": "TIAA picks JPMorgan’s Duckett as new chief executive",
+            "content": "Head of Chase consumer banking will replace Roger Ferguson at $1.3tn investment manager."
+        },
+        {
+            "headline": "Thasunda Brown Duckett to lead TIAA, becoming second Black woman CEO of Fortune 500 company",
+            "content": "TIAA named JPMorgan Chase's Thasunda Brown Duckett as CEO, the second Black woman tapped this year to lead a Fortune 500 company following Roz Brewer."
+        },
+        {
+            "headline": "Thasunda Brown Duckett will become the second Black female CEO currently in the Fortune 500",
+            "content": "As the new chief of TIAA, Duckett will be only the third Black woman in history to serve as the full-time CEO of one of the 500 largest companies in the..."
+        }
+    ],
+    "20210226": [
+        {
+            "headline": "Bankers Are Finally Welcome at Soho House",
+            "content": "The company has hired JPMorgan Chase & Co. and Morgan Stanley ahead of a possible stock market listing in New York, according to The Times newspaper."
+        },
+        {
+            "headline": "How I Got Here: From entry-level to senior software engineer, 5 devs talk career trajectory",
+            "content": "Thinking about a career in software engineering? These local software engineers at different professional stages break down how they did it — and how they..."
+        },
+        {
+            "headline": "Thasunda Brown Duckett on new CEO role at TIAA: 'I have so much gratitude for the shoulders I stand on'",
+            "content": "Duckett will join TIAA after serving as the CEO of Chase Consumer Banking."
+        },
+        {
+            "headline": "TIAA names Thasunda Brown Duckett as CEO — first woman to helm financial giant",
+            "content": "Banking executive will succeed Roger Ferguson Jr. and become the second Black woman to lead a Fortune 500 company."
+        },
+        {
+            "headline": "Netflix’s Big Idea to Support Black Communities (Published 2020)",
+            "content": "The streaming company will shift some of its $5 billion in cash to financial institutions that focus on black communities."
+        },
+        {
+            "headline": "Thasunda Brown Duckett Named First Black Woman CEO Of TIAA Becoming The Second Black Woman Leading A Fortune 500 In 2021",
+            "content": "Thasunda Brown Duckett has been named president and CEO of TIAA, the leading retirement, and investment company."
+        },
+        {
+            "headline": "Investment Banking & Trading Services Market Size Analysis | 2027",
+            "content": "The global investment banking & trading services market size was valued at $267864.0 million in 2019 and is projected to reach $520026.0 million by 2027,..."
+        },
+        {
+            "headline": "The Best of Women in Business 2021: Allison Stewart & Wendy Kupfer",
+            "content": "After a prestigious career as a VP and Private Banker at Citigroup and JPMorgan Chase, Wendy Kupfer turned her passion for homes and helping others into her..."
+        },
+        {
+            "headline": "Here are the banks closing D.C.-area branches so far in 2021",
+            "content": "The bank continues to cut branches throughout the region, though this location is not on the closure list at this time."
+        },
+        {
+            "headline": "Meet Charlie Jacobs, JPMorgan’s new co-head of UK investment banking",
+            "content": "Charlie Jacobs, the current Linklaters senior partner, will be something of an outsider as he makes the jump from law to dealmaking."
+        }
+    ],
+    "20210227": [
+        {
+            "headline": "Wall Street people moves: 18 must-know hires, promotions, and exits this week",
+            "content": "TIAA taps Thasunda Brown Duckett as CEO; Maverick Capital's Andrew Warford is leaving the hedge fund; Garry Collins, Bank of America's head of capital..."
+        },
+        {
+            "headline": "A Hedge Fund’s Bet on Criminal Justice (Published 2021)",
+            "content": "Topeka Sam, who helps women re-entering society after prison, gets more than just money from Daniel S. Loeb's $16 billion firm, Third Point."
+        }
+    ],
+    "20210228": [
+        {
+            "headline": "Jane Fraser Is Hitting Refresh at Citigroup",
+            "content": "The new CEO takes over Monday with two major goals: simplify the bank and make regulators happy."
+        },
+        {
+            "headline": "Former Ohio State Running Back Jermon Jackson Passes Away At Age 45",
+            "content": "Former Ohio State running back Jermon Jackson has passed away at the age of 45, his high school announced on Friday. RIP to one of the Greatest Fighting..."
+        },
+        {
+            "headline": "Thasunda Brown Duckett: New TIAA CEO in rare company as Black female Fortune 500 leader",
+            "content": "Giant US asset manager TIAA named Thasunda Brown Duckett as chief executive, making her the second African American tapped in 2021 to lead a major US..."
+        }
+    ],
     "20210301": [
         {
             "headline": "TIAA’s New Era: JPMorgan’s Thasunda Duckett named President and CEO",
