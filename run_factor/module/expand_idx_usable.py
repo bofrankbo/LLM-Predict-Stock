@@ -114,6 +114,23 @@ class Index_UsableExpanding(FactorExpanding):
                             Reason: Provide a **very brief** explanation in 1-2 sentences!
                             """).strip())
                         ]
+                        # messages = [
+                        #     ("system", "You are an expert in the financial sector."),
+                        #     ("human",
+                        #     textwrap.dedent(f"""
+                        #     Here is a stock price influencing factor: {factor}
+                        #     Please analyze the following news and determine whether it is likely to cause the stock price to rise or fall due to {factor}.
+
+                        #     Today's news: {text_news}
+                        #     If the stock is likely to rise, answer **yes**.  
+                        #     If the stock is likely to fall, answer **no**.  
+                        #     If it is uncertain or unrelated, answer **unknown**.
+
+                        #     Respond in the following format, providing only **one** overall judgment:  
+                        #     **Result:** #yes / #no / #unknown (Try to avoid answering "unknown.")  
+                        #     **Reason:** Provide a **very brief** explanation in **1-2 sentences**!
+                        #     """).strip())
+                        # ]
                     elif country == "tw":
                         messages = [
                             ("system", "你是一個厲害的金融領域專家"),

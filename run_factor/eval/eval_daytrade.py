@@ -70,7 +70,7 @@ class EvalDayTrade:
             sigs.append([date_str, sig])
         return sigs
 
-    def eval_daytrade(self, sig_data, individual):
+    def eval(self, sig_data, individual):
         '''
             Day Trade Eval : Evaluate daily return based on the individual
         '''
