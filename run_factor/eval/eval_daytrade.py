@@ -10,7 +10,11 @@ class EvalDayTrade:
         self.price_his = price_his 
         self.path_out =  f"{env['path_folder']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
         self.training_path = f"out_stock/Training_result/{env['path_folder']}/{env['run_count']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
-    
+        if 'fee' in env:
+            self.fee = env['fee']
+        else:
+            self.fee = 0
+            
     def get_eval_path(self):
         return self.training_path
     
@@ -95,6 +99,7 @@ class EvalDayTrade:
             close_price = df_price_his.loc[df_price_his["Date"] == date_str, "Close"].values[0]
             
             rtn = (close_price - open_price) / open_price
+            rtn = rtn - self.fee
 
             
             # print(rtn)
