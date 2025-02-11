@@ -1,4 +1,464 @@
 {
+    "20200801": [
+        {
+            "headline": "Twin Cities Colleges & Universities",
+            "content": "There's an energy—a vibrancy—to the Twin Cities area, and that allure is not lost on prospective college students. We have a number of Fortune 500..."
+        },
+        {
+            "headline": "Here’s the stock sector you want to be in if the Democrats sweep the November elections",
+            "content": "People — and investors — can become very emotional as a presidential election heats up, and this time around, feelings are obviously running high."
+        }
+    ],
+    "20200802": [
+        {
+            "headline": "US companies leap over low profit hurdle in coronavirus-hit quarter",
+            "content": "A record high percentage of US companies are beating analysts' forecasts this earnings season, giving investors a glimmer of hope in what is still expected to..."
+        }
+    ],
+    "20200803": [
+        {
+            "headline": "Electronic Health Record Optimization and Clinician Well-Being: A Potential Roadmap Toward Action",
+            "content": "This paper provides strategies to help health care organizations embark on their EHR optimization journey toward improved patient care and clinician well-being."
+        }
+    ],
+    "20200804": [
+        {
+            "headline": "Among Minnesota's top paid public company CEOs, two are people of color; four are women",
+            "content": "Four of the top-paid chief executives are women: Corie Barry of Best Buy, Beth Wozniak of nVent, Shelly Ibach of Sleep Number and Vicki Holt of Protolabs."
+        },
+        {
+            "headline": "N.Y.C. Health Commissioner Resigns After Clashes With Mayor Over Virus (Published 2020)",
+            "content": "The resignation of Dr. Oxiris Barbot, the commissioner since 2018, came after Mayor Bill de Blasio stripped her agency of a key virus-tracing program."
+        }
+    ],
+    "20200805": [
+        {
+            "headline": "Major U.S. Health Insurers Report Big Profits, Benefiting From the Pandemic (Published 2020)",
+            "content": "Some of the largest companies, including Anthem, Humana and UnitedHealth Group, are reporting second-quarter earnings that are double what they were a year ago."
+        },
+        {
+            "headline": "From telehealth visits to digital pharmacies, seniors have ramped up technology use during COVID-19: survey",
+            "content": "Seniors have embraced technology during the COVID-19 pandemic, from booking virtual visits with their doctors to ordering their prescriptions online."
+        }
+    ],
+    "20200806": [
+        {
+            "headline": "U.S. Health Insurers Profits Boom Amid Pandemic [Infographic]",
+            "content": "While some U.S hospitals are being overwhelmed by an influx of patients and struggling financially, major insurance companies have raked in billions of..."
+        },
+        {
+            "headline": "Teladoc-Livongo: Is the first digital health megadeal 'outrageous' or a starter gun for virtual care M&A?",
+            "content": "Telehealth giant Teladoc's snap-up of chronic care management company Livongo for $18.5 billion hints at the untapped potential of the nascent market."
+        },
+        {
+            "headline": "Ginger collects $50M Series D for data-backed virtual behavioral care",
+            "content": "Ginger, the San Francisco-based behavioral health startup formerly known as Ginger.io, announced today a $50 million Series D funding round."
+        },
+        {
+            "headline": "Oak Street Health CEO Interview on IPO, Expansion, Profit",
+            "content": "Primary-care startup Oak Street Health surged in its stock market debut. Here's how its CEO plans to keep growing its senior care business, which still isn't..."
+        },
+        {
+            "headline": "Flex Appoints Erin McSweeney To Board Of Directors",
+            "content": "Flex announced that Erin L. McSweeney, a seasoned human capital management executive with experience in the technology, manufacturing and healthcare industries,"
+        },
+        {
+            "headline": "The economy is recovering in some states, but others remain at Great Depression-era unemployment levels. Why?",
+            "content": "Massachusetts had the highest unemployment rate in June, while Kentucky has already seen a V-shaped recovery."
+        }
+    ],
+    "20200807": [],
+    "20200808": [],
+    "20200809": [],
+    "20200810": [
+        {
+            "headline": "The Zacks Analyst Blog Highlights: Home Depot, Walmart, UnitedHealth, McDonald's and Johnson & Johnson",
+            "content": "Stocks recently featured in the blog include: The Home Depot, Inc. HD, Walmart Inc. WMT, UnitedHealth Group Incorporated UNH, McDonald's Corporation MCD and..."
+        },
+        {
+            "headline": "Council Post: Telehealth And The Future Of The US Health Care Industry",
+            "content": "Dr. Alexandro Pando is a multinational serial entrepreneur, innovator, consultant, and CEO. Woman talking to doctor on video call."
+        },
+        {
+            "headline": "Notable Health Care 2020: Samir Malik",
+            "content": "Samir Malik has spent much of his career breaking down barriers to mental health care. In 2011 he co-founded 1DocWay, a telepsychiatry network operator."
+        }
+    ],
+    "20200811": [
+        {
+            "headline": "Achieving Better Care for Seniors by Aligning Incentives with Quality of Care",
+            "content": "Findings from UnitedHealth Group's research underscore the importance of value-based care as a key element in building a better performing health care..."
+        }
+    ],
+    "20200812": [
+        {
+            "headline": "Top 10 Fortune 500 Companies 2020 [LIST]",
+            "content": "This annual list is the bedrock of businesses in the United States. That said, here's a list of the top 10 Fortune 500 companies in 2020."
+        }
+    ],
+    "20200813": [
+        {
+            "headline": "Expanding Access to Health Care for Mothers and Babies in Georgia and North Carolina",
+            "content": "The United Health Foundation is helping expand access to health care and improve health outcomes for mothers and babies in Georgia and North Carolina."
+        },
+        {
+            "headline": "Optum pledges ₹11 crores towards fight against COVID-19",
+            "content": "PRNewswire/ -- Optum, a part of UnitedHealth Group (UHG), has committed ₹11,45,68775 to fight the COVID -19 pandemic in India. The funding is part of a $10."
+        },
+        {
+            "headline": "Golf rangefinders: a buyer's guide",
+            "content": "Initially dismissed as unnecessary, these gadgets are standard equipment for golfers of all stripes, from elite amateurs and pros down to casual hobbyists."
+        },
+        {
+            "headline": "Report: Workplace Coronavirus Tracing Apps Institute Dystopian Mass Surveillance by Default",
+            "content": "Microsoft, UnitedHealth Apps Pose Risks to Worker Privacy, Bypass HIPAA Requirements. Share. Facebook; Twitter · Email. Cell phone being watched by COVID-19..."
+        },
+        {
+            "headline": "The Target Sign and Its Variant in COVID-19 Pneumonia",
+            "content": "The target sign, identified at chest CT, has been recently described by Müller et al (1) as a nodular opacity in the center of a ring-like opacity in patients..."
+        }
+    ],
+    "20200814": [
+        {
+            "headline": "US health insurers doubled profits in second quarter amid pandemic",
+            "content": "US's largest health insurer, UnitedHealth Group, reported $6.7bn in profits compared with $3.4bn for the same quarter last year."
+        },
+        {
+            "headline": "Independence Day 2020: The importance of 'Tiranga', the Indian flag",
+            "content": "India's national flag is an honour of love, peace and unity. Tricolour is the mark of nation's integrity and sovereignty."
+        }
+    ],
+    "20200815": [],
+    "20200816": [],
+    "20200817": [],
+    "20200818": [
+        {
+            "headline": "Expanding Access to Primary Care in Florida",
+            "content": "United Health Foundation has committed $1.7 million to improve access to primary care in Florida. A three-year partnership with the Health Care Center for..."
+        },
+        {
+            "headline": "Change in Plans",
+            "content": "As Macalester alumni changed gears, many leaned on skills they developed in college: flexibility, compassion, and willingness to serve and to learn."
+        }
+    ],
+    "20200819": [
+        {
+            "headline": "Humana roped into congressional probe on insurance industry",
+            "content": "The Louisville-based health insurance giant already told investors that it will have to rebate some of its bumper crop earnings back to the federal..."
+        }
+    ],
+    "20200820": [],
+    "20200821": [
+        {
+            "headline": "The ACA Marketplaces Are Poised To Weather COVID-19",
+            "content": "This issue brief provides an overview of the ACA marketplaces, including their enrollment levels, financial stability, and levels of insurer participation."
+        },
+        {
+            "headline": "A UnitedHealthcare Employee Spotlight: Ryan Parks",
+            "content": "Ryan Parks, Small Business Account Executive for UnitedHealthcare, turning a passion for wellness into an interesting, lifelong career runs in the family."
+        },
+        {
+            "headline": "Sikich employees can work from home permanently",
+            "content": "Professional-services firm Sikich will allow employees to work from home permanently and plans to shrink the size of its offices."
+        },
+        {
+            "headline": "Peer support groups help mum of child with a rare liver disease find answers and support",
+            "content": "After her daughter's PFIC diagnosis, Claire Brinkley searched for a way to connect with other parents with similar experiences and questions."
+        }
+    ],
+    "20200822": [],
+    "20200823": [
+        {
+            "headline": "POLITICO Playbook: The Trump convention",
+            "content": "ALL EYES WILL BE ON THE PRESIDENT this week as Republicans kick off their convention. The Democrats spent the past week trying to cast DONALD TRUMP as a..."
+        }
+    ],
+    "20200824": [],
+    "20200825": [
+        {
+            "headline": "UnitedHealth Group’s CDO On The Key Success Factors For Chief Data Officers",
+            "content": "The Chief Data Officer role is still relatively new. As such, the role is defined differently depending on the executive. The success rate in role is also..."
+        },
+        {
+            "headline": "VA transitioning urgent care network managers",
+            "content": "VA's goal is to give eligible Veterans who need same-day urgent care for minor illnesses or injuries as many avenues as possible at the right time,..."
+        }
+    ],
+    "20200826": [
+        {
+            "headline": "What Women’s Equality Day Means to Us",
+            "content": "Today, UnitedHealth Group and our UnitedHealthcare and Optum businesses are celebrating Women's Equality Day. The celebration commemorates the day a century..."
+        },
+        {
+            "headline": "The Next Database Platform",
+            "content": "Register Here for The Next Database Platform Join The Next Platform on August 27, 2020 for a day of in-depth interviews on a wide range of topics related."
+        }
+    ],
+    "20200827": [],
+    "20200828": [],
+    "20200829": [],
+    "20200830": [
+        {
+            "headline": "Questions about flu shots during COVID-19 pandemic? Here are answers",
+            "content": "When coupled with the effects of COVID-19, public health experts say, it's more important than ever to get a flu shot."
+        }
+    ],
+    "20200831": [
+        {
+            "headline": "MedExpress closes its Bemidji urgent care clinic",
+            "content": "MedExpress opened in 2017 in a new building on Bemidji's north end, but closed permanently last week along with sister clinics in Duluth and Rochester."
+        }
+    ],
+    "20200901": [
+        {
+            "headline": "Background check: Paramedic turned police officer helps Carmel fend off COVID-19",
+            "content": "Traffic stops, security checks and training exercises are all part of the job for Megan Soultz, a night shift officer for the Carmel Police Dept."
+        },
+        {
+            "headline": "The bizarre reason Amazon drivers are hanging phones in trees near Whole Foods",
+            "content": "The phone-hanging phenomenon is part of a scheme by deliver drivers to game Amazon's Flex app."
+        },
+        {
+            "headline": "VOO: 4 \"Strong Buy\" ETFs that Pay Dividends",
+            "content": "Vanguard S&P 500 ETF(NYSE:VOO): Vanguard S&P 500 ETF (VOO), SPDR Select Sector Fund - Technology (XLK), SPDR Select Sector Fund - Consumer Discretionary..."
+        }
+    ],
+    "20200902": [
+        {
+            "headline": "Valerie Montgomery Rice, MD, FACOG, Board Member of CARE",
+            "content": "Valerie Montgomery Rice, MD, FACOG, is the 6th president and 1st woman to lead Morehouse School of Medicine. She joined CARE's Board in 2020."
+        },
+        {
+            "headline": "Richard Leland Measelle",
+            "content": "Richard (Dick) Leland Measelle died suddenly but peacefully on August 1, 2020 at his home in Devon, England. He was 81 years young."
+        }
+    ],
+    "20200903": [
+        {
+            "headline": "Healthcare provider feud leads to thousands in unexpected anesthesiology fees for new Charlotte parents",
+            "content": "Novant Presbyterian is caught in the middle of a complicated fight between UnitedHealthcare, which insures 1.4 million North Carolinians, and Providence..."
+        },
+        {
+            "headline": "Millions of Americans carry the sickle cell trait, many without knowing it. Could they be at risk for severe Covid-19?",
+            "content": "Researchers are examining whether people who carry one copy of the sickle cell mutation — but do not have the disease — may be more vulnerable to Covid-19."
+        }
+    ],
+    "20200904": [],
+    "20200905": [],
+    "20200906": [],
+    "20200907": [
+        {
+            "headline": "An Austin Doctor Got A COVID-19 Test From His Own Company. It Billed His Insurer Nearly $11,000.",
+            "content": "When Dr. Zachary Sussman went to Physicians Premier ER in Austin for a COVID-19 antibody test, he assumed he would get a freebie because he was a doctor..."
+        }
+    ],
+    "20200908": [
+        {
+            "headline": "World-Champion Gymnast Aly Raisman Partners with Sanvello to Advance Mental Health Solutions",
+            "content": "Sanvello Health, Inc., a leading digital mental health care provider and a UnitedHealth Group (NYSE: UNH) company, today announced a new partnership with..."
+        },
+        {
+            "headline": "Sanvello and Aly Raisman Partner to Address Growing Need for Mental Health Solutions",
+            "content": "Sanvello, a leading digital mental health care provider and a UnitedHealth Group company has a new partnership with world-champion gymnast and wellness..."
+        },
+        {
+            "headline": "Report: State of Artificial Intelligence in India – 2020",
+            "content": "AIM in association with Jigsaw Academy, has developed this study to understand the developments of the AI market in India."
+        }
+    ],
+    "20200909": [
+        {
+            "headline": "An Exclusive Interview with Renowned Health Coach Stephon Clinkscales",
+            "content": "Being healthy in both body and mind has never been more important. Physical health leads to mental health and vice versa."
+        },
+        {
+            "headline": "ExxonMobil hires Medtronic alum Rob Clark as global comms head",
+            "content": "IRVING, TX: ExxonMobil has hired Rob Clark as head of global communications. Clark started in the newly created role on September 1 and reports to Alan..."
+        }
+    ],
+    "20200910": [
+        {
+            "headline": "Scholarship Partner Highlight: UnitedHealth Group",
+            "content": "Images. We would like to wish a warm welcome to UnitedHealth Group - our newest Scholarship Partner! UHG joined the program in August of this year, and started..."
+        }
+    ],
+    "20200911": [
+        {
+            "headline": "UnitedHealth Group CEO: Pandemic pushes providers to take more serious look at shift to value",
+            "content": "More providers are looking at moving to value-based care as a result of the COVID-19 pandemic, UnitedHealth Group CEO David Wichmann said Thursday."
+        },
+        {
+            "headline": "Francois Charette",
+            "content": "When you use an ad blocker or private browsing, and are not logged in as a paid subscriber in this market, we no longer generate the revenue we rely on to..."
+        },
+        {
+            "headline": "Mark Gingrich",
+            "content": "As chief information officer at Surescripts, Mark Gingrich loves being in the middle of health care, where he can positively impact virtually every step of..."
+        }
+    ],
+    "20200912": [],
+    "20200913": [],
+    "20200914": [
+        {
+            "headline": "Better outcomes with AI: Frost & Sullivan names Microsoft the leading AI platform for healthcare IT",
+            "content": "Frost & Sullivan recognized Microsoft as the “undisputed leader” in global Artificial Intelligence (AI) platforms for the Healthcare IT (HCIT) sector."
+        },
+        {
+            "headline": "Assistant Manager(Audit) Vacancy in UnitedHealth Group",
+            "content": "UnitedHealth Group has invited applications for the position is for G25 Business Auditor within Internal Audit & Advisory Services-India Team."
+        }
+    ],
+    "20200915": [],
+    "20200916": [
+        {
+            "headline": "UnitedHealth Group and OptumServe Named Top Military Friendly® Employers",
+            "content": "UnitedHealth Group and OptumServe have been ranked Top Ten in the nation on the 2021 Military Friendly® Employers list. Top-ten recognition is the highest..."
+        },
+        {
+            "headline": "Cigna rebrands health services division, including Express Scripts, as Evernorth",
+            "content": "Evernorth will sell health services geared toward other payers, employers and government businesses, including those without Cigna medical insurance."
+        },
+        {
+            "headline": "The Dow Jones' 5 Most Important Stocks",
+            "content": "There's simply not a stock market index on the planet that has more history behind it than the iconic Dow Jones Industrial Average (^DJI -0.99%)."
+        },
+        {
+            "headline": "Advanced Dermatology and Cosmetic Surgery Announces the Appointment of Brian T. Griffin as Chief Executive Officer",
+            "content": "Advanced Dermatology and Cosmetic Surgery (ADCS), a national leader in dermatology care, today announced that Brian T. Griffin has been appointed as C."
+        }
+    ],
+    "20200917": [
+        {
+            "headline": "UnitedHealthcare Grants MetroHealth $500,000 to Advance Programs that Address Social Determinants of Health",
+            "content": "Cleveland - UnitedHealthcare will provide $500000 in funding to help expand two MetroHealth programs addressing social determinants of health for..."
+        },
+        {
+            "headline": "The Case for Explainable AI (XAI)",
+            "content": "A study revealed concerns over an algorithm being leveraged by UnitedHealth Group to optimize the outcome of hospital visits given certain cost constraints."
+        }
+    ],
+    "20200918": [
+        {
+            "headline": "Best Real Estate Deals honoree: EAB HQ Lease",
+            "content": "It was as close to a “Mission Impossible” scenario as you get in commercial real estate, with too many variables to predict the chances for success."
+        }
+    ],
+    "20200919": [],
+    "20200920": [],
+    "20200921": [
+        {
+            "headline": "UnitedHealth Group: History Of Great Execution And Shareholder Return, But Valuation Is Full (NYSE:UNH)",
+            "content": "UNH is a well-run, diversified healthcare services play that has a strong track record of growth, profitability, and delivering returns for shareholders."
+        },
+        {
+            "headline": "Clinical Decision Support System Market Procurement Intelligence Report with COVID-19 Impact Analysis | Global Forecasts, 2020-2024",
+            "content": "The Clinical Decision Support System market will register an incremental spend of about $1274 million, growing at a CAGR of 17.91%"
+        }
+    ],
+    "20200922": [
+        {
+            "headline": "Training Nurses to Better Serve Armed Forces Service Members",
+            "content": "The United Health Foundation is committing $1.25 million to create a new graduate-level concentration in Military Health as part of a three-year partnership..."
+        },
+        {
+            "headline": "UnitedHealth Group: A Wide Moat In 7 Graphics (NYSE:UNH)",
+            "content": "Since 2011, the share price and Earnings from Operations (EBIT) of UnitedHealth Group (NYSE:UNH) have expanded by factors of ~5x and ~2x, respectively. The..."
+        },
+        {
+            "headline": "Marketing Communications Agency of the Year, Retina, Names Lynn Kozak as Managing Partner in Canada",
+            "content": "Retina continues to accelerate business in Canada, North America and around the world despite challenging economic times."
+        },
+        {
+            "headline": "Optum to hire 500 people in Puerto Rico in 3 years",
+            "content": "Optum, a health services company and part of UnitedHealth Group, is creating more than 100 new jobs in its San Juan operations center in Puerto Rico before the..."
+        },
+        {
+            "headline": "Gregory E. Deavens becomes Independence Blue Cross’ first African American leader as Dan Hilferty retires",
+            "content": "As Gregory E. Deavens takes over, challenges loom with the potential unwinding of the Affordable Care Act and the possible arrival of a new insurance..."
+        }
+    ],
+    "20200923": [
+        {
+            "headline": "UnitedHealth in Talks to Buy Pharmacy Startup DivvyDose",
+            "content": "Health-care giant UnitedHealth Group Inc. is in advanced talks to acquire DivvyDose, an online pharmacy startup, according to people familiar with the..."
+        },
+        {
+            "headline": "Key Dow Stocks Are Plunging – Blame Bernie Sanders",
+            "content": "Key Dow stocks plunged on Wednesday, extending their bearish trend. The culprits? \"Medicare for All\" and its harbinger, Bernie Sanders."
+        },
+        {
+            "headline": "This Is Why the Dow Jones Surged 650 Points Off Its Lows Today",
+            "content": "The Dow Jones did its best to shrug off another dire jobless claims report, even as the White House continues to ramp up pressure on China."
+        }
+    ],
+    "20200924": [
+        {
+            "headline": "Rite Aid: Store And PBM Rebrand ‘Well Underway’",
+            "content": "Rite Aid said the rebranding of stores is “well underway” with a new logo inside and on the exterior of 200 stores and the company renaming and relaunch of its..."
+        },
+        {
+            "headline": "20 Years Of S&P Value & Growth: How Do Indexes Stack Up?",
+            "content": "The S&P 500 Growth and S&P 500 Value indexes are celebrating their 20th birthdays. The two were launched on September 25, 2000. How have they fared since..."
+        }
+    ],
+    "20200925": [],
+    "20200926": [],
+    "20200927": [
+        {
+            "headline": "NMC placed into administration in UAE",
+            "content": "NMC has been placed into administration in the United Arab Emirates, allowing the troubled hospital group to meet September salaries by securing an additional..."
+        }
+    ],
+    "20200928": [
+        {
+            "headline": "United Health Foundation and AARP Foundation join forces to address social isolation among seniors",
+            "content": "The United Health Foundation and AARP Foundation are collaborating to address social isolation and food insecurity among seniors during the COVID-19..."
+        },
+        {
+            "headline": "12 Companies That Hire for Remote Software Developer Jobs",
+            "content": "There are a few well-known names, but many other companies hire software developers, too."
+        },
+        {
+            "headline": "Ransomware hack cripples Universal Health Services hospitals, facilities across the US",
+            "content": "Universal Health Services, one of the nation's largest health care providers, has seen its hospitals and facilities crippled with a massive cyberattack."
+        },
+        {
+            "headline": "Nearly 100,000 establishments that temporarily shut down due to the pandemic are now out of business",
+            "content": "More than 97966 businesses have permanently shut down during pandemic, according to Yelp.com's Local Economic Impact Report."
+        },
+        {
+            "headline": "UPDATE: First victim in Waterloo shooting was “father to be,” second victim was mother from Des Moines",
+            "content": "A second person has died after being injured in a shooting at an unauthorized club in downtown Waterloo on Saturday morning."
+        }
+    ],
+    "20200929": [
+        {
+            "headline": "UnitedHealth has acquired DivvyDose, a competitor to Amazon's PillPack",
+            "content": "UnitedHealth Group, the United States' largest health insurer, has acquired DivvyDose, a start-up that helps patients with chronic illness get their medicines..."
+        },
+        {
+            "headline": "UnitedHealth Group reportedly scoops up digital pharmacy DivvyDose",
+            "content": "The acquisition deal is worth $300 million, per CNBC."
+        },
+        {
+            "headline": "UnitedHealth Acquires Online Pharmacy Startup DivvyDose",
+            "content": "UnitedHealth Group (UHG) has acquired Illinois-based online pharmacy startup DivvyDose for about $300M, according to sources..."
+        },
+        {
+            "headline": "Molina To Buy Affinity Health Plan For $380 Million In Medicaid Deal",
+            "content": "Molina Healthcare said it will buy Affinity Health Plan for $380 million in cash, expanding the health insurer's Medicaid government health benefits..."
+        },
+        {
+            "headline": "Touchless lattes and self-service kiosks: office break rooms go virus-proof",
+            "content": "Coffee companies, such as Keurig Dr. Pepper, Lavazza and Nestle roll out new technology for the COVID-19 era."
+        }
+    ],
+    "20200930": [
+        {
+            "headline": "UnitedHealth Group buys DivvyDose to compete with Amazon's PillPack: report",
+            "content": "UnitedHealth Group is jumping into the online pharmacy space with the acquisition of startup DivvyDose, according to a media report."
+        }
+    ],
     "20201001": [
         {
             "headline": "ScriptDrop Raises $15M Series A For Pharmacy Delivery Platform",
