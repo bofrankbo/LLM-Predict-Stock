@@ -8,7 +8,12 @@
 test.ipynb
 /history_data/tw/taifex
 /history_data/us/dataset
-./__pycache__
+*/__pycache__
 *.pyc
 ./sp
 embeddings.json
+./future_raw
+./TX_raw/
+/history_data/tw/TX_raw
+/history_data/tw/future_raw
+output.png
