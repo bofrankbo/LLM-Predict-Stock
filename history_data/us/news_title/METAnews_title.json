@@ -1,4 +1,657 @@
 {
+    "20200801": [],
+    "20200802": [
+        {
+            "headline": "Microsoft Confirms Talks to Buy TikTok’s U.S. Operation [Video]",
+            "content": "Aug.02 -- Kiersten Todt, managing director at the Cyber Readiness Institute and a former Obama administration official, discusses the prospects for music..."
+        },
+        {
+            "headline": "Luuwit Park Pavilion Project by Skylab Architecture",
+            "content": "Skylab Architecture and the landscape architects from 2.ink Studio worked together with Portland Parks and Recreation to redevelop and create a 16-acre park..."
+        },
+        {
+            "headline": "Turn your profits and losses into lessons with our trade analytics tool",
+            "content": "Use our award-winning platform1 and tools to learn more about your trading strengths and weaknesses – if you have a CFD trading account,..."
+        }
+    ],
+    "20200803": [
+        {
+            "headline": "Microsoft and ByteDance Investors Circle As TikTok Ban Looms",
+            "content": "The Trump administration wants to ban the Chinese app in the U.S. due to national security risks."
+        }
+    ],
+    "20200804": [
+        {
+            "headline": "Intel Beats Estimates, but Stock Crashes on Weak Outlook",
+            "content": "The semiconductor giant has a history of beating quarterly results, but cautious guidance has been a major problem for Intel."
+        }
+    ],
+    "20200805": [
+        {
+            "headline": "MetaBank® Announces Strategic Relationship with H&R Block®",
+            "content": "SIOUX FALLS, S.D., Aug. 05, 2020 (GLOBE NEWSWIRE) -- Meta Financial Group, Inc.'s (Nasdaq: CASH) wholly-owned subsidiary, MetaBank®, N.A. (”Meta”),..."
+        },
+        {
+            "headline": "Pcicrawler: A Python-based command-line interface tool to debug PCI issues at scale",
+            "content": "A Python-based command-line interface tool that can be used to display, filter, and export information about Peripheral Component Interconnect (PCI) or PCI..."
+        },
+        {
+            "headline": "Inverse design of metasurfaces with non-local interactions - npj Computational Materials",
+            "content": "We propose a global evolutionary optimization approach to inverse design non-local metasurfaces. The optimal designs are experimentally validated."
+        },
+        {
+            "headline": "Instagram launches Reels, its attempt to keep you off TikTok",
+            "content": "Reels lets people create short-form videos set to music that can be shared with friends and followers and discovered while browsing the app."
+        },
+        {
+            "headline": "Instagram disables related hashtags feature after bug that appeared to favor Trump",
+            "content": "Instagram has disabled a feature that displays related hashtags under popular phrases on the platform after it was shown not to work properly for some..."
+        },
+        {
+            "headline": "Massive fire breaks out at UAE’s Ajman market",
+            "content": "A massive fire that broke out in a fruits and vegetables market in Ajman on Wednesday evening has been put out."
+        }
+    ],
+    "20200806": [
+        {
+            "headline": "TikTok and privacy: What's the problem? Perhaps the video-sharing app gathers too much data",
+            "content": "TikTok says it keeps users data in the United States and Singapore and won't hand it over to the Chinese government."
+        },
+        {
+            "headline": "Facebook rivals TikTok with launch of video-sharing product inside instagram",
+            "content": "Video-sharing social networking firm, Tik Tok, seems to have more competition as Facebook has rolled out its own version of the product in the US."
+        }
+    ],
+    "20200807": [
+        {
+            "headline": "Is Facebook Stock a Buy?",
+            "content": "The social media company remains in growth mode, but COVID-19 could still have negative effects on the business."
+        }
+    ],
+    "20200808": [
+        {
+            "headline": "Fallen Chattanooga firefighter honored at union firefighter memorial in Colorado",
+            "content": "Senior Firefighter Chad Crisp is now laid to rest after his fight with cancer. The Chattanooga Fire Department released information about his death last..."
+        }
+    ],
+    "20200809": [
+        {
+            "headline": "Clear Channel to roll out billboards ‘with brains’ in Europe",
+            "content": "Clear Channel Outdoor on Monday will announce it is rolling out its Radar tracking product across the continent, seeking to prove the enduring value of outdoor..."
+        }
+    ],
+    "20200810": [
+        {
+            "headline": "New Reports Underline Facebook's Role in Exacerbating Political Divides - But Will Facebook Take Action?",
+            "content": "As part of the ongoing investigation into potential antitrust activity among US tech giants, the CEOs of Google, Facebook, Amazon and Apple all recently..."
+        },
+        {
+            "headline": "Far-right finds new online home in TheDonald.win",
+            "content": "Pro-Trump meme website gains popularity as critics express concern over its role in the spread of hateful content."
+        }
+    ],
+    "20200811": [
+        {
+            "headline": "How We Review Content",
+            "content": "When we began reviewing content on Facebook over a decade ago, our system relied on people to report things they saw and thought were inappropriate."
+        },
+        {
+            "headline": "Independent Audit of Community Standards Enforcement Report Metrics",
+            "content": "We're requesting an independent audit to validate that the metrics we share in our enforcement reports are accurate and useful."
+        },
+        {
+            "headline": "Till raises $8 million in seed funding for flexible rent platform",
+            "content": "Till, a startup that aims to help renters set up customized payment schedules, has raised $8 million in a seed funding round."
+        }
+    ],
+    "20200812": [
+        {
+            "headline": "Assembly methods for nanopore-based metagenomic sequencing: a comparative study",
+            "content": "Metagenomic sequencing has allowed for the recovery of previously unexplored microbial genomes. Whereas short-read sequencing platforms often result in..."
+        },
+        {
+            "headline": "Tesla stock split 2020: what you need to know",
+            "content": "Learn more about the Tesla stock split, including what the split means for current investors and how to take a position."
+        }
+    ],
+    "20200813": [
+        {
+            "headline": "Launching Our US 2020 Voting Information Center",
+            "content": "This new product connects everyone on Facebook and Instagram to accurate and easy-to-find information about voting wherever they live."
+        },
+        {
+            "headline": "Dead by Daylight gets cross-play and cross-friends this very day",
+            "content": "The brand-new features, which will let survivors and killers get together with their pals in-game regardless of platform, arrives this very day."
+        },
+        {
+            "headline": "Web check-in through WhatsApp? Check how and full list of Spicejet services",
+            "content": "SpiceJet customers now can do Web check-in via WhatsApp. Flyers can also check flight schedules, flight ticket cancellation, credit shell, travel guidelines."
+        }
+    ],
+    "20200814": [
+        {
+            "headline": "Paid Online Events for Small Business Recovery",
+            "content": "Facebook will not collect any fees from paid online events while businesses remain closed for the pandemic, until at least August 2021."
+        },
+        {
+            "headline": "Facebook launches free ‘paid online events’ for SMBs and others",
+            "content": "The new all-in-one tool will be free for at least a year, the company says."
+        },
+        {
+            "headline": "Instagram kept deleted photos and messages on its servers for more than a year",
+            "content": "When you delete something from Instagram you expect it to be gone for good. But when security researcher Saugat Pokharel requested a copy of photos and..."
+        },
+        {
+            "headline": "Former FBI lawyer to admit altering email in Russia probe",
+            "content": "Kevin Clinesmith will admit altering an email that helped underpin the continued surveillance of Carter Page, a former Trump campaign adviser, in 2017."
+        },
+        {
+            "headline": "Afternoon Drive presenter Joanne Joseph bids farewell to 702",
+            "content": "Talk radio station 702 announced that the station will be bidding farewell to well-known radio presenter Joanne Joseph on 28 August 2020..."
+        }
+    ],
+    "20200815": [
+        {
+            "headline": "Taxing Facebook, Google not the solution",
+            "content": "With local newspapers ailing, the Australian Government has hit on a seemingly simple solution: force Google and Facebook to subsidise them."
+        }
+    ],
+    "20200816": [],
+    "20200817": [
+        {
+            "headline": "Asynchronous computing @Facebook: Driving efficiency and developer productivity at Facebook scale",
+            "content": "We built Async to manage the different levels of urgency for different types of asynchronous requests. We've reimagined it to scale to billions of requests."
+        }
+    ],
+    "20200818": [],
+    "20200819": [
+        {
+            "headline": "How We’re Supporting Black-Owned Businesses",
+            "content": "We're allocating $40 million in grants to support Black-owned businesses and making it possible for Page admins to label their business as Black-owned."
+        },
+        {
+            "headline": "An Update to How We Address Movements and Organizations Tied to Violence",
+            "content": "Taking action against Facebook Pages, Groups and Instagram accounts tied to QAnon, offline anarchist groups that support violent acts amidst protests,..."
+        },
+        {
+            "headline": "Trump says QAnon adherents ‘love our country’",
+            "content": "Donald Trump defended the rightwing QAnon conspiracy movement on Wednesday, saying its adherents “love our country”, even as Facebook disabled the accounts of..."
+        }
+    ],
+    "20200820": [
+        {
+            "headline": "Integrated Microarray and RNAseq Transcriptomic Analysis of Retinal Pigment Epithelium/Choroid in Age-Related Macular Degeneration",
+            "content": "We report for the first time an integrated transcriptomic analysis of RPE/choroid dysfunction in AMD (mixed stages) based on combining data from publicly..."
+        }
+    ],
+    "20200821": [
+        {
+            "headline": "S P Balasubrahmanyam 'stable', says hospital",
+            "content": "Chennai: Veteran playback singer S P Balasubrahmanyam, battling COVID-19 and on ventilator and ECMO support, was 'stable', the hospital treating him said on..."
+        }
+    ],
+    "20200822": [
+        {
+            "headline": "WTA Charleston Open 2025 Sweepstakes | Official Rules",
+            "content": "The official website of the Women's Tennis Association. Rankings, live scores and more!"
+        },
+        {
+            "headline": "What is Microsoft's MetaOS?",
+            "content": "Microsoft looks to be building a new foundational layer on top of SharePoint, the Office 365 substrate, Azure, Microsoft's machine-learning infrastructure..."
+        }
+    ],
+    "20200823": [
+        {
+            "headline": "3 Ways to Have a Hulu Watch Party",
+            "content": "Do you want to watch Hulu online with friends? Then you need to host your own Hulu watch party. And here are three ways to do so."
+        }
+    ],
+    "20200824": [
+        {
+            "headline": "Scaling services with Shard Manager",
+            "content": "We built Shard Manager as a generic platform that facilitates efficient development and operation of reliable sharded applications."
+        },
+        {
+            "headline": "Improving the Metalens with Liquid Crystal",
+            "content": "Scientists aim to 'revolutionize optics' by combining nanostructured metasurfaces with liquid crystal technology."
+        },
+        {
+            "headline": "A New Update In Google Let Retailers Customise Their Product’s Search Results",
+            "content": "Google is planning to provide a new function for all of the retailers of the platform. The retailers can control the information of their product which..."
+        }
+    ],
+    "20200825": [
+        {
+            "headline": "Introducing the New Facebook Reality Labs",
+            "content": "We're renaming our AR/VR team — Facebook Reality Labs — to encompass the expansive work we're doing to build the next computing platform and help people..."
+        },
+        {
+            "headline": "Making It Easier to Shop and Sell on Our Apps",
+            "content": "Facebook Shop makes it easy for people to find products from businesses they love, discover new ones and make purchases, all in one place."
+        }
+    ],
+    "20200826": [
+        {
+            "headline": "MetaVRse is the XR engine for enterprise",
+            "content": "MetaVRse is a universal 3D creation platform built on an ultra-efficient rendering core to enable photorealistic immersive experiences available on over 7.5..."
+        },
+        {
+            "headline": "Dignitas launches \"_FE\" platform to foster women in gaming",
+            "content": "North American organisation Dignitas, the esports vertical of New Meta Entertainment, has created a new platform, “_FE,” dedicated to championing..."
+        },
+        {
+            "headline": "‘Smash Ultimate’ online tier list drastically shakes up the fighter's meta",
+            "content": "Competitive 'Smash Ultimate' has been limited to online tournament due to the coronavirus pandemic. This has spawned a new breed of \"online tier lists\" that..."
+        }
+    ],
+    "20200827": [
+        {
+            "headline": "Asus ROG teases 'Meta Buffs' GPU launch event for 1st Sept - Graphics - News",
+            "content": "The ROG team have a 'Meta Buffs Launch Event' planned early next week where they will show off the latest ROG wares."
+        }
+    ],
+    "20200828": [
+        {
+            "headline": "Facebook Business Model",
+            "content": "The Facebook business model is a multisided platform. Although other brands have called themselves “social network” before... read more."
+        }
+    ],
+    "20200829": [],
+    "20200830": [],
+    "20200831": [
+        {
+            "headline": "An Update About Changes to Facebook’s Services in Australia",
+            "content": "If Australia's proposed news regulation becomes law, we will reluctantly stop allowing publishers and people in Australia to share local and international..."
+        },
+        {
+            "headline": "MDACP: A Pathogen Genome and Metagenome Analysis Cloud Platform",
+            "content": "Pathogenic microorganism analysis based on next-generation sequencing technology is an important tool for clinical diagnosis, public health surveillance,..."
+        },
+        {
+            "headline": "How Facebook Is Preparing for Myanmar’s 2020 Election",
+            "content": "We're sharing an update on how we're protecting the election in Myanmar, preventing voter suppression, combating hate speech and more."
+        },
+        {
+            "headline": "Containerizing ZooKeeper with Twine: Powering container orchestration from within",
+            "content": "Twine maintains service availability across millions of machines. ZooKeeper provides the primitives that allow distributed systems to handle faults."
+        }
+    ],
+    "20200901": [
+        {
+            "headline": "August 2020 Coordinated Inauthentic Behavior Report",
+            "content": "We're sharing information about the three networks we removed in August as part of our regular CIB reports."
+        },
+        {
+            "headline": "Bond ETFs Are on Track for a Banner Year",
+            "content": "Global stocks notched new all-time highs in August 2020. The Morningstar Global Markets Index--a broad gauge of global stock markets--rose 6% during the..."
+        },
+        {
+            "headline": "Introducing NVIDIA Reflex: Optimize and Measure Latency in Competitive Games",
+            "content": "New NVIDIA Reflex Low Latency Mode coming to Apex Legends, Call of Duty: Black Ops Cold War, Fortnite, Valorant, and more."
+        }
+    ],
+    "20200902": [
+        {
+            "headline": "ROG Announces Meta Buffs Lineup for Leveling Up Gaming Experiences",
+            "content": "New ROG graphics cards, displays, peripherals and routers deliver the best gaming enhancements for conquering the competition."
+        },
+        {
+            "headline": "After Departing Adidas, Jon Wexler Lands at Shopify",
+            "content": "Effective Sept. 14, Wexler will be the VP of Shopify's creator and influencer program, the company announced today."
+        }
+    ],
+    "20200903": [
+        {
+            "headline": "Inside Facebook Reality Labs Research: The Future of Audio",
+            "content": "Behind the scenes with the team working on technology to enable audio presence and perceptual superpowers with AR glasses."
+        },
+        {
+            "headline": "Facebook bans new political ads in the week before Election Day",
+            "content": "The move, aimed at combating misinformation, comes amid Trump's warnings that the vote will be \"rigged.\""
+        },
+        {
+            "headline": "Facebook bans Indian ruling party politician for extremist content",
+            "content": "Facebook has banned a politician from Indian Prime Minister Narendra Modi's ruling party for alleged hate speech after the social media platform came under..."
+        },
+        {
+            "headline": "Bezos, Musk Lead Tech Wealth Retreat as $44 Billion Evaporates",
+            "content": "A banner streak of wealth gains came to an end Thursday for the world's richest technology billionaires."
+        },
+        {
+            "headline": "New Steps to Protect the US Elections",
+            "content": "Mark Zuckerberg announced additional steps we're taking to help secure the integrity of the US elections by encouraging voting, connecting people to..."
+        },
+        {
+            "headline": "Expanding Our Photo and Video Transfer Tool to Dropbox and Koofr",
+            "content": "You can now transfer your photos and videos to Backblaze, a cloud storage company, in addition to Dropbox, Koofr and Google Photos."
+        },
+        {
+            "headline": "Russian troll farm makes US comeback",
+            "content": "Researchers say Peace Data, a small group of about a dozen accounts that hired unwitting American freelancers, is the first known attempt this year by people..."
+        }
+    ],
+    "20200904": [],
+    "20200905": [
+        {
+            "headline": "How to Leverage Uniswap - Ethereum's Noncustodial Defi Trading Platform",
+            "content": "The following review is a detailed explainer of what Uniswap is and how to leverage the dex using an Ethereum wallet like Metamask."
+        }
+    ],
+    "20200906": [
+        {
+            "headline": "The 10 Best Family VR Games To Enjoy With Kids",
+            "content": "We wanted to make this a varied list to give you a lot of choice. As such, when we say a family VR game, we don't necessarily mean just multiplayer titles..."
+        }
+    ],
+    "20200907": [
+        {
+            "headline": "Master the Meta: India bans PUBG Mobile & 117 other apps - what will happen next?",
+            "content": "Master the Meta is a free newsletter focused on analysing the business strategy of the gaming industry. MTM and PG.biz have partnered on a weekly column to..."
+        },
+        {
+            "headline": "Josh Lester - Co-Founder of a Top Door-to-Door Sales Company in Canada",
+            "content": "CALGARY, ALBERTA / ACCESSWIRE / September 7, 2020 / This young man, Joshua Freser Lester, commonly known as Josh Lester from Calgary, is a true inspiration..."
+        }
+    ],
+    "20200908": [
+        {
+            "headline": "FB: Are Shares of Facebook a Buy at this Price?",
+            "content": "Meta Platforms, Inc.(NASDAQ:FB): Facebook, Inc. (FB) seems to be a good buy based on its continued effort to add new features, its solid earnings and..."
+        },
+        {
+            "headline": "Accuindex adds MT5 platform trading",
+            "content": "Metaquotes trading platform developer MetaQuotes has announced that Retail FX and CFDs broker Accuindex Limited now offers its traders MetaTrader 5 (MT5)..."
+        },
+        {
+            "headline": "Sum and Substance (t/a Sumsub) secures £4.61 million Series A investment led by MetaQuotes",
+            "content": "Identity verification platform Sumsub raises $6M in Series A from MetaQuotes. London, September 3, 2020 — Sumsub, an identity verification platform that..."
+        }
+    ],
+    "20200909": [
+        {
+            "headline": "Facebook 'profits from hate' claims engineer who quit",
+            "content": "A Facebook engineer has quit the firm, saying they \"can no longer stomach\" being part of an organisation \"profiting off hate\"."
+        }
+    ],
+    "20200910": [
+        {
+            "headline": "Offering New Ways to Support Our Community",
+            "content": "On World Suicide Prevention Day, we want to raise awareness of a vital public health issue that profoundly affects individuals, their loved ones and the..."
+        },
+        {
+            "headline": "MetaQuotes leads $6 million funding in KYC/AML co Sumsub",
+            "content": "Sumsub provides an efficient AI-powered identity verification and compliance risk management toolkit for KYC/AML purposes."
+        },
+        {
+            "headline": "Artificial intelligence",
+            "content": "Don't miss an update on the latest artificial intelligence news from The Associated Press."
+        },
+        {
+            "headline": "Introducing Facebook Campus",
+            "content": "A college-only space designed to help students connect with fellow classmates no matter where they are."
+        },
+        {
+            "headline": "Rainbow Six Siege’s new season gets a surprise release",
+            "content": "Rainbow Six Siege has deviated from its normal release schedule to drop a sizeable 14GB+ maintenance patch across all platforms. And surprise!"
+        }
+    ],
+    "20200911": [
+        {
+            "headline": "Defying crackdowns, QAnon continues its relentless global spread",
+            "content": "The online phenomenon known as QAnon is evolving beyond its pro-Trump roots and spreading rapidly into new global communities."
+        },
+        {
+            "headline": "GreenTek Packaging launches hemp made disposable utensils",
+            "content": "Eco-friendly packaging solutions and apparel manufacturer GreenTek Packaging has launched the first disposable utensils made from hemp."
+        }
+    ],
+    "20200912": [],
+    "20200913": [
+        {
+            "headline": "Using Custom JavaScript Modules as Static Resources in Salesforce Orgs",
+            "content": "This tutorial will walk you through integrating your custom JavaScript modules with Salesforce Lightning Web Components and use them in Salesforce Orgs."
+        },
+        {
+            "headline": "How to Use MetaMask",
+            "content": "Why should I bother reading this? If you're interested in the Ethereum ecosystem, you need an application like MetaMask. Far more than a simple wallet,..."
+        },
+        {
+            "headline": "PUBG ban: A blessing for other gaming platforms",
+            "content": "The ban on online gaming platform PUBG has proved to be a blessing for other players who have jumped to the occasion to fill the void."
+        }
+    ],
+    "20200914": [
+        {
+            "headline": "Stepping Up the Fight Against Climate Change",
+            "content": "Facebook's global operations will achieve net zero carbon emissions and be 100% supported by renewable energy this year."
+        },
+        {
+            "headline": "Facebook’s Oculus Quest 2 leaks in full via official promo videos",
+            "content": "The Oculus Quest 2 virtual reality headset has leaked yet again, this time in a pair of promotional videos uploaded to a marketing hub run by parent company..."
+        },
+        {
+            "headline": "The next decade: How Facebook is stepping up the fight against climate change",
+            "content": "We have committed to reaching net zero carbon emissions for our global operations and value chain in 2030, to meet the main goals of the Paris Agreement."
+        },
+        {
+            "headline": "Throughput autoscaling: Dynamic sizing for Facebook.com",
+            "content": "Throughput autoscaling estimates a service's capacity requirements based on the amount of work that the service needs to perform throughout the day."
+        }
+    ],
+    "20200915": [
+        {
+            "headline": "New Automated Captions Powered by AI",
+            "content": "Making live video content more accessible by enabling automatic closed captions for Facebook Live and Workplace Live."
+        },
+        {
+            "headline": "Incentives and rewards",
+            "content": "Modernize your incentives with Marqeta's virtual reward cards. Boost loyalty, improve customer experience, and maximize working capital. Get started today!"
+        },
+        {
+            "headline": "Doctor Who joins the Comic Con Metaverse with three panels!",
+            "content": "Doctor Who will have a strong presence at New York Comic Con X MCM Comic Con Metaverse with two exciting panels joining the already announced Doctor Who..."
+        },
+        {
+            "headline": "Xoli Mngambi joins Newzroom Afrika to anchor morning show",
+            "content": "Award-winning television journalist and news anchor Xoli Mngambi will be joining Newzroom Afrika from 1 October 2020 as the host of Newsfeed AM between 9am..."
+        }
+    ],
+    "20200916": [
+        {
+            "headline": "Facebook Connect: Introducing Oculus Quest 2, a Partnership with EssilorLuxottica and More",
+            "content": "Highlights from our seventh annual AR/VR conference — from cutting-edge VR headsets to all-day wearable AR glasses, we talked about building the future."
+        },
+        {
+            "headline": "Facebook Celebrity Boycott Joined By Kim Kardashian West",
+            "content": "Kardashian joins Leonardo DiCaprio, Jennifer Lawrence and others in celebrity boycott of Facebook's Instagram on Wednesday."
+        },
+        {
+            "headline": "Oculus Quest 2 review: better, cheaper VR",
+            "content": "Facebook's Oculus Quest 2 virtual reality headset upgrades and slims down the original Quest with a self-contained design, lower price, and growing catalog..."
+        },
+        {
+            "headline": "Introducing Oculus Quest 2, the Next Generation of All-in-One VR",
+            "content": "Quest 2 pushes the state of VR forward with a redesigned all-in-one form factor, new touch controllers and our highest-resolution display ever."
+        },
+        {
+            "headline": "Oculus Quest 2 review: VR finally goes mainstream",
+            "content": "If you were holding out on VR, now's the time to finally jump in. With the new Quest 2, Facebook-owned Oculus has nearly perfected wireless consumer VR."
+        },
+        {
+            "headline": "New viking DNA research provides unexpected information about who they were",
+            "content": "In the biggest study of its kind, published in the journal Nature Wednesday, researchers found that many Vikings actually had brown hair."
+        },
+        {
+            "headline": "Facebook is discontinuing the Oculus Rift S",
+            "content": "Facebook-owned virtual reality company Oculus is ending sales of the Rift S headset next spring. It's retiring the PC-based VR device to focus on the..."
+        }
+    ],
+    "20200917": [
+        {
+            "headline": "Facebook Business Suite is a new cross-app management tool for SMBs",
+            "content": "Facebook is launching “Facebook Business Suite,” a new mobile app and desktop interface that brings together Facebook and Instagram publishing, messaging and..."
+        },
+        {
+            "headline": "facebook's 'infinite office' is a virtual reality working environment",
+            "content": "at its first ever fully digital AR/VR-focused conference, facebook introduced 'infinite office' – a platform that offers a virtual working environment."
+        },
+        {
+            "headline": "Oculus Quest 2 VR headset review: the virtual escape from Covid-19 we need?",
+            "content": "Cheaper, lighter, crisper screen and more power make for potent standalone virtual reality escapism."
+        },
+        {
+            "headline": "Oculus announces the Quest 2 with higher resolution displays and 90Hz support",
+            "content": "And it starts for $100 less than the previous Quest VR headset. The standalone Oculus Quest headset just got a successor with improvements all around."
+        }
+    ],
+    "20200918": [
+        {
+            "headline": "Opening an Office in Lagos, Nigeria",
+            "content": "We announced we're opening a new Facebook office in Lagos, Nigeria. The office will be home to several teams across our business including Sales, Partnerships,..."
+        },
+        {
+            "headline": "Will Facebook Horizon be the first step toward the metaverse?",
+            "content": "Facebook Horizon, a user-generated virtual reality world that is still in closed beta testing, might be one of the first steps toward creating one."
+        },
+        {
+            "headline": "MT5 Build 2615 upgrades fundamental analysis, strategy tester",
+            "content": "Metatrader series trading platform developer MetaQuotes Software has announced a number of upgrades to its MT5 product. MT5 Build 2615 has added expanded..."
+        },
+        {
+            "headline": "Banks announce loans for Chenya’s solar power plans",
+            "content": "Nine banks yesterday announced two syndicated loans totaling NT$10 billion (US$341.18 million) for Chenya Energy Co Ltd (辰亞能源) to fund its two..."
+        },
+        {
+            "headline": "Customs Redeploys 5 Senior Officers, Appoints DCGs, ACGs",
+            "content": "The Comptroller General, Nigeria Customs Service (NCS), Col. Hameed Ali (Retd), has effected the redeployment of five senior officers."
+        }
+    ],
+    "20200919": [
+        {
+            "headline": "The best messaging apps not owned by Facebook",
+            "content": "Facebook owns Instagram, Messenger, and WhatsApp. Here are the best non-Facebook alternatives."
+        },
+        {
+            "headline": "Pinnick Restates NFF’s Support for Nigeria Pitch Awards",
+            "content": "Mr. Amaju Melvin Pinnick, restated the Federation's support and endorsement for the Nigeria Pitch Awards, with the seventh edition now scheduled for November."
+        },
+        {
+            "headline": "Kidney Disease on the Rise in Nigeria",
+            "content": "According to urologist and kidney transplant surgeon, Dr. Martin Igbokwe, who was on The Arise Interview with Charles Aniagolu, kidney disease is on the..."
+        }
+    ],
+    "20200920": [],
+    "20200921": [
+        {
+            "headline": "Celebrating National Voter Registration Day With a Week of Action",
+            "content": "Facebook has embarked on the largest voting information campaign in American history, with the goal of helping register 4 million eligible voters in the US..."
+        },
+        {
+            "headline": "Mark Harman elected Fellow of the Royal Academy of Engineering",
+            "content": "The Royal Academy of Engineering elected Mark Harman as a Fellow for his achievements, including search-based software engineering and intelligent testing."
+        }
+    ],
+    "20200922": [
+        {
+            "headline": "Removing Coordinated Inauthentic Behavior",
+            "content": "We removed two separate networks for violating our policy against coordinated inauthentic behavior — one originated in China and the other in the..."
+        },
+        {
+            "headline": "Podcast: Jack Oclee-Brown talks KEF LS50 Meta & LS50 Wireless II",
+            "content": "Jack Oclee-Brown — Head of Research & Development at KEF's Kent HQ where new loudspeaker models make their journey from drawing board to pre-production..."
+        }
+    ],
+    "20200923": [
+        {
+            "headline": "Additional Steps to Protect Myanmar’s 2020 Election",
+            "content": "We're announcing some additional steps aimed at protecting the integrity of that election on our platform."
+        },
+        {
+            "headline": "An All‐Optically Controlled Liquid‐Crystal Plasmonic Metasurface Platform",
+            "content": "An all-optical control mechanism of composite metasurfaces is studied, based on rapid laser-induced thermo-optical nonlinearities in nematic liquid crystals (..."
+        },
+        {
+            "headline": "The Digital Trust Report 2020: How US social media users rank nine major social platforms on privacy, safety, misinformation, ad annoyance, and ad relevance",
+            "content": "Insider Intelligence's 2020 Digital Trust Report evaluates US social media users' perceptions of nine major social networks—Facebook, Instagram, LinkedIn,..."
+        }
+    ],
+    "20200924": [
+        {
+            "headline": "Removing Coordinated Inauthentic Behavior",
+            "content": "We removed three separate networks that originated in Russia for violating our policy against foreign or government interference."
+        },
+        {
+            "headline": "Ex-Cambridge Analytica chief banned from directorships",
+            "content": "Alexander Nix, the former chief executive of Cambridge Analytica, has been banned from running limited companies in the UK for seven years."
+        },
+        {
+            "headline": "HMD Global Launches Nokia’s Entry-level Smartphones",
+            "content": "HMD Global, the home of Nokia phones, has announced two new additions to its entry-level smartphone family, the Nokia 3.4 and Nokia 2.4, a new accessories..."
+        }
+    ],
+    "20200925": [],
+    "20200926": [
+        {
+            "headline": "Why the right wing has a massive advantage on Facebook",
+            "content": "Throughout 2020, Democrats have denounced Facebook with growing ferocity as a “right wing echo chamber” with a “conservative bias” that's giving an edge to..."
+        }
+    ],
+    "20200927": [
+        {
+            "headline": "Is Facebook Bad for Society? New Insights on the Company's Approach Raise Important Questions",
+            "content": "Is Facebook a positive or negative influence on society - and does the company, or indeed anybody in a position to enact any type of change, actually care..."
+        }
+    ],
+    "20200928": [
+        {
+            "headline": "US Judge Stops TikTok Ban from Apple App Store, Google Play",
+            "content": "A US judge has issued a temporary injunction preventing a ban on future downloads of the TikTok app. The app had faced being blocked from Apple's App Store and..."
+        },
+        {
+            "headline": "The schools.mk platform can work on almost all computers, mobile phones or tablets purchased in the last 3 years",
+            "content": "The National platform for distance learning (schools.mk) can work on almost all computers, laptops, mobile devices, and tablets purchased in the past three..."
+        },
+        {
+            "headline": "Top 8 Data Science and Machine Learning Instagram Account to Follow",
+            "content": "One of the popular visual social media sites, Instagram has gained much traction over the last few years. Today, Instagram is not just a platform for..."
+        }
+    ],
+    "20200929": [
+        {
+            "headline": "KB building, from industrial-cathedral to fluid offices, by HofmanDujardin and Schipper Bosch",
+            "content": "Vision and design complement each other in this co-creation to renovate a former nylon factory (one of several 1940s factories on a 90-hectare..."
+        },
+        {
+            "headline": "American Mackenzie McDonald, ranked 211th, is Nadal’s next opponent",
+            "content": "The Austrian third seed will play American qualifier Jack Sock in the next round. Thiem, 27, said he was happy he managed a successful transition."
+        }
+    ],
+    "20200930": [
+        {
+            "headline": "Privacy Matters: Cross-App Communication for Instagram and Messenger",
+            "content": "Cross-app communication is an easier way to stay connected with the people you care about, while giving you controls to manage your experience."
+        },
+        {
+            "headline": "Facebook launches cross-platform messaging on Instagram and Messenger",
+            "content": "Facebook has taken its biggest step yet in integrating its various messaging platforms, allowing select users on Messenger and Instagram to message one another..."
+        },
+        {
+            "headline": "Say to Messenger: Introducing New Messaging Features for Instagram",
+            "content": "We're connecting the Messenger and Instagram experiences so it's even easier to stay in touch with friends and family, no matter which app you use."
+        },
+        {
+            "headline": "South Africa Opens Borders to International Travellers",
+            "content": "South Africa has lifted the ban imposed on air travel from African countries. President of South Africa, Cyril Ramaphosa said the ban was lifted to..."
+        },
+        {
+            "headline": "Man City Sign Ruben Dias from Benfica",
+            "content": "Manchester City have signed 23-year-old defender Ruben Dias from Benfica on a six-year deal for about £65m."
+        },
+        {
+            "headline": "Rivers Governor Wike Advocates New Revenue Sharing Formula to Favour Nigerian States",
+            "content": "Rivers State Governor Nyesom Wike has advocated a new revenue sharing formula that will increase the percentage Nigerian states get from the federal government."
+        }
+    ],
     "20201001": [
         {
             "headline": "Taking Legal Action Against Data Scraping",

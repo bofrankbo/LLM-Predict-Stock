@@ -1,4 +1,455 @@
 {
+    "20200801": [
+        {
+            "headline": "Trump says he'll act to ban TikTok in US as soon as Saturday",
+            "content": "NEW YORK (AP) — President Donald Trump said he will take action as soon as Saturday to ban TikTok, a popular Chinese-owned video app that has been a source..."
+        },
+        {
+            "headline": "Nokia C3 pops up on Geekbench",
+            "content": "It's expected to arrive on August 4. A few days ago, an unknown Nokia device codenamed \"GamoraPlus\" was spotted on Geekbench, which we now know is the..."
+        }
+    ],
+    "20200802": [],
+    "20200803": [],
+    "20200804": [
+        {
+            "headline": "Switch ASIC Thoroughbred Sprouts Wings To Attain Unicorn Status",
+            "content": "It takes money to make money, and if you want to break into the switch ASIC business in the datacenter, even if you are a low-cost designer of such chips,"
+        },
+        {
+            "headline": "Nokia C3 arrives with a 5.99\" display and 3,040 mAh battery for $100",
+            "content": "It has an Xpress Key that lets you quickly launch Google Assistant or any other apps installed on the phone. As expected, HMD Global announced a new..."
+        }
+    ],
+    "20200805": [
+        {
+            "headline": "New Hynix plant owners to bring hundreds of manufacturing jobs to Eugene",
+            "content": "The sale of a massive, high-tech but long-empty facility in Eugene now is expected to bring 100 new jobs to the city next year with several hundred more in the..."
+        }
+    ],
+    "20200806": [],
+    "20200807": [
+        {
+            "headline": "Separation Between WiFi And Bluetooth Broken By The Spectra Co-Existence Attack",
+            "content": "Spectra is a new attack class demonstrated in this DEF CON talk, which is focused on Broadcom and Cypress WiFi/Bluetooth combo chips."
+        },
+        {
+            "headline": "How A Raspberry Pi 4 Performs Against Intel's Latest Celeron, Pentium CPUs",
+            "content": "Following the recent Intel Comet Lake Celeron and Pentium CPU benchmarking against other x86_64 Intel/AMD CPUs, here was a bit of fun.."
+        }
+    ],
+    "20200808": [],
+    "20200809": [],
+    "20200810": [
+        {
+            "headline": "Abuse of SendGrid services in Phishing",
+            "content": "In a recent phishing run, Symantec observed SendGrid services being abused to spread phishing web pages through emails. As shown in Figure 1, a phishing email..."
+        },
+        {
+            "headline": "VMware discontinues Datrium hardware and hyperconverged OS, effective immediately",
+            "content": "VMware has killed off the hardware products offered by recently acquired Datrium. Datrium initially had ambitions to become a hyperconverged infrastructure..."
+        },
+        {
+            "headline": "Windsor to Shut Down LCR 5 at Highway 392 for Several Months",
+            "content": "The Town of Windsor will be working to make improvements along Larimer County Road (LCR) 5, which will mean a shutdown at a major intersection."
+        },
+        {
+            "headline": "Findings: 2020 Gartner Magic Quadrant for Privileged Access Management",
+            "content": "The editors at Solutions Review highlight what's changed since the last iteration of Gartner's Magic Quadrant for Privileged Access Management and provide..."
+        }
+    ],
+    "20200811": [],
+    "20200812": [
+        {
+            "headline": "Symantec Integrated Cyber Defense Enables Williams Advanced Engineering to Focus Solely on Solving Complex Problems",
+            "content": "Symantec Integrated Cyber Defense Enables Williams Advanced Engineering to Focus Solely on Solving Complex Problems. In 40+ years of Formula One competition,..."
+        },
+        {
+            "headline": "Penang is the tech haven that's stimulating Malaysia's pandemic recovery",
+            "content": "Malaysia's Penang is home to a sizable electronics and technology hub, featuring Intel, Broadcom. Apple among others; The US-Sino trade war resulted in a..."
+        }
+    ],
+    "20200813": [
+        {
+            "headline": "PRP Buys Broadcom Offices for $355M",
+            "content": "PRP Buys Broadcom Offices for $355M ... Washington, D.C.-based PRP Real Estate Investment Management has closed on its purchase of the two largest buildings at..."
+        },
+        {
+            "headline": "PRP Acquires Broadcom HQ in Irvine for $355M",
+            "content": "PRP's $355-million acquisition represents the largest sale in Orange County since 2017. Located at 15101 and 15191 Alton Parkway."
+        },
+        {
+            "headline": "Review: ASUS GT-AX11000 Gaming Router",
+            "content": "Read our latest update: Review: ASUS GT-AX11000 Gaming Router. Visit our site for leaks, news, and reviews for technology and related trends, cars & more."
+        }
+    ],
+    "20200814": [],
+    "20200815": [],
+    "20200816": [],
+    "20200817": [
+        {
+            "headline": "Dell Global Channel Chief Rola Dagher: 10 Things to Know -",
+            "content": "Dell Technologies rehires Rola Dagher from Cisco & names her global channel chief. Moreover, Dell discloses new structure for worldwide partner program..."
+        },
+        {
+            "headline": "Majlis begins work to remove Zeena from Broadcom",
+            "content": "While the committee had on August 10 made the decision to remove Zeena from the commission, the work can officially commence after an announcement from the..."
+        }
+    ],
+    "20200818": [
+        {
+            "headline": "Tesla working with Broadcom to develop HW4.0 computer: Report",
+            "content": "A new report from the China Times claims Tesla is working on its next generation computer, dubbed HW4.0, with Broadcom and TMSC."
+        },
+        {
+            "headline": "Tesla taps TSMC and Broadcom for 7nm HPC processor coming in 2022",
+            "content": "Elon Musk's Tesla Motors teams with Broadcom to make 7nm HPC chip for its Full Self Driving (FSD) computer, on TSMC 7nm in 2022."
+        },
+        {
+            "headline": "Tesla To Equip Vehicles With 7nm HPC Processor In 2022 Built With Broadcom & TSMC",
+            "content": "Broadcom and Tesla have partnered up to provide the latter's vehicle with a 7nm processor dubbed as HW 4.0. This chip will power Tesla's Full Self Driving (FSD..."
+        },
+        {
+            "headline": "Taking A Deeper Dive Into Marvell’s “Triton” ThunderX3",
+            "content": "Say what you will, but among the many vendors that have tried to break into the datacenter with Arm server chips, Marvell, by virtue of the hard work done."
+        },
+        {
+            "headline": "Marvell Rolls Out Networking Switch Chips for Edge Computing Era",
+            "content": "Marvell Technology rolled out its latest line of networking switch chips and Ethernet PHYs as it fights Broadcom in the market for chips used to manage..."
+        },
+        {
+            "headline": "Tesla’s next-gen Autopilot and infotainment hardware already in development: report",
+            "content": "Tesla is not done rolling out its Hardware 3 retrofits to vehicles with HW2 and HW2.5 yet, but the company is already at work developing its next-generation..."
+        },
+        {
+            "headline": "Tesla is working on HW 4.0 self-driving chip with TSMC for mass production in Q4 2021, report says",
+            "content": "Tesla is working on HW4.0 self-driving chip with semiconductor company TSMC with a timeline for mass production in Q4 2021, according to a new report coming..."
+        },
+        {
+            "headline": "Spotted Lanternfly Trap Nabs Local Teen National Science Fair Award",
+            "content": "Fourteen-year-old Rachel Bergey from Harleysville has won the Broadcom MASTERS $10000 Lemelson Award for Invention with her spotted lanternfly trap."
+        },
+        {
+            "headline": "Intel Tofino2 Next-Gen Programmable Switch Detailed",
+            "content": "At Hot Chips 32 (2020) Intel gave additional detail around their Tofino2 (previously this was “Tofino 2”) programmable switch chip."
+        },
+        {
+            "headline": "Elon Musk’s fortune continues to rise, now the fourth richest person in the world",
+            "content": "As Tesla shares closed at an all-time high yesterday above $1800, CEO Elon Musk became the fourth richest person in the world."
+        }
+    ],
+    "20200819": [
+        {
+            "headline": "Semiconductors Market In Vietnam Analysis Highlights the Impact of COVID-19 (2020-2024) | Growing Use of IoT to Boost the Market Growth | Technavio",
+            "content": "Technavio has been monitoring the semiconductors market in Vietnam and it is poised to grow by USD 6.16 billion during 2020-2024, progressing at a CAGR of..."
+        },
+        {
+            "headline": "Tesla upgrades adaptive air suspension as news of 4D autonomy chip emerges",
+            "content": "New software upgrade for premium Tesla vehicles allows geofenced ride heights and damping, while reports emerge of 4D chip to drive Tesla's autonomy goals."
+        }
+    ],
+    "20200820": [
+        {
+            "headline": "HPE North America: Paul Hunter Succeeds Dan Belanger -",
+            "content": "Paul Hunter will serve as the new managing director for Hewlett Packard Enterprise (HPE) North America. Hunter succeeds Dan Belanger."
+        }
+    ],
+    "20200821": [],
+    "20200822": [],
+    "20200823": [],
+    "20200824": [
+        {
+            "headline": "Synaptics Well On Its Way To A Comeback",
+            "content": "1-Ranked Industry Analyst Patrick Moorhead dives deeper as he tuned into Synaptic's recent Financial Analyst Day, where new CEO Michael Hurlston and the new..."
+        },
+        {
+            "headline": "Palo Alto Networks to acquire incident response firm Crypsis Group for $265M",
+            "content": "Meanwhile, the cybersecurity firm posted better-than-expected Q4 results, thanks in part to work-from-home tailwinds."
+        }
+    ],
+    "20200825": [
+        {
+            "headline": "Veritas Technologies Layoffs 2020: Targeted Cuts At Data Protection Software Provider -",
+            "content": "Veritas Technologies layoffs involved a \"very small workforce reduction.\" Data protection software provider's channel & alliance efforts continue."
+        },
+        {
+            "headline": "2023 Interposers: TSMC Hints at 3400mm2 + 12x HBM in one Package",
+            "content": "The company has now teased further evolution of the technology, projecting 4x reticle size interposers in 2023, housing a total of up to 12 HBM stacks."
+        },
+        {
+            "headline": "Accenture Layoffs 2020: 25,000 Job Cuts Possible, Report Suggests -",
+            "content": "Accenture layoffs could impact 25000 employees or 5 percent of staff at global IT consulting firm, report says. Still, diverse IT consulting revenue stream..."
+        }
+    ],
+    "20200826": [],
+    "20200827": [],
+    "20200828": [
+        {
+            "headline": "Marvell Refocuses Thunder Server Platforms Towards Custom Silicon Business",
+            "content": "The company had made a surprise announcement that they are planning to restructure their server processor development team towards fully custom solutions."
+        }
+    ],
+    "20200829": [],
+    "20200830": [],
+    "20200831": [
+        {
+            "headline": "Broadcom Overtakes Qualcomm for First Place While Nvidia Scores Highest YoY Growth in 2Q20 Revenue Ranking of Global Top Ten IC Design Companies, Says TrendForce",
+            "content": "According to the revenue ranking of top ten IC design companies for 2Q20 compiled by TrendForce, Broadcom was able to capture number one position by surpassing..."
+        },
+        {
+            "headline": "Zoom posts another stellar quarter, with revenue up 355 percent",
+            "content": "The video communications company once again blew past market expectations, thanks to organizations that are planning for long-term remote work needs."
+        }
+    ],
+    "20200901": [
+        {
+            "headline": "Is Your IT Department Aligned With Your Business Outcomes?",
+            "content": "BizOps can help teams put business outcomes at the center of everything, from value management to software development to IT operations. The survey found that..."
+        },
+        {
+            "headline": "Application Specific IC Market Analysis Highlights",
+            "content": "Technavio has been monitoring the application specific IC market and it is poised to grow by USD 4.58 billion during 2020-2024, progressing at a CAGR of over 4..."
+        },
+        {
+            "headline": "Brocade X7 Directors & G720 Switch Released",
+            "content": "Broadcom released the Brocade X7 Directors and G720 Switch, the industry's first Gen 7 64Gb/s Fibre Channel switching platforms."
+        }
+    ],
+    "20200902": [
+        {
+            "headline": "2020 Top 300 MASTERS by Fair ID",
+            "content": "Society for Science & the Public and Broadcom Foundation are proud to announce the Top 300 competitors in the 2020 Broadcom MASTERS® — the nation's premier..."
+        },
+        {
+            "headline": "Broadcom launches first Gen 7 Fibre Channel switches",
+            "content": "Brocade. Broadcom's new Brocade Gen 7 Fibre Channel product set includes cabling, switches, large director-class hub switches and end-point host bus adapters (..."
+        },
+        {
+            "headline": "Chinese prof sent down for 18 months for stealing semiconductor secrets, trying to patent them to cover tracks",
+            "content": "A Chinese professor who stole trade secrets from a Silicon Valley semiconductor company was yesterday sentenced to 18 months in jail and fined $476,835."
+        },
+        {
+            "headline": "Research Report: Global Security Information And Event Management (SIEM) Market 2020-2024|Increase in Cybercrime to Boost Market Growth | Technavio",
+            "content": "Technavio has been monitoring the global security information and event management (SIEM) market size and it is poised to grow by USD 3.94 billion during 2020-..."
+        },
+        {
+            "headline": "Henrico student named among top middle school scientists in the country",
+            "content": "HENRICO COUNTY, Va. -- A Henrico County student has been named one of the top middle school scientists in the nation. Camellia Sharma is a rising Moody..."
+        }
+    ],
+    "20200903": [
+        {
+            "headline": "Broadcom (AVGO) 3rd Quarter Earnings: What to Expect",
+            "content": "Tech earnings over the past week have smashed Wall Street's expectations, suggesting that investors have been right for bidding up high-flyers like..."
+        },
+        {
+            "headline": "GIGABYTE Announces New GPU Servers with Broadcom PCIe Switches",
+            "content": "GIGABYTE Technology, provider of high-performance servers and workstations, announced two new G-series servers, G292-Z44 and G292-Z24, for scientific computing..."
+        },
+        {
+            "headline": "Wyoming State Science Fair opens doors of opportunity",
+            "content": "The Wyoming State Science Fair (WSSF), an outreach program of the University of Wyoming since 1998, opens otherwise inaccessible opportunities for Wyoming..."
+        }
+    ],
+    "20200904": [
+        {
+            "headline": "ASUS RT-AX82U AX5400 Wi-Fi Router Review",
+            "content": "The AX82U offers excellent performance with the possibility of being compatible with upcoming Wi-Fi 6e standards later this year."
+        }
+    ],
+    "20200905": [],
+    "20200906": [
+        {
+            "headline": "Gigabyte G292-Z44 and G292-Z24 AMD EPYC PCIe Gen4 Servers",
+            "content": "The Gigabyte G292-Z44 and G292-Z24 offer not just the PCIe Gen4 connectivity from the AMD EPYC 7002 Series Rome CPUs, but also come equipped with Broadcom PCIe..."
+        },
+        {
+            "headline": "Cheaper 5G Option Tipped For Most New iPhone 12 Models",
+            "content": "Apple's new iPhone 12 range will make a controversial design change which many will not accept..."
+        },
+        {
+            "headline": "Maldives police arrests man who called to set president on fire",
+            "content": "A man who called to “set fire to the president” via a phone call on live television, has been arrested."
+        }
+    ],
+    "20200907": [
+        {
+            "headline": "Guide to Turning a Project TinyMiniMicro Node into a pfSense Firewall",
+            "content": "This build will be based on the low-cost HP EliteDesk 705 G3 Mini. For under $200, can I build a router that comes close to an $800 one?"
+        }
+    ],
+    "20200908": [],
+    "20200909": [
+        {
+            "headline": "Huawei is running out of display suppliers as Samsung and LG bail out, report says",
+            "content": "According to a report by South Korean outlet Chosun Biz (via Android Authority), Korea's LG and Samsung will stop supplying premium smartphone displays to..."
+        }
+    ],
+    "20200910": [
+        {
+            "headline": "Broadcom Next-Gen Jericho Chip Gains Speed, Security",
+            "content": "Broadcom today announced a major update to its Jericho routing chipset. The Jericho2c+ boasts up to 14.4 Tb/s of routing."
+        },
+        {
+            "headline": "Russian Criminal Group Finds New Target: Americans Working at Home (Published 2020)",
+            "content": "A hacking group calling itself Evil Corp., indicted in December, has shown up in corporate networks with sophisticated ransomware."
+        }
+    ],
+    "20200911": [
+        {
+            "headline": "Cyber Security Market- Roadmap for Recovery from COVID-19 | Increase In Use Of Mobile Devices to boost the Market Growth | Technavio",
+            "content": "Technavio has been monitoring the cyber security market and it is poised to grow by USD 138.32 bn during 2020-2024, progressing at a CAGR of almost 13% during..."
+        }
+    ],
+    "20200912": [
+        {
+            "headline": "Enterprise Security Solutions",
+            "content": "Broadcom offers a broad portfolio of embedded security solutions, industry-leading mainframe security and payment authentication software, and a best-in-class..."
+        }
+    ],
+    "20200913": [],
+    "20200914": [
+        {
+            "headline": "Phishing emails use fake Australia Post website to steal credit card details",
+            "content": "Phishing emails use fake Australia Post website to steal credit card details ... Symantec has observed a new wave of phishing attacks that use emails purporting..."
+        },
+        {
+            "headline": "Semiconductor Market - Roadmap for Recovery From COVID-19 | Rising Adoption of Semiconductors ICs in Automobiles to Boost the Market Growth | Technavio",
+            "content": "Technavio has been monitoring the semiconductor market and it is poised to grow by USD 90.80 billion during 2020-2024, progressing at a CAGR of over 4% during..."
+        }
+    ],
+    "20200915": [
+        {
+            "headline": "Broadcom CEO Donates $28 Million To MIT, Fueling Research For Brain Disorders",
+            "content": "Broadcom CEO Hock Tan and retired investment banker and philanthropist Lisa Yang have donated tens of millions of dollars to fund basic research."
+        },
+        {
+            "headline": "New MIT labs to study brain disorders thanks to $28M gift from Broadcom CEO",
+            "content": "The new research center will be led by biotech pioneer Feng Zhang and others, exploring how tools like CRISPR gene-editing could be used to treat brain..."
+        }
+    ],
+    "20200916": [
+        {
+            "headline": "Meet the Broadcom MASTERS 30 finalists – the nation’s top middle school STEM leaders & innovators",
+            "content": "Broadcom Foundation and Society for Science & the Public today announced the 30 finalists in the 10th annual Broadcom MASTERS®, the."
+        },
+        {
+            "headline": "Hamden student named one of the most promising middle school STEM students in USA",
+            "content": "13-year-old Snigtha Mohanraj was ranked a top 30 finalist in the Broadcom MASTERS, which is the United State's premier Science, Technology, Mathematics, and..."
+        },
+        {
+            "headline": "Top 10 Processors Manufacturers in electronic industry",
+            "content": "A small chip 'processor' has a huge role in electronic devices and computers. It receives input and provides the appropriate output."
+        }
+    ],
+    "20200917": [
+        {
+            "headline": "Better Buy: Skyworks Solutions vs. Broadcom",
+            "content": "Broadcom's better-diversified portfolio, lower dependence on Apple, higher dividend, and lower valuation all made it a better all-around investment than..."
+        },
+        {
+            "headline": "Ex-Symantec CEO Greg Clark To Become New Forescout CEO",
+            "content": "Former Symantec CEO Greg Clark is slated to become CEO of Forescout Oct. 1 just weeks after Forescout's contentious sale to Advent International closed."
+        },
+        {
+            "headline": "Young Lamorinda Teen Finalist In National STEM Competition",
+            "content": "Young Lamorinda Teen Finalist In National STEM Competition - Lamorinda, CA - Although he's only 13, Lucas Katz has designed a spherical omnidirectional..."
+        }
+    ],
+    "20200918": [
+        {
+            "headline": "AAPS students among 30 finalists in Broadcom MASTERS—the nation’s top middle school STEM Leaders & Innovators.",
+            "content": "UPDATE Oct. 26, 2020: Anita Gaenko wins first prize in the Engineering category of the Broadcom MASTERS competition."
+        },
+        {
+            "headline": "Broadcom CEO Hock Tan and Wife, Lisa Yang, Give MIT $27 Million (Gifts Roundup)",
+            "content": "Hock Tan and Lisa Yang gave $27 million to establish the K. Lisa Yang and Hock E. Tan Center for Molecular Therapeutics in Neuroscience at the university's..."
+        },
+        {
+            "headline": "AeroCool Introduces The Mirage 5: The Air Cooler That Looks Like An AIO Block",
+            "content": "This CPU air cooler features a cylindrical design, which is considerably different from standard CPU Air coolers."
+        }
+    ],
+    "20200919": [],
+    "20200920": [],
+    "20200921": [
+        {
+            "headline": "Local teen finalist among aspiring scientists, engineers in country",
+            "content": "SAN DIEGO (KGTV) -- Behind the research board project that placed top 300 in the national broadcom master's STEM competition, is Scripps Ranch High's..."
+        },
+        {
+            "headline": "$20 Microscope + Torrey Pine Needle = $45,000 Scholarships",
+            "content": "A 16-year-old senior at the Cambridge School, in Black Mountain, used a relatively inexpensive tool to conduct research that has landed her more than $45000..."
+        }
+    ],
+    "20200922": [
+        {
+            "headline": "Radio Frequency Front-end Module Market - Roadmap for",
+            "content": "Technavio has been monitoring the radio frequency front-end module market and it is poised to grow by USD 13.84 bn during 2020-2024, progressing at a CAGR of..."
+        }
+    ],
+    "20200923": [
+        {
+            "headline": "Washington County student named finalist as a top young scientist",
+            "content": "Ishan Ahluwalia was named one of the most promising middle school STEM students in the country for the Broadcom Masters."
+        },
+        {
+            "headline": "After six years of attacks, Qualcomm finally sees stability return to patent licensing",
+            "content": "Qualcomm has entered into more than 100 5G license agreements to date. (It has over 300 licensees for its 2G, 3G and 4G patents.)"
+        },
+        {
+            "headline": "Top 10 Opto-coupler Companies in the World",
+            "content": "Optical wireless systems, advance growing applications of optocoupler in many end-use industries is driving the growth of Opto-Couplers market."
+        }
+    ],
+    "20200924": [],
+    "20200925": [
+        {
+            "headline": "Engineering a masterful idea: Pegasus School's Ryan Honary a finalist in national science competition",
+            "content": "Honary is a top-30 finalist in the Broadcom MASTERS, a Science, Technology, Engineering, and Mathematics competition for middle school."
+        }
+    ],
+    "20200926": [],
+    "20200927": [
+        {
+            "headline": "Momentum Stock Broadcom (AVGO) May Have Topped Out",
+            "content": "Key Takeaways ... The stock closed Thursday, Sept. 24, at $352.52, up 11.5% year to date and in bull market territory at 126.5% above its March 18 low of $155.67."
+        },
+        {
+            "headline": "Abuse of Google's Firebase services in phishing",
+            "content": "Symantec has observed a new wave of phishing attacks abusing Google Firebase URLs. These phishing emails masquerade as notification messages prompting to..."
+        }
+    ],
+    "20200928": [
+        {
+            "headline": "Fun facts: Broadcom MASTERS 2020 finalists",
+            "content": "Fun facts: Broadcom MASTERS 2020 finalists ... Each of the Broadcom MASTERS 2020 finalists are involved in a variety of extracurricular activities. Photo courtesy..."
+        },
+        {
+            "headline": "AT&T is First in Industry to Deploy Dis-Aggregated Core Router",
+            "content": "AT&T today announced that a next-gen open dis-aggregated core routing platform has been deployed into their production environment with support from Broadcom,..."
+        },
+        {
+            "headline": "Everyday Hero: Teen With Passion For Science Gains National Attention",
+            "content": "13-year-old Vivaana Haval just seems to get it. “I am very excited and motivated by science because I feel like science can help the world,” Haval said."
+        }
+    ],
+    "20200929": [
+        {
+            "headline": "Phishing campaign now impersonates Netflix payment notifications",
+            "content": "A new Netflix phishing campaign that involves the use of carefully crafted emails to lure recipients into revealing their Netflix account login details."
+        }
+    ],
+    "20200930": [
+        {
+            "headline": "It’s Back To The Future For Omni-Path InfiniBand",
+            "content": "The mission is to bring Omni-Path interconnect out of stasis and make it a viable alternative to Nvidia's InfiniBand and Ethernet (formerly from Mellanox)."
+        },
+        {
+            "headline": "Global Application Specific IC Market by Product",
+            "content": "Technavio has been monitoring the application specific IC market and it is poised to grow by USD 4.58 billion during 2020-2024, progressing at a CAGR of over 4..."
+        }
+    ],
     "20201001": [
         {
             "headline": "Melbourne High School's Amelia Curran Named Finalist in Nation’s Premier STEM Competition for Middle Schoolers",

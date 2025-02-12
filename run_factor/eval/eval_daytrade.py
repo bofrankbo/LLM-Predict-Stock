@@ -1,6 +1,7 @@
 import json
 import pandas as pd
 import numpy as np
+import os
 from collections import Counter
 
 
@@ -10,7 +11,11 @@ class EvalDayTrade:
         self.price_his = price_his 
         self.path_out =  f"{env['path_folder']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
         self.training_path = f"out_stock/Training_result/{env['path_folder']}/{env['run_count']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
-    
+        if 'fee' in env:
+            self.fee = env['fee']
+        else:
+            self.fee = 0
+            
     def get_eval_path(self):
         return self.training_path
     
@@ -30,6 +35,7 @@ class EvalDayTrade:
             out_folder = f"{self.training_path}/ac"
         elif mode == 1:
             out_folder = f"{self.training_path}/ev"
+        os.makedirs(out_folder, exist_ok=True)
         with open(f"{out_folder}/result.json", "w", encoding="utf-8") as f:
             json.dump(res, f, ensure_ascii=False, indent=4)
             
@@ -95,6 +101,7 @@ class EvalDayTrade:
             close_price = df_price_his.loc[df_price_his["Date"] == date_str, "Close"].values[0]
             
             rtn = (close_price - open_price) / open_price
+            rtn = rtn - self.fee
 
             
             # print(rtn)

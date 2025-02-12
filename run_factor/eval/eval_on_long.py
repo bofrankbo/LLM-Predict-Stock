@@ -9,7 +9,11 @@ class EvalONLong(EvalDayTrade):
         self.price_his = price_his 
         self.path_out =  f"{env['path_folder']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
         self.training_path = f"out_stock/Training_result/{env['path_folder']}/{env['run_count']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
-
+        if 'fee' in env:
+            self.fee = env['fee']
+        else:
+            self.fee = 0
+        
     def overnight_rtn_list(self, sigs, df_price_his):
         '''
             long-term investment evaluation
@@ -37,6 +41,7 @@ class EvalONLong(EvalDayTrade):
                 if position == 1:
                     # Close
                     rtn = (float(df_price.iloc[0]["Close"]) - enter_price) / enter_price
+                    rtn = rtn - self.fee
                     in_out_list_sig.append([date_str, "close", sig, float(df_price.iloc[0]["Close"])])
                 # elif position == -1:
                 #     # Close
@@ -81,6 +86,7 @@ class EvalONLong(EvalDayTrade):
                 elif position == 1:
                     # Close
                     rtn = (open_price - enter_price) / enter_price
+                    rtn = rtn - self.fee
                     in_out_list_sig.append([date_str, "close", sig, open_price])
                     enter_price = 0
                     position = 0

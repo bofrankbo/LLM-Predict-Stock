@@ -11,7 +11,8 @@ from tqdm import tqdm
 ##################################################
 # 設定爬取的日期範圍和股票清單
 # 一次往前一個月的資料就好
-start_date = datetime(2020, 10, 1)
+# start_date = datetime(2020, 8, 1)
+start_date = datetime(2023, 6, 1)
 end_date = datetime(2024, 12, 31)
 
 data = [
@@ -54,6 +55,13 @@ data = [
     ["WMT", "Walmart", "us"],
     ["UNH", "UnitedHealth Group", "us"],
     ["DIS", "Disney", "us"],
+    
+    ["INTC", "Intel", "us"],
+    ["CSCO", "Cisco", "us"],
+    ["CVX", "Chevron", "us"],
+    ["PG", "Procter & Gamble", "us"],
+    ["HD", "Home Depot", "us"],
+    
     # ["BAC", "Bank of America", "us"],
     # ["PYPL", "PayPal", "us"],
     # ["ADBE", "Adobe", "us"],
