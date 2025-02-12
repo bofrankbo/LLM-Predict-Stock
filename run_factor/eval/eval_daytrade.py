@@ -1,6 +1,7 @@
 import json
 import pandas as pd
 import numpy as np
+import os
 from collections import Counter
 
 
@@ -34,6 +35,7 @@ class EvalDayTrade:
             out_folder = f"{self.training_path}/ac"
         elif mode == 1:
             out_folder = f"{self.training_path}/ev"
+        os.makedirs(out_folder, exist_ok=True)
         with open(f"{out_folder}/result.json", "w", encoding="utf-8") as f:
             json.dump(res, f, ensure_ascii=False, indent=4)
             
