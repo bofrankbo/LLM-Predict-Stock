@@ -12,7 +12,8 @@ from tqdm import tqdm
 # 設定爬取的日期範圍和股票清單
 # 一次往前一個月的資料就好
 # start_date = datetime(2020, 8, 1)
-start_date = datetime(2022, 4, 1)
+# start_date = datetime(2021, 3, 1) goal
+start_date = datetime(2023, 11, 1)
 end_date = datetime(2024, 12, 31)
 
 data = [
@@ -55,26 +56,26 @@ data = [
     ["WMT", "Walmart", "us"],
     ["UNH", "UnitedHealth Group", "us"],
     ["DIS", "Disney", "us"],
-    
     ["INTC", "Intel", "us"],
     ["CSCO", "Cisco", "us"],
     ["CVX", "Chevron", "us"],
     ["PG", "Procter & Gamble", "us"],
     ["HD", "Home Depot", "us"],
-    # ["KO", "Coca-Cola", "us"],
-    # ["VZ", "Verizon", "us"],
-    # ["IBM", "IBM", "us"],
-    # ["GS", "Goldman Sachs", "us"],
-    # ["AXP", "American Express", "us"],
-    # ["JNJ", "Johnson & Johnson", "us"],
-    # ["MMM", "3M", "us"],
-    # ["MCD", "McDonald's", "us"],
-    # ["CAT", "Caterpillar", "us"],
-    # ["NKE", "Nike", "us"],
+    ["BAC", "Bank of America", "us"],
+    ["PYPL", "PayPal", "us"],
+    ["ADBE", "Adobe", "us"],
     
-    # ["BAC", "Bank of America", "us"],
-    # ["PYPL", "PayPal", "us"],
-    # ["ADBE", "Adobe", "us"],
+    ["KO", "Coca-Cola", "us"],
+    ["VZ", "Verizon", "us"],
+    ["IBM", "IBM", "us"],
+    ["GS", "Goldman Sachs", "us"],
+    ["AXP", "American Express", "us"],
+    ["JNJ", "Johnson & Johnson", "us"],
+    ["MMM", "3M", "us"],
+    ["MCD", "McDonald's", "us"],
+    ["CAT", "Caterpillar", "us"],
+    ["NKE", "Nike", "us"],
+    
 ]
 
 ##################################################
