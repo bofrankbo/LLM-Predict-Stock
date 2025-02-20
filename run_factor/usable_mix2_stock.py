@@ -21,9 +21,10 @@ class UsableFactorMix2(Factor):
     def __init__(self, env):
         self.env = env
         self.run_count = env['run_count']
-        self.path_folder = "FactorUsableMix2"
+        self.path_folder = f"FactorUsableMix2/{env['MOV']}"
         self.env['path_folder'] = self.path_folder
         self.eval_mode = "BnH"
+        self.MOV = env['MOV']
         
         # output path
         self.training_path = f"out_stock/Training_result/{self.path_folder}/{str(self.run_count)}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
@@ -56,7 +57,7 @@ class UsableFactorMix2(Factor):
         mask = self.price_his['Date'].apply(lambda d: d.strftime("%Y%m%d") in sorted_date)
         dates = self.price_his.loc[mask]
         for index, row in dates.iterrows():
-            if float(row['Close']) > float(row['EMA60']):
+            if float(row['Close']) > float(row[self.MOV]):
                 upperthenema += 1
         
         if upperthenema > len(dates)/2:

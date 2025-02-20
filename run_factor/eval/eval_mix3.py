@@ -1,9 +1,9 @@
 import pandas as pd
 import numpy as np
 from collections import Counter
-from eval.eval_daytrade import EvalDayTrade
+from eval.eval_overnight import EvalOvernight
 
-class EvalMix3(EvalDayTrade):
+class EvalMix3(EvalOvernight):
     '''
         > EMA => BnH
         < EMA => DayTrade
@@ -12,7 +12,7 @@ class EvalMix3(EvalDayTrade):
         self.env = env
         self.price_his = price_his 
         self.path_out =  f"{env['path_folder']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
-        self.training_path = f"out_stock/Training_result/{env['path_folder']}/{env['MOV']}/{env['run_count']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
+        self.training_path = f"out_stock/Training_result/{env['path_folder']}/{env['run_count']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
 
     def trade_list(self, sigs, df_price_his):
         '''
@@ -87,91 +87,3 @@ class EvalMix3(EvalDayTrade):
             rtn_list.append([date_str, rtn])
 
         return rtn_list, in_out_list_sig
-        
-
-    def eval(self, sig_data, individual):
-        '''
-            Day Trade Eval : Evaluate daily return based on the individual
-        '''
-        # print(individual, end=" ")
-        df_price_his = self.price_his
-        sigs = self.get_sigs(sig_data, individual)
-        gain = []
-        loss = []
-        gain_precision = []
-        loss_precision = []
-        accumulated_rtn_list, in_out_sig_list = self.trade_list(sigs, df_price_his)
-        tp = 0
-        fp = 0
-        tn = 0
-        fn = 0
-        # print(in_out_sig_list)
-        
-        
-        longshort = 'none'
-        enter_price = 0
-        for i, (date_str, state, sig, price) in enumerate(in_out_sig_list):
-
-            if state == "enter":
-                if sig == 1:
-                    longshort = 'long'
-                elif sig == -1:
-                    longshort = 'short'
-                enter_price = price
-                
-            if state == "close":
-                if longshort == 'long':
-                    rtn = (price - enter_price) / enter_price
-                    if rtn > 0:
-                        tp += 1
-                        gain.append(rtn)
-                        gain_precision.append(rtn)
-                    else:
-                        fp += 1
-                        loss.append(rtn)
-                        loss_precision.append(rtn)
-                elif longshort == 'short':
-                    rtn = (enter_price - price) / enter_price
-                    if rtn > 0: 
-                        tn += 1
-                        gain.append(rtn)    
-                    else:
-                        fn += 1
-                        loss.append(rtn)
-                # print(rtn)
-
-        if tp + fp + tn + fn == 0 or tp + fp == 0 or tp + fn == 0:
-            accuracy = precision = recall = ev = precision_ev = 0
-        else:
-            accuracy = (tp + tn) / (tp + fp + tn + fn)
-            precision = tp / (tp + fp)
-            recall = tp / (tp + fn)
-
-            if len(gain) == 0 or len(loss) == 0:
-                ev = 0
-            else:
-                ev = np.mean(gain) * accuracy + np.mean(loss) * (1 - accuracy)
-
-            if len(gain_precision) == 0 or len(loss_precision) == 0:
-                precision_ev = 0
-            else:
-                precision_ev = np.mean(gain_precision) * precision + np.mean(
-                    loss_precision
-                ) * (1 - precision)
-
-        result = {
-            "tp": tp,
-            "fp": fp,
-            "tn": tn,
-            "fn": fn,
-            "avail_count": tp + fp + tn + fn,
-            "accuracy": accuracy,
-            "precision": precision,
-            "recall": recall,
-            "ev": ev,
-            "precision_ev": precision_ev,
-            "rtn_list": accumulated_rtn_list,
-        }
-        # print()
-
-        return result

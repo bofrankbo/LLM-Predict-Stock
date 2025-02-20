@@ -10,7 +10,7 @@ class EvalOvernight(EvalDayTrade):
         self.path_out =  f"{env['path_folder']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
         self.training_path = f"out_stock/Training_result/{env['path_folder']}/{env['run_count']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
 
-    def overnight_rtn_list(self, sigs, df_price_his):
+    def trade_list(self, sigs, df_price_his):
         '''
             long-term investment evaluation
         '''
@@ -106,7 +106,7 @@ class EvalOvernight(EvalDayTrade):
 
     def eval(self, sig_data, individual):
         '''
-            Day Trade Eval : Evaluate daily return based on the individual
+            Evaluate the performance of the individual
         '''
         # print(individual, end=" ")
         df_price_his = self.price_his
@@ -115,7 +115,7 @@ class EvalOvernight(EvalDayTrade):
         loss = []
         gain_precision = []
         loss_precision = []
-        accumulated_rtn_list, in_out_sig_list = self.overnight_rtn_list(sigs, df_price_his)
+        accumulated_rtn_list, in_out_sig_list = self.trade_list(sigs, df_price_his)
         tp = 0
         fp = 0
         tn = 0
@@ -126,7 +126,7 @@ class EvalOvernight(EvalDayTrade):
         longshort = 'none'
         enter_price = 0
         for i, (date_str, state, sig, price) in enumerate(in_out_sig_list):
-
+            # print(date_str, state, sig, price)
             if state == "enter":
                 if sig == 1:
                     longshort = 'long'
@@ -155,24 +155,33 @@ class EvalOvernight(EvalDayTrade):
                         loss.append(rtn)
                 # print(rtn)
 
-        if tp + fp + tn + fn == 0 or tp + fp == 0 or tp + fn == 0:
-            accuracy = precision = recall = ev = precision_ev = 0
+        if tp + fp + tn + fn == 0:
+            accuracy = precision = recall = ev = precision_ev = 0            
         else:
             accuracy = (tp + tn) / (tp + fp + tn + fn)
-            precision = tp / (tp + fp)
-            recall = tp / (tp + fn)
+            if tp + fp == 0:
+                precision = 0
+            else:
+                precision = tp / (tp + fp)
+            if tp + fn == 0:
+                recall = 0
+            else:
+                recall = tp / (tp + fn)
 
             if len(gain) == 0 or len(loss) == 0:
-                ev = 0
+                if len(gain) == 0 and len(loss) == 0:
+                    ev = 0
+                elif len(gain) == 0:
+                    ev = np.mean(loss)
+                elif len(loss) == 0:
+                    ev = np.mean(gain)
             else:
                 ev = np.mean(gain) * accuracy + np.mean(loss) * (1 - accuracy)
 
             if len(gain_precision) == 0 or len(loss_precision) == 0:
                 precision_ev = 0
             else:
-                precision_ev = np.mean(gain_precision) * precision + np.mean(
-                    loss_precision
-                ) * (1 - precision)
+                precision_ev = np.mean(gain_precision) * precision + np.mean(loss_precision) * (1 - precision)
 
         result = {
             "tp": tp,
