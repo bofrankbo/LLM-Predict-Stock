@@ -20,6 +20,7 @@ class EvalDayTrade:
         return self.training_path
     
     def get_result(self, mode):
+        # print(self.training_path)
         if mode == 0:
             out_folder = f"{self.training_path}/ac"
         elif mode == 1:

@@ -56,7 +56,7 @@ data = [
 
 # Set date range (one month prior to current date)
 end_date = datetime(2024, 12, 31)
-start_date = datetime(2024, 3, 1)
+start_date = datetime(2023, 6, 1)
 # start_date = datetime(2021, 3, 1)
 
 # 隨機 User-Agent 列表
