@@ -70,20 +70,19 @@ class Mix2F42(Factor):
         return individual
 
     def training(self, mode, train_datarange, test_datarange):
-        # res = self.eval_module.load_result(mode)
-        # if res == None:
-        gen = 70
-        ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=gen, mode=mode, pop_len=len(self.factors.keys()))
-        individual = ga.run()
-    
-        res_train = self.eval_module.eval(train_datarange, individual)
-        res_test = self.eval_module.eval(test_datarange, individual)
-        res = {
-            "train": res_train,
-            "test": res_test,
-            "individual": individual,
-        }
-        self.eval_module.save_result(res, mode)
+        res = self.eval_module.load_result(mode)
+        if res == None:
+            ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=70, mode=mode, pop_len=len(self.factors.keys()))
+            individual = ga.run()
+        
+            res_train = self.eval_module.eval(train_datarange, individual)
+            res_test = self.eval_module.eval(test_datarange, individual)
+            res = {
+                "train": res_train,
+                "test": res_test,
+                "individual": individual,
+            }
+            self.eval_module.save_result(res, mode)
         return res
     
     def split_exp(self):
