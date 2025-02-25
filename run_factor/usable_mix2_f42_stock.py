@@ -10,21 +10,19 @@ import pandas as pd
 from datetime import datetime
 from langchain_openai import ChatOpenAI
 
-from eval import EvalDayTrade
-from eval import EvalONLong
+from eval import EvalMix2
 from module import GeneticAlgorithm
-from module import UsableGenerator
-from module import UsableExpanding
+from module import GeneratorF42
+from module import ExpandStockF42
 from factor import Factor
 
-class UsableMix2Factors42(Factor):
+class Mix2F42(Factor):
     def __init__(self, env):
         self.env = env
         self.run_count = env['run_count']
-        self.path_folder = f"UsableMix2Factors42"
+        self.path_folder = f"F42"
         self.env['path_folder'] = self.path_folder
         self.eval_mode = "BnH"
-        self.MOV = env['MOV']
         
         # output path
         self.training_path = f"out_stock/Training_result/{self.path_folder}/{str(self.run_count)}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
@@ -43,31 +41,11 @@ class UsableMix2Factors42(Factor):
         
     def run(self):
         # preprocess
-        fac_gen = UsableGenerator(self.env, self.price_his)
-        fac_exp = UsableExpanding(self.env, self.llm, self.price_his)
+        fac_gen = GeneratorF42(self.env, self.price_his)
+        fac_exp = ExpandStockF42(self.env, self.llm, self.price_his)
         self.factors = fac_gen.generate_factors()
         self.exp_data = fac_exp.expanding(self.factors)
-        
-        train_datarange, test_datarange = self.split_exp()
-        # 計算前一季的數據範圍
-        n = len(train_datarange) // 3  # 取整數部分
-
-        sorted_date = list(test_datarange.keys())[-n:]
-        upperthenema = 0
-        mask = self.price_his['Date'].apply(lambda d: d.strftime("%Y%m%d") in sorted_date)
-        dates = self.price_his.loc[mask]
-        for index, row in dates.iterrows():
-            if float(row['Close']) > float(row[self.MOV]):
-                upperthenema += 1
-        
-        if upperthenema > len(dates)/2:
-            print("多頭做BNH")
-            self.eval_mode = "BnH"
-            self.eval_module = EvalONLong(self.env, self.price_his)
-        else:
-            print("空頭做當沖")
-            self.eval_mode = "DT"
-            self.eval_module = EvalDayTrade(self.env, self.price_his)
+        self.eval_module = EvalMix2(self.env, self.price_his)
         
     def get_price_his(self):
         country = self.env['country']
@@ -94,11 +72,9 @@ class UsableMix2Factors42(Factor):
     def training(self, mode, train_datarange, test_datarange):
         res = self.eval_module.load_result(mode)
         if res == None:
-            if self.eval_mode == "BnH":
-                individual = [1] * len(self.factors.keys())
-            else:
-                ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys()))
-                individual = ga.run()
+
+            ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys()))
+            individual = ga.run()
         
             res_train = self.eval_module.eval(train_datarange, individual)
             res_test = self.eval_module.eval(test_datarange, individual)
@@ -156,13 +132,13 @@ class UsableMix2Factors42(Factor):
         return list_date, list_bnh_rtn, list_stag_rtn
     
     def show_sig(self):
-        fac_exp = UsableExpanding(self.env, self.llm, self.price_his)
+        fac_exp = ExpandStockF42(self.env, self.llm, self.price_his)
         fac_exp.show_sig()
         
     def show_individual(self, mode):
         individuals = self.get_individual(mode)
         
-        fac_gen = UsableGenerator(self.env, self.price_his)
+        fac_gen = ExpandStockF42(self.env, self.price_his)
         factors = fac_gen.generate_factors()
         
         i = 0

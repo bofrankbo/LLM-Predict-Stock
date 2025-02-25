@@ -41,21 +41,14 @@ class UsableGenerator:
             }
         elif country == 'us':
             res_factors_json = {
-                "1": "AI Innovations: Breakthroughs in AI models, chips, and foundational technologies.",
-                "2": "Cloud & Data Center Investments: Major cloud and data center expansions globally.",
-                "3": "Technological Leadership: Advancements in AI, security, and cutting-edge technologies.",
-                "4": "Strategic Partnerships: Collaborations with major firms to enhance AI and cloud capabilities.",
-                "5": "Energy Initiatives: Investments in nuclear and renewable energy for AI infrastructure.",
-                "6": "Strong Earnings Reports: Favorable financial performance, especially in AI and cloud sectors.",
-                "7": "Stock Splits & Market Cap Milestones: Events like stock splits and reaching $2T market cap.",
-                "8": "Positive Analyst Ratings: Upgraded stock targets and bullish recommendations.",
-                "9": "Institutional Investments: Large-scale hedge fund and ETF inflows.",
-                "10": "Stock Buybacks & Insider Trading: Insider buying or selling trends indicating confidence.",
-                "11": "Competitor Strengths: Rival companies gaining market share or surpassing valuations.",
-                "12": "Product Criticism & AI Monetization Doubts: Concerns over practical value and revenue generation.",
-                "13": "Regulatory & Legal Scrutiny: Government probes and lawsuits impacting business operations.",
-                "14": "Macroeconomic & Geopolitical Factors: Interest rates, economic slowdowns, and AI export restrictions.",
-                "15": "Sector Competition & AI Market Share: Growing competition in AI and cloud services."
+                "1": "External benefits or policy support: Geopolitical easing, government support, or improvement in external environments.",
+                "2": "Revenue or financial performance: Record-high revenue, exceeding expectations, or falling short of expectations.",
+                "3": "Market sentiment or economic impact: Optimistic or panicked market sentiment, overall economic slowdown, or improvement.",
+                "4": "Competitive pressure: Intensified industry competition, exceptional performance by peers, or heightened competition within the industry affecting market share and company valuation.",
+                "5": "Product innovation and new technology launches: Launching new products or technologies that attract investor attention and boost market confidence.",
+                "6": "Market sentiment and analyst predictions: Investor sentiment and optimistic analyst forecasts have a significant impact on stock price fluctuations.",
+                "7": "Supply chain and production challenges: Changes or delays in the supply chain during production processes may negatively impact the company's stock price.",
+                "8": "Internal restructuring and layoff trends: Structural adjustments, layoffs, or reorganizations within the company may raise concerns about stability in the market."
             }
 
         with open(self.path_factors, 'w', encoding='utf-8') as f:
