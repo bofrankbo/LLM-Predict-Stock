@@ -3,7 +3,7 @@ from datetime import datetime
 
 from eval.eval_bnh import EvalBnH
 from eval.eval_daytrade import EvalDayTrade
-from eval.eval_overnight import EvalOvernight
+# from eval.eval_overnight import EvalOvernight
 
 class EvalMix2(EvalDayTrade):
     def __init__(self, env, price_his):
@@ -45,7 +45,7 @@ class EvalMix2(EvalDayTrade):
         else:
             # print("空頭做 Day Trade 策略")
             self.eval_mode = "Day_Trade"
-            self.eval_module = EvalOvernight(self.env, self.price_his)
+            self.eval_module = EvalDayTrade(self.env, self.price_his)
             # set individual[0~42] to 1
         # print(individual, len(individual), self.eval_mode)
         res = self.eval_module.eval(datarange, individual[:42])
