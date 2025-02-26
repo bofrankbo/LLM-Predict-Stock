@@ -11,7 +11,7 @@ from datetime import datetime
 from langchain_openai import ChatOpenAI
 
 from eval import EvalDayTrade
-from eval import EvalONLong
+from eval import EvalBnH
 from module import GeneticAlgorithm
 from module import UsableGenerator
 from module import UsableExpanding
@@ -63,7 +63,7 @@ class UsableFactorMix2(Factor):
         if upperthenema > len(dates)/2:
             print("多頭做BNH")
             self.eval_mode = "BnH"
-            self.eval_module = EvalONLong(self.env, self.price_his)
+            self.eval_module = EvalBnH(self.env, self.price_his)
         else:
             print("空頭做當沖")
             self.eval_mode = "DT"

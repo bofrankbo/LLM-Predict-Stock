@@ -72,7 +72,7 @@ class Mix2F42(Factor):
     def training(self, mode, train_datarange, test_datarange):
         res = self.eval_module.load_result(mode)
         if res == None:
-            ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=5, mode=mode, pop_len=len(self.factors.keys())+8)
+            ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys())+8)
             individual = ga.run()
             # print(len(individual), individual)
             res_train = self.eval_module.eval(train_datarange, individual.copy())
