@@ -73,7 +73,8 @@ class GeneticAlgorithm:
             if self.individual_score.get(str(individual)):
                 return self.individual_score[str(individual)]
         
-        result = self.eval_func(self.datarange, individual)
+        new_indv = individual.copy()
+        result = self.eval_func(self.datarange, new_indv)
         score = result['accuracy'] if self.mode == 0 else result['ev']
         self.individual_score[str(individual)] = score
 
@@ -127,4 +128,14 @@ class GeneticAlgorithm:
             self.save_state({'generation': self.current_generation + 1, 'population': self.current_population, 'individual_score': self.individual_score})
             self.save_generation_results(self.current_generation + 1, best_individual, best_fitness)
 
-        return best_individual
+        # 從 state.json 中取得最佳個體
+        
+        best_individual = max(self.individual_score, key=self.individual_score.get)
+        # best_individual = "[0, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1]"
+        # switch to list, element to int
+        best_fitness = self.individual_score[best_individual]
+        list_best_individual = best_individual.replace("[", "").replace("]", "").replace(" ", "").split(",")
+        list_best_individual = [int(i) for i in list_best_individual]
+        # print(list_best_individual)
+        
+        return list_best_individual

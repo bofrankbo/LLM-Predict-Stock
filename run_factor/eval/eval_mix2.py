@@ -1,8 +1,9 @@
 import pandas as pd
 from datetime import datetime
 
-from eval.eval_on_long import EvalONLong
+from eval.eval_bnh import EvalBnH
 from eval.eval_daytrade import EvalDayTrade
+from eval.eval_overnight import EvalOvernight
 
 class EvalMix2(EvalDayTrade):
     def __init__(self, env, price_his):
@@ -28,6 +29,7 @@ class EvalMix2(EvalDayTrade):
         # 取得前一季的所有價格資料
         n = len(df_price_his) // 4  # 取整數部分
         
+        # print(len(individual))
         df_price_his = df_price_his.iloc[-2*n:-n]
         upperthenema = 0
         # interate through df_price_his
@@ -36,15 +38,16 @@ class EvalMix2(EvalDayTrade):
                 upperthenema += 1
                 
         if upperthenema > len(df_price_his)/2:
-            # print("多頭做 ON Long 策略")
-            self.eval_mode = "ON_Long"
-            self.eval_module = EvalONLong(self.env, self.price_his)
-            individual[:42] = [1]*42
+            # print("多頭做 Buy and Hold 策略")
+            self.eval_mode = "Buy_and_Hold"
+            self.eval_module = EvalBnH(self.env, self.price_his)
+            # individual[:42] = [1]*42
         else:
             # print("空頭做 Day Trade 策略")
             self.eval_mode = "Day_Trade"
-            self.eval_module = EvalDayTrade(self.env, self.price_his)
+            self.eval_module = EvalOvernight(self.env, self.price_his)
             # set individual[0~42] to 1
-        print(individual)
+        # print(individual, len(individual), self.eval_mode)
         res = self.eval_module.eval(datarange, individual[:42])
+        res['eval_mode'] = self.eval_mode
         return res
