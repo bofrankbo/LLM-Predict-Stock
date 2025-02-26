@@ -39,10 +39,12 @@ class EvalMix2(EvalDayTrade):
             # print("多頭做 ON Long 策略")
             self.eval_mode = "ON_Long"
             self.eval_module = EvalONLong(self.env, self.price_his)
+            individual[:42] = [1]*42
         else:
             # print("空頭做 Day Trade 策略")
             self.eval_mode = "Day_Trade"
             self.eval_module = EvalDayTrade(self.env, self.price_his)
-        
+            # set individual[0~42] to 1
+        print(individual)
         res = self.eval_module.eval(datarange, individual[:42])
         return res
