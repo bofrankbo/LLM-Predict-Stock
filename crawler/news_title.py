@@ -13,43 +13,48 @@ from tqdm import tqdm
 # 一次往前一個月的資料就好
 # start_date = datetime(2020, 8, 1)
 # start_date = datetime(2021, 3, 1) # goal
-start_date = datetime(2022, 3, 1)
+start_date = datetime(2021, 3, 1)
 end_date = datetime(2024, 12, 31)
 
 data = [
-    # Dow Jones Industrial Average Components (alphabetically by symbol)
+    # DJIA 
+    ["AAPL", "Apple Inc.", "us"],
     ["AMGN", "Amgen", "us"],
     ["AMZN", "Amazon inc.", "us"],
-    ["AAPL", "Apple Inc.", "us"],
     ["AXP", "American Express", "us"],
     ["BA", "Boeing", "us"],
-    ["BAC", "Bank of America", "us"],
-    ["CAT", "Caterpillar", "us"],
-    ["CVX", "Chevron", "us"],
+    ["CAT", "Caterpillar Inc.", "us"],
     ["CSCO", "Cisco", "us"],
+    ["CVX", "Chevron", "us"],
     ["KO", "Coca-Cola", "us"],
-    ["CRM", "Salesforce", "us"],
+    ["CRM", "Salesforce", "us"],    # 10
     ["DIS", "Disney", "us"],
-    ["DOW", "Dow Inc.", "us"],
     ["GS", "Goldman Sachs", "us"],
     ["HD", "Home Depot", "us"],
     ["HON", "Honeywell", "us"],
     ["IBM", "IBM", "us"],
-    ["INTC", "Intel", "us"],
     ["JNJ", "Johnson & Johnson", "us"],
     ["JPM", "JPMorgan Chase", "us"],
-    # ["MCD", "McDonald's", "us"],
-    # ["MRK", "Merck", "us"],
-    # ["MSFT", "Microsoft", "us"],
+    ["MCD", "McDonald's", "us"],
+    ["MRK", "Merck", "us"],
+    ["MSFT", "Microsoft", "us"],    # 20
     # ["MMM", "3M", "us"],
     # ["NKE", "Nike", "us"],
+    # ["NVDA", "Nvidia", "us"],
     # ["PG", "Procter & Gamble", "us"],
+    # ["SHW", "Sherwin-Williams", "us"],
     # ["TRV", "Travelers", "us"],
     # ["UNH", "UnitedHealth Group", "us"],
     # ["VZ", "Verizon", "us"],
-    # ["WMT", "Walmart", "us"],
+    # ["V", "Visa", "us"],
+    # ["WMT", "Walmart", "us"],   # 30
     
-    # Additional US stocks
+    # Removed from DJIA in past 3 years
+    # ["INTC", "Intel", "us"],
+    # ["DOW", "Dow Inc.", "us"],
+    # ["WBA", "Walgreens Boots Alliance", "us"],
+    
+    # Not in DJIA
     # ["ADBE", "Adobe", "us"],
     # ["AVGO", "Broadcom", "us"],
     # ["BRK", "Berkshire Hathaway", "us"],
@@ -59,6 +64,7 @@ data = [
     # ["NVDA", "Nvidia", "us"],
     # ["PYPL", "PayPal", "us"],
     # ["TSLA", "Tesla", "us"],
+    # ["BAC", "Bank of America", "us"],
     
 ]
 

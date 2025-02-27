@@ -52,14 +52,14 @@ class UsableFactorMix2(Factor):
         # 計算前一季的數據範圍
         n = len(train_datarange) // 3  # 取整數部分
 
-        sorted_date = list(test_datarange.keys())[-n:]
+        sorted_date = list(train_datarange.keys())[-n:]
         upperthenema = 0
         mask = self.price_his['Date'].apply(lambda d: d.strftime("%Y%m%d") in sorted_date)
         dates = self.price_his.loc[mask]
         for index, row in dates.iterrows():
             if float(row['Close']) > float(row[self.MOV]):
                 upperthenema += 1
-        
+    
         if upperthenema > len(dates)/2:
             print("多頭做BNH")
             self.eval_mode = "BnH"
@@ -95,7 +95,7 @@ class UsableFactorMix2(Factor):
         res = self.eval_module.load_result(mode)
         if res == None:
             if self.eval_mode == "BnH":
-                individual = [1] * len(self.factors.keys())
+                individual = [0] * len(self.factors.keys())
             else:
                 ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys()))
                 individual = ga.run()
