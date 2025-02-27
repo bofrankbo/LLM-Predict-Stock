@@ -13,7 +13,7 @@ from tqdm import tqdm
 # 一次往前一個月的資料就好
 # start_date = datetime(2020, 8, 1)
 # start_date = datetime(2021, 3, 1) # goal
-start_date = datetime(2021, 3, 1)
+start_date = datetime(2022, 3, 1)
 end_date = datetime(2024, 12, 31)
 
 data = [
@@ -34,10 +34,10 @@ data = [
     ["GS", "Goldman Sachs", "us"],
     ["HD", "Home Depot", "us"],
     ["HON", "Honeywell", "us"],
-    # ["IBM", "IBM", "us"],
-    # ["INTC", "Intel", "us"],
-    # ["JNJ", "Johnson & Johnson", "us"],
-    # ["JPM", "JPMorgan Chase", "us"],
+    ["IBM", "IBM", "us"],
+    ["INTC", "Intel", "us"],
+    ["JNJ", "Johnson & Johnson", "us"],
+    ["JPM", "JPMorgan Chase", "us"],
     # ["MCD", "McDonald's", "us"],
     # ["MRK", "Merck", "us"],
     # ["MSFT", "Microsoft", "us"],
