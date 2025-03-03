@@ -45,7 +45,7 @@ class Mix4F24(Factor):
         fac_exp = ExpandStockF24(self.env, self.llm, self.price_his)
         self.factors = fac_gen.generate_factors()
         self.exp_data = fac_exp.expanding(self.factors)
-        self.eval_module = EvalBigRunMix2(self.env, self.price_his)
+        self.eval_module = EvalBigRunMix4(self.env, self.price_his.copy())
         
     def get_price_his(self):
         country = self.env['country']
@@ -84,7 +84,6 @@ class Mix4F24(Factor):
                 "individual": individual,
             }
             self.eval_module.save_result(res, mode)
-        print(res['test']['eval_mode'])
         return res
     
     def split_exp(self):

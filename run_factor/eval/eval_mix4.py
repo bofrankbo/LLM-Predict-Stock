@@ -10,6 +10,9 @@ class EvalMix4(EvalOvernight):
     '''
     def __init__(self, env, price_his):
         self.env = env
+        price_his["Date"] = pd.to_datetime(price_his["Date"], format="%Y%m%d")
+        price_his.set_index("Date", inplace=True)
+        price_his.sort_index(inplace=True)
         self.price_his = price_his 
         self.path_out =  f"{env['path_folder']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
         self.training_path = f"out_stock/Training_result/{env['path_folder']}/{env['run_count']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
@@ -23,27 +26,20 @@ class EvalMix4(EvalOvernight):
         position = 0
         enter_price = 0
         MOV = self.env['MOV']
+        # print(f"MOV: {MOV}")
 
         for date_str, sig in sigs:
             date = pd.to_datetime(date_str, format="%Y%m%d")
-            df_price = df_price_his[df_price_his["Date"] == date] # Price data for the day
+            df_price = df_price_his.loc[[date]]
             if df_price.empty:
                 continue
             
             # get the previous 60 days price data
-            pre60_price = df_price_his[df_price_his["Date"] < date].tail(60)
-            upperthenema = 0
-            for i in range(1, 61):
-                if pre60_price.iloc[-i]["Close"] > pre60_price.iloc[-i][MOV]:
-                    upperthenema += 1
-
-            
-            current_index = df_price_his.index[df_price_his["Date"] == date].tolist()[0]
-            price_t_1 = df_price_his.iloc[current_index - 1]  # Previous day's price data
+            pre60_price = df_price_his.loc[df_price_his.index < date].tail(60)
+            upperthenema = (pre60_price["Close"] > pre60_price[MOV]).sum()
 
             open_price = df_price.iloc[0]["Open"]
             close_price = df_price.iloc[0]["Close"]
-            ema_60 = df_price.iloc[0][MOV]
 
             # Last trading day handling
             if date_str == sigs[-1][0]:

@@ -13,7 +13,7 @@ from tqdm import tqdm
 # 一次往前一個月的資料就好
 # start_date = datetime(2020, 8, 1)
 # start_date = datetime(2021, 3, 1) # goal
-start_date = datetime(2021, 3, 1)
+start_date = datetime(2023, 3, 1)
 end_date = datetime(2024, 12, 31)
 
 data = [
@@ -23,12 +23,11 @@ data = [
     ["AMZN", "Amazon inc.", "us"],
     ["AXP", "American Express", "us"],
     ["BA", "Boeing", "us"],
-    ["CAT", "Caterpillar Inc.", "us"],
     ["CSCO", "Cisco", "us"],
     ["CVX", "Chevron", "us"],
     ["KO", "Coca-Cola", "us"],
-    ["CRM", "Salesforce", "us"],    # 10
-    ["DIS", "Disney", "us"],
+    ["CRM", "Salesforce", "us"],    
+    ["DIS", "Disney", "us"],    # 10
     ["GS", "Goldman Sachs", "us"],
     ["HD", "Home Depot", "us"],
     ["HON", "Honeywell", "us"],
@@ -37,17 +36,18 @@ data = [
     ["JPM", "JPMorgan Chase", "us"],
     ["MCD", "McDonald's", "us"],
     ["MRK", "Merck", "us"],
-    ["MSFT", "Microsoft", "us"],    # 20
-    # ["MMM", "3M", "us"],
-    # ["NKE", "Nike", "us"],
-    # ["NVDA", "Nvidia", "us"],
-    # ["PG", "Procter & Gamble", "us"],
-    # ["SHW", "Sherwin-Williams", "us"],
-    # ["TRV", "Travelers", "us"],
-    # ["UNH", "UnitedHealth Group", "us"],
-    # ["VZ", "Verizon", "us"],
-    # ["V", "Visa", "us"],
-    # ["WMT", "Walmart", "us"],   # 30
+    ["MSFT", "Microsoft", "us"],   
+    ["CAT", "Caterpillar Inc.", "us"],  # 20
+    ["MMM", "3M", "us"],
+    ["NKE", "Nike", "us"],
+    ["NVDA", "Nvidia", "us"],
+    ["PG", "Procter & Gamble", "us"],
+    ["SHW", "Sherwin-Williams", "us"],
+    ["TRV", "Travelers", "us"],
+    ["UNH", "UnitedHealth Group", "us"],
+    ["VZ", "Verizon", "us"],
+    ["V", "Visa", "us"],
+    ["WMT", "Walmart", "us"],   # 30
     
     # Removed from DJIA in past 3 years
     # ["INTC", "Intel", "us"],

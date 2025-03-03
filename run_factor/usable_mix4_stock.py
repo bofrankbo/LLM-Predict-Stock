@@ -20,7 +20,7 @@ class UsableFactorMix4(Factor):
     def __init__(self, env):
         self.env = env
         self.run_count = env['run_count']
-        self.path_folder = "FactorUsableMix4"
+        self.path_folder = f"FactorUsableMix4/{env['MOV']}"
         self.env['path_folder'] = self.path_folder
         
         # output path
@@ -44,7 +44,7 @@ class UsableFactorMix4(Factor):
         fac_exp = UsableExpanding(self.env, self.llm, self.price_his)
         self.factors = fac_gen.generate_factors()
         self.exp_data = fac_exp.expanding(self.factors)
-        self.eval_module = EvalMix4(self.env, self.price_his)
+        self.eval_module = EvalMix4(self.env, self.price_his.copy())
 
         
     def get_price_his(self):
@@ -73,7 +73,7 @@ class UsableFactorMix4(Factor):
         res = self.eval_module.load_result(mode)
         if res == None:
 
-            ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=20, mode=mode, pop_len=len(self.factors.keys()))
+            ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys()))
             individual = ga.run()
         
             res_train = self.eval_module.eval(train_datarange, individual)
