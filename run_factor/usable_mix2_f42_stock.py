@@ -10,7 +10,7 @@ import pandas as pd
 from datetime import datetime
 from langchain_openai import ChatOpenAI
 
-from eval import EvalMix2
+from eval import EvalBigRunMix2
 from module import GeneticAlgorithm
 from module import GeneratorF42
 from module import ExpandStockF42
@@ -45,7 +45,7 @@ class Mix2F42(Factor):
         fac_exp = ExpandStockF42(self.env, self.llm, self.price_his)
         self.factors = fac_gen.generate_factors()
         self.exp_data = fac_exp.expanding(self.factors)
-        self.eval_module = EvalMix2(self.env, self.price_his)
+        self.eval_module = EvalBigRunMix2(self.env, self.price_his)
         
     def get_price_his(self):
         country = self.env['country']

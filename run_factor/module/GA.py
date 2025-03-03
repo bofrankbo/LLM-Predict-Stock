@@ -63,7 +63,9 @@ class GeneticAlgorithm:
     def generate_population(self):
         population = []
         for _ in range(self.population_size):
-            individual = [random.randint(0, 1) for _ in range(self.population_length)]
+            # 前8個因子固定為1，其他隨機
+            individual = [1, 1, 1, 1, 1, 1, 1, 1] + [random.randint(0, 1) for _ in range(self.population_length - 8)]
+            # individual = [random.randint(0, 1) for _ in range(self.population_length)]
             population.append(individual)
         return population
 

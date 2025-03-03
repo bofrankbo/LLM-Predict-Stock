@@ -5,7 +5,7 @@ from eval.eval_bnh import EvalBnH
 from eval.eval_daytrade import EvalDayTrade
 # from eval.eval_overnight import EvalOvernight
 
-class EvalMix2(EvalDayTrade):
+class EvalBigRunMix2(EvalDayTrade):
     def __init__(self, env, price_his):
         self.env = env
         self.price_his = price_his

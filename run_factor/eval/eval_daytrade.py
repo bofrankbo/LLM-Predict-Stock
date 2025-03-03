@@ -70,7 +70,8 @@ class EvalDayTrade:
             sig = 0
             for i in range(len(individual)):
                 if individual[i] == 1:
-                    daily_sigs.append(value["skeleton"][f"{str(i+1)}"]["sig"])
+                    if str(i+1) in value["skeleton"]:
+                        daily_sigs.append(value["skeleton"][f"{str(i+1)}"]["sig"])
 
                 if len(daily_sigs) > 0:
                     count = Counter(daily_sigs)
