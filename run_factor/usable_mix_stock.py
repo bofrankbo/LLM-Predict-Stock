@@ -50,7 +50,7 @@ class UsableFactorMix(Factor):
         # 計算前一季的數據範圍
         n = len(train_datarange) // 3  # 取整數部分
 
-        sorted_date = list(test_datarange.keys())[-n:]
+        sorted_date = list(train_datarange.keys())[-n:]
         upperthenema = 0
         mask = self.price_his['Date'].apply(lambda d: d.strftime("%Y%m%d") in sorted_date)
         dates = self.price_his.loc[mask]

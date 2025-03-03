@@ -19,14 +19,14 @@ end_date = datetime(2024, 12, 31)
 data = [
     # DJIA 
     ["AAPL", "Apple Inc.", "us"],
-    ["AMGN", "Amgen", "us"],
     ["AMZN", "Amazon inc.", "us"],
     ["AXP", "American Express", "us"],
+    ["AMGN", "Amgen", "us"],
     ["BA", "Boeing", "us"],
-    ["CSCO", "Cisco", "us"],
     ["CVX", "Chevron", "us"],
-    ["KO", "Coca-Cola", "us"],
+    ["CSCO", "Cisco", "us"],
     ["CRM", "Salesforce", "us"],    
+    ["KO", "Coca-Cola", "us"],
     ["DIS", "Disney", "us"],    # 10
     ["GS", "Goldman Sachs", "us"],
     ["HD", "Home Depot", "us"],

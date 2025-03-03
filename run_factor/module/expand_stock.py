@@ -3,6 +3,7 @@ import os
 import json
 import pandas as pd
 from datetime import datetime, timedelta
+from pathlib import Path
 
 # 儲存的日期是判斷日期，非新聞日期
 # 以判斷日期為準
@@ -175,8 +176,11 @@ class FactorExpanding:
             "output_data": output_data,
         }
         
-        os.makedirs(os.path.dirname(self.path_expand), exist_ok=True)
-        with open(self.path_expand, 'w', encoding="utf-8") as f:
+        # Use pathlib to create a valid, OS-specific path
+        safe_path = Path(self.path_expand)
+        safe_path.parent.mkdir(parents=True, exist_ok=True)
+
+        with safe_path.open('w', encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        
+
         return data
