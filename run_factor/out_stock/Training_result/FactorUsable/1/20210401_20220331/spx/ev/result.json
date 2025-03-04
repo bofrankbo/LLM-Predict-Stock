@@ -775,10 +775,10 @@
         "tn": 0,
         "fn": 0,
         "avail_count": 2,
-        "accuracy": 0,
-        "precision": 0,
+        "accuracy": 0.0,
+        "precision": 0.0,
         "recall": 0,
-        "ev": 0,
+        "ev": -0.02790690170672942,
         "precision_ev": 0,
         "rtn_list": [
             [
