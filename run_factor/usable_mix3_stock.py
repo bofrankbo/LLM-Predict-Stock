@@ -10,17 +10,17 @@ import pandas as pd
 from datetime import datetime
 from langchain_openai import ChatOpenAI
 
-from eval import EvalBigRunMix2
+from eval import EvalMix3
 from module import GeneticAlgorithm
-from module import GeneratorF42
-from module import ExpandStockF42
+from module import UsableGenerator
+from module import UsableExpanding
 from factor import Factor
 
-class Mix2F42(Factor):
+class UsableMix3(Factor):
     def __init__(self, env):
         self.env = env
         self.run_count = env['run_count']
-        self.path_folder = f"F42"
+        self.path_folder = f"UsableMix3"
         self.env['path_folder'] = self.path_folder
         self.eval_mode = "BnH"
         
@@ -41,11 +41,11 @@ class Mix2F42(Factor):
         
     def run(self):
         # preprocess
-        fac_gen = GeneratorF42(self.env, self.price_his)
-        fac_exp = ExpandStockF42(self.env, self.llm, self.price_his)
+        fac_gen = UsableGenerator(self.env, self.price_his)
+        fac_exp = UsableExpanding(self.env, self.llm, self.price_his)
         self.factors = fac_gen.generate_factors()
         self.exp_data = fac_exp.expanding(self.factors)
-        self.eval_module = EvalBigRunMix2(self.env, self.price_his)
+        self.eval_module = EvalMix3(self.env, self.price_his)
         
     def get_price_his(self):
         country = self.env['country']
@@ -72,6 +72,7 @@ class Mix2F42(Factor):
     def training(self, mode, train_datarange, test_datarange):
         res = self.eval_module.load_result(mode)
         if res == None:
+            # print(len(self.factors.keys())+8)
             ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys())+8)
             individual = ga.run()
             # print(len(individual), individual)
@@ -132,13 +133,13 @@ class Mix2F42(Factor):
         return list_date, list_bnh_rtn, list_stag_rtn
     
     def show_sig(self):
-        fac_exp = ExpandStockF42(self.env, self.llm, self.price_his)
+        fac_exp = UsableExpanding(self.env, self.llm, self.price_his)
         fac_exp.show_sig()
         
     def show_individual(self, mode):
         individuals = self.get_individual(mode)
         
-        fac_gen = ExpandStockF42(self.env, self.price_his)
+        fac_gen = UsableExpanding(self.env, self.price_his)
         factors = fac_gen.generate_factors()
         
         i = 0
