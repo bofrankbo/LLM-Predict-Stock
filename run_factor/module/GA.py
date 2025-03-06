@@ -67,10 +67,10 @@ class GeneticAlgorithm:
             # individual = [1, 1, 1, 1, 1, 1, 1, 1] + [random.randint(0, 1) for _ in range(self.population_length - 8)]
             
             # 32個因子，前8個隨機，第二個8個設成2進位的60，第三個8個設成2進位的60，最後8個設成2進位的128
-            individual = [random.randint(0, 1) for _ in range(8)] + [int(i) for i in list(format(60, '08b'))] + [int(i) for i in list(format(60, '08b'))] + [int(i) for i in list(format(128, '08b'))]
+            # individual = [random.randint(0, 1) for _ in range(8)] + [int(i) for i in list(format(60, '08b'))] + [int(i) for i in list(format(60, '08b'))] + [int(i) for i in list(format(128, '08b'))]
             
             # 一般 individual
-            # individual = [random.randint(0, 1) for _ in range(self.population_length)]
+            individual = [random.randint(0, 1) for _ in range(self.population_length)]
             population.append(individual)
         return population
 

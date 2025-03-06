@@ -1,50 +1,50 @@
-{"generation": 1, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 2, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 3, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 4, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 5, "best_individual": [1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.0010862249594798404}
-{"generation": 6, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 7, "best_individual": [1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.0010074152699785723}
-{"generation": 8, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 9, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 10, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 11, "best_individual": [1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001014539394939242}
-{"generation": 12, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 13, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 14, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 15, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 16, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 17, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 18, "best_individual": [1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.00101095972743668}
-{"generation": 19, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0], "best_fitness": 0.001169891181790068}
-{"generation": 20, "best_individual": [1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.0010862249594798404}
-{"generation": 21, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 22, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 23, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 24, "best_individual": [1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001014539394939242}
-{"generation": 25, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 26, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 27, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 28, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 29, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 30, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 31, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 32, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 33, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 34, "best_individual": [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.0011555125046755267}
-{"generation": 35, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 36, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 37, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 38, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 39, "best_individual": [1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001014539394939242}
-{"generation": 40, "best_individual": [1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001014539394939242}
-{"generation": 41, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 42, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 43, "best_individual": [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.0012178973509362444}
-{"generation": 44, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 45, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 46, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 47, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 48, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 49, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
-{"generation": 50, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], "best_fitness": 0.001169891181790068}
+{"generation": 1, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0], "best_fitness": 0.001169891181790068}
+{"generation": 2, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0], "best_fitness": 0.001169891181790068}
+{"generation": 3, "best_individual": [1, 0, 1, 0, 1, 0, 1, 0], "best_fitness": 0.0012330225807472132}
+{"generation": 4, "best_individual": [1, 0, 1, 0, 1, 0, 1, 0], "best_fitness": 0.0012330225807472132}
+{"generation": 5, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 6, "best_individual": [1, 0, 1, 0, 1, 1, 0, 0], "best_fitness": 0.0012454554698637884}
+{"generation": 7, "best_individual": [1, 0, 1, 0, 0, 0, 0, 0], "best_fitness": 0.0012178973509362444}
+{"generation": 8, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 9, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0], "best_fitness": 0.001169891181790068}
+{"generation": 10, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 11, "best_individual": [1, 0, 1, 0, 1, 1, 0, 0], "best_fitness": 0.0012454554698637884}
+{"generation": 12, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 13, "best_individual": [1, 0, 1, 0, 1, 0, 1, 0], "best_fitness": 0.0012330225807472132}
+{"generation": 14, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 15, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 16, "best_individual": [1, 0, 1, 0, 1, 1, 0, 0], "best_fitness": 0.0012454554698637884}
+{"generation": 17, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 18, "best_individual": [1, 0, 1, 0, 0, 0, 0, 0], "best_fitness": 0.0012178973509362444}
+{"generation": 19, "best_individual": [1, 0, 1, 0, 1, 0, 1, 0], "best_fitness": 0.0012330225807472132}
+{"generation": 20, "best_individual": [1, 0, 1, 0, 1, 1, 0, 0], "best_fitness": 0.0012454554698637884}
+{"generation": 21, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 22, "best_individual": [1, 0, 1, 0, 1, 1, 0, 0], "best_fitness": 0.0012454554698637884}
+{"generation": 23, "best_individual": [1, 0, 1, 0, 1, 1, 0, 0], "best_fitness": 0.0012454554698637884}
+{"generation": 24, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 25, "best_individual": [1, 0, 1, 0, 1, 0, 1, 0], "best_fitness": 0.0012330225807472132}
+{"generation": 26, "best_individual": [1, 0, 1, 0, 0, 0, 0, 0], "best_fitness": 0.0012178973509362444}
+{"generation": 27, "best_individual": [1, 0, 1, 0, 1, 0, 1, 0], "best_fitness": 0.0012330225807472132}
+{"generation": 28, "best_individual": [1, 0, 1, 0, 0, 0, 0, 0], "best_fitness": 0.0012178973509362444}
+{"generation": 29, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 30, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 31, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 32, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 33, "best_individual": [1, 0, 1, 0, 1, 1, 0, 0], "best_fitness": 0.0012454554698637884}
+{"generation": 34, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0], "best_fitness": 0.001169891181790068}
+{"generation": 35, "best_individual": [1, 0, 1, 0, 1, 0, 1, 0], "best_fitness": 0.0012330225807472132}
+{"generation": 36, "best_individual": [1, 0, 1, 0, 1, 0, 1, 0], "best_fitness": 0.0012330225807472132}
+{"generation": 37, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 38, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 39, "best_individual": [1, 0, 0, 0, 0, 1, 0, 0], "best_fitness": 0.001169891181790068}
+{"generation": 40, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 41, "best_individual": [1, 0, 1, 0, 1, 1, 0, 0], "best_fitness": 0.0012454554698637884}
+{"generation": 42, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 43, "best_individual": [1, 0, 1, 0, 1, 0, 1, 0], "best_fitness": 0.0012330225807472132}
+{"generation": 44, "best_individual": [1, 0, 1, 0, 1, 0, 0, 0], "best_fitness": 0.0011942312100543416}
+{"generation": 45, "best_individual": [0, 1, 1, 0, 1, 0, 1, 0], "best_fitness": 0.0010181702726946395}
+{"generation": 46, "best_individual": [1, 0, 1, 0, 1, 0, 1, 0], "best_fitness": 0.0012330225807472132}
+{"generation": 47, "best_individual": [1, 0, 1, 0, 1, 0, 1, 0], "best_fitness": 0.0012330225807472132}
+{"generation": 48, "best_individual": [1, 0, 1, 0, 0, 0, 0, 0], "best_fitness": 0.0012178973509362444}
+{"generation": 49, "best_individual": [1, 0, 1, 0, 1, 0, 1, 0], "best_fitness": 0.0012330225807472132}
+{"generation": 50, "best_individual": [1, 0, 1, 0, 1, 0, 1, 0], "best_fitness": 0.0012330225807472132}

@@ -11,7 +11,7 @@ from datetime import datetime
 from langchain_openai import ChatOpenAI
 
 from eval import EvalUsablePlus24
-from module import GeneticAlgorithm
+from module import GA_UsablePlus24
 from module import UsableGenerator
 from module import UsableExpanding
 from factor import Factor
@@ -73,7 +73,7 @@ class UsablePlus24_stock(Factor):
         res = self.eval_module.load_result(mode)
         if res == None:
             # print(len(self.factors.keys())+8)
-            ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys())+24)
+            ga = GA_UsablePlus24(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys())+24)
             individual = ga.run()
             # print(len(individual), individual)
             res_train = self.eval_module.eval(train_datarange, individual.copy())

@@ -2,6 +2,7 @@ from .embed import Embedding
 from .GA import GeneticAlgorithm
 from .GA_MOV import GeneticAlgorithmMOV
 from .GA_Volatility import GeneticAlgorithmVIX
+from .GA_usable_plus24 import GA_UsablePlus24
 
 from .generator_stock import FactorGenerator
 from .generator_idx import Generator_Index
