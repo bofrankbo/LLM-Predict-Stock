@@ -25,8 +25,8 @@ class UsableFactorDT(Factor):
         self.env['path_folder'] = self.path_folder
         
         # output path
-        self.training_path = f"out_stock/Training_result/{self.path_folder}/{str(self.run_count)}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
-        self.similarity_threshold = 0.8
+        self.training_path = f"out_stock/Training_result/{self.path_folder}/{str(self.run_count)}/{env['start_date']}_{env['end_date']}_tv{env['tv']}/{env['stock_id']}"
+        self.env['training_path'] = self.training_path
         
         # get history data
         self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"
@@ -45,6 +45,7 @@ class UsableFactorDT(Factor):
         fac_exp = UsableExpanding(self.env, self.llm, self.price_his)
         self.factors = fac_gen.generate_factors()
         self.exp_data = fac_exp.expanding(self.factors)
+        self.eval_module = EvalDayTrade(self.env, self.price_his)
         
     def get_price_his(self):
         country = self.env['country']
@@ -69,22 +70,21 @@ class UsableFactorDT(Factor):
         return individual
 
     def training(self, mode, train_datarange, test_datarange):
-        eval_module = EvalDayTrade(self.env, self.price_his)
-        ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys()))
-        individual = ga.run()
-        
-        res_train = eval_module.eval(train_datarange, individual)
-        res_test = eval_module.eval(test_datarange, individual)
-        res = {
-            "train": res_train,
-            "test": res_test,
-            "individual": individual,
-        }
-        eval_module.save_result(res, mode)
-
-        return res
+        res = self.eval_module.get_result(mode)
+        if res == None:
+            ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys()))
+            individual = ga.run()
+            
+            res_train = self.eval_module.eval(train_datarange, individual)
+            res_test = self.eval_module.eval(test_datarange, individual)
+            res = {
+                "train": res_train,
+                "test": res_test,
+                "individual": individual,
+            }
+            self.eval_module.save_result(res, mode)
     
-    def split_exp(self):
+    def split_exp(self, tv=15):
         start_day = datetime.strptime(self.env['start_date'], '%Y%m%d')
         end_day = datetime.strptime(self.env['end_date'], '%Y%m%d')
 
@@ -92,7 +92,7 @@ class UsableFactorDT(Factor):
 
         # split to training and testing
         total_days = (end_day - start_day).days + 1
-        split_point = int(total_days * 3 / 4)
+        split_point = int(total_days * tv / 21)
         training_end_day = start_day + timedelta(days=split_point - 1)
         testing_start_day = training_end_day + timedelta(days=1)
         train_datarange = {}
@@ -113,20 +113,20 @@ class UsableFactorDT(Factor):
         res = eval_module.get_result(mode)
         return res
     
-    def get_return_list(self):
+    def get_return_list(self, type='test'):
         eval_module = EvalDayTrade(self.env, self.price_his)
         result = eval_module.get_result(1)
-        res_test = result['test']
+        res_test = result[type]
         df_price_his = self.price_his
-        
+        price_dict = df_price_his.set_index(df_price_his['Date'].dt.strftime('%Y%m%d'))['Close'].to_dict()
+
         list_date = []
         list_bnh_rtn = []
         list_stag_rtn = []
-
+    
         for date, rtn in res_test['rtn_list']:
-            # print(rtn)
             list_date.append(date)
-            list_bnh_rtn.append(df_price_his[df_price_his['Date'].dt.strftime('%Y%m%d') == date]['Close'].values[0])
+            list_bnh_rtn.append(price_dict.get(date, None))  # 若 date 不存在，回傳 None 避免錯誤
             list_stag_rtn.append(rtn)
             
         return list_date, list_bnh_rtn, list_stag_rtn

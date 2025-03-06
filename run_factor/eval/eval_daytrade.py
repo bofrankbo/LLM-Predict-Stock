@@ -9,8 +9,7 @@ class EvalDayTrade:
     def __init__(self, env, price_his):
         self.env = env
         self.price_his = price_his 
-        self.path_out =  f"{env['path_folder']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
-        self.training_path = f"out_stock/Training_result/{env['path_folder']}/{env['run_count']}/{env['start_date']}_{env['end_date']}/{env['stock_id']}"
+        self.training_path = self.env['training_path']
         if 'fee' in env:
             self.fee = env['fee']
         else:
