@@ -66,7 +66,6 @@ class TV_UsableFactorDT(Factor):
         with open(f"{out_folder}/result.json", "r", encoding="utf-8") as f:
             res = json.load(f)
             individual = res['individual']
-        print(individual, "individual")
         return individual
 
     def training(self, mode, train_datarange, test_datarange):
@@ -135,15 +134,17 @@ class TV_UsableFactorDT(Factor):
         fac_exp = UsableExpanding(self.env, self.llm, self.price_his)
         fac_exp.show_sig()
         
-    def show_individual(self, mode):
+    def get_individual_with_factors(self, mode):
         individuals = self.get_individual(mode)
-        
         fac_gen = UsableGenerator(self.env, self.price_his)
         factors = fac_gen.generate_factors()
+        text = f"{individuals}\n"
         
         i = 0
         for key, value in factors.items():
             if individuals[i] == 1:
-                print(key, value)
+                text += f"{key} {value}\n"
             i += 1
-        print("")
+        text += "\n"
+        return individuals, text
+        
