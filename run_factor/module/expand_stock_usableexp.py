@@ -61,7 +61,7 @@ class UsableExpExpanding(FactorExpanding):
                 print(f"\tdate {str_news_date} was not fetched, skip {str_sig_date}")
                 continue    
             if str_sig_date in output_data:
-                if len(output_data[str_sig_date]["skeleton"]) == 16:
+                if len(output_data[str_sig_date]["skeleton"]) == len(key_list):
                     # print(f"\t{str_sig_date} already processed, skip")
                     continue
             
@@ -128,7 +128,7 @@ class UsableExpExpanding(FactorExpanding):
                 if len(batch) > 0:
                     res = self.llm.batch(batch)
                 
-                    print("Ungenerated list", question_key_list)
+                    # print("Ungenerated list", question_key_list)
                     for idx, key in enumerate(question_key_list):
                         sig = 0
                         sig_str = res[idx].content.split("Reason")[0]
