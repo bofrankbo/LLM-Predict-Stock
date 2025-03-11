@@ -37,6 +37,7 @@ class UsableExpExpanding(FactorExpanding):
         
         key_list = list(factors.keys())
         value_list = list(factors.values())
+        # print(f"Expanding factors length: {len(key_list)}")
         
         with open(self.path_news_file, 'r', encoding='utf-8') as f:
             news_data = json.load(f)
