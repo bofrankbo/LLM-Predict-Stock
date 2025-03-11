@@ -129,7 +129,7 @@ class UsableExpExpanding(FactorExpanding):
                 if len(batch) > 0:
                     res = self.llm.batch(batch)
                 
-                    # print("Ungenerated list", question_key_list)
+                    print("Ungenerated list", question_key_list)
                     for idx, key in enumerate(question_key_list):
                         sig = 0
                         sig_str = res[idx].content.split("Reason")[0]
