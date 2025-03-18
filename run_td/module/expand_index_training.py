@@ -4,21 +4,55 @@ import re
 import textwrap
 import pandas as pd
 from datetime import datetime, timedelta
-from module.expand_stock import FactorExpanding
+
 from langchain_openai import ChatOpenAI
+
+from module.expand_stock import FactorExpanding
 
 # 儲存的日期是判斷日期，非新聞日期
 # 以判斷日期為準
-class Index_UsableExpanding(FactorExpanding):
-    def __init__(self, env, date):
+class ExpandIndex(FactorExpanding):
+    def __init__(self, env, llm, price_his):
         self.env = env
-        self.date = date
+        self.llm = llm
+        self.price_his = price_his
+        self.path_expand = f"run_td/out_stock/Expands/FactorUsable/{env['stock_id']}/expand.json" 
         self.llm = ChatOpenAI(
             openai_api_key = os.getenv('OPENAI_API_KEY'),
             model='gpt-4o-mini',
             temperature=1,
         )
-        self.path_expand = f"run_td/out_stock/Expands/FactorUsable/{env['stock_id']}/expand.json"    # 輸出 JSON 檔案
+        
+        # history data path
+        self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"
+    
+    def get_index_news(self, str_news_date, components):
+        # return int, 1 means has news, 0 means no news, -1 means news did not fetch
+        hasNews = False
+        text_news = "today's news: \n"
+        for stock in components:
+            path_news_file = f"{os.getcwd()}/history_data/{stock[2]}/news_titles/{stock[0]}news_title.json"
+            with open(path_news_file, 'r', encoding='utf-8') as f:
+                news_data = json.load(f)
+            try:
+                news_list = news_data[str_news_date]
+                hasNews = True
+                if len(news_list) > 0:
+                    print(f"\t{stock[0]} date {str_news_date} news found")
+                    for news in news_list:
+                        headline = news.get("headline")
+                        # content = news.get("content")
+                        # text_news += f"### {headline}\n{content}\n\n"
+                        text_news += f"{headline}\n"
+            except Exception as e:
+                print(f"\t{stock[0]} date {str_news_date} was not fetched, skip")
+                return -1, ''
+        
+        if hasNews == False:
+            return 0, 'No news found'
+        else:
+            return 1, text_news
+            
         
     def expanding(self, factors):
         '''
@@ -29,81 +63,49 @@ class Index_UsableExpanding(FactorExpanding):
             if old data is empty, then create a new one
         '''
         env = self.env
-        stock_id = env['stock_id'] # 股票代號
-        country = env['country'] # 國家
+        stock_id = env['stock_id']
+        country = env['country']
+        st = datetime.strptime(env['start_date'], '%Y%m%d')
+        et = datetime.strptime(env['end_date'], '%Y%m%d')
+        df_price_his = self.price_his.copy()
+        df_price_his['Date'] = pd.to_datetime(df_price_his['Date'], format='%Y%m%d')
+        df_price_his = df_price_his[(st <= df_price_his['Date']) & (df_price_his['Date'] <= et)]
         
         key_list = list(factors.keys())
         value_list = list(factors.values())
-        
-        pre_date = self.date - timedelta(days=1)
-        str_news_date = pre_date.strftime('%Y%m%d')
-        str_sig_date = self.date.strftime('%Y%m%d')
 
         old_data = None
         if os.path.exists(self.path_expand):
             with open(self.path_expand, "r", encoding="utf-8") as f:
                 old_data = json.load(f)
+        
+        # make old_data if old_data exists
         if old_data is None:
             output_data = {}
         else:
             output_data = old_data['output_data']
-            if str_sig_date in output_data:
-                # print(f"\t{str_sig_date} already processed, skip")
-                return output_data
             
-        print(f"Processing for date {str_sig_date}", end="")
-        text_news = "today's news: \n"
-        hasnews = False
-        for stock in env["components"]:
-            
-            path_news_file = f"{os.getcwd()}/history_data/{stock[2]}/news_titles/{stock[0]}news_title.json"
-            with open(path_news_file, 'r', encoding='utf-8') as f:
-                news_data = json.load(f)
         
-            if str_news_date not in news_data:
-                print(f"\t{stock[0]} date {str_news_date} was not fetched, skip {str_sig_date}")
-                continue    
+        
+        news_date = df_price_his.iloc[i]['Date'] - timedelta(days=1)    # get T-1 date
+        str_news_date = news_date.strftime('%Y%m%d')
+        str_sig_date = df_price_his.iloc[i]['Date'].strftime('%Y%m%d')  # get T date
 
-            news_list = news_data[str_news_date]
-
-            if len(news_list) > 0:
-                # print(f"\t{stock[0]} {str_news_date} news found")
-                hasnews = True
-                for news in news_list:
-                    headline = news.get("headline")
-                    # content = news.get("content")
-                    # text_news += f"### {headline}\n{content}\n\n"
-                    text_news += f"{headline}\n"
-            else:
-                # print(f"\t{stock[0]} no news found in {str_news_date}")
-                pass
-                # print(text_news)
-            
-        if hasnews:
-            print(f"\t{str_news_date} news found")
+        print(f"Processing for date {str_sig_date}", end="")
+        code_get_news, text_news = self.get_index_news(str_news_date, env["components"])
+        
+        if code_get_news == 1:
+            skeleton_res = {}
             batch = []
-            for factor in value_list:
-                if country == "us":
-                    messages = [
-                        ("system", "You are an expert in the financial field and will answer users' questions about stock movment."),
-                        ("human",
-                        textwrap.dedent(f"""
-                        If bad news affects the stock price but does not significantly impact the company’s future outlook, it is often a good investment opportunity.
-
-                        Please evaluate the following news:
-                        Will it severely impact the future economy due to {factor}?
-
-                        Today’s news: {text_news}
-
-                        If the future economic outlook is not seriously challenged, reply yes.
-                        If the economy will face severe negative impacts in the future, reply no.
-                        If it is uncertain, reply unknown.
-                        
-                        Respond in the following format. You only need to give a single judgment based on all the news headlines:
-                        Judgment: #yes/#no/#unknown. Try to avoid answering "unknown."
-                        Reason: Provide a **very brief** explanation in 1-2 sentences!
-                        """).strip())
-                    ]
+            question_key_list = []
+            for key, factor in zip(key_list, value_list):
+                if str_sig_date in output_data:
+                    if key in output_data[str_sig_date]["skeleton"]:
+                        skeleton_res[key] = output_data[str_sig_date]["skeleton"][key]
+                        # print(f"\t{key} already processed, skip")
+                
+                elif country == "us":
+                    # print(f"\t{key} not processed yet")
                     # messages = [
                     #     ("system", "You are an expert in the financial sector."),
                     #     ("human",
@@ -121,6 +123,8 @@ class Index_UsableExpanding(FactorExpanding):
                     #     **Reason:** Provide a **very brief** explanation in **1-2 sentences**!
                     #     """).strip())
                     # ]
+                    batch.append(messages)
+                    question_key_list.append(key)
                 elif country == "tw":
                     messages = [
                         ("system", "你是一個厲害的金融領域專家"),
@@ -136,11 +140,10 @@ class Index_UsableExpanding(FactorExpanding):
                         你的理由: **非常簡短**的用 1∼2 句話寫出來！
                         """).strip())
                     ]
-                batch.append(messages)
+                    batch.append(messages)
+                    question_key_list.append(key)
             res = self.llm.batch(batch)
-            # res = ""
             
-            skeleton_res = {}
             for i in range(len(res)):
                 sig = 0
                 # Reason or 你的理由 
@@ -157,7 +160,8 @@ class Index_UsableExpanding(FactorExpanding):
                     "sig" : sig,
                     "token": res[i].usage_metadata
                 }
-        else:
+            # print("skeleton_res", skeleton_res.keys())
+        elif code_get_news == 0:
             print(f"\t no news found in {str_news_date}")
             skeleton_res = {}
             for i in range(len(value_list)):
@@ -170,12 +174,11 @@ class Index_UsableExpanding(FactorExpanding):
         output_data[str_sig_date] = {
             "skeleton": skeleton_res,
         }
-        
-        print(output_data.keys())
-        # 排序output_data的資料
+        # print("output_data", output_data[str_sig_date])
+            
+        # sort output_data by date
+        # save output_data to json file
         output_data = dict(sorted(output_data.items(), key=lambda x: x[0]))
-
-        # 將所有輸出數據寫入到同一個dictioanry中
         data = {
             "model": self.llm.model_name,
             "temperature": self.llm.temperature,

@@ -128382,6 +128382,418 @@
                     }
                 }
             }
+        },
+        "20250318": {
+            "skeleton": {
+                "1": {
+                    "response": "判斷結果: yes  \n請盡量不要回答unknown: 新聞中提到輝達GTC大會及相關企業的合作機會，顯示出科技行業的強勁增長潛力，將可能推動股票上漲。",
+                    "sig": 0,
+                    "token": {
+                        "input_tokens": 3277,
+                        "output_tokens": 62,
+                        "total_tokens": 3339,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "2": {
+                    "response": "判斷結果: yes  \n你的理由: 多家上市電子企業營收預期良好，台積電的漲勢及輝達GTC大會的正面影響將推高相關股價。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3271,
+                        "output_tokens": 50,
+                        "total_tokens": 3321,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "3": {
+                    "response": "判斷結果: yes  \n你的理由: 輝達GTC大會的亮點吸引市場注意，帶動相關股票上漲，加上台積電的表現強勁，整體市場情緒樂觀。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3289,
+                        "output_tokens": 54,
+                        "total_tokens": 3343,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "4": {
+                    "response": "判斷結果: yes  \n你的理由: 龐大的AI需求與公司表現亮眼的新聞，特別是鴻海和聯發科的合作，可能帶動市場信心，促使股票上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3311,
+                        "output_tokens": 54,
+                        "total_tokens": 3365,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "5": {
+                    "response": "判斷結果: yes  \n請你的理由: 近期多則新聞提到台灣廠商在AI及智慧城市等新技術領域的合作與產品創新，吸引市場關注，提升了投資者信心。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3285,
+                        "output_tokens": 56,
+                        "total_tokens": 3341,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "6": {
+                    "response": "判斷結果: yes  \n請理由: 整體新聞顯示市場對AI及電動汽車相關股的熱情，分析師預測樂觀情緒，推升股價走勢。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3295,
+                        "output_tokens": 48,
+                        "total_tokens": 3343,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "7": {
+                    "response": "判斷結果: yes   \n你的理由: 受到輝達GTC大會的正面影響及電子股需求增強，加上台積電的漲勢，市場情緒良好，推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3293,
+                        "output_tokens": 55,
+                        "total_tokens": 3348,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "8": {
+                    "response": "判斷結果: yes  \n你的理由: 輝達GTC大會的正面報導及AI技術需求上升塑造了市場期待，促使相關公司的股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3303,
+                        "output_tokens": 47,
+                        "total_tokens": 3350,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "9": {
+                    "response": "判斷結果: #yes  \n你的理由: 隨著輝達GTC大會的到來及台積電的表現，外資和內資的買盤增加，市場情緒樂觀，促使股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3305,
+                        "output_tokens": 57,
+                        "total_tokens": 3362,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "10": {
+                    "response": "判斷結果: yes  \n你的理由: 許多電子股因受益於輝達GTC大會與AI技術的推升而上漲，市場情緒向好，預期資金進一步流入使股價上升。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3299,
+                        "output_tokens": 59,
+                        "total_tokens": 3358,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "11": {
+                    "response": "判斷結果: yes  \n你的理由: 多家電子公司與人工智能相關項目的合作及成長預期，使得整體市場情緒樂觀，進而推升股價。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3311,
+                        "output_tokens": 44,
+                        "total_tokens": 3355,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "12": {
+                    "response": "判斷結果: yes  \n你的理由: 多項新聞顯示台達電與鴻海等企業積極擴展合作及併購，加上輝達GTC大會亮點催化市場熱情，市場對未來發展信心增強，股價可能上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3297,
+                        "output_tokens": 72,
+                        "total_tokens": 3369,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "13": {
+                    "response": "判斷結果: yes  \n你的理由: 多項新聞顯示科技股和AI相關產業正受到市場看好，加上輝達GTC大會帶來的利好消息，將提升投資者信心，可能促使股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3289,
+                        "output_tokens": 62,
+                        "total_tokens": 3351,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "14": {
+                    "response": "判斷結果: #yes  \n你的理由: 輝達GTC大會的熱烈反應及相關電腦硬體需求上升，帶動了台股的上漲，尤其是AI股和供應鏈相關企業的股價表現強勁。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3301,
+                        "output_tokens": 65,
+                        "total_tokens": 3366,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "15": {
+                    "response": "判斷結果: yes  \n請我的理由: 許多公司積極參與ESG相關的新技術與項目，提升企業的永續形象，這有助於提升投資者信心與股價。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3313,
+                        "output_tokens": 52,
+                        "total_tokens": 3365,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "16": {
+                    "response": "判斷結果: yes  \n你的理由: 股市因輝達GTC大會和台積電的良好表現上漲，且富邦金等金控公司預期提升股利，吸引投資者信心提升。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3311,
+                        "output_tokens": 57,
+                        "total_tokens": 3368,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "17": {
+                    "response": "判斷結果: #yes  \n你的理由: 最近的新聞顯示台積電、輝達等公司在潛在增長領域（如AI和雲端計算）上的強勁需求，可能促使企業提前備貨和調整庫存，從而提振市場信心並推高股價。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3289,
+                        "output_tokens": 77,
+                        "total_tokens": 3366,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "18": {
+                    "response": "判斷結果: yes  \n你的理由: 工廠稼動率上升及AI相關需求強勁，使股票前景看好，利好電動車和伺服器市場，預期有業績成長。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3285,
+                        "output_tokens": 54,
+                        "total_tokens": 3339,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "19": {
+                    "response": "判斷結果: yes  \n你的理由: 輝達GTC大會及對AI相關產品的需求提升，可能導致短期訂單增加，提振業績預期，進而推高股票價格。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3279,
+                        "output_tokens": 51,
+                        "total_tokens": 3330,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "20": {
+                    "response": "判斷結果: #no  \n你的理由: 多數新聞指出電子及AI技術需求上升，對於相關公司股價有正面影響，而物流成本上升可能會被這些正面因素抵消。",
+                    "sig": -1,
+                    "token": {
+                        "input_tokens": 3269,
+                        "output_tokens": 52,
+                        "total_tokens": 3321,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "21": {
+                    "response": "判斷結果: yes  \n你的理由: 勞動力短缺和薪資上調會增強企業的投資意願及創新能力，特別是在AI和電動車領域，刺激股市上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3285,
+                        "output_tokens": 54,
+                        "total_tokens": 3339,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "22": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電、輝達及其他台廠的強勁合作與技術新趨勢，預示未來獲利增長，市場反應看到正面情緒且股市上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3283,
+                        "output_tokens": 61,
+                        "total_tokens": 3344,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "23": {
+                    "response": "判斷結果: #yes  \n你的理由: 原物料價格波動，尤其是石油和鋼鐵等，會影響相關產業的成本，而近期台股的上漲主要受到AI和電動車相關公司的帶動，利多情緒濃厚。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3293,
+                        "output_tokens": 66,
+                        "total_tokens": 3359,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "24": {
+                    "response": "判斷結果: yes  \n你的理由: 輝達GTC大會帶動AI及雲端需求，若關鍵零件供應短缺，未來可能對生產計畫和產品交付能力造成影響，市場預期所以股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 3281,
+                        "output_tokens": 65,
+                        "total_tokens": 3346,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                }
+            }
         }
     }
 }

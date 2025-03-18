@@ -5,15 +5,12 @@ from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
 
 from news_title import NewsCrawler
-from module import Index_UsableExpanding
+from module import ExpandIndexRun
 from module import Generator_Index
 from eval import EvalDayTrade
-from eval import EvalONLong
 from module import GeneticAlgorithm
 
-# todo tx crawler
-
-class Track:
+class Predictor:
     def __init__(self, env):
         pass
         self.env = env
@@ -36,17 +33,13 @@ class Track:
         self.env['end_date'] = year_dates[-1]
         self.env['path_folder'] = "FactorUsableMix"
         self.env['run_count'] = 1
-        if upperthenema > len(dates)/2:
-            print("多頭做過夜")
-            self.eval_module = EvalONLong(self.env, self.price_his)
-            self.trade_type = "hold"
-        else:
-            print("空頭做當沖")
-            self.eval_module = EvalDayTrade(self.env, self.price_his)
-            self.trade_type = "day_trade"
+        
+        self.eval_module = EvalDayTrade(self.env, self.price_his)
+        self.trade_type = "day_trade"
         
         self.individual = self.get_individual()
-        self.get_trade_sig()
+        return  self.get_trade_sig()
+        
     
     def get_price_his(self):
         country = self.env['country']
@@ -81,7 +74,7 @@ class Track:
     def generate_sig(self):
         fac_module = Generator_Index(self.env)
         self.factors = fac_module.generate_factors()
-        exp_module = Index_UsableExpanding(self.env, datetime.now())
+        exp_module = ExpandIndexRun(self.env, datetime.now(), self.price_his)
         exp_module.expanding(factors=self.factors)
     
     def get_last_quarter_and_past_year_dates(self):
@@ -122,7 +115,7 @@ class Track:
         dates = self.price_his.loc[mask]
         # 將 Date 欄位轉換成字典，格式為 {"YYYYMMDD": ""}
         date_dict = dict.fromkeys(dates['Date'].apply(lambda d: d.strftime("%Y%m%d")), "")
-        with open(f"{os.getcwd()}/run_td/out_stock/Expands/FactorUsable/tx/expand.json", "r", encoding="utf-8") as f:
+        with open(f"{os.getcwd()}/run_td/out_stock/Expands/UsableDT/tx/expand.json", "r", encoding="utf-8") as f:
             data = json.load(f)
             exp_data = data['output_data']
         # 找到 和 exp_data 日期相同的資料
@@ -145,7 +138,7 @@ class Track:
         return res['individual']
     
     def get_trade_sig(self):
-        with open(f"{os.getcwd()}/run_td/out_stock/Expands/FactorUsable/tx/expand.json", "r", encoding="utf-8") as f:
+        with open(f"{os.getcwd()}/run_td/out_stock/Expands/UsableDT/tx/expand.json", "r", encoding="utf-8") as f:
             data = json.load(f)
             exp_data = data['output_data']
         
@@ -154,7 +147,12 @@ class Track:
         # print(sig_data.values())
         list_sig = self.eval_module.get_sigs(sig_data, self.individual)
         print(list_sig[0][1])
-        # type 當沖 or 持有
-        # mov 交易的方向
         
-        return self.trade_type, list_sig[0][1]
+        # type 當沖 or 持有
+        # sig 交易的方向
+        trade = {
+            'sig' : list_sig[0][1],
+            'type' : self.trade_type,
+        }
+        
+        return trade

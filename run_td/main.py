@@ -1,4 +1,5 @@
-from Track import Track
+from llm_predictor import Predictor
+from llm_trainer import Trainer
 
 index_twii = [
     ["2308", "台達電", "tw"],
@@ -22,4 +23,7 @@ env = {
     "components" : market_index[3],
 }
 
-Track(env).run()
+trade = Predictor(env).run()
+print(trade)
+
+Trainer(env).run()
