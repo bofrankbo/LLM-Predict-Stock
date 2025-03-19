@@ -10,14 +10,13 @@ import datetime
 import os
 import pandas as pd
 
-# 設定 Chrome WebDriver 選項
+# Download TX data from TAIFEX ------------------------------------------------
 chrome_options = Options()
-# chrome_options.add_argument("--headless")  # 無頭模式
+chrome_options.add_argument("--headless")  # 無頭模式
 chrome_options.add_argument("--disable-blink-features=AutomationControlled")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
 
-# 設定下載路徑
 download_path = os.path.join(os.getcwd(), "downloads")
 os.makedirs(download_path, exist_ok=True)
 chrome_options.add_experimental_option("prefs", {
@@ -26,27 +25,24 @@ chrome_options.add_experimental_option("prefs", {
     "download.directory_upgrade": True,
     "safebrowsing.enabled": True
 })
-
-# 使用 webdriver-manager 自動下載對應版本的 ChromeDriver
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
-# 目標網址 (期交所歷史資料)
 url = "https://www.taifex.com.tw/cht/3/dlFutDailyMarketView"
 driver.get(url)
 time.sleep(3)
 
-# # 設定下載日期範圍 (過去一個月)
-# end_date = datetime.date.today()
-# start_date = end_date - datetime.timedelta(days=28)
-start_date = datetime.date(2025, 2, 1)
-end_date = datetime.date(2021, 2, 28)
+# 設定下載日期範圍 (過去一個月) ==============================================
+end_date = datetime.date.today()
+start_date = end_date - datetime.timedelta(days=28)
+# start_date = datetime.date(2025, 2, 1)
+# end_date = datetime.date(2025, 2, 28)
+# =============================================================================
 
-# 格式化日期
+
 start_date_str = start_date.strftime("%Y/%m/%d")
 end_date_str = end_date.strftime("%Y/%m/%d")
 
-# 輸入起始日期
 start_date_input = driver.find_element(By.ID, "queryStartDate")
 start_date_input.clear()
 for char in start_date_str:
@@ -54,7 +50,6 @@ for char in start_date_str:
     time.sleep(0.2)  # 模擬人類輸入的延遲
 print("fill in start date " + start_date_str)
 
-# 輸入結束日期
 end_date_input = driver.find_element(By.ID, "queryEndDate")
 end_date_input.clear()
 for char in end_date_str:
@@ -62,33 +57,31 @@ for char in end_date_str:
     time.sleep(0.2)  # 模擬人類輸入的延遲
 print("fill in end date " + end_date_str)
 
-# 觸發 onchange 事件
-driver.execute_script("arguments[0].dispatchEvent(new Event('change', { bubbles: true }));", end_date_input)
-time.sleep(2)  # 等待下拉選單更新
 
-# 模擬滑鼠點擊兩次
-actions = ActionChains(driver)
-actions.move_to_element(driver.find_element(By.ID, "commodity_idt")).click().pause(1).click().perform()
-time.sleep(2)
+while True:
+    driver.execute_script("arguments[0].dispatchEvent(new Event('change', { bubbles: true }));", end_date_input)
+    time.sleep(2)  # 等待下拉選單更新
+    actions = ActionChains(driver)
+    actions.move_to_element(driver.find_element(By.ID, "commodity_idt")).click().pause(1).click().perform()
+    time.sleep(2)
+    market_type_select = Select(driver.find_element(By.ID, "commodity_idt"))
+    options = [option.get_attribute("value") for option in market_type_select.options]
+    if "TX" in options:
+        market_type_select.select_by_value("TX")
+        break  
+    else:
+        print("TX not found, retrying...")
 
-market_type_select = Select(driver.find_element(By.ID, "commodity_idt"))
-market_type_select.select_by_value("TX")
-
-
-# 按下下載按鈕
 download_button = driver.find_element(By.ID, "button4")
 download_button.click()
-time.sleep(5)  # 等待檔案下載
-
+time.sleep(5)
 print("資料下載完成！ " + download_path)
-
-# 關閉瀏覽器
 driver.quit()
 
 
 
 
-# 執行函數
+# 讀取、篩選、合併、儲存資料 ---------------------------------------------------
 download_path = "downloads"
 list_of_files = os.listdir(download_path)
 df = pd.read_csv(download_path + "/" + list_of_files[0], encoding="big5")
@@ -116,12 +109,11 @@ df_filtered = df_filtered[["交易日期", "開盤價", "最高價", "最低價"
 df_filtered["交易日期"] = df_filtered["交易日期"].str.replace("/", "")
 df_filtered.columns = ["Date", "Open", "High", "Low", "Close", "Volume"]
 
-
 df_old_data = pd.read_csv("history_data/tw/stock_price/tx.csv")
-last_date = df_old_data["Date"].iloc[-1]
-# 如果 last_date 在 df_filtered 裡面，則只取 last_date 之後的資料
-if last_date in df_filtered["Date"].values:
-    last_date_index = df_filtered[df_filtered["Date"] == last_date].index[0]
-    df_filtered = df_filtered.iloc[last_date_index + 1:]
+df_old_data["Date"] = df_old_data["Date"].astype(str)
 
-print(df_filtered)
+# 如果有重複的日期，則刪除 df_filtered 
+df_filtered = df_filtered[~df_filtered["Date"].isin(df_old_data["Date"])]
+df_filtered.to_csv("history_data/tw/stock_price/tx.csv", index=False, mode="a", header=False)
+print("資料更新完成！")
+
