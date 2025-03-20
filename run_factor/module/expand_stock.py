@@ -13,6 +13,11 @@ class Expanding:
         self.llm = llm
         self.price_his = price_his
         self.path_expand = f"out_stock/Expands/Factor/{env['start_date']}_{env['end_date']}/{env['stock_id']}/expand.json"    # 輸出 JSON 檔案
+
+        if "components" in env:
+            self.type = 'index'
+        else:
+            self.type = 'stock'
         
         # history data path
         self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"
@@ -35,6 +40,63 @@ class Expanding:
                 print(f"{str(expand_data['output_data'][k]['skeleton'][k2]['sig']).rjust(3)}", end=" ")
             print()
     
+    
+    def get_index_news(self, str_news_date, components):
+        # return int, 1 means has news, 0 means no news, -1 means news did not fetch
+        hasNews = False
+        text_news = "today's news: \n"
+        for stock in components:
+            path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{stock[2]}/news_title/{stock[0]}news_title.json"
+            with open(path_news_file, 'r', encoding='utf-8') as f:
+                news_data = json.load(f)
+            try:
+                news_list = news_data[str_news_date]
+                hasNews = True
+                if len(news_list) > 0:
+                    print(f"\t{stock} {str_news_date} news found")
+                    for news in news_list:
+                        headline = news.get("headline")
+                        # content = news.get("content")
+                        # text_news += f"### {headline}\n{content}\n\n"
+                        text_news += f"{headline}\n"
+            except Exception as e:
+                print(f"\t{stock[0]} date {str_news_date} was not fetched, skip")
+                return -1, ''
+        
+        if hasNews == False:
+            return 0, 'No news found'
+        else:
+            return 1, text_news
+    
+    def get_stock_news(self, str_news_date):
+        # return int, 1 means has news, 0 means no news, -1 means news did not fetch
+        hasNews = False
+        stock_id = self.env['stock_id']
+        text_news = "today's news: \n"
+  
+        path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{self.env['country']}/news_title/{self.env['stock_id']}news_title.json"
+        with open(path_news_file, 'r', encoding='utf-8') as f:
+            news_data = json.load(f)
+        try:
+            news_list = news_data[str_news_date]
+            hasNews = True
+            if len(news_list) > 0:
+                # print(f"\t{stock_id} {str_news_date} news found")
+                for news in news_list:
+                    headline = news.get("headline")
+                    # content = news.get("content")
+                    # text_news += f"### {headline}\n{content}\n\n"
+                    text_news += f"{headline}\n"
+        except Exception as e:
+            print(f"\t{stock_id} date {str_news_date} was not fetched, skip")
+            return -1, ''
+        
+        if hasNews == False:
+            return 0, 'No news found'
+        else:
+            return 1, text_news
+            
+        
     def expanding(self, factors):
         '''
             llm_factors: list of factors
@@ -44,8 +106,8 @@ class Expanding:
             if old data is empty, then create a new one
         '''
         env = self.env
-        stock_id = env['stock_id'] # 股票代號
-        country = env['country'] # 國家
+        stock_id = env['stock_id']
+        country = env['country']
         st = datetime.strptime(env['start_date'], '%Y%m%d')
         et = datetime.strptime(env['end_date'], '%Y%m%d')
         df_price_his = self.price_his.copy()
@@ -54,10 +116,6 @@ class Expanding:
         
         key_list = list(factors.keys())
         value_list = list(factors.values())
-        # print(f"Expanding factors length: {len(key_list)}")
-        
-        with open(self.path_news_file, 'r', encoding='utf-8') as f:
-            news_data = json.load(f)
 
         old_data = None
         if os.path.exists(self.path_expand):
@@ -69,44 +127,43 @@ class Expanding:
             output_data = {}
         else:
             output_data = old_data['output_data']
+        
+        # iterate all dates in df_price_his
+        for date in df_price_his['Date']:
             
-        # iterate through each date, and generate new data
-        for i in range(len(df_price_his)):
-            news_date = df_price_his.iloc[i]['Date'] - timedelta(days=1) # get T-1 date
+            news_date = date - timedelta(days=1) # get T-1 date
             str_news_date = news_date.strftime('%Y%m%d')
-            str_sig_date = df_price_his.iloc[i]['Date'].strftime('%Y%m%d') # get T date
-            if str_news_date not in news_data:
-                print(f"\tdate {str_news_date} was not fetched, skip {str_sig_date}")
-                continue    
-            if str_sig_date in output_data:
-                if len(output_data[str_sig_date]["skeleton"]) == len(key_list):
-                    # print(f"\t{str_sig_date} already processed, skip")
-                    continue
+            str_sig_date = date.strftime('%Y%m%d') # get T date
             
-            print(f"Processing for date {str_sig_date}", end="")
-            text_news = "today's news: \n"
-            news_list = news_data[str_news_date]
-            if len(news_list) > 0:
-                print(f"\t{str_news_date} news found")
-                for news in news_list:
-                    headline = news.get("headline")
-                    # content = news.get("content")
-                    # text_news += f"### {headline}\n{content}\n\n"
-                    text_news += f"{headline}\n"
-                # print(text_news)
+            batch = []
+            question_key_list = []
+            for key, factor in zip(key_list, value_list):
+                # check if the factor is already processed
+                if str_sig_date in output_data:
+                    if key in output_data[str_sig_date]["skeleton"]:
+                        # print(f"\t{key} already processed, skip")
+                        continue
+                    
+                print(f"Processing for date {str_sig_date}, key: {key}")
+                
+                # get news
+                if self.type == 'index':
+                    code_get_news, text_news = self.get_index_news(str_news_date, env["components"])
+                elif self.type == 'stock':
+                    code_get_news, text_news = self.get_stock_news(str_news_date)
+                else:
+                    print(f"Invalid type: {self.type}")
+                    exit()
 
-                skeleton_res = {}
-                batch = []
-                question_key_list = []
-                for key, factor in zip(key_list, value_list):
-                    # check if the factor is already processed
-                    if str_sig_date in output_data:
-                        if key in output_data[str_sig_date]["skeleton"]:
-                            skeleton_res[key] = output_data[str_sig_date]["skeleton"][key]
-                            # print(f"\t{key} already processed, skip")
-                            continue
-                        
-                    # if is not processed, then generate the question
+                # news not fetch
+                if code_get_news == -1:
+                    print(f"Warning: {key} news not fetch")
+                    continue
+               
+                # news found
+                elif code_get_news == 1:
+                    # generate the sig
+
                     if country == "us":
                         # print(f"\t{key} not processed yet")
                         messages = [
@@ -142,43 +199,39 @@ class Expanding:
                         ]
                         batch.append(messages)
                         question_key_list.append(key)
-                
-                if len(batch) > 0:
-                    res = self.llm.batch(batch)
-                
-                    print("Ungenerated list", question_key_list)
-                    for idx, key in enumerate(question_key_list):
-                        sig = 0
-                        sig_str = res[idx].content.split("Reason")[0]
-                        if "unknown" in sig_str:
-                            sig = 0
-                        elif "yes" in sig_str:
-                            sig = 1
-                        elif "no" in sig_str:
-                            sig = -1
 
-                        skeleton_res[key] = {
-                            "response" : res[idx].content,
-                            "sig" : sig,
-                            "token": res[idx].usage_metadata
-                        }
-                # print("skeleton_res", skeleton_res.keys())
-            else:
-                print(f"\t no news found in {str_news_date}")
-                skeleton_res = {}
-                for i in range(len(value_list)):
-                    skeleton_res[key_list[i]] = {
+                    # print("skeleton_res", skeleton_res.keys())
+                
+                # no news found
+                elif code_get_news == 0:
+                    print(f"\t no news found in {str_news_date}")
+                    output_data[str_sig_date]["skeleton"][key] = {
                         "response" : "No news found",
                         "sig" : 0,
                         "token": ""
                     }
+                    
+            res = self.llm.batch(batch)
+            # print("Ungenerated list", question_key_list)
+            for idx, key in enumerate(question_key_list):
+                sig = 0
+                sig_str = res[idx].content.split("Reason")[0]
+                if "unknown" in sig_str:
+                    sig = 0
+                elif "yes" in sig_str:
+                    sig = 1
+                elif "no" in sig_str:
+                    sig = -1
+
+                output_data[str_sig_date]["skeleton"][key] = {
+                    "response" : res[idx].content,
+                    "sig" : sig,
+                    "token": res[idx].usage_metadata
+                }
+            # print(output_data[str_sig_date]["skeleton"])
             
-            output_data[str_sig_date] = {
-                "skeleton": skeleton_res,
-            }
-            # print("output_data", output_data[str_sig_date])
-        
         # sort output_data by date
+        # save output_data to json file
         output_data = dict(sorted(output_data.items(), key=lambda x: x[0]))
         data = {
             "model": self.llm.model_name,
@@ -187,9 +240,8 @@ class Expanding:
             "output_data": output_data,
         }
         
-        safe_path = Path(self.path_expand)
-        safe_path.parent.mkdir(parents=True, exist_ok=True)
-        with safe_path.open('w', encoding="utf-8") as f:
+        os.makedirs(os.path.dirname(self.path_expand), exist_ok=True)
+        with open(self.path_expand, 'w', encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-
+        
         return data

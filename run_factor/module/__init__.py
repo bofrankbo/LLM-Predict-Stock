@@ -10,7 +10,6 @@ from .generator_usable import UsableGenerator
 from .generator_embd import GeneratorEmbd
 from .generator_f42 import GeneratorF42
 from .generator_f24 import GeneratorF24
-from .generator_usableexp import UsableExpGenerator
 
 from .expand_stock import Expanding
 from .expand_stock_usable import UsableExpanding

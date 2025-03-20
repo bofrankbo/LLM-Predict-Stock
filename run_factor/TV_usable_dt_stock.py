@@ -9,16 +9,17 @@ from langchain_openai import ChatOpenAI
 
 from eval import EvalDayTrade
 from module import GeneticAlgorithm
-from module import UsableExpGenerator
-from module import UsableExpExpanding
+from module import UsableGenerator
+from module import UsableExpanding
 from factor import Factor
 
 class TV_UsableDT(Factor):
-    def __init__(self, env, factors_count):
+    def __init__(self, env, factors_count, expand=1):
         self.env = env
         self.factors_count = factors_count
+        self.expand = expand
         self.run_count = env['run_count']
-        self.path_folder = "UsableExpDT"
+        self.path_folder = "UsableDT_F" + str(factors_count) + "_EXP" + str(expand)
         self.env['path_folder'] = self.path_folder
         
         # output path
@@ -38,9 +39,11 @@ class TV_UsableDT(Factor):
         
     def run(self):
         # preprocess
-        fac_gen = UsableExpGenerator(self.env, self.price_his)
-        fac_exp = UsableExpExpanding(self.env, self.llm, self.price_his)
-        self.factors = fac_gen.generate_factors()
+        fac_gen = UsableGenerator(self.env, self.price_his)
+        fac_exp = UsableExpanding(self.env, self.llm, self.price_his, expand=self.expand)
+        fac_gen.generate_factors()
+        self.factors = fac_gen.get_factors(self.factors_count)
+        # print(self.factors)
         self.exp_data = fac_exp.expanding(self.factors)
         self.eval_module = EvalDayTrade(self.env, self.price_his)
         
@@ -128,12 +131,12 @@ class TV_UsableDT(Factor):
         return list_date, list_bnh_rtn, list_stag_rtn
     
     def show_sig(self):
-        fac_exp = UsableExpExpanding(self.env, self.llm, self.price_his)
+        fac_exp = UsableExpanding(self.env, self.llm, self.price_his)
         fac_exp.show_sig()
         
     def get_individual_with_factors(self, mode):
         individuals = self.get_individual(mode)
-        fac_gen = UsableExpGenerator(self.env, self.price_his)
+        fac_gen = UsableGenerator(self.env, self.price_his)
         factors = fac_gen.generate_factors()
         text = f"{individuals}\n"
         

@@ -19,7 +19,7 @@ class TV_UsableExpThresDT(Factor):
         self.factors_count = factors_count
         self.expand = expand
         self.run_count = env['run_count']
-        self.path_folder = "UsableThresDT_F" + str(factors_count)
+        self.path_folder = "UsableThresDT_F" + str(factors_count) + "_EXP" + str(expand)
         # self.path_folder = "UsableExpThresDT_F24_2_GArand"
         self.env['path_folder'] = self.path_folder
         
@@ -132,7 +132,7 @@ class TV_UsableExpThresDT(Factor):
         return list_date, list_bnh_rtn, list_stag_rtn
     
     def show_sig(self):
-        fac_exp = UsableExpExpanding(self.env, self.llm, self.price_his)
+        fac_exp = UsableExpanding(self.env, self.llm, self.price_his)
         fac_exp.show_sig()
         
     def get_individual_with_factors(self, mode):
