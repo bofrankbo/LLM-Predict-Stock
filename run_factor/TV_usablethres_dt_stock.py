@@ -7,17 +7,19 @@ import pandas as pd
 from datetime import datetime
 from langchain_openai import ChatOpenAI
 
-from eval import EvalDayTrade
+from eval import EvalDayTradeThres
 from module import GeneticAlgorithm
-from module import UsableExpGenerator
+from module import UsableGenerator
 from module import UsableExpExpanding
 from factor import Factor
 
-class TV_UsableExpFactorDT(Factor):
-    def __init__(self, env):
+class TV_UsableExpThresDT(Factor):
+    def __init__(self, env, factors_count):
         self.env = env
+        self.factors_count = factors_count
         self.run_count = env['run_count']
-        self.path_folder = "UsableExpDT"
+        # self.path_folder = "UsableThresDT_F" + str(factors_count)
+        self.path_folder = "UsableExpThresDT_F24_2_GArand"
         self.env['path_folder'] = self.path_folder
         
         # output path
@@ -37,11 +39,13 @@ class TV_UsableExpFactorDT(Factor):
         
     def run(self):
         # preprocess
-        fac_gen = UsableExpGenerator(self.env, self.price_his)
+        fac_gen = UsableGenerator(self.env, self.price_his)
         fac_exp = UsableExpExpanding(self.env, self.llm, self.price_his)
-        self.factors = fac_gen.generate_factors()
+        fac_gen.generate_factors()
+        self.factors = fac_gen.get_factors(self.factors_count)
+        # print(self.factors)
         self.exp_data = fac_exp.expanding(self.factors)
-        self.eval_module = EvalDayTrade(self.env, self.price_his)
+        self.eval_module = EvalDayTradeThres(self.env, self.price_his)
         
     def get_price_his(self):
         country = self.env['country']
@@ -67,7 +71,7 @@ class TV_UsableExpFactorDT(Factor):
     def training(self, mode, train_datarange, test_datarange):
         res = self.eval_module.get_result(mode)
         if res == None:
-            ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys()))
+            ga = GeneticAlgorithm(self.env, self.price_his, train_datarange, self.eval_module.eval, pop_size=20, generations=50, mode=mode, pop_len=len(self.factors.keys()) + 8)
             individual = ga.run()
             
             res_train = self.eval_module.eval(train_datarange, individual)
@@ -104,12 +108,12 @@ class TV_UsableExpFactorDT(Factor):
         return train_datarange, test_datarange
     
     def get_result(self, mode):
-        eval_module = EvalDayTrade(self.env, self.price_his)
+        eval_module = EvalDayTradeThres(self.env, self.price_his)
         res = eval_module.get_result(mode)
         return res
     
     def get_return_list(self, type='test'):
-        eval_module = EvalDayTrade(self.env, self.price_his)
+        eval_module = EvalDayTradeThres(self.env, self.price_his)
         result = eval_module.get_result(1)
         res_test = result[type]
         df_price_his = self.price_his

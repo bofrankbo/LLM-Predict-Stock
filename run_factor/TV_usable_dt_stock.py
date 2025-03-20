@@ -1,27 +1,24 @@
 import os
-import re
 import json
-import shutil
 import pandas as pd
 from datetime import datetime, timedelta
-import matplotlib.pyplot as plt
 import os
 import pandas as pd
 from datetime import datetime
 from langchain_openai import ChatOpenAI
-from langchain_openai import OpenAIEmbeddings
 
 from eval import EvalDayTrade
 from module import GeneticAlgorithm
-from module import UsableGenerator
-from module import UsableExpanding
+from module import UsableExpGenerator
+from module import UsableExpExpanding
 from factor import Factor
 
-class TV_UsableFactorDT(Factor):
-    def __init__(self, env):
+class TV_UsableDT(Factor):
+    def __init__(self, env, factors_count):
         self.env = env
+        self.factors_count = factors_count
         self.run_count = env['run_count']
-        self.path_folder = "UsableDT"
+        self.path_folder = "UsableExpDT"
         self.env['path_folder'] = self.path_folder
         
         # output path
@@ -41,8 +38,8 @@ class TV_UsableFactorDT(Factor):
         
     def run(self):
         # preprocess
-        fac_gen = UsableGenerator(self.env, self.price_his)
-        fac_exp = UsableExpanding(self.env, self.llm, self.price_his)
+        fac_gen = UsableExpGenerator(self.env, self.price_his)
+        fac_exp = UsableExpExpanding(self.env, self.llm, self.price_his)
         self.factors = fac_gen.generate_factors()
         self.exp_data = fac_exp.expanding(self.factors)
         self.eval_module = EvalDayTrade(self.env, self.price_his)
@@ -131,12 +128,12 @@ class TV_UsableFactorDT(Factor):
         return list_date, list_bnh_rtn, list_stag_rtn
     
     def show_sig(self):
-        fac_exp = UsableExpanding(self.env, self.llm, self.price_his)
+        fac_exp = UsableExpExpanding(self.env, self.llm, self.price_his)
         fac_exp.show_sig()
         
     def get_individual_with_factors(self, mode):
         individuals = self.get_individual(mode)
-        fac_gen = UsableGenerator(self.env, self.price_his)
+        fac_gen = UsableExpGenerator(self.env, self.price_his)
         factors = fac_gen.generate_factors()
         text = f"{individuals}\n"
         
