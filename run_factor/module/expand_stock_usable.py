@@ -1,14 +1,11 @@
 import os
-from module.expand_stock import FactorExpanding
-
-# 儲存的日期是判斷日期，非新聞日期
-# 以判斷日期為準
-class UsableExpanding(FactorExpanding):
-    def __init__(self, env, llm, price_his):
+from module.expand_stock import Expanding
+class UsableExpanding(Expanding):
+    def __init__(self, env, llm, price_his, expand=1):
         self.env = env
         self.llm = llm
         self.price_his = price_his
-        self.path_expand = f"out_stock/Expands/FactorUsable/{env['stock_id']}/expand.json"    # 輸出 JSON 檔案
+        self.path_expand = f"out_stock/Expands/Usable_{str(expand)}/{env['stock_id']}_expand.json" 
         
         # history data path
         self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"

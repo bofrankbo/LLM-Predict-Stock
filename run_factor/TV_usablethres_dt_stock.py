@@ -10,16 +10,17 @@ from langchain_openai import ChatOpenAI
 from eval import EvalDayTradeThres
 from module import GeneticAlgorithm
 from module import UsableGenerator
-from module import UsableExpExpanding
+from module import UsableExpanding
 from factor import Factor
 
 class TV_UsableExpThresDT(Factor):
-    def __init__(self, env, factors_count):
+    def __init__(self, env, factors_count, expand=1):
         self.env = env
         self.factors_count = factors_count
+        self.expand = expand
         self.run_count = env['run_count']
-        # self.path_folder = "UsableThresDT_F" + str(factors_count)
-        self.path_folder = "UsableExpThresDT_F24_2_GArand"
+        self.path_folder = "UsableThresDT_F" + str(factors_count)
+        # self.path_folder = "UsableExpThresDT_F24_2_GArand"
         self.env['path_folder'] = self.path_folder
         
         # output path
@@ -40,7 +41,7 @@ class TV_UsableExpThresDT(Factor):
     def run(self):
         # preprocess
         fac_gen = UsableGenerator(self.env, self.price_his)
-        fac_exp = UsableExpExpanding(self.env, self.llm, self.price_his)
+        fac_exp = UsableExpanding(self.env, self.llm, self.price_his, expand=self.expand)
         fac_gen.generate_factors()
         self.factors = fac_gen.get_factors(self.factors_count)
         # print(self.factors)
@@ -136,7 +137,7 @@ class TV_UsableExpThresDT(Factor):
         
     def get_individual_with_factors(self, mode):
         individuals = self.get_individual(mode)
-        fac_gen = UsableExpGenerator(self.env, self.price_his)
+        fac_gen = UsableGenerator(self.env, self.price_his)
         factors = fac_gen.generate_factors()
         text = f"{individuals}\n"
         

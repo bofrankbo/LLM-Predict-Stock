@@ -3,11 +3,11 @@ import json
 import pandas as pd
 from datetime import datetime, timedelta
 
-from module.expand_stock import FactorExpanding
+from module.expand_stock import Expanding
 
 # 儲存的日期是判斷日期，非新聞日期
 # 以判斷日期為準
-class ExpandStockF24(FactorExpanding):
+class ExpandStockF24(Expanding):
     def __init__(self, env, llm, price_his):
         self.env = env
         self.llm = llm

@@ -8,8 +8,9 @@ from datetime import datetime, timedelta
 class UsableGenerator:
     def __init__(self, env, price_his):
         self.env = env
+        self.country = env['country']
         self.price_his = price_his
-        self.path_factors = f"out_stock/Factors/Usable/factors.json"
+        self.path_factors = f"out_stock/Factors/Usable/factors_{self.country}.json"
         
         # history data path
         self.path_news_file = f"{os.path.dirname(os.path.abspath(os.getcwd()))}/history_data/{env['country']}/news_title/{env['stock_id']}news_title.json"

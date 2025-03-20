@@ -1,9 +1,9 @@
 import os
-from module.expand_stock import FactorExpanding
+from module.expand_stock import Expanding
 
 # 儲存的日期是判斷日期，非新聞日期
 # 以判斷日期為準
-class ExpandStockF42(FactorExpanding):
+class ExpandStockF42(Expanding):
     def __init__(self, env, llm, price_his):
         self.env = env
         self.llm = llm

@@ -7,7 +7,7 @@ from pathlib import Path
 
 # 儲存的日期是判斷日期，非新聞日期
 # 以判斷日期為準
-class FactorExpanding:
+class Expanding:
     def __init__(self, env, llm, price_his):
         self.env = env
         self.llm = llm
@@ -54,6 +54,7 @@ class FactorExpanding:
         
         key_list = list(factors.keys())
         value_list = list(factors.values())
+        # print(f"Expanding factors length: {len(key_list)}")
         
         with open(self.path_news_file, 'r', encoding='utf-8') as f:
             news_data = json.load(f)
@@ -71,23 +72,18 @@ class FactorExpanding:
             
         # iterate through each date, and generate new data
         for i in range(len(df_price_his)):
-            
-            # get T-1 date
-            news_date = df_price_his.iloc[i]['Date'] - timedelta(days=1)
+            news_date = df_price_his.iloc[i]['Date'] - timedelta(days=1) # get T-1 date
             str_news_date = news_date.strftime('%Y%m%d')
-
-            # get T date
-            str_sig_date = df_price_his.iloc[i]['Date'].strftime('%Y%m%d')
-
+            str_sig_date = df_price_his.iloc[i]['Date'].strftime('%Y%m%d') # get T date
             if str_news_date not in news_data:
                 print(f"\tdate {str_news_date} was not fetched, skip {str_sig_date}")
                 continue    
-
             if str_sig_date in output_data:
-                # print(f"\t{str_sig_date} already processed, skip")
-                continue
+                if len(output_data[str_sig_date]["skeleton"]) == len(key_list):
+                    # print(f"\t{str_sig_date} already processed, skip")
+                    continue
+            
             print(f"Processing for date {str_sig_date}", end="")
-
             text_news = "today's news: \n"
             news_list = news_data[str_news_date]
             if len(news_list) > 0:
@@ -99,9 +95,20 @@ class FactorExpanding:
                     text_news += f"{headline}\n"
                 # print(text_news)
 
+                skeleton_res = {}
                 batch = []
-                for factor in value_list:
+                question_key_list = []
+                for key, factor in zip(key_list, value_list):
+                    # check if the factor is already processed
+                    if str_sig_date in output_data:
+                        if key in output_data[str_sig_date]["skeleton"]:
+                            skeleton_res[key] = output_data[str_sig_date]["skeleton"][key]
+                            # print(f"\t{key} already processed, skip")
+                            continue
+                        
+                    # if is not processed, then generate the question
                     if country == "us":
+                        # print(f"\t{key} not processed yet")
                         messages = [
                             ("system", "You are an expert in the financial field and will answer users' questions about stock movment."),
                             ("human",
@@ -116,6 +123,8 @@ class FactorExpanding:
                             Reason: Provide a **very brief** explanation in 1-2 sentences!
                             """)
                         ]
+                        batch.append(messages)
+                        question_key_list.append(key)
                     elif country == "tw":
                         messages = [
                             ("system", "你是一個厲害的金融領域專家"),
@@ -131,26 +140,29 @@ class FactorExpanding:
                             你的理由: **非常簡短**的用 1∼2 句話寫出來！
                             """)
                         ]
-                    batch.append(messages)
-                res = self.llm.batch(batch)
-                # res = ""
+                        batch.append(messages)
+                        question_key_list.append(key)
                 
-                skeleton_res = {}
-                for i in range(len(res)):
-                    sig = 0
-                    sig_str = res[i].content.split("Reason")[0]
-                    if "unknown" in sig_str:
+                if len(batch) > 0:
+                    res = self.llm.batch(batch)
+                
+                    print("Ungenerated list", question_key_list)
+                    for idx, key in enumerate(question_key_list):
                         sig = 0
-                    elif "yes" in sig_str:
-                        sig = 1
-                    elif "no" in sig_str:
-                        sig = -1
+                        sig_str = res[idx].content.split("Reason")[0]
+                        if "unknown" in sig_str:
+                            sig = 0
+                        elif "yes" in sig_str:
+                            sig = 1
+                        elif "no" in sig_str:
+                            sig = -1
 
-                    skeleton_res[key_list[i]] = {
-                        "response" : res[i].content,
-                        "sig" : sig,
-                        "token": res[i].usage_metadata
-                    }
+                        skeleton_res[key] = {
+                            "response" : res[idx].content,
+                            "sig" : sig,
+                            "token": res[idx].usage_metadata
+                        }
+                # print("skeleton_res", skeleton_res.keys())
             else:
                 print(f"\t no news found in {str_news_date}")
                 skeleton_res = {}
@@ -164,11 +176,10 @@ class FactorExpanding:
             output_data[str_sig_date] = {
                 "skeleton": skeleton_res,
             }
+            # print("output_data", output_data[str_sig_date])
         
-        # 排序output_data的資料
+        # sort output_data by date
         output_data = dict(sorted(output_data.items(), key=lambda x: x[0]))
-
-        # 將所有輸出數據寫入到同一個dictioanry中
         data = {
             "model": self.llm.model_name,
             "temperature": self.llm.temperature,
@@ -176,10 +187,8 @@ class FactorExpanding:
             "output_data": output_data,
         }
         
-        # Use pathlib to create a valid, OS-specific path
         safe_path = Path(self.path_expand)
         safe_path.parent.mkdir(parents=True, exist_ok=True)
-
         with safe_path.open('w', encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
 

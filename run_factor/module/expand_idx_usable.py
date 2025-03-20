@@ -4,12 +4,12 @@ import re
 import textwrap
 import pandas as pd
 from datetime import datetime, timedelta
-from module.expand_stock import FactorExpanding
+from module.expand_stock import Expanding 
 
 
 # 儲存的日期是判斷日期，非新聞日期
 # 以判斷日期為準
-class Index_UsableExpanding(FactorExpanding):
+class Index_UsableExpanding(Expanding):
     def __init__(self, env, llm, price_his):
         self.env = env
         self.llm = llm

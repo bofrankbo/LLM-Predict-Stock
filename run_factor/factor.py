@@ -10,7 +10,7 @@ from langchain_openai import OpenAIEmbeddings
 
 from eval import EvalDayTrade
 from module import FactorGenerator
-from module import FactorExpanding
+from module import Expanding
 from module import GeneticAlgorithm
 
 class Factor:
