@@ -110,7 +110,6 @@ class Expanding:
         country = env['country']
         st = datetime.strptime(env['start_date'], '%Y%m%d')
         et = datetime.strptime(env['end_date'], '%Y%m%d')
-        print(st, et)
         df_price_his = self.price_his.copy()
         df_price_his['Date'] = pd.to_datetime(df_price_his['Date'], format='%Y%m%d')
         df_price_his = df_price_his[(st <= df_price_his['Date']) & (df_price_his['Date'] <= et)]
@@ -137,7 +136,7 @@ class Expanding:
             str_sig_date = date.strftime('%Y%m%d') # get T date
             
             # Initialize the date structure if it doesn't exist
-            print(f"str_sig_date: {str_sig_date}")
+            # print(f"str_sig_date: {str_sig_date}")
             if str_sig_date not in output_data:
                 output_data[str_sig_date] = {"skeleton": {}}
             
