@@ -1,20 +1,20 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 
-from fwbtin import crawler as fwbtin_crawler
+from fwbtin import crawler as fwbtin_crawler_history
 from tx_crawler import crawler as tx_crawler
 from news_title import crawler as news_crawler
 
 # stock list
-data = [
-    # ["2330", "台積電", "tw"],
-    # ["2454", "聯發科", "tw"],
-    # ["2317", "鴻海", "tw" ],
-    # ["2881", "富邦金", "tw" ],
-    # ["2308", "台達電", "tw" ],
-    # ["2882", "國泰金", "tw" ],
-    # ["2412", "中華電", "tw" ],
-    # ["2382", "廣達", "tw" ],
-    # ["2891", "中信金", "tw" ],
+stock_list = [
+    ["2330", "台積電", "tw"],
+    ["2454", "聯發科", "tw"],
+    ["2317", "鴻海", "tw" ],
+    ["2881", "富邦金", "tw" ],
+    ["2308", "台達電", "tw" ],
+    ["2882", "國泰金", "tw" ],
+    ["2412", "中華電", "tw" ],
+    ["2382", "廣達", "tw" ],
+    ["2891", "中信金", "tw" ],
     ["3711", "日月光投控", "tw"], #10
     # # ["2886", "兆豐金", "tw" ],
     # # ["2303", "聯電", "tw" ],
@@ -113,17 +113,18 @@ data = [
     # ["BAC", "Bank of America", "us"],
 ]
 
-# end_date = datetime.date.today()
-# start_date = end_date - datetime.timedelta(days=28)
-start_date = datetime(2024, 12, 1)
-end_date = datetime(2024, 12, 31)
+# 抓到昨天
+# end_date = datetime.now() - timedelta(days=1)
+# start_date = end_date - timedelta(days=100)
+start_date = datetime(2025, 4, 24)
+end_date = datetime(2025, 6, 19)
+print(f"日期範圍: {start_date} ~ {end_date}")
 
-# print(f"日期範圍: {start_date} ~ {end_date}")
-# print("三大法人")
-# fwbtin_crawler(start_date, end_date)
+print("三大法人")
+fwbtin_crawler_history(start_date, end_date)
 
 # print("台指期")
 # tx_crawler(start_date, end_date)
 
-print("新聞, 需要人工解機器人")
-news_crawler(data, start_date, end_date)
+# print("新聞, 需要人工解機器人")
+# news_crawler(stock_list, start_date, end_date)

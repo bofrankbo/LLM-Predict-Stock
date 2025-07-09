@@ -6,8 +6,7 @@ LLM-Predict-Stock 是一個強大的股票預測工具，它使用先進的機�
 
 - [Crawler](/crawler/)
 - [History Data](/history_data/)
-- [factor](/run_factor/)
-- [Prompt Engineering](/run_prompt_engineering/)
+- [Backtest LLM factor](/backtest_llm_factor/)
 - [RAG 方法](/run_rag/)
 - [Fine-tune 方法](/run_finetune/)
 
@@ -39,9 +38,9 @@ LLM-Predict-Stock 是一個強大的股票預測工具，它使用先進的機�
 ## Factor
 主要包含 Prompt Engineering 以及 RAG 結合 GA 的作法
 
-## Prompt Engineering 📊
+## Backtest LLM factor 📊
 
-提示工程作法。
+主要包含 Prompt Engineering 結合 GA 的作法
 
 ## RAG 方法 🧩
 

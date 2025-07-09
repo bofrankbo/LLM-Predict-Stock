@@ -27,11 +27,23 @@ def crawler(start_date, end_date):
         print(f"fetching {d}")
 
         # search
-        input_search = driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div[3]/div[2]/div[3]/div/div[3]/div/form/fieldset/ul/li[1]/div[2]/input")
-        input_search.clear()
-        input_search.send_keys(d)
-        driver.find_element(By.XPATH, '//*[@id="button"]').click()
-
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                input_search = driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div[3]/div[2]/div[3]/div/div[3]/div/form/fieldset/ul/li[1]/div[2]/input")
+                input_search.clear()
+                input_search.send_keys(d)
+                driver.find_element(By.XPATH, '//*[@id="button"]').click()
+                break  # 成功就跳出迴圈
+            except Exception as e:
+                print(f"查無資料, 網頁異常 => 重新搜尋 (第{attempt+1}次)")
+                time.sleep(random.uniform(1, 3))
+        else:
+            print("多次嘗試仍失敗，跳過這一天")
+            continue  # 跳到下一天
+        
+        time.sleep(random.uniform(1, 3))
+        
         # 找到 table
         try:
             tbody = driver.find_element(By.TAG_NAME, 'table')

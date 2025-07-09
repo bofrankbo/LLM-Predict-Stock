@@ -1,3 +1,9 @@
+import time
+import datetime
+import os
+import pandas as pd
+import numpy as np
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -5,10 +11,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.action_chains import ActionChains
 from webdriver_manager.chrome import ChromeDriverManager
-import time
-import datetime
-import os
-import pandas as pd
 
 def crawler(start_date, end_date):
     # Download TX data from TAIFEX ------------------------------------------------
@@ -73,9 +75,7 @@ def crawler(start_date, end_date):
     time.sleep(5)
     print("資料下載完成！ " + download_path)
     driver.quit()
-
-
-
+    
 
     # 讀取、篩選、合併、儲存資料 ---------------------------------------------------
     download_path = "downloads"
@@ -110,13 +110,71 @@ def crawler(start_date, end_date):
 
     # 如果有重複的日期，則刪除 df_filtered 
     df_filtered = df_filtered[~df_filtered["Date"].isin(df_old_data["Date"])]
-    df_filtered.to_csv("history_data/tw/stock_price/tx.csv", index=False, mode="a", header=False)
+    df_filtered.to_csv(f"{os.getcwd()}/history_data/tw/stock_price/tx.csv", index=False, mode="a", header=False)
     print("資料更新完成！")
     
     # 刪除下載的資料
     for file in list_of_files:
         os.remove(os.path.join(download_path, file))
 
+    # 計算技術指標 ---------------------------------------------------------------
+    df = pd.read_csv(f"{os.getcwd()}/history_data/tw/stock_price/tx.csv")
+    df['MA5'] = df['Close'].rolling(window=5).mean()
+    df['MA10'] = df['Close'].rolling(window=10).mean()
+    df['MA20'] = df['Close'].rolling(window=20).mean()
+    df['EMA5'] = df['Close'].ewm(span=5, adjust=False).mean()
+    df['EMA12'] = df['Close'].ewm(span=12, adjust=False).mean()
+    df['EMA26'] = df['Close'].ewm(span=26, adjust=False).mean()
+    df['EMA60'] = df['Close'].ewm(span=26, adjust=False).mean()
+    df['DIF'] = df['EMA12'] - df['EMA26']
+    df['MACD'] = df['DIF'].ewm(span=9, adjust=False).mean()
+
+    def calculate_rsi(series, period=14):
+        delta = series.diff(1)
+        gain = (delta.where(delta > 0, 0)).rolling(window=period).mean()
+        loss = (-delta.where(delta < 0, 0)).rolling(window=period).mean()
+        rs = gain / loss
+        rsi = 100 - (100 / (1 + rs))
+        return rsi
+    df['RSI'] = calculate_rsi(df['Close'])
+
+    low_list = df['Low'].rolling(9, min_periods=9).min()
+    low_list.fillna(value=df['Low'].expanding().min(), inplace=True)
+    high_list = df['High'].rolling(9, min_periods=9).max()
+    high_list.fillna(value=df['High'].expanding().max(), inplace=True)
+    rsv = (df['Close'] - low_list) / (high_list - low_list) * 100
+
+    def historical_volatility(prices, window=10, trading_days=252):
+        """
+        計算歷史波動率 (Historical Volatility)
+
+        :param prices: 一個包含價格數據的列表或Numpy數組
+        :param window: 計算波動率的視窗期 (默認是252天)
+        :param trading_days: 年化的交易天數，默認是252
+        :return: 年化波動率
+        """
+        prices = np.asarray(prices)
+        # 計算對數收益率
+        log_returns = np.log(prices[1:] / prices[:-1])
+
+        # 計算對數收益率的標準差
+        std_dev = np.std(log_returns[-window:])
+
+        # 年化波動率
+        annualized_volatility = std_dev * np.sqrt(trading_days)
+        
+        return annualized_volatility
+
+    df['Volatility'] = df['Close'].rolling(window=252).apply(historical_volatility, raw=True)
+
+    # 初始值設定
+    df['K'] = 50
+    df['D'] = 50
+    for i in range(1, len(df)):
+        df.loc[df.index[i], 'K'] = (2/3) * df.loc[df.index[i-1], 'K'] + (1/3) * rsv[i]
+        df.loc[df.index[i], 'D'] = (2/3) * df.loc[df.index[i-1], 'D'] + (1/3) * df.loc[df.index[i], 'K']
+
+    df.to_csv(f"{os.getcwd()}/history_data/tw/stock_price/tx_tech.csv", encoding='utf-8', index=False)
 
 # # 設定下載日期範圍 (過去一個月) ==============================================
 # end_date = datetime.date.today()

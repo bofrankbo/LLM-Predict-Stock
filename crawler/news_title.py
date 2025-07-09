@@ -51,7 +51,7 @@ def fetch_news(driver, date, stock_name, country):
             print(f"發生錯誤: {str(e)}")
             retry_count += 1
             if retry_count < max_retries:
-                time.sleep(random.uniform(5, 10))
+                time.sleep(random.uniform(20, 30))
                 driver.refresh()
                 time.sleep(random.uniform(3, 7))
             else:
@@ -59,6 +59,7 @@ def fetch_news(driver, date, stock_name, country):
                 raise e
 
 def crawler(data, start_date, end_date):
+    print(f"Crawl news for {start_date.strftime('%Y%m%d')} to {end_date.strftime('%Y%m%d')}")
     driver = setup_driver()
     page_count = 0
     
