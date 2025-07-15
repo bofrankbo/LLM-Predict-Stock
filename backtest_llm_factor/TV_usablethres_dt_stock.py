@@ -142,13 +142,11 @@ class TV_UsableExpThresDT(Factor):
         individuals = self.get_individual(mode)
         fac_gen = UsableGenerator(self.env, self.price_his)
         factors = fac_gen.generate_factors()
-        text = f"{individuals}\n"
+        used_factors = {}
         
-        i = 0
-        for key, value in factors.items():
-            if individuals[i] == 1:
-                text += f"{key} {value}\n"
-            i += 1
-        text += "\n"
-        return individuals, text
+        for i in range(len(individuals)):
+            if i < self.factors_count and individuals[i] == 1:
+                used_factors[list(factors.keys())[i]] = factors[list(factors.keys())[i]]
+
+        return used_factors
         
