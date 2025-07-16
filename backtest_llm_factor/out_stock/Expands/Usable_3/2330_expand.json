@@ -1,0 +1,1663 @@
+{
+    "model": "gpt-4o-mini",
+    "temperature": 1.0,
+    "stock_id": "2330",
+    "output_data": {
+        "20220103": {
+            "skeleton": {
+                "1": {
+                    "response": "判斷結果: yes  \n你的理由: 外部環境改善及企業獲得高階訂單有助於提振市場信心，可能引發股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 332,
+                        "output_tokens": 42,
+                        "total_tokens": 374,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "2": {
+                    "response": "判斷結果: yes  \n你的理由: 聯發科和高通的競爭增加了市場潛力，並且立訊拿下iPhone供應訂單顯示出營收增長的潛力，可能促使相關股票上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 326,
+                        "output_tokens": 62,
+                        "total_tokens": 388,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "3": {
+                    "response": "判斷結果: yes  \n你的理由: 這些新聞顯示出科技產業的競爭與創新，加上智慧城計畫的推進，可能提升市場信心，促使股票上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 344,
+                        "output_tokens": 51,
+                        "total_tokens": 395,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "4": {
+                    "response": "判斷結果: #no  \n你的理由: 同業競爭加劇（聯發科與高通的競爭），加上其他公司表現優異（如台積電與三星的對抗），可能導致市場份額縮減，進而影響公司評估。",
+                    "sig": -1,
+                    "token": {
+                        "input_tokens": 366,
+                        "output_tokens": 66,
+                        "total_tokens": 432,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "5": {
+                    "response": "判斷結果: yes  \n你的理由: 新產品和技術的推出吸引投資者關注，有助於提升市場信心，特別是在晶片及智慧城市的競爭中。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 340,
+                        "output_tokens": 46,
+                        "total_tokens": 386,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "6": {
+                    "response": "判斷結果: yes  \n你的理由: 聯發科與高通的競爭可能激發市場對科技股的熱情，加上立訊傳的訂單成長顯示產業前景良好，可能會推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 350,
+                        "output_tokens": 61,
+                        "total_tokens": 411,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "7": {
+                    "response": "判斷結果: yes  \n你的理由: 新聞中提到的聯發科與高通的競爭及台積電的技術優勢，可能推動股市信心上升，增加投資者對科技股的興趣，從而導致股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 348,
+                        "output_tokens": 67,
+                        "total_tokens": 415,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "8": {
+                    "response": "判斷結果: yes  \n你的理由: 內部重組和裁員可能提高公司運營效率，並增強市場對未來增長的信心，特別是在面對激烈競爭的情況下。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 358,
+                        "output_tokens": 53,
+                        "total_tokens": 411,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "9": {
+                    "response": "判斷結果: yes  \n你的理由: 由於手機晶片市場競爭激烈及相關公司如聯發科和台積電的發展潛力，可能吸引外資進場買超，進而提升市場流動性與股價。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 356,
+                        "output_tokens": 61,
+                        "total_tokens": 417,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "10": {
+                    "response": "判斷結果: yes  \n你的理由: 相關新聞顯示手機晶片市場競爭加劇及台灣新科技城發展，可能推動企業投資與增長，若央行維持低利率可能進一步提振市場信心。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 350,
+                        "output_tokens": 61,
+                        "total_tokens": 411,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "11": {
+                    "response": "判斷結果: yes  \n你的理由: 手機晶片競爭和台積電的技術優勢可能提升市場信心，而航運和代工需求增強有利於相關股票上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 362,
+                        "output_tokens": 49,
+                        "total_tokens": 411,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "12": {
+                    "response": "判斷結果: yes  \n你的理由: 聯發科與高通的競爭及台積電和三星的對抗顯示市場對於半導體產業的強勁期待，可能進一步推動相關股票上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 348,
+                        "output_tokens": 58,
+                        "total_tokens": 406,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "13": {
+                    "response": "判斷結果: yes  \n你的理由: 新的技術競爭和訂單增長預示著未來營運可能向好，提升企業信心，進而影響股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 340,
+                        "output_tokens": 48,
+                        "total_tokens": 388,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "14": {
+                    "response": "判斷結果: yes  \n你的理由: 手機晶片市場的競爭加劇以及台灣在智慧城市發展上的進展，可能會提高相關公司的股價和市場信心。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 352,
+                        "output_tokens": 45,
+                        "total_tokens": 397,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "15": {
+                    "response": "判斷結果: yes  \n你的理由: 聯發科與高通的競爭促進技術創新，增強企業永續發展潛力，提升投資者信心。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 364,
+                        "output_tokens": 46,
+                        "total_tokens": 410,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "16": {
+                    "response": "判斷結果: yes  \n你的理由: 股利政策與回購計畫能提升公司價值和吸引投資者，進一步推高股價。聯發科與高通的競爭局勢及台灣廠商設定擴廠計畫，均顯示出市場對未來成長的信心。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 362,
+                        "output_tokens": 78,
+                        "total_tokens": 440,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                }
+            }
+        },
+        "20220104": {
+            "skeleton": {
+                "1": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的徵才廣告顯示出對人力資源的需求增加，而ASML柏林廠的火警則可能導致競爭力增強，這些因素可視為市場利好。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 482,
+                        "output_tokens": 62,
+                        "total_tokens": 544,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "2": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電面臨缺工問題，顯示需求強勁，同時相關技術表現出色，預示未來營收持續增長。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 476,
+                        "output_tokens": 48,
+                        "total_tokens": 524,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "3": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電缺工情況及技術領先的消息提升市場樂觀情緒，可能促使資金回流並推高股價。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 494,
+                        "output_tokens": 44,
+                        "total_tokens": 538,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "4": {
+                    "response": "判斷結果: #no  \n你的理由: 競爭加劇和缺工問題可能影響台積電的生產能力及市場份額，且相關新聞顯示其他公司如ASML可能受到影響，對台積電產生負面壓力。",
+                    "sig": -1,
+                    "token": {
+                        "input_tokens": 516,
+                        "output_tokens": 64,
+                        "total_tokens": 580,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "5": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的技術持續創新和徵才廣告顯示出其未來增長潛力，可能吸引投資者關注並提振市場信心。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 490,
+                        "output_tokens": 54,
+                        "total_tokens": 544,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "6": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的人力需求和技術領先吸引市場關注，加上分析師對其基本面的樂觀預測，可能推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 500,
+                        "output_tokens": 48,
+                        "total_tokens": 548,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "7": {
+                    "response": "判斷結果: #no  \n你的理由: 台積電缺工以及供應鏈挑戰可能導致生產延遲，這對公司的股價構成負面影響。",
+                    "sig": -1,
+                    "token": {
+                        "input_tokens": 498,
+                        "output_tokens": 43,
+                        "total_tokens": 541,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "8": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的人才缺乏和徵才廣告顯示其業務需求強勁，市場對其增長潛力的信心可能導致股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 508,
+                        "output_tokens": 55,
+                        "total_tokens": 563,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "9": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電目前面臨缺工問題，可能推動人力成本上升同時反映出市場需求熱烈，從而引發市場資金的回流與外資買超。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 506,
+                        "output_tokens": 55,
+                        "total_tokens": 561,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "10": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電缺工問題使投資者對其未來增長潛力持樂觀態度，市場資金因此回流可能推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 500,
+                        "output_tokens": 50,
+                        "total_tokens": 550,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "11": {
+                    "response": "判斷結果: #yes  \n你的理由: 台積電面臨工人短缺和市場資金回流，顯示需求強勁，有潛力推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 512,
+                        "output_tokens": 47,
+                        "total_tokens": 559,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "12": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電面臨人力短缺與技術創新激勵市場對其未來發展的期待，加上相關合作與設備需求增加，可能推動股票上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 498,
+                        "output_tokens": 54,
+                        "total_tokens": 552,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "13": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電面臨人力資源短缺及設備需求增加的挑戰，市場信心可能因其解決方案和技術優勢而提升。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 490,
+                        "output_tokens": 47,
+                        "total_tokens": 537,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "14": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電面臨缺工問題可能影響生產力，但需求仍強勁，且火警事件可能補充市場供給，提升基本面，促使股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 502,
+                        "output_tokens": 55,
+                        "total_tokens": 557,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "15": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電雖面臨缺工問題，但強勁的技術創新和市場資金回流將提升投資者對其未來增長的信心。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 514,
+                        "output_tokens": 51,
+                        "total_tokens": 565,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "16": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的技術突破和人才招聘顯示出其增長潛力，可能吸引投資者增持，助推股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 512,
+                        "output_tokens": 48,
+                        "total_tokens": 560,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                }
+            }
+        },
+        "20220105": {
+            "skeleton": {
+                "1": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的股價因為高雄廠納入科學園區及行業利好預期而上漲，外部政策和環境改善都支持股價上行。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 513,
+                        "output_tokens": 54,
+                        "total_tokens": 567,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "2": {
+                    "response": "判斷結果: yes  \n請盡量不要回答unknown。你的理由: 台積電的高管招聘和進一步擴張顯示其未來成長潛力，並受到市場的正面預期。",
+                    "sig": 0,
+                    "token": {
+                        "input_tokens": 507,
+                        "output_tokens": 52,
+                        "total_tokens": 559,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "3": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電近期股價上漲，市場情緒樂觀，加上正面預測與業務擴展將推動股價進一步上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 525,
+                        "output_tokens": 48,
+                        "total_tokens": 573,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "4": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電近期股價上漲並有專家預測未來增長，加上高雄廠納入科學園區等消息，顯示出正面競爭環境和增長潛力。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 547,
+                        "output_tokens": 62,
+                        "total_tokens": 609,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "5": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電產品創新和高雄廠納入科學園區的消息可能提振市場信心，加上費城半導體指數上升，均有利於股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 521,
+                        "output_tokens": 57,
+                        "total_tokens": 578,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "6": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的近期漲幅和專家的正面預測會提振市場情緒，增加投資者信心，促進股價上升。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 531,
+                        "output_tokens": 46,
+                        "total_tokens": 577,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "7": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的股價因為市場對其未來成長的樂觀預期，以及供應鏈挑戰帶來的相對機會而上漲，特別是在行業指數突破和人才招募增強的背景下。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 529,
+                        "output_tokens": 66,
+                        "total_tokens": 595,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "8": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的股價上漲與風險偏好的提升，以及積極的招募政策和未來成長展望，使市場對其穩定性有信心。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 539,
+                        "output_tokens": 52,
+                        "total_tokens": 591,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "9": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電近期漲幅及專家預測表明市場對其前景樂觀，而外資動向與新廠建設等利好消息將激勵股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 537,
+                        "output_tokens": 56,
+                        "total_tokens": 593,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "10": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的持續成長、供應鏈利好消息及強勁的市場指數，都可能推動股價上漲，反映出正面的市場情緒。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 531,
+                        "output_tokens": 52,
+                        "total_tokens": 583,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "11": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電股價因高端廠房納入科學園區與供應鏈消息利好，並且整體半導體行業指數上漲，市場情緒向好。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 543,
+                        "output_tokens": 56,
+                        "total_tokens": 599,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "12": {
+                    "response": "判斷結果: yes  \n請盡量不要回答unknown。你的理由: 台積電近期股價上漲，並且整體市場對半導體行業的期待增強，加上高雄廠納入科學園區的利好消息，市場信心提升。",
+                    "sig": 0,
+                    "token": {
+                        "input_tokens": 529,
+                        "output_tokens": 65,
+                        "total_tokens": 594,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "13": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的股價因未來成長預期及供應鏈動向而受到推動，市場信心提升可能導致股票上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 521,
+                        "output_tokens": 46,
+                        "total_tokens": 567,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "14": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電近期的正面消息和預測，結合半導體市場的補漲動能，可能推動其股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 533,
+                        "output_tokens": 45,
+                        "total_tokens": 578,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "15": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的永續發展計劃與增招人力顯示其在環境和社會責任上的努力，提升了投資者信心，且股價走勢強勁。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 545,
+                        "output_tokens": 58,
+                        "total_tokens": 603,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "16": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的利好消息如股價上漲、工廠納入科學園區及年招募增員都會提升市場信心，增加投資者吸引力。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 543,
+                        "output_tokens": 54,
+                        "total_tokens": 597,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                }
+            }
+        },
+        "20220106": {
+            "skeleton": {
+                "1": {
+                    "response": "判斷結果: yes  \n我的理由: 台積電擴大投資及資本支出增加顯示出對未來的信心，並利好相關半導體股，有助於提升市場情緒和股價。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 473,
+                        "output_tokens": 54,
+                        "total_tokens": 527,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "2": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電擴大投資和資本支出增加通常被市場視為利好消息，有助於提升未來的營收預期。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 467,
+                        "output_tokens": 44,
+                        "total_tokens": 511,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "3": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的擴大投資及樂觀市場情緒將推動股價上漲，尤其是在半導體需求持續增長的背景下。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 485,
+                        "output_tokens": 48,
+                        "total_tokens": 533,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "4": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的擴大投資和資本支出增加顯示其增長潛力，且其他公司表現也未見明顯負面影響，可能提升市場信心導致股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 507,
+                        "output_tokens": 64,
+                        "total_tokens": 571,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "5": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的資本支出大幅增加和擴大投資的消息將吸引投資者，提升市場信心，有助於股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 481,
+                        "output_tokens": 49,
+                        "total_tokens": 530,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "6": {
+                    "response": "判斷結果: yes  \n你的理由: 分析師對台積電的樂觀預測及其擴大投資的消息，將刺激市場情緒，推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 491,
+                        "output_tokens": 46,
+                        "total_tokens": 537,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "7": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的擴大投資和資本支出大幅增加顯示公司前景看好，可能會推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 489,
+                        "output_tokens": 46,
+                        "total_tokens": 535,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "8": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的擴大投資及徵才計畫顯示其積極發展前景，市場可能對其長期穩定性抱有信心，從而推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 499,
+                        "output_tokens": 61,
+                        "total_tokens": 560,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "9": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的擴大投資及市場分析師的正面評價可能吸引外資買超，提升市場流動性並推高股價。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 497,
+                        "output_tokens": 47,
+                        "total_tokens": 544,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "10": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的資本支出大幅增加和擴大投資的消息，可能促進市場對半導體產業的信心，進而推升股價。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 491,
+                        "output_tokens": 51,
+                        "total_tokens": 542,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "11": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電擴大投資和資本支出大幅增長顯示出半導體行業的強勁需求，對相關股票形成正面影響，可能推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 503,
+                        "output_tokens": 60,
+                        "total_tokens": 563,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "12": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電擴大投資和策略聯盟的新聞通常提升市場對公司的信心，可能導致股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 489,
+                        "output_tokens": 41,
+                        "total_tokens": 530,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "13": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電大幅擴大資本支出和投資，可能提升市場信心，並促使股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 481,
+                        "output_tokens": 41,
+                        "total_tokens": 522,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "14": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的資本支出大幅增加及擴大投資的消息，顯示出公司未來成長潛力，可能刺激市場信心並推升股價。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 493,
+                        "output_tokens": 54,
+                        "total_tokens": 547,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "15": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的擴大投資和資本支出增加顯示其穩定的企業永續發展政策，可能提升投資者信心並推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 505,
+                        "output_tokens": 56,
+                        "total_tokens": 561,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "16": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的大規模資本支出和擴大投資可能提升市場對其未來成長的信心，進而吸引更多投資者，促進股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 503,
+                        "output_tokens": 56,
+                        "total_tokens": 559,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                }
+            }
+        },
+        "20220107": {
+            "skeleton": {
+                "1": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的漲停價和市場對其未來合作的看好，加上外部環境對半導體行業的支持，可能會推升股價。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 528,
+                        "output_tokens": 50,
+                        "total_tokens": 578,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "2": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電股價達漲停，且市場對其未來表現持樂觀態度，這可能吸引更多買家進一步推高股價。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 522,
+                        "output_tokens": 48,
+                        "total_tokens": 570,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "3": {
+                    "response": "判斷結果: yes  \n你的理由: 市場對於台積電的高漲情緒和巨額交易顯示投資者信心強烈，加上外界對其長期展望的看好，可能推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 540,
+                        "output_tokens": 60,
+                        "total_tokens": 600,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "4": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電在市場上表現優異且受關注，股價上漲可能受到投資者信心和市場需求的支持。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 562,
+                        "output_tokens": 43,
+                        "total_tokens": 605,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "5": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的產品創新與長期合作夥伴關係，有助於提升市場信心，吸引投資者。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 536,
+                        "output_tokens": 40,
+                        "total_tokens": 576,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "6": {
+                    "response": "判斷結果: yes  \n你的理由: 投資者情緒因漲停價和樂觀分析師預測而受到刺激，可能推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 546,
+                        "output_tokens": 40,
+                        "total_tokens": 586,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "7": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電獲得高度關注及投資者信心，市場對其前景看好，加上長期合作和擴廠計劃，可能助長股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 544,
+                        "output_tokens": 56,
+                        "total_tokens": 600,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "8": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電在市場上表現強勁，且有長期合作消息和擴廠計劃，這些利好因素提升了市場信心，降低了對內部重組的不安。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 554,
+                        "output_tokens": 58,
+                        "total_tokens": 612,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "9": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的漲停價表明市場情緒高漲，且外資買超及對未來前景的看好將推動股價上升。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 552,
+                        "output_tokens": 49,
+                        "total_tokens": 601,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "10": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的成交量和買入熱潮顯示市場對其前景樂觀，加上央行政策可能有利於資金成本，支持股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 546,
+                        "output_tokens": 51,
+                        "total_tokens": 597,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "11": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電漲停和市場對其長期前景的看好，顯示出市場對於半導體行業的信心，可能推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 558,
+                        "output_tokens": 53,
+                        "total_tokens": 611,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "12": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的漲停和與小螃蟹的長期合作消息，顯示市場對其未來發展的信心，可能推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 544,
+                        "output_tokens": 54,
+                        "total_tokens": 598,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "13": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的股價因大宗交易和市場信心高漲而達到漲停，顯示出投資者對其未來表現的樂觀預期，儘管有些新聞引發爭議，但並未直接影響法律與監管風險。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 536,
+                        "output_tokens": 78,
+                        "total_tokens": 614,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "14": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電股價漲停且有大量買盤，顯示市場對其未來發展信心，可能吸引更多投資者進場。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 548,
+                        "output_tokens": 47,
+                        "total_tokens": 595,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "15": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的漲停價格吸引了投資者的興趣，加上與中國市場的合作及市場領導地位，可能提升投資者信心。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 560,
+                        "output_tokens": 49,
+                        "total_tokens": 609,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "16": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的股價漲停和市場對其未來合作及成長潛力的樂觀預期，將吸引更多投資者，進而推高股價。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 558,
+                        "output_tokens": 53,
+                        "total_tokens": 611,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                }
+            }
+        },
+        "20220110": {
+            "skeleton": {
+                "1": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的計劃和新創公司的成就可能會促進投資者對半導體行業的信心，進而推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 360,
+                        "output_tokens": 50,
+                        "total_tokens": 410,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "2": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電在新聞中提到的關鍵技術進展和財報可能會提升市場信心，預期營收上升。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 354,
+                        "output_tokens": 42,
+                        "total_tokens": 396,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "3": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電在半導體領域的密謀可能暗示著未來增長，市場情緒樂觀，有助於推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 372,
+                        "output_tokens": 48,
+                        "total_tokens": 420,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "4": {
+                    "response": "判斷結果: #yes  \n你的理由: 台積電的新聞顯示其在核心技術上開始動作，可能增強市場競爭力，吸引投資者關注，進而推動股價上升。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 394,
+                        "output_tokens": 55,
+                        "total_tokens": 449,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "5": {
+                    "response": "判斷結果: #yes  \n你的理由: 台積電的潛在重大產品創新消息可能吸引投資者注意，提振市場信心，導致股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 368,
+                        "output_tokens": 45,
+                        "total_tokens": 413,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "6": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的潛在重大計畫會促進市場情緒，並可能提高分析師的樂觀預測，從而推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 378,
+                        "output_tokens": 48,
+                        "total_tokens": 426,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "7": {
+                    "response": "判斷結果: #no  \n你的理由: 台灣半導體的供應鏈挑戰可能影響台積電的生產，導致股價下跌。",
+                    "sig": -1,
+                    "token": {
+                        "input_tokens": 376,
+                        "output_tokens": 39,
+                        "total_tokens": 415,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "8": {
+                    "response": "判斷結果: no  \n你的理由: 內部重組與裁員可能引發市場對公司穩定性的擔憂，進而導致股價下跌。",
+                    "sig": -1,
+                    "token": {
+                        "input_tokens": 386,
+                        "output_tokens": 42,
+                        "total_tokens": 428,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "9": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電在半導體領域的重大消息可能吸引外資進場買入，加上美國財報利好，有助於提升市場流動性和股價。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 384,
+                        "output_tokens": 51,
+                        "total_tokens": 435,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "10": {
+                    "response": "判斷結果: #yes  \n你的理由: 台積電在半導體產業中的重要性可能推動市場對其的正面預期，加上新科技的亮點和成功案例，可能吸引資金流入，推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 378,
+                        "output_tokens": 61,
+                        "total_tokens": 439,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "11": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的關鍵技術進展可能刺激半導體股票上漲，尤其在業界景氣回暖時更增強投資者信心。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 390,
+                        "output_tokens": 48,
+                        "total_tokens": 438,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "12": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的併購與合作計畫可能提升市場對其未來發展的期待，推動股價上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 376,
+                        "output_tokens": 41,
+                        "total_tokens": 417,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "13": {
+                    "response": "判斷結果: #yes  \n你的理由: 台積電的新聞顯示其計畫擴大運營，這可能提振市場對該公司的信心，並促進相關股票上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 368,
+                        "output_tokens": 49,
+                        "total_tokens": 417,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "14": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的發展計畫以及財報出來對市場的影響可能促使投資者信心提升，導致股票上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 380,
+                        "output_tokens": 45,
+                        "total_tokens": 425,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "15": {
+                    "response": "判斷結果: yes  \n你的理由: 台積電的發展前景和創新能力有助於吸引投資者，提升總體投資信心，特別是在半導體需求持續增長的背景下。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 392,
+                        "output_tokens": 54,
+                        "total_tokens": 446,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                },
+                "16": {
+                    "response": "判斷結果: #yes  \n你的理由: 台積電的積極舉措可能提高市場信心，進而吸引更多投資者；同時，重磅財報也可能刺激科技股上漲。",
+                    "sig": 1,
+                    "token": {
+                        "input_tokens": 390,
+                        "output_tokens": 52,
+                        "total_tokens": 442,
+                        "input_token_details": {
+                            "audio": 0,
+                            "cache_read": 0
+                        },
+                        "output_token_details": {
+                            "audio": 0,
+                            "reasoning": 0
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
