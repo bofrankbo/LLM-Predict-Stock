@@ -73,21 +73,7 @@ class GeneticAlgorithm:
     def generate_population(self):
         population = []
         for _ in range(self.population_size):
-            # individual
             individual = [random.randint(0, 1) for _ in range(self.population_length)]
-            
-            # 前8個因子固定為1，其他隨機
-            # individual = [1, 1, 1, 1, 1, 1, 1, 1] + [random.randint(0, 1) for _ in range(self.population_length - 8)]
-            
-            # 32個因子，前8個隨機，第二個8個設成2進位的60，第三個8個設成2進位的60，最後8個設成2進位的128
-            # individual = [random.randint(0, 1) for _ in range(8)] + [int(i) for i in list(format(60, '08b'))] + [int(i) for i in list(format(60, '08b'))] + [int(i) for i in list(format(128, '08b'))]
-            
-            
-            # 前第 4, 7, 8 個元素固定為1，其他隨機
-            # individual[3] = 1
-            # individual[6] = 1
-            # individual[7] = 1
-        
             population.append(individual)
         return population
 
@@ -106,6 +92,7 @@ class GeneticAlgorithm:
         return score
 
     def selection(self, population):
+        """取 fitness 前 50% 的個體作為下一代的 parent """
         population.sort(key=lambda ind: self.fitness(ind), reverse=True)
         return population[:int(len(population)/2)]
 
@@ -153,13 +140,10 @@ class GeneticAlgorithm:
             self.save_generation_results(self.current_generation + 1, best_individual, best_fitness)
 
         # 從 state.json 中取得最佳個體
-        
         best_individual = max(self.individual_score, key=self.individual_score.get)
-        # best_individual = "[0, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1]"
         # switch to list, element to int
         best_fitness = self.individual_score[best_individual]
         list_best_individual = best_individual.replace("[", "").replace("]", "").replace(" ", "").split(",")
         list_best_individual = [int(i) for i in list_best_individual]
-        # print(list_best_individual)
         
         return list_best_individual
