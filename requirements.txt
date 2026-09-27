@@ -1,0 +1,26 @@
+# Core
+pandas
+numpy
+matplotlib
+joblib
+tqdm
+python-dateutil
+
+# LLM
+langchain
+langchain-core
+langchain-openai
+langchain-google-genai
+langchain-together
+scikit-learn
+
+# Crawler
+requests
+beautifulsoup4
+chardet
+selenium
+webdriver-manager
+nasdaq-data-link
+
+# Notebook
+jupyter
