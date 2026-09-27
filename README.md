@@ -27,7 +27,7 @@
 
 ## 📝 About
 
-This repository contains the research code for my master's thesis, *An Investment Model Built on Generative Pre-trained Transformers and Genetic Algorithms*.
+This repository contains the research code for my master's thesis, *An innovative hybrid investment model using large language models and genetic algorithms*.
 
 Traditional quantitative factors rely mostly on price and volume data and struggle to capture the **qualitative information** in news in a timely way. This research lets a Large Language Model (LLM) act as a "financial analyst":
 
